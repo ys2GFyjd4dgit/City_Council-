@@ -1,1 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tokyo municipal councillor profile",
+  "type": "object",
+  "required": ["氏名", "登録名", "よみ", "所属"],
+  "properties": {
+    "氏名":       { "type": "string" },
+    "登録名":     { "type": "string" },
+    "よみ":       { "type": "string" },
+    "X（旧Twitter）": { "type": ["string", "null"] },
+    "所属":       { "type": "string" },
+    "リンク":     { "type": ["string", "null"], "format": "uri" }
+  }
+}
 
