@@ -5,5 +5,5 @@
 ※data/raw には自治体ごとに日付を付けたサブフォルダを作成し、元ファイルをそのまま保存
 例：data/raw/小平市/20250515_source.html
 
-※data/processed に完成 JSON を配置
+※data/processed に成果物 JSON を配置
 命名規則：議員リスト_{自治体コード6桁}_{自治体名}.json
