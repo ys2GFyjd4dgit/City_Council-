@@ -1,6 +1,6 @@
  {
    "$schema": "http://json-schema.org/draft-07/schema#",
-   "title": "Tokyo municipal councillor profile (v1.1)",
+   "title": "Municipal councillor profile (v1.1)",
    "type": "object",
    "required": ["氏名", "登録名", "よみ", "所属"],
    "properties": {
