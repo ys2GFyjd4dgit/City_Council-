@@ -10,4 +10,5 @@
 
 ## Contributing
 1. Add a remote repository with `git remote add origin <URL>` if your local clone does not yet have one.
-2. Commit your changes, push them to a branch on the remote, and open a pull request on the hosting platform.
+2. Use clear commit messages that briefly summarize the change. For example, `Add official website field to 小平市 council list`.
+3. Commit your changes, push them to a branch on the remote, and open a pull request on the hosting platform.
