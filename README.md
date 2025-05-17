@@ -7,3 +7,7 @@
 
 ※data/processed に成果物 JSON を配置
 命名規則：議員リスト_{自治体コード6桁}_{自治体名}.json
+
+## Contributing
+1. Add a remote repository with `git remote add origin <URL>` if your local clone does not yet have one.
+2. Commit your changes, push them to a branch on the remote, and open a pull request on the hosting platform.
