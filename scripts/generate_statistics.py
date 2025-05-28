@@ -12,7 +12,9 @@ def generate_statistics_markdown():
     """統計情報のMarkdownを生成"""
     stats = defaultdict(lambda: {"total": 0, "with_x": 0, "parties": defaultdict(int)})
     
+    # 都道府県別ディレクトリに対応
     json_files = glob.glob("data/processed/*.json")
+    json_files.extend(glob.glob("data/processed/*/*.json"))
     
     for filepath in sorted(json_files):
         filename = filepath.split("/")[-1]

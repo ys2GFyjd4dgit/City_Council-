@@ -28,7 +28,10 @@ def main():
         print(f'Error loading schema: {e}')
         return 1
 
+    # 都道府県別ディレクトリに対応
     json_files = glob.glob(os.path.join(DATA_DIR, '*.json'))
+    json_files.extend(glob.glob(os.path.join(DATA_DIR, '*', '*.json')))
+    
     if not json_files:
         print('No JSON files found in processed data directory')
         return 1
