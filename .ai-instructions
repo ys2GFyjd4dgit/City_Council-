@@ -1,0 +1,40 @@
+# AI Instructions for City Council Repository
+
+## Project Type
+Municipal council member data collection and management
+
+## Key Tasks
+1. Collect council member data from official websites
+2. Create structured JSON files
+3. Search and verify X (Twitter) accounts
+4. Update README with statistics
+
+## Important Rules
+- Always create feature branches for changes
+- Use Japanese for commit messages
+- Follow exact JSON format in schema/
+- Verify data with validate_data.py
+- Create pull requests for all changes
+
+## File Naming
+- JSON: 議員リスト_{6-digit-code}_{municipality}.json
+- Raw HTML: data/raw/{municipality}/YYYYMMDD/source.html
+
+## Quick Commands
+```bash
+# New municipality
+git checkout -b add-{prefecture}-{city}
+mkdir -p data/raw/{city}/$(date +%Y%m%d)
+curl -s {url} -o data/raw/{city}/$(date +%Y%m%d)/source.html
+
+# Validate
+python scripts/validate_data.py
+
+# PR
+gh pr create
+```
+
+## References
+- docs/AI_GUIDE.md - Detailed AI guide
+- docs/DATA_FORMAT.md - JSON specifications
+- docs/MUNICIPALITY_CODES.md - Municipality codes
