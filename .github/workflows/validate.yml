@@ -1,0 +1,37 @@
+name: Validate Data
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Validate JSON files
+      run: |
+        python scripts/validate_data.py
+    
+    - name: Check data quality
+      run: |
+        python scripts/check_data_quality.py
+    
+    - name: Generate statistics
+      run: |
+        python scripts/generate_statistics.py > STATISTICS.md
+        
+    - name: Upload statistics
+      uses: actions/upload-artifact@v3
+      with:
+        name: statistics
+        path: STATISTICS.md

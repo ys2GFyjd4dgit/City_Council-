@@ -131,6 +131,29 @@ pytest
 2. Use clear commit messages that briefly summarize the change. For example, `Add official website field to 小平市 council list`.
 3. Commit your changes, push them to a branch on the remote, and open a pull request on the hosting platform.
 
+## クイックスタート
+
+### 必要なツール
+- Python 3.7以上
+- Git
+- Make（オプション）
+
+### よく使うコマンド
+
+```bash
+# データ検証
+make validate  # または python scripts/validate_data.py
+
+# 統計レポート生成
+make stats     # または python scripts/generate_statistics.py
+
+# データ品質チェック
+make quality   # または python scripts/check_data_quality.py
+
+# 新しい自治体を追加
+make add-city  # または python scripts/add_municipality.py
+```
+
 ## Tests
 
 If `pytest` is installed, run the test suite from the repository root:
