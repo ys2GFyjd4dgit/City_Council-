@@ -12,11 +12,13 @@
 City_Council-/
 ├── data/
 │   ├── raw/               # 元データ（HTMLファイル等）
-│   │   └── {市町村名}/    # 市町村ごとのディレクトリ
-│   │       └── YYYYMMDD/  # 取得日ごとのディレクトリ
-│   │           └── source.html
+│   │   └── {都道府県コード}_{都道府県名}/  # 都道府県ディレクトリ
+│   │       └── {市町村名}/    # 市町村ごとのディレクトリ
+│   │           └── YYYYMMDD/  # 取得日ごとのディレクトリ
+│   │               └── source.html
 │   └── processed/         # 加工済みデータ（JSONファイル）
-│       └── 議員リスト_{自治体コード}_{自治体名}.json
+│       └── {都道府県コード}_{都道府県名}/  # 都道府県ディレクトリ
+│           └── 議員リスト_{自治体コード}_{自治体名}.json
 ├── docs/                  # ドキュメント
 ├── scripts/               # 各種スクリプト
 ├── schema/                # JSONスキーマ定義
@@ -35,7 +37,11 @@ python scripts/add_municipality.py
 
 #### 1. ディレクトリの作成
 ```bash
-mkdir -p data/raw/{自治体名}/$(date +%Y%m%d)
+# 東京都の場合
+mkdir -p data/raw/13_東京都/{自治体名}/$(date +%Y%m%d)
+
+# 埼玉県の場合
+mkdir -p data/raw/11_埼玉県/{自治体名}/$(date +%Y%m%d)
 ```
 
 ### 2. HTMLデータの取得
@@ -45,7 +51,7 @@ curl -s "{公式サイトURL}" -o data/raw/{自治体名}/$(date +%Y%m%d)/source
 
 ### 3. JSONファイルの作成
 - ファイル名: `議員リスト_{自治体コード}_{自治体名}.json`
-- 保存先: `data/processed/`
+- 保存先: `data/processed/{都道府県コード}_{都道府県名}/`
 - フォーマット: 以下の形式に従う
 
 ```json

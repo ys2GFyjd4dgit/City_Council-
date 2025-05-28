@@ -27,7 +27,15 @@ def get_municipality_info():
 
 def create_directories(info):
     """必要なディレクトリを作成"""
-    raw_dir = f"data/raw/{info['municipality']}/{info['date']}"
+    # 都道府県コードからディレクトリ名を決定
+    prefecture_code = info['code'][:2]
+    prefecture_dirs = {
+        "13": "13_東京都",
+        "11": "11_埼玉県"
+    }
+    
+    prefecture_dir = prefecture_dirs.get(prefecture_code, f"{prefecture_code}_{info['prefecture']}")
+    raw_dir = f"data/raw/{prefecture_dir}/{info['municipality']}/{info['date']}"
     os.makedirs(raw_dir, exist_ok=True)
     print(f"✅ ディレクトリ作成: {raw_dir}")
     return raw_dir
@@ -52,7 +60,18 @@ def download_html(info, raw_dir):
 
 def create_json_template(info):
     """JSONテンプレートを作成"""
-    json_path = f"data/processed/議員リスト_{info['code']}_{info['municipality']}.json"
+    # 都道府県コードからディレクトリ名を決定
+    prefecture_code = info['code'][:2]
+    prefecture_dirs = {
+        "13": "13_東京都",
+        "11": "11_埼玉県"
+    }
+    
+    prefecture_dir = prefecture_dirs.get(prefecture_code, f"{prefecture_code}_{info['prefecture']}")
+    processed_dir = f"data/processed/{prefecture_dir}"
+    os.makedirs(processed_dir, exist_ok=True)
+    
+    json_path = f"{processed_dir}/議員リスト_{info['code']}_{info['municipality']}.json"
     
     template = [
         {
@@ -77,10 +96,19 @@ def create_json_template(info):
 
 def update_readme_template(info):
     """README更新用のテンプレートを表示"""
+    # 都道府県コードからディレクトリ名を決定
+    prefecture_code = info['code'][:2]
+    prefecture_dirs = {
+        "13": "13_東京都",
+        "11": "11_埼玉県"
+    }
+    
+    prefecture_dir = prefecture_dirs.get(prefecture_code, f"{prefecture_code}_{info['prefecture']}")
+    
     print("\n=== README.md 更新用テンプレート ===")
     print(f"| {info['municipality']} | {info['code']} | 未収集 | - | - | - | - |")
     print("\n後で以下の情報で更新してください:")
-    print(f"| {info['municipality']} | {info['code']} | 校正中 | XX | X | {datetime.now().strftime('%Y-%m-%d')} | [議員リスト](data/processed/議員リスト_{info['code']}_{info['municipality']}.json) |")
+    print(f"| {info['municipality']} | {info['code']} | 校正中 | XX | X | {datetime.now().strftime('%Y-%m-%d')} | [議員リスト](data/processed/{prefecture_dir}/議員リスト_{info['code']}_{info['municipality']}.json) |")
 
 def main():
     """メイン処理"""

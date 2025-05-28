@@ -13,7 +13,9 @@ def check_x_accounts():
     """Xアカウントの登録状況を分析"""
     stats = defaultdict(lambda: {"total": 0, "with_x": 0})
     
+    # 都道府県別ディレクトリに対応
     json_files = glob.glob("data/processed/*.json")
+    json_files.extend(glob.glob("data/processed/*/*.json"))
     for filepath in json_files:
         with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -34,6 +36,7 @@ def check_missing_data():
     
     # 空のJSONファイルをチェック
     json_files = glob.glob("data/processed/*.json")
+    json_files.extend(glob.glob("data/processed/*/*.json"))
     for filepath in json_files:
         with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -41,8 +44,23 @@ def check_missing_data():
             issues.append(f"空のデータ: {os.path.basename(filepath)}")
     
     # rawディレクトリで対応するprocessedがないものをチェック
-    raw_dirs = [d for d in os.listdir("data/raw") if os.path.isdir(f"data/raw/{d}")]
-    processed_files = [f.split("_")[2].replace(".json", "") for f in os.listdir("data/processed") if f.endswith(".json")]
+    # 都道府県別ディレクトリに対応
+    raw_dirs = []
+    for item in os.listdir("data/raw"):
+        item_path = os.path.join("data/raw", item)
+        if os.path.isdir(item_path):
+            if item.startswith(("11_", "13_")):  # 都道府県ディレクトリ
+                for subitem in os.listdir(item_path):
+                    if os.path.isdir(os.path.join(item_path, subitem)):
+                        raw_dirs.append(subitem)
+            else:
+                raw_dirs.append(item)
+    
+    processed_files = []
+    for f in glob.glob("data/processed/*.json"):
+        processed_files.append(os.path.basename(f).split("_")[2].replace(".json", ""))
+    for f in glob.glob("data/processed/*/*.json"):
+        processed_files.append(os.path.basename(f).split("_")[2].replace(".json", ""))
     
     for raw_dir in raw_dirs:
         if raw_dir not in processed_files:

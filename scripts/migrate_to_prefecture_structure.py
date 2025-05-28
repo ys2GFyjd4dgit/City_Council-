@@ -88,13 +88,16 @@ def update_readme_links():
 def main():
     """メイン処理"""
     print("都道府県別ディレクトリ構造への移行を開始します。")
-    print("※このスクリプトは実際のファイル移動をコメントアウトしています。")
-    print("※実行前に内容を確認し、必要に応じてコメントを解除してください。")
     
-    # 実際の移行を行う場合は以下のコメントを解除
-    # migrate_processed_files()
-    # migrate_raw_files()
-    # update_readme_links()
+    response = input("\n実行しますか？ (y/n): ")
+    if response.lower() != 'y':
+        print("キャンセルしました。")
+        return
+    
+    # ファイル移行を実行
+    migrate_processed_files()
+    migrate_raw_files()
+    update_readme_links()
     
     print("\n移行が完了しました。")
 
