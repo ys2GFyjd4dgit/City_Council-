@@ -1,7 +1,7 @@
-// 議員データ - 133086 （2025年05月29日更新）
+// 議員データ - 133086 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133086 = [
+window.municipalityMembers_133086 = [
     {
         "氏名": "榎戸雄一",
         "よみ": "えのきどゆういち",

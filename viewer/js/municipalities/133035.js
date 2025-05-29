@@ -1,7 +1,7 @@
-// 議員データ - 133035 （2025年05月29日更新）
+// 議員データ - 133035 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133035 = [
+window.municipalityMembers_133035 = [
     {
         "氏名": "浜﨑　崇",
         "よみ": "はまざき　たかし",

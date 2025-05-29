@@ -1,7 +1,7 @@
-// 議員データ - 132144 （2025年05月29日更新）
+// 議員データ - 132144 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132144 = [
+window.municipalityMembers_132144 = [
     {
         "氏名": "鈴木　ちひろ",
         "よみ": "すずき　ちひろ",

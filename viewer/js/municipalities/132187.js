@@ -1,7 +1,7 @@
-// 議員データ - 132187 （2025年05月29日更新）
+// 議員データ - 132187 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132187 = [
+window.municipalityMembers_132187 = [
     {
         "氏名": "佐藤　弘治",
         "よみ": "さとう　こうじ",

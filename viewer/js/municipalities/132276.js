@@ -1,7 +1,7 @@
-// 議員データ - 132276 （2025年05月29日更新）
+// 議員データ - 132276 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132276 = [
+window.municipalityMembers_132276 = [
     {
         "氏名": "林田　敦子",
         "よみ": "はやしだ　あつこ",

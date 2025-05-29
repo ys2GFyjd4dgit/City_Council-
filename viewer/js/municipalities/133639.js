@@ -1,7 +1,7 @@
-// 議員データ - 133639 （2025年05月29日更新）
+// 議員データ - 133639 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133639 = [
+window.municipalityMembers_133639 = [
     {
         "氏名": "富田浩章",
         "よみ": "とみたひろあき",

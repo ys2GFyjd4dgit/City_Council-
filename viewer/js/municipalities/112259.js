@@ -1,7 +1,7 @@
-// 議員データ - 112259 （2025年05月29日更新）
+// 議員データ - 112259 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_112259 = [
+window.municipalityMembers_112259 = [
     {
         "氏名": "安道　佳子",
         "よみ": "あんどう　よしこ",

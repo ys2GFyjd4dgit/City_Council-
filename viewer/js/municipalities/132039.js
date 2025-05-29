@@ -1,7 +1,7 @@
-// 議員データ - 132039 （2025年05月29日更新）
+// 議員データ - 132039 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132039 = [
+window.municipalityMembers_132039 = [
     {
         "氏名": "川名　ゆうじ",
         "よみ": "かわな ゆうじ",

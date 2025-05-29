@@ -1,7 +1,7 @@
-// 議員データ - 133612 （2025年05月29日更新）
+// 議員データ - 133612 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133612 = [
+window.municipalityMembers_133612 = [
     {
         "氏名": "中林一巳",
         "よみ": "なかばやしかずみ",

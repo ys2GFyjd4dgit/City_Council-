@@ -1,7 +1,7 @@
-// 議員データ - 134210 （2025年05月29日更新）
+// 議員データ - 134210 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_134210 = [
+window.municipalityMembers_134210 = [
     {
         "氏名": "池田望",
         "よみ": "いけだのぞむ",

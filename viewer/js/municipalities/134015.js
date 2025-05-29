@@ -1,7 +1,7 @@
-// 議員データ - 134015 （2025年05月29日更新）
+// 議員データ - 134015 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_134015 = [
+window.municipalityMembers_134015 = [
     {
         "氏名": "真田幸久",
         "よみ": "さなだゆきひさ",

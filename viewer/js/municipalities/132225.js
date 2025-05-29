@@ -1,7 +1,7 @@
-// 議員データ - 132225 （2025年05月29日更新）
+// 議員データ - 132225 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132225 = [
+window.municipalityMembers_132225 = [
     {
         "氏名": "三浦　猛",
         "よみ": "みうら たけし",

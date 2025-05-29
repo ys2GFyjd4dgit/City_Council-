@@ -1,7 +1,7 @@
-// 議員データ - 133621 （2025年05月29日更新）
+// 議員データ - 133621 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133621 = [
+window.municipalityMembers_133621 = [
     {
         "氏名": "加藤大樹",
         "よみ": "かとうひろき",

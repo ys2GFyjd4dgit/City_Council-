@@ -1,7 +1,7 @@
-// 議員データ - 132128 （2025年05月29日更新）
+// 議員データ - 132128 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132128 = [
+window.municipalityMembers_132128 = [
     {
         "氏名": "わたなべ　三枝",
         "よみ": "わたなべ　みつえ",

@@ -1,7 +1,7 @@
-// 議員データ - 132012 （2025年05月29日更新）
+// 議員データ - 132012 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132012 = [
+window.municipalityMembers_132012 = [
     {
         "氏名": "長谷川　順子",
         "よみ": "はせがわ じゅんこ",

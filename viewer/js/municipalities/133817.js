@@ -1,7 +1,7 @@
-// 議員データ - 133817 （2025年05月29日更新）
+// 議員データ - 133817 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133817 = [
+window.municipalityMembers_133817 = [
     {
         "氏名": "北川　博史",
         "よみ": "きたがわ　ひろし",

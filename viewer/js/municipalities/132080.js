@@ -1,7 +1,7 @@
-// 議員データ - 132080 （2025年05月29日更新）
+// 議員データ - 132080 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132080 = [
+window.municipalityMembers_132080 = [
     {
         "氏名": "小林　市之",
         "よみ": "こばやし いちの",

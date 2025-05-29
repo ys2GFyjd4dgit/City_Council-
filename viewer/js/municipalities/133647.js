@@ -1,7 +1,7 @@
-// 議員データ - 133647 （2025年05月29日更新）
+// 議員データ - 133647 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_133647 = [
+window.municipalityMembers_133647 = [
     {
         "氏名": "小林　正吾郎",
         "よみ": "こばやし　しょうごろう",

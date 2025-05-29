@@ -1,7 +1,7 @@
-// 議員データ - 132098 （2025年05月29日更新）
+// 議員データ - 132098 （2025年05月30日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_132098 = [
+window.municipalityMembers_132098 = [
     {
         "氏名": "秋田　しづか",
         "よみ": "あきた　しづか",
