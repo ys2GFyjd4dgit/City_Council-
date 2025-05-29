@@ -21,8 +21,8 @@ function displayMunicipalities() {
         if (munis.length > 0) {
             html += `<h3 style="grid-column: 1 / -1; margin-top: 20px;">${prefName}</h3>`;
             
-            // 自治体名でソート
-            munis.sort((a, b) => a.name.localeCompare(b.name, 'ja'));
+            // 行政コード順でソート
+            munis.sort((a, b) => a.code.localeCompare(b.code));
             
             html += munis.map(m => {
                 const percentage = m.count > 0 ? Math.round(m.xCount / m.count * 100) : 0;
