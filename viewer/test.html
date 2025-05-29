@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ビューアテスト</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .test-section {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .success { color: green; }
+        .error { color: red; }
+        pre {
+            background: #f5f5f5;
+            padding: 10px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>議員データビューアテスト</h1>
+    
+    <div class="test-section">
+        <h2>1. ディレクトリ構造確認</h2>
+        <p>現在のパス: <code id="current-path"></code></p>
+        <p>ビューアへのリンク:</p>
+        <ul>
+            <li><a href="index.html">index.html（市町村一覧）</a></li>
+            <li><a href="municipality.html?code=132012&name=八王子市">municipality.html（八王子市の例）</a></li>
+        </ul>
+    </div>
+    
+    <div class="test-section">
+        <h2>2. JSONファイル読み込みテスト</h2>
+        <div id="json-test-result"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>3. 最初のJSONデータ（八王子市）</h2>
+        <pre id="json-preview"></pre>
+    </div>
+    
+    <script>
+        // 現在のパスを表示
+        document.getElementById('current-path').textContent = window.location.pathname;
+        
+        // JSONファイル読み込みテスト
+        async function testJsonLoading() {
+            const testResult = document.getElementById('json-test-result');
+            const jsonPreview = document.getElementById('json-preview');
+            
+            try {
+                const response = await fetch('../data/processed/議員リスト_132012_八王子市.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    testResult.innerHTML = '<span class="success">✓ JSONファイルの読み込みに成功しました</span>';
+                    testResult.innerHTML += `<p>議員数: ${data.議員.length}名</p>`;
+                    
+                    // 最初の3人のデータを表示
+                    const preview = {
+                        市名: data.市名,
+                        議員_サンプル: data.議員.slice(0, 3)
+                    };
+                    jsonPreview.textContent = JSON.stringify(preview, null, 2);
+                } else {
+                    testResult.innerHTML = '<span class="error">✗ JSONファイルの読み込みに失敗しました</span>';
+                    testResult.innerHTML += `<p>ステータス: ${response.status}</p>`;
+                }
+            } catch (error) {
+                testResult.innerHTML = '<span class="error">✗ エラーが発生しました</span>';
+                testResult.innerHTML += `<p>${error.message}</p>`;
+            }
+        }
+        
+        // テスト実行
+        testJsonLoading();
+    </script>
+</body>
+</html>
