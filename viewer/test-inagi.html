@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>稲城市テスト</title>
+</head>
+<body>
+    <h1>稲城市データテスト</h1>
+    <div id="result"></div>
+    
+    <script>
+        // 稲城市のデータを直接読み込む
+        const script = document.createElement('script');
+        script.src = 'js/municipalities/132250.js';
+        
+        script.onload = function() {
+            console.log('Script loaded');
+            const result = document.getElementById('result');
+            
+            if (typeof municipalityMembers_132250 !== 'undefined') {
+                result.innerHTML = `
+                    <p>✅ データ読み込み成功</p>
+                    <p>議員数: ${municipalityMembers_132250.length}名</p>
+                    <pre>${JSON.stringify(municipalityMembers_132250[0], null, 2)}</pre>
+                `;
+            } else {
+                result.innerHTML = '<p>❌ データが見つかりません</p>';
+                console.log('Available globals:', Object.keys(window).filter(k => k.startsWith('municipality')));
+            }
+        };
+        
+        script.onerror = function(e) {
+            console.error('Script load error:', e);
+            document.getElementById('result').innerHTML = '<p>❌ スクリプト読み込みエラー</p>';
+        };
+        
+        document.head.appendChild(script);
+    </script>
+</body>
+</html>

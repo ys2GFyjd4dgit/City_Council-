@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>全自治体データテスト</title>
+    <style>
+        .success { color: green; }
+        .error { color: red; }
+        table { border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ccc; padding: 5px; }
+    </style>
+</head>
+<body>
+    <h1>全自治体データ読み込みテスト</h1>
+    <div id="loading">テスト中...</div>
+    <table id="results" style="display:none;">
+        <thead>
+            <tr>
+                <th>コード</th>
+                <th>自治体名</th>
+                <th>ファイル</th>
+                <th>状態</th>
+                <th>議員数</th>
+            </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+    
+    <script src="js/data.js"></script>
+    <script>
+        const tbody = document.getElementById('tbody');
+        let testCount = 0;
+        let successCount = 0;
+        
+        // 各自治体をテスト
+        Object.entries(municipalityData).forEach(([code, data]) => {
+            testCount++;
+            const row = document.createElement('tr');
+            
+            // テストスクリプトを作成
+            const script = document.createElement('script');
+            script.src = `js/municipalities/${code}.js`;
+            
+            script.onload = function() {
+                const varName = `municipalityMembers_${code}`;
+                if (window[varName] && Array.isArray(window[varName])) {
+                    successCount++;
+                    row.innerHTML = `
+                        <td>${code}</td>
+                        <td>${data.name}</td>
+                        <td>${script.src}</td>
+                        <td class="success">✅ 成功</td>
+                        <td>${window[varName].length}</td>
+                    `;
+                } else {
+                    row.innerHTML = `
+                        <td>${code}</td>
+                        <td>${data.name}</td>
+                        <td>${script.src}</td>
+                        <td class="error">❌ 変数なし</td>
+                        <td>-</td>
+                    `;
+                }
+                tbody.appendChild(row);
+                checkComplete();
+            };
+            
+            script.onerror = function() {
+                row.innerHTML = `
+                    <td>${code}</td>
+                    <td>${data.name}</td>
+                    <td>${script.src}</td>
+                    <td class="error">❌ 読込エラー</td>
+                    <td>-</td>
+                `;
+                tbody.appendChild(row);
+                checkComplete();
+            };
+            
+            document.head.appendChild(script);
+        });
+        
+        function checkComplete() {
+            if (tbody.children.length === testCount) {
+                document.getElementById('loading').innerHTML = 
+                    `テスト完了: ${successCount}/${testCount} 成功`;
+                document.getElementById('results').style.display = 'table';
+            }
+        }
+    </script>
+</body>
+</html>
