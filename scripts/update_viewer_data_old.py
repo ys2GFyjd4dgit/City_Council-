@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-HTMLビューア用のデータファイル(data.js)と各自治体の詳細データを自動生成するスクリプト
+HTMLビューア用のデータファイル(data.js)を自動生成するスクリプト
 JSONファイルから議員数とX登録数を集計し、JavaScriptファイルを生成する
 """
 
@@ -30,48 +30,6 @@ def count_x_accounts(members):
     """X登録数をカウント"""
     return sum(1 for member in members if member.get('X（旧Twitter）') and member['X（旧Twitter）'] != 'null')
 
-def escape_js_string(s):
-    """JavaScript文字列用にエスケープ"""
-    if s is None:
-        return 'null'
-    return json.dumps(s, ensure_ascii=False)
-
-def generate_municipality_js(output_path, code, members):
-    """各自治体の詳細データJSファイルを生成"""
-    
-    js_content = f"""// 議員データ - {code} （{datetime.now().strftime('%Y年%m月%d日')}更新）
-// このファイルは scripts/update_viewer_data.py により自動生成されます
-
-const municipalityMembers_{code} = [
-"""
-    
-    # 議員データを追加
-    member_entries = []
-    for member in members:
-        x_account = member.get('X（旧Twitter）')
-        if x_account and x_account != 'null':
-            x_value = escape_js_string(x_account)
-        else:
-            x_value = 'null'
-            
-        entry = f"""    {{
-        "氏名": {escape_js_string(member.get('氏名', ''))},
-        "よみ": {escape_js_string(member.get('よみ', ''))},
-        "所属": {escape_js_string(member.get('所属', '無所属'))},
-        "X（旧Twitter）": {x_value}
-    }}"""
-        member_entries.append(entry)
-    
-    js_content += ",\n".join(member_entries)
-    js_content += "\n];\n"
-    
-    # ディレクトリを作成
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    
-    # ファイルに書き込み
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(js_content)
-
 def generate_data_js(output_path, municipality_data):
     """data.jsファイルを生成"""
     
@@ -98,14 +56,34 @@ const municipalityData = {{
     
     print(f"Generated: {output_path}")
 
+def generate_municipality_js(output_dir, code, members):
+    """個別の自治体用JSファイルを生成"""
+    
+    # 出力ディレクトリを作成
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # JavaScriptコードを生成
+    js_content = f"""// 議員データ（{datetime.now().strftime('%Y年%m月%d日')}更新）
+// このファイルは scripts/update_viewer_data.py により自動生成されます
+// 手動で編集しないでください
+
+const councillorsData = {json.dumps(members, ensure_ascii=False, indent=2)};
+"""
+    
+    # ファイルに書き込み
+    output_path = output_dir / f"{code}.js"
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(js_content)
+    
+    return output_path
+
 def main():
     # プロジェクトのルートディレクトリを取得
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
     data_dir = project_root / "data" / "processed"
-    viewer_dir = project_root / "viewer"
-    output_path = viewer_dir / "js" / "data.js"
-    municipalities_dir = viewer_dir / "js" / "municipalities"
+    output_path = project_root / "viewer" / "js" / "data.js"
+    municipalities_dir = project_root / "viewer" / "js" / "municipalities"
     
     # 都道府県マップ
     prefecture_map = {
@@ -114,6 +92,7 @@ def main():
     }
     
     municipality_data = {}
+    municipality_members = {}  # 各自治体の議員データを保存
     total_municipalities = 0
     total_members = 0
     total_x_accounts = 0
@@ -154,9 +133,8 @@ def main():
                     'xCount': x_account_count
                 }
                 
-                # 各自治体の詳細データファイルを生成
-                municipality_js_path = municipalities_dir / f"{code}.js"
-                generate_municipality_js(municipality_js_path, code, members)
+                # 議員データも保存
+                municipality_members[code] = members
                 
                 # 統計を更新
                 total_municipalities += 1
@@ -170,6 +148,12 @@ def main():
     
     # data.jsを生成
     generate_data_js(output_path, municipality_data)
+    
+    # 各自治体のJSファイルを生成
+    print("\n個別自治体JSファイル生成中...")
+    for code, members in municipality_members.items():
+        municipality_js_path = generate_municipality_js(municipalities_dir, code, members)
+        print(f"Generated: {municipality_js_path}")
     
     # 統計情報を表示
     print("\n" + "="*50)

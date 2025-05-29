@@ -20,56 +20,47 @@ async function initialize() {
     document.getElementById('municipality-name').textContent = `${municipalityName} 議会議員一覧`;
     document.title = `${municipalityName} 議会議員一覧`;
     
-    // Load data
-    await loadCouncillorData();
-    
-    // Set up event listeners
-    setupEventListeners();
+    // Load static data
+    loadStaticData();
 }
 
 // Load councillor data from static JS file
-async function loadCouncillorData() {
-    try {
-        // Create a script element to load the municipality data
-        const script = document.createElement('script');
-        script.src = `js/municipalities/${municipalityCode}.js`;
-        
-        // Create a promise to handle the loading
-        const loadPromise = new Promise((resolve, reject) => {
-            script.onload = () => {
-                if (typeof councillorsData !== 'undefined') {
-                    // The loaded script should define councillorsData
-                    filteredData = [...councillorsData];
-                    
-                    // Populate party filter
-                    populatePartyFilter();
-                    
-                    // Initial render
-                    renderTable();
-                    updateStats();
-                    
-                    resolve();
-                } else {
-                    reject(new Error('Data not loaded properly'));
-                }
-            };
+function loadStaticData() {
+    // 静的データファイルを動的に読み込む
+    const script = document.createElement('script');
+    script.src = `js/municipalities/${municipalityCode}.js`;
+    
+    script.onload = function() {
+        // グローバル変数から議員データを取得
+        const memberVariable = `municipalityMembers_${municipalityCode}`;
+        if (window[memberVariable]) {
+            councillorsData = window[memberVariable];
+            filteredData = [...councillorsData];
             
-            script.onerror = () => {
-                reject(new Error('Failed to load data'));
-            };
-        });
-        
-        // Append the script to the document
-        document.head.appendChild(script);
-        
-        // Wait for the script to load
-        await loadPromise;
-        
-    } catch (error) {
-        console.error('Error loading data:', error);
-        document.getElementById('councillor-tbody').innerHTML = 
-            '<tr><td colspan="4" style="text-align: center;">データの読み込みに失敗しました。</td></tr>';
-    }
+            // Populate party filter
+            populatePartyFilter();
+            
+            // Initial render
+            renderTable();
+            updateStats();
+            
+            // Set up event listeners
+            setupEventListeners();
+        } else {
+            showError();
+        }
+    };
+    
+    script.onerror = function() {
+        showError();
+    };
+    
+    document.head.appendChild(script);
+}
+
+function showError() {
+    document.getElementById('councillor-tbody').innerHTML = 
+        '<tr><td colspan="4" style="text-align: center;">データの読み込みに失敗しました。</td></tr>';
 }
 
 // Populate party filter dropdown
