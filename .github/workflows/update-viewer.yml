@@ -15,34 +15,34 @@ name: Update HTML Viewer Data
       runs-on: ubuntu-latest
 
       steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        - name: Checkout repository
+          uses: actions/checkout@v3
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+        - name: Set up Python
+          uses: actions/setup-python@v4
+          with:
+            python-version: '3.9'
 
-      - name: Update viewer data
-        run: |
-          python scripts/update_viewer_data.py
+        - name: Update viewer data
+          run: |
+            python scripts/update_viewer_data.py
 
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
+        - name: Check for changes
+          id: changes
+          run: |
+            if git diff --quiet; then
+              echo "changed=false" >> $GITHUB_OUTPUT
+            else
+              echo "changed=true" >> $GITHUB_OUTPUT
+            fi
 
-      - name: Commit and push if changed
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add viewer/js/data.js
-          git commit -m "🤖 HTMLビューアのデータを自動更新"
-          git push
+        - name: Commit and push if changed
+          if: steps.changes.outputs.changed == 'true'
+          run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add viewer/js/data.js
+            git commit -m "🤖 HTMLビューアのデータを自動更新"
+            git push
