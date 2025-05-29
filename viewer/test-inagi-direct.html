@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>稲城市直接アクセステスト</title>
+</head>
+<body>
+    <h1>稲城市データ直接アクセステスト</h1>
+    
+    <h2>テスト1: 直接リンク</h2>
+    <a href="municipality.html?code=132250&name=稲城市&prefecture=13_東京都">日本語パラメータ</a><br>
+    <a href="municipality.html?code=132250&name=%E7%A8%B2%E5%9F%8E%E5%B8%82&prefecture=13_%E6%9D%B1%E4%BA%AC%E9%83%BD">エンコード済みパラメータ</a>
+    
+    <h2>テスト2: JavaScriptでのデコード確認</h2>
+    <div id="decode-test"></div>
+    
+    <h2>テスト3: データファイル直接読み込み</h2>
+    <div id="data-test"></div>
+    
+    <script>
+        // URLパラメータのデコードテスト
+        const params1 = new URLSearchParams('?code=132250&name=稲城市&prefecture=13_東京都');
+        const params2 = new URLSearchParams('?code=132250&name=%E7%A8%B2%E5%9F%8E%E5%B8%82&prefecture=13_%E6%9D%B1%E4%BA%AC%E9%83%BD');
+        
+        document.getElementById('decode-test').innerHTML = `
+            <p>直接指定: code=${params1.get('code')}, name=${params1.get('name')}</p>
+            <p>エンコード済み: code=${params2.get('code')}, name=${params2.get('name')}</p>
+        `;
+        
+        // データファイル読み込みテスト
+        const script = document.createElement('script');
+        script.src = 'js/municipalities/132250.js';
+        script.onload = function() {
+            const result = document.getElementById('data-test');
+            if (typeof municipalityMembers_132250 !== 'undefined') {
+                result.innerHTML = `<p>✅ データ読み込み成功: ${municipalityMembers_132250.length}名</p>`;
+            } else {
+                result.innerHTML = '<p>❌ データが見つかりません</p>';
+            }
+        };
+        script.onerror = function() {
+            document.getElementById('data-test').innerHTML = '<p>❌ スクリプト読み込みエラー</p>';
+        };
+        document.head.appendChild(script);
+    </script>
+</body>
+</html></content>

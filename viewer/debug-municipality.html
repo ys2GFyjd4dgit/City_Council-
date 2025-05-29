@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>デバッグ - 市議会議員一覧</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .debug-panel {
+            background: #f0f0f0;
+            padding: 20px;
+            margin: 20px 0;
+            border: 2px solid #333;
+        }
+        .debug-log {
+            background: #fff;
+            padding: 10px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="municipality-name">市議会議員一覧</h1>
+            <nav>
+                <a href="index.html">← 市町村一覧に戻る</a>
+            </nav>
+        </header>
+        
+        <div class="debug-panel">
+            <h2>デバッグ情報</h2>
+            <div id="debug-info" class="debug-log"></div>
+        </div>
+        
+        <main>
+            <div class="controls">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="議員名で検索...">
+                </div>
+                <div class="filter-box">
+                    <label for="party-filter">政党・会派で絞り込み:</label>
+                    <select id="party-filter">
+                        <option value="">すべて</option>
+                    </select>
+                </div>
+                <div class="stats">
+                    <span id="total-count">総数: 0名</span>
+                    <span id="x-account-count">X保有: 0名</span>
+                </div>
+            </div>
+            
+            <div class="table-container">
+                <table id="councillor-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="name" class="sortable">議員名 <span class="sort-icon">▼</span></th>
+                            <th data-sort="ruby" class="sortable">ふりがな <span class="sort-icon">▼</span></th>
+                            <th data-sort="party" class="sortable">政党・会派 <span class="sort-icon">▼</span></th>
+                            <th data-sort="x_account" class="sortable">X (旧Twitter) <span class="sort-icon">▼</span></th>
+                        </tr>
+                    </thead>
+                    <tbody id="councillor-tbody">
+                        <!-- JavaScript will populate this -->
+                    </tbody>
+                </table>
+            </div>
+            
+            <div id="no-results" style="display: none;">
+                <p>検索条件に一致する議員が見つかりませんでした。</p>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2025 市議会議員データビューア</p>
+        </footer>
+    </div>
+    
+    <script>
+        // デバッグログ関数
+        const debugLog = (message) => {
+            const debugDiv = document.getElementById('debug-info');
+            const timestamp = new Date().toISOString().split('T')[1].split('.')[0];
+            debugDiv.innerHTML += `[${timestamp}] ${message}<br>`;
+            console.log(`[DEBUG] ${message}`);
+        };
+
+        // URLパラメータ取得
+        debugLog('Starting initialization...');
+        const urlParams = new URLSearchParams(window.location.search);
+        const municipalityCode = urlParams.get('code');
+        const municipalityName = urlParams.get('name');
+        const prefecture = urlParams.get('prefecture');
+
+        debugLog(`URL Parameters: code=${municipalityCode}, name=${municipalityName}, prefecture=${prefecture}`);
+        debugLog(`Current URL: ${window.location.href}`);
+        debugLog(`Search params: ${window.location.search}`);
+
+        // State variables
+        let councillorsData = [];
+        let filteredData = [];
+        let currentSort = { field: 'name', ascending: true };
+
+        // Initialize the page
+        async function initialize() {
+            debugLog('Initialize function called');
+            
+            if (!municipalityCode || !municipalityName) {
+                debugLog('ERROR: Missing required parameters');
+                debugLog(`code: ${municipalityCode}, name: ${municipalityName}`);
+                // Don't redirect in debug mode
+                document.getElementById('councillor-tbody').innerHTML = 
+                    '<tr><td colspan="4" style="text-align: center; color: red;">必須パラメータが不足しています</td></tr>';
+                return;
+            }
+            
+            // Set page title
+            document.getElementById('municipality-name').textContent = `${municipalityName} 議会議員一覧`;
+            document.title = `${municipalityName} 議会議員一覧`;
+            debugLog('Page title set');
+            
+            // Load static data
+            loadStaticData();
+        }
+
+        // Load councillor data from static JS file
+        function loadStaticData() {
+            debugLog('loadStaticData function called');
+            
+            const script = document.createElement('script');
+            script.src = `js/municipalities/${municipalityCode}.js`;
+            
+            debugLog(`Loading script: ${script.src}`);
+            debugLog(`Full script URL: ${new URL(script.src, window.location.href).href}`);
+            
+            script.onload = function() {
+                debugLog('Script loaded successfully');
+                
+                const memberVariable = `municipalityMembers_${municipalityCode}`;
+                debugLog(`Looking for variable: ${memberVariable}`);
+                
+                // Check if variable exists
+                if (memberVariable in window) {
+                    debugLog(`Variable found: ${memberVariable}`);
+                    councillorsData = window[memberVariable];
+                    filteredData = [...councillorsData];
+                    debugLog(`Data loaded: ${councillorsData.length} members`);
+                    
+                    // Populate party filter
+                    populatePartyFilter();
+                    
+                    // Initial render
+                    renderTable();
+                    updateStats();
+                    
+                    // Set up event listeners
+                    setupEventListeners();
+                } else {
+                    debugLog(`ERROR: Variable not found: ${memberVariable}`);
+                    const municipalityVars = Object.keys(window).filter(k => k.startsWith('municipality'));
+                    debugLog(`Available municipality variables: ${municipalityVars.join(', ')}`);
+                    showError();
+                }
+            };
+            
+            script.onerror = function(e) {
+                debugLog(`ERROR: Script load failed`);
+                debugLog(`Error details: ${JSON.stringify(e)}`);
+                showError();
+            };
+            
+            document.head.appendChild(script);
+            debugLog('Script element added to head');
+        }
+
+        function showError() {
+            debugLog('showError function called');
+            document.getElementById('councillor-tbody').innerHTML = 
+                '<tr><td colspan="4" style="text-align: center;">データの読み込みに失敗しました。</td></tr>';
+        }
+
+        // Populate party filter dropdown
+        function populatePartyFilter() {
+            debugLog('populatePartyFilter function called');
+            const parties = [...new Set(councillorsData.map(c => c['所属']))].sort();
+            const select = document.getElementById('party-filter');
+            
+            select.innerHTML = '<option value="">すべて</option>';
+            parties.forEach(party => {
+                const option = document.createElement('option');
+                option.value = party;
+                option.textContent = party;
+                select.appendChild(option);
+            });
+            debugLog(`Party filter populated with ${parties.length} parties`);
+        }
+
+        // Setup event listeners
+        function setupEventListeners() {
+            debugLog('setupEventListeners function called');
+            
+            // Search input
+            document.getElementById('search-input').addEventListener('input', filterData);
+            
+            // Party filter
+            document.getElementById('party-filter').addEventListener('change', filterData);
+            
+            // Sort headers
+            document.querySelectorAll('th.sortable').forEach(th => {
+                th.addEventListener('click', () => {
+                    const field = th.dataset.sort;
+                    sortData(field);
+                });
+            });
+            debugLog('Event listeners set up');
+        }
+
+        // Filter data based on search and party selection
+        function filterData() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const selectedParty = document.getElementById('party-filter').value;
+            
+            filteredData = councillorsData.filter(councillor => {
+                const matchesSearch = !searchTerm || 
+                    councillor['氏名'].toLowerCase().includes(searchTerm) ||
+                    (councillor['よみ'] && councillor['よみ'].toLowerCase().includes(searchTerm));
+                
+                const matchesParty = !selectedParty || councillor['所属'] === selectedParty;
+                
+                return matchesSearch && matchesParty;
+            });
+            
+            renderTable();
+            updateStats();
+        }
+
+        // Sort data by field
+        function sortData(field) {
+            // Toggle sort direction if same field
+            if (currentSort.field === field) {
+                currentSort.ascending = !currentSort.ascending;
+            } else {
+                currentSort.field = field;
+                currentSort.ascending = true;
+            }
+            
+            // Update sort icons
+            document.querySelectorAll('th.sortable').forEach(th => {
+                th.classList.remove('sort-asc', 'sort-desc');
+                if (th.dataset.sort === field) {
+                    th.classList.add(currentSort.ascending ? 'sort-asc' : 'sort-desc');
+                }
+            });
+            
+            // Sort the data
+            filteredData.sort((a, b) => {
+                let aVal, bVal;
+                
+                switch(field) {
+                    case 'name':
+                        aVal = a['氏名'];
+                        bVal = b['氏名'];
+                        break;
+                    case 'ruby':
+                        aVal = a['よみ'] || '';
+                        bVal = b['よみ'] || '';
+                        break;
+                    case 'party':
+                        aVal = a['所属'];
+                        bVal = b['所属'];
+                        break;
+                    case 'x_account':
+                        aVal = a['X（旧Twitter）'] ? '1' : '0';
+                        bVal = b['X（旧Twitter）'] ? '1' : '0';
+                        break;
+                }
+                
+                if (aVal < bVal) return currentSort.ascending ? -1 : 1;
+                if (aVal > bVal) return currentSort.ascending ? 1 : -1;
+                return 0;
+            });
+            
+            renderTable();
+        }
+
+        // Render the table
+        function renderTable() {
+            debugLog(`renderTable called with ${filteredData.length} items`);
+            const tbody = document.getElementById('councillor-tbody');
+            const noResults = document.getElementById('no-results');
+            
+            if (filteredData.length === 0) {
+                tbody.innerHTML = '';
+                noResults.style.display = 'block';
+                return;
+            }
+            
+            noResults.style.display = 'none';
+            
+            tbody.innerHTML = filteredData.map(councillor => {
+                const xAccountCell = councillor['X（旧Twitter）'] 
+                    ? `<a href="${councillor['X（旧Twitter）']}" target="_blank" rel="noopener noreferrer">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                        </svg>
+                       </a>`
+                    : '-';
+                
+                return `
+                    <tr>
+                        <td>${councillor['氏名']}</td>
+                        <td>${councillor['よみ'] || '-'}</td>
+                        <td>${councillor['所属']}</td>
+                        <td class="x-cell">${xAccountCell}</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        // Update statistics
+        function updateStats() {
+            const totalCount = filteredData.length;
+            const xAccountCount = filteredData.filter(c => c['X（旧Twitter）']).length;
+            
+            document.getElementById('total-count').textContent = `総数: ${totalCount}名`;
+            document.getElementById('x-account-count').textContent = `X保有: ${xAccountCount}名`;
+            debugLog(`Stats updated: ${totalCount} total, ${xAccountCount} with X`);
+        }
+
+        // Initialize when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            debugLog('DOMContentLoaded event fired');
+            initialize();
+        });
+    </script>
+</body>
+</html></content>
