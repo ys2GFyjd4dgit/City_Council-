@@ -1,5 +1,5 @@
 // 議員データ - 132063 （2025年05月29日更新）
-// このファイルは scripts/update_viewer_data_v2.py により自動生成されます
+// このファイルは scripts/update_viewer_data.py により自動生成されます
 
 const municipalityMembers_132063 = [
     {

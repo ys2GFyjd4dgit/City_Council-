@@ -11,13 +11,16 @@ let currentSort = { field: 'name', ascending: true };
 
 // Initialize the page
 async function initialize() {
-    console.log('URL params:', { municipalityCode, municipalityName, prefecture });
-    
     if (!municipalityCode || !municipalityName) {
-        console.error('Missing required parameters');
         window.location.href = 'index.html';
         return;
     }
+    
+    console.log('Initializing municipality page:', {
+        code: municipalityCode,
+        name: municipalityName,
+        prefecture: prefecture
+    });
     
     // Set page title
     document.getElementById('municipality-name').textContent = `${municipalityName} 議会議員一覧`;
@@ -37,14 +40,16 @@ function loadStaticData() {
     
     script.onload = function() {
         console.log('Script loaded successfully');
+        
         // グローバル変数から議員データを取得
         const memberVariable = `municipalityMembers_${municipalityCode}`;
         console.log('Looking for variable:', memberVariable);
-        console.log('Variable exists:', memberVariable in window);
+        console.log('Available in window:', Object.keys(window).filter(key => key.startsWith('municipalityMembers_')));
         
         if (window[memberVariable]) {
             councillorsData = window[memberVariable];
             filteredData = [...councillorsData];
+            
             console.log('Data loaded:', councillorsData.length, 'members');
             
             // Populate party filter
@@ -58,13 +63,12 @@ function loadStaticData() {
             setupEventListeners();
         } else {
             console.error('Variable not found:', memberVariable);
-            console.log('Available variables:', Object.keys(window).filter(k => k.startsWith('municipality')));
             showError();
         }
     };
     
-    script.onerror = function(e) {
-        console.error('Script load error:', e);
+    script.onerror = function(error) {
+        console.error('Failed to load script:', error);
         showError();
     };
     
@@ -72,7 +76,6 @@ function loadStaticData() {
 }
 
 function showError() {
-    console.error('Showing error message');
     document.getElementById('councillor-tbody').innerHTML = 
         '<tr><td colspan="4" style="text-align: center;">データの読み込みに失敗しました。</td></tr>';
 }
