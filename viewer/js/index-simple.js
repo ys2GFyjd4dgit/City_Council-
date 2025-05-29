@@ -27,11 +27,11 @@ function displayMunicipalities() {
             html += munis.map(m => {
                 const percentage = m.count > 0 ? Math.round(m.xCount / m.count * 100) : 0;
                 return `
-                    <div class="municipality-card" style="cursor: pointer;" onclick="alert('${m.name}の詳細ページは準備中です')">
+                    <a href="municipality.html?code=${m.code}&name=${encodeURIComponent(m.name)}&prefecture=${encodeURIComponent(m.prefecture)}" class="municipality-card">
                         <h4>${m.name}</h4>
                         <div class="councillor-count">議員数: ${m.count}名</div>
                         <div class="x-count">X登録: ${m.xCount}名 (${percentage}%)</div>
-                    </div>
+                    </a>
                 `;
             }).join('');
         }
