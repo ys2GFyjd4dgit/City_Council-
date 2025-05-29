@@ -1,0 +1,49 @@
+// 議員データ（2025年5月29日現在）
+const municipalityData = {
+    // 東京都
+    '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 5 },
+    '132021': { name: '立川市', prefecture: '13_東京都', count: 24, xCount: 8 },
+    '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
+    '132047': { name: '三鷹市', prefecture: '13_東京都', count: 28, xCount: 5 },
+    '132055': { name: '青梅市', prefecture: '13_東京都', count: 24, xCount: 2 },
+    '132063': { name: '府中市', prefecture: '13_東京都', count: 29, xCount: 4 },
+    '132071': { name: '昭島市', prefecture: '13_東京都', count: 22, xCount: 9 },
+    '132080': { name: '調布市', prefecture: '13_東京都', count: 28, xCount: 5 },
+    '132098': { name: '町田市', prefecture: '13_東京都', count: 33, xCount: 16 },
+    '132101': { name: '小金井市', prefecture: '13_東京都', count: 24, xCount: 8 },
+    '132110': { name: '小平市', prefecture: '13_東京都', count: 27, xCount: 14 },
+    '132128': { name: '日野市', prefecture: '13_東京都', count: 23, xCount: 8 },
+    '132136': { name: '東村山市', prefecture: '13_東京都', count: 24, xCount: 5 },
+    '132144': { name: '国分寺市', prefecture: '13_東京都', count: 20, xCount: 5 },
+    '132152': { name: '国立市', prefecture: '13_東京都', count: 21, xCount: 1 },
+    '132187': { name: '福生市', prefecture: '13_東京都', count: 18, xCount: 0 },
+    '132195': { name: '狛江市', prefecture: '13_東京都', count: 22, xCount: 2 },
+    '132209': { name: '東大和市', prefecture: '13_東京都', count: 21, xCount: 4 },
+    '132217': { name: '清瀬市', prefecture: '13_東京都', count: 20, xCount: 5 },
+    '132225': { name: '東久留米市', prefecture: '13_東京都', count: 21, xCount: 6 },
+    '132233': { name: '武蔵村山市', prefecture: '13_東京都', count: 20, xCount: 10 },
+    '132241': { name: '多摩市', prefecture: '13_東京都', count: 23, xCount: 0 },
+    '132250': { name: '稲城市', prefecture: '13_東京都', count: 22, xCount: 0 },
+    '132276': { name: '羽村市', prefecture: '13_東京都', count: 18, xCount: 0 },
+    '132284': { name: 'あきる野市', prefecture: '13_東京都', count: 21, xCount: 2 },
+    '132292': { name: '西東京市', prefecture: '13_東京都', count: 28, xCount: 1 },
+    
+    // 東京都町村
+    '133035': { name: '瑞穂町', prefecture: '13_東京都', count: 15, xCount: 0 },
+    '133051': { name: '日の出町', prefecture: '13_東京都', count: 14, xCount: 0 },
+    '133078': { name: '檜原村', prefecture: '13_東京都', count: 8, xCount: 0 },
+    '133086': { name: '奥多摩町', prefecture: '13_東京都', count: 10, xCount: 0 },
+    '133612': { name: '大島町', prefecture: '13_東京都', count: 14, xCount: 0 },
+    '133621': { name: '利島村', prefecture: '13_東京都', count: 6, xCount: 0 },
+    '133639': { name: '新島村', prefecture: '13_東京都', count: 10, xCount: 0 },
+    '133647': { name: '神津島村', prefecture: '13_東京都', count: 8, xCount: 0 },
+    '133817': { name: '三宅村', prefecture: '13_東京都', count: 7, xCount: 0 },
+    '133825': { name: '御蔵島村', prefecture: '13_東京都', count: 6, xCount: 0 },
+    '134015': { name: '八丈町', prefecture: '13_東京都', count: 12, xCount: 0 },
+    '134023': { name: '青ヶ島村', prefecture: '13_東京都', count: 0, xCount: 0 }, // データ未収集
+    '134210': { name: '小笠原村', prefecture: '13_東京都', count: 8, xCount: 1 },
+    
+    // 埼玉県
+    '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 5 },
+    '112259': { name: '入間市', prefecture: '11_埼玉県', count: 22, xCount: 11 }
+};
