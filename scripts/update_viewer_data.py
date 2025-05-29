@@ -42,7 +42,7 @@ def generate_municipality_js(output_path, code, members):
     js_content = f"""// 議員データ - {code} （{datetime.now().strftime('%Y年%m月%d日')}更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
-const municipalityMembers_{code} = [
+window.municipalityMembers_{code} = [
 """
     
     # 議員データを追加
