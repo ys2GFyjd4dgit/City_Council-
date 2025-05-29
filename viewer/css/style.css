@@ -177,6 +177,22 @@ tr:hover {
     background-color: #f8f9fa;
 }
 
+/* X icon styling */
+.x-cell {
+    text-align: center;
+}
+
+.x-cell a {
+    color: #1DA1F2;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+}
+
+.x-cell a:hover {
+    color: #0d7fa8;
+}
+
 /* Links */
 a {
     color: #3498db;
