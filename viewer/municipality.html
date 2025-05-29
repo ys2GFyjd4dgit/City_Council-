@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>市議会議員一覧</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="municipality-name">市議会議員一覧</h1>
+            <nav>
+                <a href="index.html">← 市町村一覧に戻る</a>
+            </nav>
+        </header>
+        
+        <main>
+            <div class="controls">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="議員名で検索...">
+                </div>
+                <div class="filter-box">
+                    <label for="party-filter">政党・会派で絞り込み:</label>
+                    <select id="party-filter">
+                        <option value="">すべて</option>
+                    </select>
+                </div>
+                <div class="stats">
+                    <span id="total-count">総数: 0</span>
+                    <span id="x-account-count">X アカウント保有: 0</span>
+                </div>
+            </div>
+            
+            <div class="table-container">
+                <table id="councillor-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="name" class="sortable">議員名 <span class="sort-icon">▼</span></th>
+                            <th data-sort="ruby" class="sortable">ふりがな <span class="sort-icon">▼</span></th>
+                            <th data-sort="party" class="sortable">政党・会派 <span class="sort-icon">▼</span></th>
+                            <th data-sort="x_account" class="sortable">X アカウント <span class="sort-icon">▼</span></th>
+                            <th>プロフィール</th>
+                        </tr>
+                    </thead>
+                    <tbody id="councillor-tbody">
+                        <!-- JavaScript will populate this -->
+                    </tbody>
+                </table>
+            </div>
+            
+            <div id="no-results" style="display: none;">
+                <p>検索条件に一致する議員が見つかりませんでした。</p>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2025 市議会議員データビューア</p>
+        </footer>
+    </div>
+    
+    <script src="js/municipality.js"></script>
+</body>
+</html>
