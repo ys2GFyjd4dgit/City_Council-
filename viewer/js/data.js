@@ -1,6 +1,10 @@
-// 議員データ（2025年5月29日現在）
+// 議員データ（2025年05月29日更新）
+// このファイルは scripts/update_viewer_data.py により自動生成されます
+// 手動で編集しないでください
+
 const municipalityData = {
-    // 東京都
+    '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 5 },
+    '112259': { name: '入間市', prefecture: '11_埼玉県', count: 22, xCount: 11 },
     '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 5 },
     '132021': { name: '立川市', prefecture: '13_東京都', count: 24, xCount: 8 },
     '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
@@ -27,8 +31,6 @@ const municipalityData = {
     '132276': { name: '羽村市', prefecture: '13_東京都', count: 18, xCount: 0 },
     '132284': { name: 'あきる野市', prefecture: '13_東京都', count: 21, xCount: 2 },
     '132292': { name: '西東京市', prefecture: '13_東京都', count: 28, xCount: 1 },
-    
-    // 東京都町村
     '133035': { name: '瑞穂町', prefecture: '13_東京都', count: 15, xCount: 0 },
     '133051': { name: '日の出町', prefecture: '13_東京都', count: 14, xCount: 0 },
     '133078': { name: '檜原村', prefecture: '13_東京都', count: 8, xCount: 0 },
@@ -40,10 +42,6 @@ const municipalityData = {
     '133817': { name: '三宅村', prefecture: '13_東京都', count: 7, xCount: 0 },
     '133825': { name: '御蔵島村', prefecture: '13_東京都', count: 6, xCount: 0 },
     '134015': { name: '八丈町', prefecture: '13_東京都', count: 12, xCount: 0 },
-    '134023': { name: '青ヶ島村', prefecture: '13_東京都', count: 0, xCount: 0 }, // データ未収集
-    '134210': { name: '小笠原村', prefecture: '13_東京都', count: 8, xCount: 1 },
-    
-    // 埼玉県
-    '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 5 },
-    '112259': { name: '入間市', prefecture: '11_埼玉県', count: 22, xCount: 11 }
+    '134023': { name: '青ヶ島村', prefecture: '13_東京都', count: 0, xCount: 0 },
+    '134210': { name: '小笠原村', prefecture: '13_東京都', count: 8, xCount: 1 }
 };
