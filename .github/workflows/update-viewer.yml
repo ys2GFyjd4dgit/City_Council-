@@ -40,6 +40,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add viewer/js/data.js
+          git add viewer/js/data.js viewer/js/municipalities/
           git commit -m "🤖 HTMLビューアのデータを自動更新"
           git push
