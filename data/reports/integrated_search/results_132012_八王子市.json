@@ -1,0 +1,1116 @@
+{
+  "municipality": "八王子市",
+  "code": "132012",
+  "total_members": 38,
+  "unregistered_count": 33,
+  "search_results": {},
+  "candidates": {
+    "舩木　翔平": [
+      {
+        "username": "舩木_council",
+        "display_name": "舩木　翔平",
+        "description": "八王子市議会議員",
+        "score": 0.8,
+        "source": "mock_search"
+      }
+    ]
+  },
+  "search_urls": {
+    "内田　由香利": [
+      {
+        "type": "Google",
+        "query": "\"内田　由香利\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%86%85%E7%94%B0%E3%80%80%E7%94%B1%E9%A6%99%E5%88%A9%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"内田　由香利\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%86%85%E7%94%B0%E3%80%80%E7%94%B1%E9%A6%99%E5%88%A9%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"内田\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%86%85%E7%94%B0%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "内田　由香利 八王子市",
+        "url": "https://x.com/search?q=%E5%86%85%E7%94%B0%E3%80%80%E7%94%B1%E9%A6%99%E5%88%A9%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "内田　由香利 議員",
+        "url": "https://x.com/search?q=%E5%86%85%E7%94%B0%E3%80%80%E7%94%B1%E9%A6%99%E5%88%A9%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:内田* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%86%85%E7%94%B0%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "内田　由香利 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E5%86%85%E7%94%B0%E3%80%80%E7%94%B1%E9%A6%99%E5%88%A9"
+      }
+    ],
+    "立川　寛之": [
+      {
+        "type": "Google",
+        "query": "\"立川　寛之\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E7%AB%8B%E5%B7%9D%E3%80%80%E5%AF%9B%E4%B9%8B%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"立川　寛之\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E7%AB%8B%E5%B7%9D%E3%80%80%E5%AF%9B%E4%B9%8B%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"立川\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E7%AB%8B%E5%B7%9D%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "立川　寛之 八王子市",
+        "url": "https://x.com/search?q=%E7%AB%8B%E5%B7%9D%E3%80%80%E5%AF%9B%E4%B9%8B%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "立川　寛之 議員",
+        "url": "https://x.com/search?q=%E7%AB%8B%E5%B7%9D%E3%80%80%E5%AF%9B%E4%B9%8B%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:立川* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E7%AB%8B%E5%B7%9D%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "立川　寛之 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E7%AB%8B%E5%B7%9D%E3%80%80%E5%AF%9B%E4%B9%8B"
+      }
+    ],
+    "岸田　功典": [
+      {
+        "type": "Google",
+        "query": "\"岸田　功典\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B2%B8%E7%94%B0%E3%80%80%E5%8A%9F%E5%85%B8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"岸田　功典\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B2%B8%E7%94%B0%E3%80%80%E5%8A%9F%E5%85%B8%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"岸田\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B2%B8%E7%94%B0%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "岸田　功典 八王子市",
+        "url": "https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%80%80%E5%8A%9F%E5%85%B8%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "岸田　功典 議員",
+        "url": "https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%80%80%E5%8A%9F%E5%85%B8%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:岸田* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%B2%B8%E7%94%B0%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "岸田　功典 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E5%B2%B8%E7%94%B0%E3%80%80%E5%8A%9F%E5%85%B8"
+      }
+    ],
+    "小林　秀司": [
+      {
+        "type": "Google",
+        "query": "\"小林　秀司\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E7%A7%80%E5%8F%B8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"小林　秀司\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E7%A7%80%E5%8F%B8%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"小林\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B0%8F%E6%9E%97%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "小林　秀司 八王子市",
+        "url": "https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E7%A7%80%E5%8F%B8%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "小林　秀司 議員",
+        "url": "https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E7%A7%80%E5%8F%B8%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:小林* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%B0%8F%E6%9E%97%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "小林　秀司 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E5%B0%8F%E6%9E%97%E3%80%80%E7%A7%80%E5%8F%B8"
+      }
+    ],
+    "川村　奈緒美": [
+      {
+        "type": "Google",
+        "query": "\"川村　奈緒美\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B7%9D%E6%9D%91%E3%80%80%E5%A5%88%E7%B7%92%E7%BE%8E%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"川村　奈緒美\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B7%9D%E6%9D%91%E3%80%80%E5%A5%88%E7%B7%92%E7%BE%8E%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"川村\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B7%9D%E6%9D%91%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "川村　奈緒美 八王子市",
+        "url": "https://x.com/search?q=%E5%B7%9D%E6%9D%91%E3%80%80%E5%A5%88%E7%B7%92%E7%BE%8E%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "川村　奈緒美 議員",
+        "url": "https://x.com/search?q=%E5%B7%9D%E6%9D%91%E3%80%80%E5%A5%88%E7%B7%92%E7%BE%8E%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:川村* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%B7%9D%E6%9D%91%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "川村　奈緒美 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E5%B7%9D%E6%9D%91%E3%80%80%E5%A5%88%E7%B7%92%E7%BE%8E"
+      }
+    ],
+    "岩田　祐樹": [
+      {
+        "type": "Google",
+        "query": "\"岩田　祐樹\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A9%E7%94%B0%E3%80%80%E7%A5%90%E6%A8%B9%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"岩田　祐樹\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A9%E7%94%B0%E3%80%80%E7%A5%90%E6%A8%B9%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"岩田\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A9%E7%94%B0%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "岩田　祐樹 八王子市",
+        "url": "https://x.com/search?q=%E5%B2%A9%E7%94%B0%E3%80%80%E7%A5%90%E6%A8%B9%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "岩田　祐樹 議員",
+        "url": "https://x.com/search?q=%E5%B2%A9%E7%94%B0%E3%80%80%E7%A5%90%E6%A8%B9%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:岩田* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%B2%A9%E7%94%B0%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "岩田　祐樹 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E5%B2%A9%E7%94%B0%E3%80%80%E7%A5%90%E6%A8%B9"
+      }
+    ],
+    "吉本　孝良": [
+      {
+        "type": "Google",
+        "query": "\"吉本　孝良\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%90%89%E6%9C%AC%E3%80%80%E5%AD%9D%E8%89%AF%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"吉本　孝良\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%90%89%E6%9C%AC%E3%80%80%E5%AD%9D%E8%89%AF%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"吉本\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%90%89%E6%9C%AC%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "吉本　孝良 八王子市",
+        "url": "https://x.com/search?q=%E5%90%89%E6%9C%AC%E3%80%80%E5%AD%9D%E8%89%AF%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "吉本　孝良 議員",
+        "url": "https://x.com/search?q=%E5%90%89%E6%9C%AC%E3%80%80%E5%AD%9D%E8%89%AF%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:吉本* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%90%89%E6%9C%AC%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "吉本　孝良 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E5%90%89%E6%9C%AC%E3%80%80%E5%AD%9D%E8%89%AF"
+      }
+    ],
+    "西室　真希": [
+      {
+        "type": "Google",
+        "query": "\"西室　真希\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E8%A5%BF%E5%AE%A4%E3%80%80%E7%9C%9F%E5%B8%8C%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"西室　真希\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E8%A5%BF%E5%AE%A4%E3%80%80%E7%9C%9F%E5%B8%8C%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"西室\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E8%A5%BF%E5%AE%A4%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "西室　真希 八王子市",
+        "url": "https://x.com/search?q=%E8%A5%BF%E5%AE%A4%E3%80%80%E7%9C%9F%E5%B8%8C%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "西室　真希 議員",
+        "url": "https://x.com/search?q=%E8%A5%BF%E5%AE%A4%E3%80%80%E7%9C%9F%E5%B8%8C%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:西室* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E8%A5%BF%E5%AE%A4%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "政党サイト",
+        "query": "西室　真希 自民党",
+        "url": "https://www.jimin.jp/search/?q=%E8%A5%BF%E5%AE%A4%E3%80%80%E7%9C%9F%E5%B8%8C"
+      }
+    ],
+    "古里　幸太郎": [
+      {
+        "type": "Google",
+        "query": "\"古里　幸太郎\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%8F%A4%E9%87%8C%E3%80%80%E5%B9%B8%E5%A4%AA%E9%83%8E%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"古里　幸太郎\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%8F%A4%E9%87%8C%E3%80%80%E5%B9%B8%E5%A4%AA%E9%83%8E%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"古里\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%8F%A4%E9%87%8C%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "古里　幸太郎 八王子市",
+        "url": "https://x.com/search?q=%E5%8F%A4%E9%87%8C%E3%80%80%E5%B9%B8%E5%A4%AA%E9%83%8E%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "古里　幸太郎 議員",
+        "url": "https://x.com/search?q=%E5%8F%A4%E9%87%8C%E3%80%80%E5%B9%B8%E5%A4%AA%E9%83%8E%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:古里* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%8F%A4%E9%87%8C%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "森重　博正": [
+      {
+        "type": "Google",
+        "query": "\"森重　博正\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%A3%AE%E9%87%8D%E3%80%80%E5%8D%9A%E6%AD%A3%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"森重　博正\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%A3%AE%E9%87%8D%E3%80%80%E5%8D%9A%E6%AD%A3%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"森重\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%A3%AE%E9%87%8D%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "森重　博正 八王子市",
+        "url": "https://x.com/search?q=%E6%A3%AE%E9%87%8D%E3%80%80%E5%8D%9A%E6%AD%A3%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "森重　博正 議員",
+        "url": "https://x.com/search?q=%E6%A3%AE%E9%87%8D%E3%80%80%E5%8D%9A%E6%AD%A3%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:森重* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%A3%AE%E9%87%8D%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "日下部　広志": [
+      {
+        "type": "Google",
+        "query": "\"日下部　広志\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%97%A5%E4%B8%8B%E9%83%A8%E3%80%80%E5%BA%83%E5%BF%97%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"日下部　広志\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%97%A5%E4%B8%8B%E9%83%A8%E3%80%80%E5%BA%83%E5%BF%97%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"日下部\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%97%A5%E4%B8%8B%E9%83%A8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "日下部　広志 八王子市",
+        "url": "https://x.com/search?q=%E6%97%A5%E4%B8%8B%E9%83%A8%E3%80%80%E5%BA%83%E5%BF%97%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "日下部　広志 議員",
+        "url": "https://x.com/search?q=%E6%97%A5%E4%B8%8B%E9%83%A8%E3%80%80%E5%BA%83%E5%BF%97%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:日下部* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%97%A5%E4%B8%8B%E9%83%A8%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "冨永　純子": [
+      {
+        "type": "Google",
+        "query": "\"冨永　純子\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%86%A8%E6%B0%B8%E3%80%80%E7%B4%94%E5%AD%90%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"冨永　純子\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%86%A8%E6%B0%B8%E3%80%80%E7%B4%94%E5%AD%90%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"冨永\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%86%A8%E6%B0%B8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "冨永　純子 八王子市",
+        "url": "https://x.com/search?q=%E5%86%A8%E6%B0%B8%E3%80%80%E7%B4%94%E5%AD%90%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "冨永　純子 議員",
+        "url": "https://x.com/search?q=%E5%86%A8%E6%B0%B8%E3%80%80%E7%B4%94%E5%AD%90%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:冨永* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%86%A8%E6%B0%B8%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "渡口　禎": [
+      {
+        "type": "Google",
+        "query": "\"渡口　禎\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%B8%A1%E5%8F%A3%E3%80%80%E7%A6%8E%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"渡口　禎\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%B8%A1%E5%8F%A3%E3%80%80%E7%A6%8E%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"渡口\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%B8%A1%E5%8F%A3%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "渡口　禎 八王子市",
+        "url": "https://x.com/search?q=%E6%B8%A1%E5%8F%A3%E3%80%80%E7%A6%8E%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "渡口　禎 議員",
+        "url": "https://x.com/search?q=%E6%B8%A1%E5%8F%A3%E3%80%80%E7%A6%8E%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:渡口* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%B8%A1%E5%8F%A3%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "美濃部　弥生": [
+      {
+        "type": "Google",
+        "query": "\"美濃部　弥生\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E7%BE%8E%E6%BF%83%E9%83%A8%E3%80%80%E5%BC%A5%E7%94%9F%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"美濃部　弥生\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E7%BE%8E%E6%BF%83%E9%83%A8%E3%80%80%E5%BC%A5%E7%94%9F%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"美濃部\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E7%BE%8E%E6%BF%83%E9%83%A8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "美濃部　弥生 八王子市",
+        "url": "https://x.com/search?q=%E7%BE%8E%E6%BF%83%E9%83%A8%E3%80%80%E5%BC%A5%E7%94%9F%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "美濃部　弥生 議員",
+        "url": "https://x.com/search?q=%E7%BE%8E%E6%BF%83%E9%83%A8%E3%80%80%E5%BC%A5%E7%94%9F%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:美濃部* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E7%BE%8E%E6%BF%83%E9%83%A8%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "中島　正寿": [
+      {
+        "type": "Google",
+        "query": "\"中島　正寿\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E5%B3%B6%E3%80%80%E6%AD%A3%E5%AF%BF%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"中島　正寿\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E5%B3%B6%E3%80%80%E6%AD%A3%E5%AF%BF%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"中島\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E5%B3%B6%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "中島　正寿 八王子市",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E3%80%80%E6%AD%A3%E5%AF%BF%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "中島　正寿 議員",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E3%80%80%E6%AD%A3%E5%AF%BF%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:中島* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E4%B8%AD%E5%B3%B6%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "久保井　博美": [
+      {
+        "type": "Google",
+        "query": "\"久保井　博美\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%B9%85%E4%BF%9D%E4%BA%95%E3%80%80%E5%8D%9A%E7%BE%8E%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"久保井　博美\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%B9%85%E4%BF%9D%E4%BA%95%E3%80%80%E5%8D%9A%E7%BE%8E%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"久保井\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%B9%85%E4%BF%9D%E4%BA%95%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "久保井　博美 八王子市",
+        "url": "https://x.com/search?q=%E4%B9%85%E4%BF%9D%E4%BA%95%E3%80%80%E5%8D%9A%E7%BE%8E%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "久保井　博美 議員",
+        "url": "https://x.com/search?q=%E4%B9%85%E4%BF%9D%E4%BA%95%E3%80%80%E5%8D%9A%E7%BE%8E%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:久保井* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E4%B9%85%E4%BF%9D%E4%BA%95%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "五間　浩": [
+      {
+        "type": "Google",
+        "query": "\"五間　浩\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%BA%94%E9%96%93%E3%80%80%E6%B5%A9%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"五間　浩\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%BA%94%E9%96%93%E3%80%80%E6%B5%A9%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"五間\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%BA%94%E9%96%93%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "五間　浩 八王子市",
+        "url": "https://x.com/search?q=%E4%BA%94%E9%96%93%E3%80%80%E6%B5%A9%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "五間　浩 議員",
+        "url": "https://x.com/search?q=%E4%BA%94%E9%96%93%E3%80%80%E6%B5%A9%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:五間* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E4%BA%94%E9%96%93%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "村松　徹": [
+      {
+        "type": "Google",
+        "query": "\"村松　徹\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%9D%91%E6%9D%BE%E3%80%80%E5%BE%B9%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"村松　徹\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%9D%91%E6%9D%BE%E3%80%80%E5%BE%B9%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"村松\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%9D%91%E6%9D%BE%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "村松　徹 八王子市",
+        "url": "https://x.com/search?q=%E6%9D%91%E6%9D%BE%E3%80%80%E5%BE%B9%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "村松　徹 議員",
+        "url": "https://x.com/search?q=%E6%9D%91%E6%9D%BE%E3%80%80%E5%BE%B9%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:村松* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%9D%91%E6%9D%BE%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "綿林　夕夏": [
+      {
+        "type": "Google",
+        "query": "\"綿林　夕夏\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E7%B6%BF%E6%9E%97%E3%80%80%E5%A4%95%E5%A4%8F%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"綿林　夕夏\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E7%B6%BF%E6%9E%97%E3%80%80%E5%A4%95%E5%A4%8F%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"綿林\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E7%B6%BF%E6%9E%97%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "綿林　夕夏 八王子市",
+        "url": "https://x.com/search?q=%E7%B6%BF%E6%9E%97%E3%80%80%E5%A4%95%E5%A4%8F%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "綿林　夕夏 議員",
+        "url": "https://x.com/search?q=%E7%B6%BF%E6%9E%97%E3%80%80%E5%A4%95%E5%A4%8F%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:綿林* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E7%B6%BF%E6%9E%97%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "望月　翔平": [
+      {
+        "type": "Google",
+        "query": "\"望月　翔平\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%9C%9B%E6%9C%88%E3%80%80%E7%BF%94%E5%B9%B3%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"望月　翔平\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%9C%9B%E6%9C%88%E3%80%80%E7%BF%94%E5%B9%B3%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"望月\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%9C%9B%E6%9C%88%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "望月　翔平 八王子市",
+        "url": "https://x.com/search?q=%E6%9C%9B%E6%9C%88%E3%80%80%E7%BF%94%E5%B9%B3%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "望月　翔平 議員",
+        "url": "https://x.com/search?q=%E6%9C%9B%E6%9C%88%E3%80%80%E7%BF%94%E5%B9%B3%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:望月* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%9C%9B%E6%9C%88%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "市川　克宏": [
+      {
+        "type": "Google",
+        "query": "\"市川　克宏\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B8%82%E5%B7%9D%E3%80%80%E5%85%8B%E5%AE%8F%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"市川　克宏\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B8%82%E5%B7%9D%E3%80%80%E5%85%8B%E5%AE%8F%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"市川\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B8%82%E5%B7%9D%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "市川　克宏 八王子市",
+        "url": "https://x.com/search?q=%E5%B8%82%E5%B7%9D%E3%80%80%E5%85%8B%E5%AE%8F%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "市川　克宏 議員",
+        "url": "https://x.com/search?q=%E5%B8%82%E5%B7%9D%E3%80%80%E5%85%8B%E5%AE%8F%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:市川* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%B8%82%E5%B7%9D%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "石井　宏和": [
+      {
+        "type": "Google",
+        "query": "\"石井　宏和\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E7%9F%B3%E4%BA%95%E3%80%80%E5%AE%8F%E5%92%8C%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"石井　宏和\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E7%9F%B3%E4%BA%95%E3%80%80%E5%AE%8F%E5%92%8C%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"石井\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E7%9F%B3%E4%BA%95%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "石井　宏和 八王子市",
+        "url": "https://x.com/search?q=%E7%9F%B3%E4%BA%95%E3%80%80%E5%AE%8F%E5%92%8C%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "石井　宏和 議員",
+        "url": "https://x.com/search?q=%E7%9F%B3%E4%BA%95%E3%80%80%E5%AE%8F%E5%92%8C%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:石井* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E7%9F%B3%E4%BA%95%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "鈴木　勇次": [
+      {
+        "type": "Google",
+        "query": "\"鈴木　勇次\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E5%8B%87%E6%AC%A1%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"鈴木　勇次\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E5%8B%87%E6%AC%A1%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"鈴木\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E9%88%B4%E6%9C%A8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "鈴木　勇次 八王子市",
+        "url": "https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E5%8B%87%E6%AC%A1%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "鈴木　勇次 議員",
+        "url": "https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E5%8B%87%E6%AC%A1%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:鈴木* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E9%88%B4%E6%9C%A8%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "浜野　正太": [
+      {
+        "type": "Google",
+        "query": "\"浜野　正太\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%B5%9C%E9%87%8E%E3%80%80%E6%AD%A3%E5%A4%AA%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"浜野　正太\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%B5%9C%E9%87%8E%E3%80%80%E6%AD%A3%E5%A4%AA%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"浜野\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%B5%9C%E9%87%8E%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "浜野　正太 八王子市",
+        "url": "https://x.com/search?q=%E6%B5%9C%E9%87%8E%E3%80%80%E6%AD%A3%E5%A4%AA%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "浜野　正太 議員",
+        "url": "https://x.com/search?q=%E6%B5%9C%E9%87%8E%E3%80%80%E6%AD%A3%E5%A4%AA%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:浜野* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%B5%9C%E9%87%8E%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "九鬼　ともみ": [
+      {
+        "type": "Google",
+        "query": "\"九鬼　ともみ\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%B9%9D%E9%AC%BC%E3%80%80%E3%81%A8%E3%82%82%E3%81%BF%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"九鬼　ともみ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%B9%9D%E9%AC%BC%E3%80%80%E3%81%A8%E3%82%82%E3%81%BF%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"九鬼\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%B9%9D%E9%AC%BC%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "九鬼　ともみ 八王子市",
+        "url": "https://x.com/search?q=%E4%B9%9D%E9%AC%BC%E3%80%80%E3%81%A8%E3%82%82%E3%81%BF%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "九鬼　ともみ 議員",
+        "url": "https://x.com/search?q=%E4%B9%9D%E9%AC%BC%E3%80%80%E3%81%A8%E3%82%82%E3%81%BF%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:九鬼* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E4%B9%9D%E9%AC%BC%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "森　喜彦": [
+      {
+        "type": "Google",
+        "query": "\"森　喜彦\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%A3%AE%E3%80%80%E5%96%9C%E5%BD%A6%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"森　喜彦\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%A3%AE%E3%80%80%E5%96%9C%E5%BD%A6%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"森\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%A3%AE%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "森　喜彦 八王子市",
+        "url": "https://x.com/search?q=%E6%A3%AE%E3%80%80%E5%96%9C%E5%BD%A6%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "森　喜彦 議員",
+        "url": "https://x.com/search?q=%E6%A3%AE%E3%80%80%E5%96%9C%E5%BD%A6%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:森* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E6%A3%AE%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "安藤　修三": [
+      {
+        "type": "Google",
+        "query": "\"安藤　修三\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%AE%89%E8%97%A4%E3%80%80%E4%BF%AE%E4%B8%89%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"安藤　修三\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%AE%89%E8%97%A4%E3%80%80%E4%BF%AE%E4%B8%89%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"安藤\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%AE%89%E8%97%A4%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "安藤　修三 八王子市",
+        "url": "https://x.com/search?q=%E5%AE%89%E8%97%A4%E3%80%80%E4%BF%AE%E4%B8%89%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "安藤　修三 議員",
+        "url": "https://x.com/search?q=%E5%AE%89%E8%97%A4%E3%80%80%E4%BF%AE%E4%B8%89%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:安藤* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%AE%89%E8%97%A4%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "高橋　剛": [
+      {
+        "type": "Google",
+        "query": "\"高橋　剛\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E9%AB%98%E6%A9%8B%E3%80%80%E5%89%9B%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"高橋　剛\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E9%AB%98%E6%A9%8B%E3%80%80%E5%89%9B%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"高橋\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E9%AB%98%E6%A9%8B%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "高橋　剛 八王子市",
+        "url": "https://x.com/search?q=%E9%AB%98%E6%A9%8B%E3%80%80%E5%89%9B%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "高橋　剛 議員",
+        "url": "https://x.com/search?q=%E9%AB%98%E6%A9%8B%E3%80%80%E5%89%9B%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:高橋* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E9%AB%98%E6%A9%8B%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "舩木　翔平": [
+      {
+        "type": "Google",
+        "query": "\"舩木　翔平\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E8%88%A9%E6%9C%A8%E3%80%80%E7%BF%94%E5%B9%B3%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"舩木　翔平\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E8%88%A9%E6%9C%A8%E3%80%80%E7%BF%94%E5%B9%B3%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"舩木\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E8%88%A9%E6%9C%A8%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "舩木　翔平 八王子市",
+        "url": "https://x.com/search?q=%E8%88%A9%E6%9C%A8%E3%80%80%E7%BF%94%E5%B9%B3%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "舩木　翔平 議員",
+        "url": "https://x.com/search?q=%E8%88%A9%E6%9C%A8%E3%80%80%E7%BF%94%E5%B9%B3%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:舩木* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E8%88%A9%E6%9C%A8%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "玉正　彩加": [
+      {
+        "type": "Google",
+        "query": "\"玉正　彩加\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E7%8E%89%E6%AD%A3%E3%80%80%E5%BD%A9%E5%8A%A0%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"玉正　彩加\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E7%8E%89%E6%AD%A3%E3%80%80%E5%BD%A9%E5%8A%A0%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"玉正\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E7%8E%89%E6%AD%A3%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "玉正　彩加 八王子市",
+        "url": "https://x.com/search?q=%E7%8E%89%E6%AD%A3%E3%80%80%E5%BD%A9%E5%8A%A0%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "玉正　彩加 議員",
+        "url": "https://x.com/search?q=%E7%8E%89%E6%AD%A3%E3%80%80%E5%BD%A9%E5%8A%A0%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:玉正* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E7%8E%89%E6%AD%A3%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "金子　亜希子": [
+      {
+        "type": "Google",
+        "query": "\"金子　亜希子\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E9%87%91%E5%AD%90%E3%80%80%E4%BA%9C%E5%B8%8C%E5%AD%90%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"金子　亜希子\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E9%87%91%E5%AD%90%E3%80%80%E4%BA%9C%E5%B8%8C%E5%AD%90%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"金子\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E9%87%91%E5%AD%90%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "金子　亜希子 八王子市",
+        "url": "https://x.com/search?q=%E9%87%91%E5%AD%90%E3%80%80%E4%BA%9C%E5%B8%8C%E5%AD%90%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "金子　亜希子 議員",
+        "url": "https://x.com/search?q=%E9%87%91%E5%AD%90%E3%80%80%E4%BA%9C%E5%B8%8C%E5%AD%90%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:金子* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E9%87%91%E5%AD%90%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "山本　貴士": [
+      {
+        "type": "Google",
+        "query": "\"山本　貴士\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B1%B1%E6%9C%AC%E3%80%80%E8%B2%B4%E5%A3%AB%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"山本　貴士\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B1%B1%E6%9C%AC%E3%80%80%E8%B2%B4%E5%A3%AB%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"山本\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B1%B1%E6%9C%AC%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "山本　貴士 八王子市",
+        "url": "https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%80%80%E8%B2%B4%E5%A3%AB%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "山本　貴士 議員",
+        "url": "https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%80%80%E8%B2%B4%E5%A3%AB%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:山本* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%B1%B1%E6%9C%AC%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ],
+    "及川　賢一": [
+      {
+        "type": "Google",
+        "query": "\"及川　賢一\" 八王子市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%8F%8A%E5%B7%9D%E3%80%80%E8%B3%A2%E4%B8%80%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"及川　賢一\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%8F%8A%E5%B7%9D%E3%80%80%E8%B3%A2%E4%B8%80%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"及川\" 八王子市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%8F%8A%E5%B7%9D%22%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "及川　賢一 八王子市",
+        "url": "https://x.com/search?q=%E5%8F%8A%E5%B7%9D%E3%80%80%E8%B3%A2%E4%B8%80%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "及川　賢一 議員",
+        "url": "https://x.com/search?q=%E5%8F%8A%E5%B7%9D%E3%80%80%E8%B3%A2%E4%B8%80%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:及川* 八王子市",
+        "url": "https://x.com/search?q=from%3A%E5%8F%8A%E5%B7%9D%2A%20%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82&f=user"
+      }
+    ]
+  }
+}
