@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>稲城市 - X候補アカウント確認</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .member-section { background: white; margin: 20px 0; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .member-name { font-size: 20px; font-weight: bold; color: #333; margin-bottom: 15px; }
+        .candidates { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; }
+        .candidate { border: 1px solid #ddd; padding: 15px; border-radius: 5px; background: #fafafa; }
+        .candidate.high-score { border-color: #4CAF50; background: #f1f8f4; }
+        .candidate.medium-score { border-color: #FF9800; background: #fff8f1; }
+        .profile-img { width: 48px; height: 48px; border-radius: 50%; float: left; margin-right: 10px; }
+        .profile-info { overflow: hidden; }
+        .username { font-weight: bold; color: #1DA1F2; }
+        .score { float: right; padding: 2px 8px; border-radius: 3px; font-size: 12px; }
+        .score.high { background: #4CAF50; color: white; }
+        .score.medium { background: #FF9800; color: white; }
+        .score.low { background: #9E9E9E; color: white; }
+        .description { margin-top: 10px; font-size: 14px; color: #666; }
+        .action-buttons { margin-top: 10px; }
+        .btn { padding: 5px 15px; margin-right: 5px; border: none; border-radius: 3px; cursor: pointer; }
+        .btn-correct { background: #4CAF50; color: white; }
+        .btn-wrong { background: #f44336; color: white; }
+        .btn-unsure { background: #9E9E9E; color: white; }
+        .search-links { margin-top: 10px; padding-top: 10px; border-top: 1px solid #eee; }
+        .search-link { margin-right: 10px; font-size: 12px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>稲城市 - X候補アカウント確認</h1>
+        <p>生成日時: 2025年05月30日 23:31</p>
+        
+
+        <div class="member-section">
+            <div class="member-name">武田　まさひと</div>
+            <div class="candidates">
+
+                <div class="candidate high-score">
+                    <img src="https://via.placeholder.com/48" class="profile-img" alt="Profile">
+                    <div class="profile-info">
+                        <span class="username">@武田_council</span>
+                        <span class="score high">0.80</span>
+                        <div class="description">稲城市議会議員...</div>
+                    </div>
+                    <div class="action-buttons">
+                        <button class="btn btn-correct" onclick="markCorrect('武田　まさひと', '武田_council')">正しい</button>
+                        <button class="btn btn-wrong" onclick="markWrong('武田　まさひと', '武田_council')">違う</button>
+                        <button class="btn btn-unsure" onclick="markUnsure('武田　まさひと', '武田_council')">不明</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="search-links">
+                <strong>追加検索:</strong>
+<a href="https://www.google.com/search?q=%E6%AD%A6%E7%94%B0%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%81%A8%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20Twitter" target="_blank" class="search-link">Google</a><a href="https://x.com/search?q=%E6%AD%A6%E7%94%B0%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%81%A8&f=user" target="_blank" class="search-link">X検索</a>
+            </div>
+        </div>
+
+    </div>
+    
+    <script>
+        function markCorrect(memberName, username) {
+            console.log('正しい:', memberName, username);
+            // TODO: 結果を保存
+            alert('「' + memberName + '」のアカウント @' + username + ' を正しいと記録しました');
+        }
+        
+        function markWrong(memberName, username) {
+            console.log('違う:', memberName, username);
+            // TODO: 結果を保存
+        }
+        
+        function markUnsure(memberName, username) {
+            console.log('不明:', memberName, username);
+            // TODO: 結果を保存
+        }
+    </script>
+</body>
+</html>

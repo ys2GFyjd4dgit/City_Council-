@@ -1,0 +1,724 @@
+{
+  "municipality": "稲城市",
+  "code": "132250",
+  "total_members": 22,
+  "unregistered_count": 22,
+  "search_results": {},
+  "candidates": {
+    "武田　まさひと": [
+      {
+        "username": "武田_council",
+        "display_name": "武田　まさひと",
+        "description": "稲城市議会議員",
+        "score": 0.8,
+        "source": "mock_search"
+      }
+    ]
+  },
+  "search_urls": {
+    "いそむら　あきこ": [
+      {
+        "type": "Google",
+        "query": "\"いそむら　あきこ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E3%81%84%E3%81%9D%E3%82%80%E3%82%89%E3%80%80%E3%81%82%E3%81%8D%E3%81%93%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"いそむら　あきこ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E3%81%84%E3%81%9D%E3%82%80%E3%82%89%E3%80%80%E3%81%82%E3%81%8D%E3%81%93%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"いそむら\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E3%81%84%E3%81%9D%E3%82%80%E3%82%89%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "いそむら　あきこ 稲城市",
+        "url": "https://x.com/search?q=%E3%81%84%E3%81%9D%E3%82%80%E3%82%89%E3%80%80%E3%81%82%E3%81%8D%E3%81%93%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "いそむら　あきこ 議員",
+        "url": "https://x.com/search?q=%E3%81%84%E3%81%9D%E3%82%80%E3%82%89%E3%80%80%E3%81%82%E3%81%8D%E3%81%93%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:いそむら* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E3%81%84%E3%81%9D%E3%82%80%E3%82%89%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "榎本　久春": [
+      {
+        "type": "Google",
+        "query": "\"榎本　久春\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%A6%8E%E6%9C%AC%E3%80%80%E4%B9%85%E6%98%A5%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"榎本　久春\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%A6%8E%E6%9C%AC%E3%80%80%E4%B9%85%E6%98%A5%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"榎本\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%A6%8E%E6%9C%AC%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "榎本　久春 稲城市",
+        "url": "https://x.com/search?q=%E6%A6%8E%E6%9C%AC%E3%80%80%E4%B9%85%E6%98%A5%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "榎本　久春 議員",
+        "url": "https://x.com/search?q=%E6%A6%8E%E6%9C%AC%E3%80%80%E4%B9%85%E6%98%A5%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:榎本* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%A6%8E%E6%9C%AC%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "武田　まさひと": [
+      {
+        "type": "Google",
+        "query": "\"武田　まさひと\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%AD%A6%E7%94%B0%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%81%A8%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"武田　まさひと\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%AD%A6%E7%94%B0%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%81%A8%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"武田\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%AD%A6%E7%94%B0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "武田　まさひと 稲城市",
+        "url": "https://x.com/search?q=%E6%AD%A6%E7%94%B0%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%81%A8%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "武田　まさひと 議員",
+        "url": "https://x.com/search?q=%E6%AD%A6%E7%94%B0%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%81%A8%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:武田* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%AD%A6%E7%94%B0%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "湯谷　ひろし": [
+      {
+        "type": "Google",
+        "query": "\"湯谷　ひろし\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%B9%AF%E8%B0%B7%E3%80%80%E3%81%B2%E3%82%8D%E3%81%97%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"湯谷　ひろし\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%B9%AF%E8%B0%B7%E3%80%80%E3%81%B2%E3%82%8D%E3%81%97%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"湯谷\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%B9%AF%E8%B0%B7%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "湯谷　ひろし 稲城市",
+        "url": "https://x.com/search?q=%E6%B9%AF%E8%B0%B7%E3%80%80%E3%81%B2%E3%82%8D%E3%81%97%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "湯谷　ひろし 議員",
+        "url": "https://x.com/search?q=%E6%B9%AF%E8%B0%B7%E3%80%80%E3%81%B2%E3%82%8D%E3%81%97%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:湯谷* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%B9%AF%E8%B0%B7%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "佐藤　しんじ": [
+      {
+        "type": "Google",
+        "query": "\"佐藤　しんじ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E3%81%97%E3%82%93%E3%81%98%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"佐藤　しんじ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E3%81%97%E3%82%93%E3%81%98%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"佐藤\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%BD%90%E8%97%A4%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "佐藤　しんじ 稲城市",
+        "url": "https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E3%81%97%E3%82%93%E3%81%98%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "佐藤　しんじ 議員",
+        "url": "https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E3%81%97%E3%82%93%E3%81%98%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:佐藤* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E4%BD%90%E8%97%A4%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "つのじ　寛美": [
+      {
+        "type": "Google",
+        "query": "\"つのじ　寛美\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E3%81%A4%E3%81%AE%E3%81%98%E3%80%80%E5%AF%9B%E7%BE%8E%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"つのじ　寛美\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E3%81%A4%E3%81%AE%E3%81%98%E3%80%80%E5%AF%9B%E7%BE%8E%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"つのじ\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E3%81%A4%E3%81%AE%E3%81%98%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "つのじ　寛美 稲城市",
+        "url": "https://x.com/search?q=%E3%81%A4%E3%81%AE%E3%81%98%E3%80%80%E5%AF%9B%E7%BE%8E%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "つのじ　寛美 議員",
+        "url": "https://x.com/search?q=%E3%81%A4%E3%81%AE%E3%81%98%E3%80%80%E5%AF%9B%E7%BE%8E%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:つのじ* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E3%81%A4%E3%81%AE%E3%81%98%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "村上　洋子": [
+      {
+        "type": "Google",
+        "query": "\"村上　洋子\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E5%AD%90%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"村上　洋子\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E5%AD%90%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"村上\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%9D%91%E4%B8%8A%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "村上　洋子 稲城市",
+        "url": "https://x.com/search?q=%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E5%AD%90%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "村上　洋子 議員",
+        "url": "https://x.com/search?q=%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E5%AD%90%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:村上* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%9D%91%E4%B8%8A%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "山岸　太一": [
+      {
+        "type": "Google",
+        "query": "\"山岸　太一\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B1%B1%E5%B2%B8%E3%80%80%E5%A4%AA%E4%B8%80%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"山岸　太一\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B1%B1%E5%B2%B8%E3%80%80%E5%A4%AA%E4%B8%80%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"山岸\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B1%B1%E5%B2%B8%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "山岸　太一 稲城市",
+        "url": "https://x.com/search?q=%E5%B1%B1%E5%B2%B8%E3%80%80%E5%A4%AA%E4%B8%80%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "山岸　太一 議員",
+        "url": "https://x.com/search?q=%E5%B1%B1%E5%B2%B8%E3%80%80%E5%A4%AA%E4%B8%80%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:山岸* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%B1%B1%E5%B2%B8%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "田島　きく子": [
+      {
+        "type": "Google",
+        "query": "\"田島　きく子\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E7%94%B0%E5%B3%B6%E3%80%80%E3%81%8D%E3%81%8F%E5%AD%90%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"田島　きく子\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E7%94%B0%E5%B3%B6%E3%80%80%E3%81%8D%E3%81%8F%E5%AD%90%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"田島\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E7%94%B0%E5%B3%B6%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "田島　きく子 稲城市",
+        "url": "https://x.com/search?q=%E7%94%B0%E5%B3%B6%E3%80%80%E3%81%8D%E3%81%8F%E5%AD%90%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "田島　きく子 議員",
+        "url": "https://x.com/search?q=%E7%94%B0%E5%B3%B6%E3%80%80%E3%81%8D%E3%81%8F%E5%AD%90%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:田島* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E7%94%B0%E5%B3%B6%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "岡田　まなぶ": [
+      {
+        "type": "Google",
+        "query": "\"岡田　まなぶ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A1%E7%94%B0%E3%80%80%E3%81%BE%E3%81%AA%E3%81%B6%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"岡田　まなぶ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A1%E7%94%B0%E3%80%80%E3%81%BE%E3%81%AA%E3%81%B6%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"岡田\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A1%E7%94%B0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "岡田　まなぶ 稲城市",
+        "url": "https://x.com/search?q=%E5%B2%A1%E7%94%B0%E3%80%80%E3%81%BE%E3%81%AA%E3%81%B6%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "岡田　まなぶ 議員",
+        "url": "https://x.com/search?q=%E5%B2%A1%E7%94%B0%E3%80%80%E3%81%BE%E3%81%AA%E3%81%B6%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:岡田* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%B2%A1%E7%94%B0%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "中島　健介": [
+      {
+        "type": "Google",
+        "query": "\"中島　健介\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E5%B3%B6%E3%80%80%E5%81%A5%E4%BB%8B%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"中島　健介\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E5%B3%B6%E3%80%80%E5%81%A5%E4%BB%8B%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"中島\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E5%B3%B6%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "中島　健介 稲城市",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E3%80%80%E5%81%A5%E4%BB%8B%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "中島　健介 議員",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E3%80%80%E5%81%A5%E4%BB%8B%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:中島* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E4%B8%AD%E5%B3%B6%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "土居　のりひろ": [
+      {
+        "type": "Google",
+        "query": "\"土居　のりひろ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%9C%9F%E5%B1%85%E3%80%80%E3%81%AE%E3%82%8A%E3%81%B2%E3%82%8D%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"土居　のりひろ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%9C%9F%E5%B1%85%E3%80%80%E3%81%AE%E3%82%8A%E3%81%B2%E3%82%8D%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"土居\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%9C%9F%E5%B1%85%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "土居　のりひろ 稲城市",
+        "url": "https://x.com/search?q=%E5%9C%9F%E5%B1%85%E3%80%80%E3%81%AE%E3%82%8A%E3%81%B2%E3%82%8D%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "土居　のりひろ 議員",
+        "url": "https://x.com/search?q=%E5%9C%9F%E5%B1%85%E3%80%80%E3%81%AE%E3%82%8A%E3%81%B2%E3%82%8D%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:土居* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%9C%9F%E5%B1%85%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "中田　中": [
+      {
+        "type": "Google",
+        "query": "\"中田　中\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E7%94%B0%E3%80%80%E4%B8%AD%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"中田　中\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E7%94%B0%E3%80%80%E4%B8%AD%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"中田\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E4%B8%AD%E7%94%B0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "中田　中 稲城市",
+        "url": "https://x.com/search?q=%E4%B8%AD%E7%94%B0%E3%80%80%E4%B8%AD%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "中田　中 議員",
+        "url": "https://x.com/search?q=%E4%B8%AD%E7%94%B0%E3%80%80%E4%B8%AD%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:中田* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E4%B8%AD%E7%94%B0%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "坂田　たけふみ": [
+      {
+        "type": "Google",
+        "query": "\"坂田　たけふみ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%9D%82%E7%94%B0%E3%80%80%E3%81%9F%E3%81%91%E3%81%B5%E3%81%BF%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"坂田　たけふみ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%9D%82%E7%94%B0%E3%80%80%E3%81%9F%E3%81%91%E3%81%B5%E3%81%BF%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"坂田\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%9D%82%E7%94%B0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "坂田　たけふみ 稲城市",
+        "url": "https://x.com/search?q=%E5%9D%82%E7%94%B0%E3%80%80%E3%81%9F%E3%81%91%E3%81%B5%E3%81%BF%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "坂田　たけふみ 議員",
+        "url": "https://x.com/search?q=%E5%9D%82%E7%94%B0%E3%80%80%E3%81%9F%E3%81%91%E3%81%B5%E3%81%BF%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:坂田* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%9D%82%E7%94%B0%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "池田　英司": [
+      {
+        "type": "Google",
+        "query": "\"池田　英司\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%B1%A0%E7%94%B0%E3%80%80%E8%8B%B1%E5%8F%B8%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"池田　英司\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%B1%A0%E7%94%B0%E3%80%80%E8%8B%B1%E5%8F%B8%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"池田\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%B1%A0%E7%94%B0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "池田　英司 稲城市",
+        "url": "https://x.com/search?q=%E6%B1%A0%E7%94%B0%E3%80%80%E8%8B%B1%E5%8F%B8%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "池田　英司 議員",
+        "url": "https://x.com/search?q=%E6%B1%A0%E7%94%B0%E3%80%80%E8%8B%B1%E5%8F%B8%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:池田* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%B1%A0%E7%94%B0%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "渡辺　力": [
+      {
+        "type": "Google",
+        "query": "\"渡辺　力\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E5%8A%9B%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"渡辺　力\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E5%8A%9B%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"渡辺\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%B8%A1%E8%BE%BA%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "渡辺　力 稲城市",
+        "url": "https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E5%8A%9B%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "渡辺　力 議員",
+        "url": "https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E5%8A%9B%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:渡辺* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%B8%A1%E8%BE%BA%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "角田　政信": [
+      {
+        "type": "Google",
+        "query": "\"角田　政信\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E8%A7%92%E7%94%B0%E3%80%80%E6%94%BF%E4%BF%A1%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"角田　政信\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E8%A7%92%E7%94%B0%E3%80%80%E6%94%BF%E4%BF%A1%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"角田\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E8%A7%92%E7%94%B0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "角田　政信 稲城市",
+        "url": "https://x.com/search?q=%E8%A7%92%E7%94%B0%E3%80%80%E6%94%BF%E4%BF%A1%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "角田　政信 議員",
+        "url": "https://x.com/search?q=%E8%A7%92%E7%94%B0%E3%80%80%E6%94%BF%E4%BF%A1%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:角田* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E8%A7%92%E7%94%B0%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "梶浦　みさこ": [
+      {
+        "type": "Google",
+        "query": "\"梶浦　みさこ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E6%A2%B6%E6%B5%A6%E3%80%80%E3%81%BF%E3%81%95%E3%81%93%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"梶浦　みさこ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E6%A2%B6%E6%B5%A6%E3%80%80%E3%81%BF%E3%81%95%E3%81%93%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"梶浦\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E6%A2%B6%E6%B5%A6%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "梶浦　みさこ 稲城市",
+        "url": "https://x.com/search?q=%E6%A2%B6%E6%B5%A6%E3%80%80%E3%81%BF%E3%81%95%E3%81%93%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "梶浦　みさこ 議員",
+        "url": "https://x.com/search?q=%E6%A2%B6%E6%B5%A6%E3%80%80%E3%81%BF%E3%81%95%E3%81%93%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:梶浦* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E6%A2%B6%E6%B5%A6%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "北浜　けんいち": [
+      {
+        "type": "Google",
+        "query": "\"北浜　けんいち\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%8C%97%E6%B5%9C%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"北浜　けんいち\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%8C%97%E6%B5%9C%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"北浜\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%8C%97%E6%B5%9C%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "北浜　けんいち 稲城市",
+        "url": "https://x.com/search?q=%E5%8C%97%E6%B5%9C%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "北浜　けんいち 議員",
+        "url": "https://x.com/search?q=%E5%8C%97%E6%B5%9C%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:北浜* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%8C%97%E6%B5%9C%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "川村　あや": [
+      {
+        "type": "Google",
+        "query": "\"川村　あや\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B7%9D%E6%9D%91%E3%80%80%E3%81%82%E3%82%84%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"川村　あや\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B7%9D%E6%9D%91%E3%80%80%E3%81%82%E3%82%84%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"川村\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B7%9D%E6%9D%91%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "川村　あや 稲城市",
+        "url": "https://x.com/search?q=%E5%B7%9D%E6%9D%91%E3%80%80%E3%81%82%E3%82%84%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "川村　あや 議員",
+        "url": "https://x.com/search?q=%E5%B7%9D%E6%9D%91%E3%80%80%E3%81%82%E3%82%84%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:川村* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%B7%9D%E6%9D%91%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "鈴木　誠": [
+      {
+        "type": "Google",
+        "query": "\"鈴木　誠\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E8%AA%A0%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"鈴木　誠\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E8%AA%A0%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"鈴木\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E9%88%B4%E6%9C%A8%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "鈴木　誠 稲城市",
+        "url": "https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E8%AA%A0%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "鈴木　誠 議員",
+        "url": "https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E8%AA%A0%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:鈴木* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E9%88%B4%E6%9C%A8%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ],
+    "岩佐　ゆきひろ": [
+      {
+        "type": "Google",
+        "query": "\"岩佐　ゆきひろ\" 稲城市 site:twitter.com OR site:x.com",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A9%E4%BD%90%E3%80%80%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%20site%3Atwitter.com%20OR%20site%3Ax.com"
+      },
+      {
+        "type": "Google",
+        "query": "\"岩佐　ゆきひろ\" 議員 Twitter OR X",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A9%E4%BD%90%E3%80%80%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D%22%20%E8%AD%B0%E5%93%A1%20Twitter%20OR%20X"
+      },
+      {
+        "type": "Google",
+        "query": "\"岩佐\" 稲城市議会議員 Twitter",
+        "url": "https://www.google.com/search?q=%22%E5%B2%A9%E4%BD%90%22%20%E7%A8%B2%E5%9F%8E%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%20Twitter"
+      },
+      {
+        "type": "X検索",
+        "query": "岩佐　ゆきひろ 稲城市",
+        "url": "https://x.com/search?q=%E5%B2%A9%E4%BD%90%E3%80%80%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "岩佐　ゆきひろ 議員",
+        "url": "https://x.com/search?q=%E5%B2%A9%E4%BD%90%E3%80%80%E3%82%86%E3%81%8D%E3%81%B2%E3%82%8D%20%E8%AD%B0%E5%93%A1&f=user"
+      },
+      {
+        "type": "X検索",
+        "query": "from:岩佐* 稲城市",
+        "url": "https://x.com/search?q=from%3A%E5%B2%A9%E4%BD%90%2A%20%E7%A8%B2%E5%9F%8E%E5%B8%82&f=user"
+      }
+    ]
+  }
+}
