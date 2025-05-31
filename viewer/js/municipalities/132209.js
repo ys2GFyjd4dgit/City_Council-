@@ -1,4 +1,4 @@
-// 議員データ - 132209 （2025年05月30日更新）
+// 議員データ - 132209 （2025年05月31日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_132209 = [
@@ -6,7 +6,7 @@ window.municipalityMembers_132209 = [
         "氏名": "二宮　由子",
         "よみ": "にのみや よしこ",
         "所属": "立憲国民クラブ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ninomiyayoshiko"
     },
     {
         "氏名": "大后　治雄",
@@ -18,7 +18,7 @@ window.municipalityMembers_132209 = [
         "氏名": "石田　昭太朗",
         "よみ": "いしだ しょうたろう",
         "所属": "立憲国民クラブ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/25_ishida"
     },
     {
         "氏名": "関　綾子",
@@ -30,7 +30,7 @@ window.municipalityMembers_132209 = [
         "氏名": "尾崎　利一",
         "よみ": "おざき りいち",
         "所属": "共につくる東大和",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ozaki_riichi"
     },
     {
         "氏名": "上林　真佐恵",
@@ -54,7 +54,7 @@ window.municipalityMembers_132209 = [
         "氏名": "森田　博之",
         "よみ": "もりた ひろゆき",
         "所属": "自由民主党新政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/moritahiroyuki_"
     },
     {
         "氏名": "押本　修",
@@ -72,7 +72,7 @@ window.municipalityMembers_132209 = [
         "氏名": "髙峰　章",
         "よみ": "たかみね あきら",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/takamine1313"
     },
     {
         "氏名": "大川　元",
@@ -96,19 +96,19 @@ window.municipalityMembers_132209 = [
         "氏名": "木戸岡　秀彦",
         "よみ": "きどおか ひでひこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kidooka_hide"
     },
     {
         "氏名": "佐竹　康彦",
         "よみ": "さたけ やすひこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/yasuhiko_satake"
     },
     {
         "氏名": "東口　正美",
         "よみ": "ひがしぐち まさみ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/higashiguchi_m"
     },
     {
         "氏名": "金井　康哲",
@@ -120,7 +120,7 @@ window.municipalityMembers_132209 = [
         "氏名": "床鍋　義博",
         "よみ": "とこなべ よしひろ",
         "所属": "やまとみどり",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/higashiyamato"
     },
     {
         "氏名": "中野　志乃夫",

@@ -1,4 +1,4 @@
-// 議員データ - 112089 （2025年05月30日更新）
+// 議員データ - 112089 （2025年05月31日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_112089 = [
@@ -18,13 +18,13 @@ window.municipalityMembers_112089 = [
         "氏名": "斉藤　かおり",
         "よみ": "さいとう　かおり",
         "所属": "自由民主党・維新・参政・無所属の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kaori_sansei"
     },
     {
         "氏名": "長岡　恵子",
         "よみ": "ながおか　けいこ",
         "所属": "立憲民主党・れいわ新選組",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/keiko12nagaoka"
     },
     {
         "氏名": "赤川　洋二",
@@ -36,7 +36,7 @@ window.municipalityMembers_112089 = [
         "氏名": "神戸　鉄郎",
         "よみ": "かんべ　てつろう",
         "所属": "自由民主党・維新・参政・無所属の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/tokorozawakambe"
     },
     {
         "氏名": "小林　澄子",
@@ -48,37 +48,37 @@ window.municipalityMembers_112089 = [
         "氏名": "中井　めぐみ",
         "よみ": "なかい　めぐみ",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/mn_jcptokoro"
     },
     {
         "氏名": "花岡　健太",
         "よみ": "はなおか　けんた",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/hanaoka_jcptoko"
     },
     {
         "氏名": "矢作　いづみ",
         "よみ": "やさく　いづみ",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/q6vtalztbo9x3ph"
     },
     {
         "氏名": "島田　一隆",
         "よみ": "しまだ　かずたか",
         "所属": "さきがけ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/shimada_moai"
     },
     {
         "氏名": "長谷川　礼奈",
         "よみ": "はせがわ　りな",
         "所属": "さきがけ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/hasegawarina812"
     },
     {
         "氏名": "荻野　泰男",
         "よみ": "おぎの　やすお",
         "所属": "さきがけ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/oginoyasuo/"
     },
     {
         "氏名": "植竹　成年",
@@ -90,19 +90,19 @@ window.municipalityMembers_112089 = [
         "氏名": "大久保　竜一",
         "よみ": "おおくぼ　りゅういち",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/okuboryuichi"
     },
     {
         "氏名": "川辺　浩直",
         "よみ": "かわべ　ひろなお",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/hiriho1"
     },
     {
         "氏名": "松本　明信",
         "よみ": "まつもと　あきのぶ",
         "所属": "市民クラブ未来",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/smile_matsumoto"
     },
     {
         "氏名": "粕谷　不二夫",
@@ -114,7 +114,7 @@ window.municipalityMembers_112089 = [
         "氏名": "佐野　允彦",
         "よみ": "さの　みつひこ",
         "所属": "自由民主党・維新・参政・無所属の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ms06241983"
     },
     {
         "氏名": "大庭　祥照",
@@ -126,13 +126,13 @@ window.municipalityMembers_112089 = [
         "氏名": "前田　浩昭",
         "よみ": "まえだ　ひろあき",
         "所属": "自由民主党・維新・参政・無所属の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/maechin916"
     },
     {
         "氏名": "谷口　雅典",
         "よみ": "たにぐち　まさのり",
         "所属": "至誠自民クラブ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/taniguchi1965"
     },
     {
         "氏名": "大石　健一",
@@ -144,7 +144,7 @@ window.municipalityMembers_112089 = [
         "氏名": "亀山　恭子",
         "よみ": "かめやま　きょうこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kameyamakyoko"
     },
     {
         "氏名": "山口　浩美",
@@ -174,13 +174,13 @@ window.municipalityMembers_112089 = [
         "氏名": "入沢　豊",
         "よみ": "いりさわ　ゆたか",
         "所属": "自由民主党・維新・参政・無所属の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/irisawa_yutaka"
     },
     {
         "氏名": "石原　昂",
         "よみ": "いしはら　たかし",
         "所属": "自由民主党・維新・参政・無所属の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ishiharatakash3"
     },
     {
         "氏名": "大舘　隆行",
@@ -198,6 +198,6 @@ window.municipalityMembers_112089 = [
         "氏名": "斎藤　由紀",
         "よみ": "さいとう　ゆき",
         "所属": "至誠自民クラブ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/tokorozawakaze"
     }
 ];

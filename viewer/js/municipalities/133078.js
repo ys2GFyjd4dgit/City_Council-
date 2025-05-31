@@ -1,4 +1,4 @@
-// 議員データ - 133078 （2025年05月30日更新）
+// 議員データ - 133078 （2025年05月31日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_133078 = [
