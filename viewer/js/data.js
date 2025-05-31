@@ -1,10 +1,10 @@
-// 議員データ（2025年05月30日更新）
-// このファイルは scripts/update_viewer_data.py により自動生成されます
-// 手動で編集しないでください
-
+// 議員データ（2025年05月31日現在）
 const municipalityData = {
-    '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 5 },
+    // 埼玉県
+    '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 24 },
     '112259': { name: '入間市', prefecture: '11_埼玉県', count: 22, xCount: 11 },
+
+    // 東京都
     '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 5 },
     '132021': { name: '立川市', prefecture: '13_東京都', count: 24, xCount: 8 },
     '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
@@ -22,7 +22,7 @@ const municipalityData = {
     '132152': { name: '国立市', prefecture: '13_東京都', count: 21, xCount: 1 },
     '132187': { name: '福生市', prefecture: '13_東京都', count: 18, xCount: 0 },
     '132195': { name: '狛江市', prefecture: '13_東京都', count: 22, xCount: 2 },
-    '132209': { name: '東大和市', prefecture: '13_東京都', count: 21, xCount: 4 },
+    '132209': { name: '東大和市', prefecture: '13_東京都', count: 21, xCount: 13 },
     '132217': { name: '清瀬市', prefecture: '13_東京都', count: 20, xCount: 5 },
     '132225': { name: '東久留米市', prefecture: '13_東京都', count: 21, xCount: 6 },
     '132233': { name: '武蔵村山市', prefecture: '13_東京都', count: 20, xCount: 10 },
@@ -44,4 +44,7 @@ const municipalityData = {
     '134015': { name: '八丈町', prefecture: '13_東京都', count: 12, xCount: 0 },
     '134023': { name: '青ヶ島村', prefecture: '13_東京都', count: 0, xCount: 0 },
     '134210': { name: '小笠原村', prefecture: '13_東京都', count: 8, xCount: 1 }
+
 };
+
+// Last updated: 2025-05-31T23:54:08.719001
