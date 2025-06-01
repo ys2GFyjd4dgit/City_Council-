@@ -1,4 +1,4 @@
-// 議員データ（2025年05月31日更新）
+// 議員データ（2025年06月01日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 // 手動で編集しないでください
 
@@ -29,7 +29,7 @@ const municipalityData = {
     '132241': { name: '多摩市', prefecture: '13_東京都', count: 23, xCount: 0 },
     '132250': { name: '稲城市', prefecture: '13_東京都', count: 22, xCount: 0 },
     '132276': { name: '羽村市', prefecture: '13_東京都', count: 18, xCount: 0 },
-    '132284': { name: 'あきる野市', prefecture: '13_東京都', count: 21, xCount: 2 },
+    '132284': { name: 'あきる野市', prefecture: '13_東京都', count: 21, xCount: 10 },
     '132292': { name: '西東京市', prefecture: '13_東京都', count: 28, xCount: 1 },
     '133035': { name: '瑞穂町', prefecture: '13_東京都', count: 15, xCount: 0 },
     '133051': { name: '日の出町', prefecture: '13_東京都', count: 14, xCount: 0 },
