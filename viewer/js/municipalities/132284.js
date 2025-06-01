@@ -1,4 +1,4 @@
-// 議員データ - 132284 （2025年05月31日更新）
+// 議員データ - 132284 （2025年06月01日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_132284 = [
@@ -12,7 +12,7 @@ window.municipalityMembers_132284 = [
         "氏名": "辻　よし子",
         "よみ": "つじ　よしこ",
         "所属": "くさしぎ",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kawarade"
     },
     {
         "氏名": "しょうじ　さとし",
@@ -30,19 +30,19 @@ window.municipalityMembers_132284 = [
         "氏名": "原田　ひろこ",
         "よみ": "はらだ　ひろこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/harada__hiroko"
     },
     {
         "氏名": "大久保　昌代",
         "よみ": "おおくぼ　まさよ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/masayo_okubo"
     },
     {
         "氏名": "松本　ゆき子",
         "よみ": "まつもと　ゆきこ",
         "所属": "日本共産党あきる野市議団",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/matsubokkuri_5"
     },
     {
         "氏名": "中村　のりひと",
@@ -66,7 +66,7 @@ window.municipalityMembers_132284 = [
         "氏名": "中村　一広",
         "よみ": "なかむら　かずひろ",
         "所属": "自由民主党志清会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kazuhiro_n_"
     },
     {
         "氏名": "ひはら　省吾",
@@ -84,13 +84,13 @@ window.municipalityMembers_132284 = [
         "氏名": "増﨑　俊宏",
         "よみ": "ますざき　としひろ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/masuzaki1970"
     },
     {
         "氏名": "たばた　あずみ",
         "よみ": "たばた　あずみ",
         "所属": "日本共産党あきる野市議団",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/tabataazumi"
     },
     {
         "氏名": "清水　晃",
@@ -114,7 +114,7 @@ window.municipalityMembers_132284 = [
         "氏名": "子籠　敏人",
         "よみ": "こごもり　としひと",
         "所属": "自由民主党志清会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kogomori_news"
     },
     {
         "氏名": "堀江　武史",
