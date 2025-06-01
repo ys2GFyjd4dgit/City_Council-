@@ -6,7 +6,7 @@ window.municipalityMembers_133621 = [
         "氏名": "加藤大樹",
         "よみ": "かとうひろき",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/daiki_toshima"
     },
     {
         "氏名": "髙田竜次",
@@ -24,7 +24,7 @@ window.municipalityMembers_133621 = [
         "氏名": "大磯元希",
         "よみ": "おおいそげんき",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/toshima_oiso"
     },
     {
         "氏名": "石野美由紀",

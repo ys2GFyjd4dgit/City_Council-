@@ -5,7 +5,7 @@
 const municipalityData = {
     '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 24 },
     '112259': { name: '入間市', prefecture: '11_埼玉県', count: 22, xCount: 11 },
-    '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 5 },
+    '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 20 },
     '132021': { name: '立川市', prefecture: '13_東京都', count: 24, xCount: 8 },
     '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
     '132047': { name: '三鷹市', prefecture: '13_東京都', count: 28, xCount: 17 },
@@ -36,7 +36,7 @@ const municipalityData = {
     '133078': { name: '檜原村', prefecture: '13_東京都', count: 8, xCount: 0 },
     '133086': { name: '奥多摩町', prefecture: '13_東京都', count: 10, xCount: 0 },
     '133612': { name: '大島町', prefecture: '13_東京都', count: 14, xCount: 0 },
-    '133621': { name: '利島村', prefecture: '13_東京都', count: 6, xCount: 0 },
+    '133621': { name: '利島村', prefecture: '13_東京都', count: 6, xCount: 2 },
     '133639': { name: '新島村', prefecture: '13_東京都', count: 10, xCount: 0 },
     '133647': { name: '神津島村', prefecture: '13_東京都', count: 8, xCount: 0 },
     '133817': { name: '三宅村', prefecture: '13_東京都', count: 7, xCount: 0 },
