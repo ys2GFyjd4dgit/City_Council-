@@ -6,13 +6,13 @@ window.municipalityMembers_134015 = [
         "氏名": "真田幸久",
         "よみ": "さなだゆきひさ",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/sanadayukihisa"
     },
     {
         "氏名": "淺沼隆章",
         "よみ": "あさぬまたかあき",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/aomi_asa"
     },
     {
         "氏名": "奥山幸子",
@@ -48,13 +48,13 @@ window.municipalityMembers_134015 = [
         "氏名": "岩﨑由美",
         "よみ": "いわさきゆみ",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/yumi_iwasaki"
     },
     {
         "氏名": "浅沼碧海",
         "よみ": "あさぬまあおみ",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/aomi_asa"
     },
     {
         "氏名": "山下巧",
