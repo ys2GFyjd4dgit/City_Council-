@@ -36,7 +36,7 @@ window.municipalityMembers_132012 = [
         "氏名": "小林　秀司",
         "よみ": "こばやし ひでし",
         "所属": "自民党新政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kobayashi6340"
     },
     {
         "氏名": "川村　奈緒美",
@@ -66,7 +66,7 @@ window.municipalityMembers_132012 = [
         "氏名": "西室　真希",
         "よみ": "にしむろ まき",
         "所属": "自民党新政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/nishimuro_maki"
     },
     {
         "氏名": "古里　幸太郎",
@@ -90,13 +90,13 @@ window.municipalityMembers_132012 = [
         "氏名": "冨永　純子",
         "よみ": "とみなが じゅんこ",
         "所属": "八王子市議会公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/junkotominaga89"
     },
     {
         "氏名": "渡口　禎",
         "よみ": "とぐち ただし",
         "所属": "八王子市議会公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/toguchitadashi"
     },
     {
         "氏名": "美濃部　弥生",
@@ -120,13 +120,13 @@ window.municipalityMembers_132012 = [
         "氏名": "五間　浩",
         "よみ": "ごま ひろし",
         "所属": "八王子市議会公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/goma_hiroshi"
     },
     {
         "氏名": "村松　徹",
         "よみ": "むらまつ とおる",
         "所属": "八王子市議会公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/torumurablues"
     },
     {
         "氏名": "綿林　夕夏",
@@ -144,13 +144,13 @@ window.municipalityMembers_132012 = [
         "氏名": "市川　克宏",
         "よみ": "いちかわ かつひろ",
         "所属": "日本共産党八王子市議会議員団",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/matagiminarai"
     },
     {
         "氏名": "石井　宏和",
         "よみ": "いしい ひろかず",
         "所属": "日本共産党八王子市議会議員団",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/tokyo24chg"
     },
     {
         "氏名": "鈴木　勇次",
@@ -162,19 +162,19 @@ window.municipalityMembers_132012 = [
         "氏名": "浜野　正太",
         "よみ": "はまの しょうた",
         "所属": "立憲民主・市民の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/hamano19880909"
     },
     {
         "氏名": "九鬼　ともみ",
         "よみ": "くき ともみ",
         "所属": "立憲民主・市民の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/tomomi9tree"
     },
     {
         "氏名": "森　喜彦",
         "よみ": "もり よしひこ",
         "所属": "立憲民主・市民の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/morizov"
     },
     {
         "氏名": "安藤　修三",
@@ -192,7 +192,7 @@ window.municipalityMembers_132012 = [
         "氏名": "高橋　剛",
         "よみ": "たかはし つよし",
         "所属": "諸派",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/gohachioji"
     },
     {
         "氏名": "舩木　翔平",
@@ -210,19 +210,19 @@ window.municipalityMembers_132012 = [
         "氏名": "金子　亜希子",
         "よみ": "かねこ あきこ",
         "所属": "諸派",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/coupe_mt"
     },
     {
         "氏名": "山本　貴士",
         "よみ": "やまもと たかし",
-        "所属": "諸派",
-        "X（旧Twitter）": null
+        "所属": "参政党",
+        "X（旧Twitter）": "https://x.com/yamamoto8oji"
     },
     {
         "氏名": "及川　賢一",
         "よみ": "おいかわ けんいち",
         "所属": "諸派",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/oikenken"
     },
     {
         "氏名": "星野　直美",
