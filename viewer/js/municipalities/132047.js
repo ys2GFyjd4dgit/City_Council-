@@ -18,7 +18,7 @@ window.municipalityMembers_132047 = [
         "氏名": "山田　さとみ",
         "よみ": "やまだ さとみ",
         "所属": "都民ファーストの会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/y_satomitaka"
     },
     {
         "氏名": "池田　ゆうや",
@@ -36,7 +36,7 @@ window.municipalityMembers_132047 = [
         "氏名": "前田　まい",
         "よみ": "まえだ まい",
         "所属": "未確認",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/maedamai_181"
     },
     {
         "氏名": "半田　伸明",
@@ -66,7 +66,7 @@ window.municipalityMembers_132047 = [
         "氏名": "紫野　あすか",
         "よみ": "しの あすか",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/asunokaori"
     },
     {
         "氏名": "土屋　けんいち",
@@ -84,7 +84,7 @@ window.municipalityMembers_132047 = [
         "氏名": "原　めぐみ",
         "よみ": "はら めぐみ",
         "所属": "都民ファーストの会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/megumihara_2023"
     },
     {
         "氏名": "岩見　大三",
@@ -96,7 +96,7 @@ window.municipalityMembers_132047 = [
         "氏名": "大倉　あき子",
         "よみ": "おおくら あきこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/okura_akiko"
     },
     {
         "氏名": "佐々木　かずよ",
@@ -114,37 +114,37 @@ window.municipalityMembers_132047 = [
         "氏名": "粕谷　みのる",
         "よみ": "かすや みのる",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/minoru_kasuya"
     },
     {
         "氏名": "赤松　だいいち",
         "よみ": "あかまつ だいいち",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/akamatsudaiichi"
     },
     {
         "氏名": "吉田　まさとし",
         "よみ": "よしだ まさとし",
         "所属": "自由民主党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/Yoshida_0824"
     },
     {
         "氏名": "えびさわ　せいご",
         "よみ": "えびさわ せいご",
-        "所属": "未確認",
-        "X（旧Twitter）": null
+        "所属": "参政党",
+        "X（旧Twitter）": "https://x.com/ebisei1"
     },
     {
         "氏名": "吉野　けんさく",
         "よみ": "よしの けんさく",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/yoshinokensaku"
     },
     {
         "氏名": "中泉　きよし",
         "よみ": "なかいずみ きよし",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/nakaizumikiyo"
     },
     {
         "氏名": "栗原　けんじ",
@@ -162,7 +162,7 @@ window.municipalityMembers_132047 = [
         "氏名": "太田　みつ子",
         "よみ": "おおた みつこ",
         "所属": "自由民主党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/mitsuota325"
     },
     {
         "氏名": "高谷　真一朗",

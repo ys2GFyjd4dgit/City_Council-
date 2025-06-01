@@ -8,7 +8,7 @@ const municipalityData = {
     '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 5 },
     '132021': { name: '立川市', prefecture: '13_東京都', count: 24, xCount: 8 },
     '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
-    '132047': { name: '三鷹市', prefecture: '13_東京都', count: 28, xCount: 5 },
+    '132047': { name: '三鷹市', prefecture: '13_東京都', count: 28, xCount: 17 },
     '132055': { name: '青梅市', prefecture: '13_東京都', count: 24, xCount: 2 },
     '132063': { name: '府中市', prefecture: '13_東京都', count: 29, xCount: 4 },
     '132071': { name: '昭島市', prefecture: '13_東京都', count: 22, xCount: 9 },
@@ -41,7 +41,7 @@ const municipalityData = {
     '133647': { name: '神津島村', prefecture: '13_東京都', count: 8, xCount: 0 },
     '133817': { name: '三宅村', prefecture: '13_東京都', count: 7, xCount: 0 },
     '133825': { name: '御蔵島村', prefecture: '13_東京都', count: 6, xCount: 0 },
-    '134015': { name: '八丈町', prefecture: '13_東京都', count: 12, xCount: 0 },
+    '134015': { name: '八丈町', prefecture: '13_東京都', count: 12, xCount: 4 },
     '134023': { name: '青ヶ島村', prefecture: '13_東京都', count: 0, xCount: 0 },
     '134210': { name: '小笠原村', prefecture: '13_東京都', count: 8, xCount: 1 }
 };
