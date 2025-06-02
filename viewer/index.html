@@ -32,13 +32,24 @@
         // data.jsを動的に読み込み
         const dataScript = document.createElement('script');
         dataScript.src = `js/data.js?v=${version}`;
-        document.head.appendChild(dataScript);
+        document.body.appendChild(dataScript);
         
-        // index-simple.jsを動的に読み込み
+        // data.jsの読み込み完了後にindex-simple.jsを読み込み
         dataScript.onload = function() {
             const indexScript = document.createElement('script');
             indexScript.src = `js/index-simple.js?v=${version}`;
-            document.head.appendChild(indexScript);
+            document.body.appendChild(indexScript);
+            
+            // index-simple.jsの読み込み完了後に初期化関数を実行
+            indexScript.onload = function() {
+                // DOMContentLoadedが既に発火している場合のために直接実行
+                if (document.readyState === 'loading') {
+                    document.addEventListener('DOMContentLoaded', displayMunicipalities);
+                } else {
+                    // 既にDOMが読み込まれている場合は直接実行
+                    displayMunicipalities();
+                }
+            };
         };
     </script>
     <!-- デバッグ用：動的読み込み版は以下をコメントアウトを外して使用 -->
