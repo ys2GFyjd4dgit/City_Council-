@@ -1,4 +1,4 @@
-// 議員データ - 132152 （2025年06月01日更新）
+// 議員データ - 132152 （2025年06月02日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_132152 = [
@@ -12,19 +12,19 @@ window.municipalityMembers_132152 = [
         "氏名": "小川　宏美",
         "よみ": "おがわ　ひろみ",
         "所属": "耕す未来＠くにたち",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/0gawa1183"
     },
     {
         "氏名": "望月　健一",
         "よみ": "もちづき　けんいち",
         "所属": "みらいのくにたち",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/mochiken46"
     },
     {
         "氏名": "中川　貴大",
         "よみ": "なかがわ　たかひろ",
         "所属": "日本維新の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/info_nakagawa"
     },
     {
         "氏名": "石井　めぐみ",
@@ -48,13 +48,13 @@ window.municipalityMembers_132152 = [
         "氏名": "矢部　新",
         "よみ": "やべ　あらた",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/yabe_arata"
     },
     {
         "氏名": "古濱　薫",
         "よみ": "こはま　かおる",
         "所属": "社民・ネット・風",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kohamakaoru"
     },
     {
         "氏名": "中谷　絢子",
@@ -72,7 +72,7 @@ window.municipalityMembers_132152 = [
         "氏名": "山口　智之",
         "よみ": "やまぐち　ともゆき",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/yamaguchi_tom"
     },
     {
         "氏名": "遠藤　直弘",
@@ -90,7 +90,7 @@ window.municipalityMembers_132152 = [
         "氏名": "住友　珠美",
         "よみ": "すみとも　たまみ",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/5963tama"
     },
     {
         "氏名": "関口　博",
@@ -108,19 +108,19 @@ window.municipalityMembers_132152 = [
         "氏名": "香西　貴弘",
         "よみ": "こうざい　たかひろ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kouzai_takahiro"
     },
     {
         "氏名": "青木　淳子",
         "よみ": "あおき　じゅんこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/Onc8ok1rCgdwEZw"
     },
     {
         "氏名": "石井　伸之",
         "よみ": "いしい　のぶゆき",
         "所属": "自由民主党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ishiinobuyuki"
     },
     {
         "氏名": "青木　健",

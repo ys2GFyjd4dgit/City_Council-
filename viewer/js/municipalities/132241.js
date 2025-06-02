@@ -1,4 +1,4 @@
-// 議員データ - 132241 （2025年06月01日更新）
+// 議員データ - 132241 （2025年06月02日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_132241 = [
@@ -12,13 +12,13 @@ window.municipalityMembers_132241 = [
         "氏名": "いいじま　文彦",
         "よみ": "いいじま　ふみひこ",
         "所属": "自民党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/IIJIMAfumihiko"
     },
     {
         "氏名": "池田　けい子",
         "よみ": "いけだ　けいこ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/IwMOlTKFQQCfNbA"
     },
     {
         "氏名": "石山　ひろあき",
@@ -30,13 +30,13 @@ window.municipalityMembers_132241 = [
         "氏名": "いぢち　恭子",
         "よみ": "いぢち　きょうこ",
         "所属": "ネット・社民の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kyoko_ijichi"
     },
     {
         "氏名": "岩崎　みなこ",
         "よみ": "いわさき　みなこ",
         "所属": "ネット・社民の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/iwasaki_ikiiki"
     },
     {
         "氏名": "上杉　ただし",
@@ -48,7 +48,7 @@ window.municipalityMembers_132241 = [
         "氏名": "大くま　真一",
         "よみ": "おおくま　しんいち",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ookumasinniti"
     },
     {
         "氏名": "おにづか　こずえ",
@@ -72,13 +72,13 @@ window.municipalityMembers_132241 = [
         "氏名": "きりき　優",
         "よみ": "きりき　ゆたか",
         "所属": "自民党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kiriki_yutaka"
     },
     {
         "氏名": "小林　憲一",
         "よみ": "こばやし　けんいち",
         "所属": "日本共産党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kobakenjcp"
     },
     {
         "氏名": "三階　道雄",
@@ -102,7 +102,7 @@ window.municipalityMembers_132241 = [
         "氏名": "藤條　たかゆき",
         "よみ": "とうじょう　たかゆき",
         "所属": "日本維新の会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/taka_ishin"
     },
     {
         "氏名": "中島　律子",
@@ -120,19 +120,19 @@ window.municipalityMembers_132241 = [
         "氏名": "藤原　マサノリ",
         "よみ": "ふじわら　まさのり",
         "所属": "志政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/fmasanatsu"
     },
     {
         "氏名": "本間　としえ",
         "よみ": "ほんま　としえ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/hommatoshie"
     },
     {
         "氏名": "松田　だいすけ",
         "よみ": "まつだ　だいすけ",
         "所属": "自民党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/daisuke7matsuda"
     },
     {
         "氏名": "渡辺　しんじ",

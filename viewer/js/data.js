@@ -1,4 +1,4 @@
-// 議員データ（2025年06月01日更新）
+// 議員データ（2025年06月02日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 // 手動で編集しないでください
 
@@ -18,15 +18,15 @@ const municipalityData = {
     '132110': { name: '小平市', prefecture: '13_東京都', count: 27, xCount: 14 },
     '132128': { name: '日野市', prefecture: '13_東京都', count: 23, xCount: 8 },
     '132136': { name: '東村山市', prefecture: '13_東京都', count: 24, xCount: 5 },
-    '132144': { name: '国分寺市', prefecture: '13_東京都', count: 20, xCount: 5 },
-    '132152': { name: '国立市', prefecture: '13_東京都', count: 21, xCount: 1 },
+    '132144': { name: '国分寺市', prefecture: '13_東京都', count: 20, xCount: 18 },
+    '132152': { name: '国立市', prefecture: '13_東京都', count: 21, xCount: 11 },
     '132187': { name: '福生市', prefecture: '13_東京都', count: 18, xCount: 0 },
     '132195': { name: '狛江市', prefecture: '13_東京都', count: 22, xCount: 2 },
     '132209': { name: '東大和市', prefecture: '13_東京都', count: 21, xCount: 13 },
     '132217': { name: '清瀬市', prefecture: '13_東京都', count: 20, xCount: 5 },
     '132225': { name: '東久留米市', prefecture: '13_東京都', count: 21, xCount: 6 },
     '132233': { name: '武蔵村山市', prefecture: '13_東京都', count: 20, xCount: 10 },
-    '132241': { name: '多摩市', prefecture: '13_東京都', count: 23, xCount: 0 },
+    '132241': { name: '多摩市', prefecture: '13_東京都', count: 23, xCount: 11 },
     '132250': { name: '稲城市', prefecture: '13_東京都', count: 22, xCount: 0 },
     '132276': { name: '羽村市', prefecture: '13_東京都', count: 18, xCount: 0 },
     '132284': { name: 'あきる野市', prefecture: '13_東京都', count: 21, xCount: 10 },
