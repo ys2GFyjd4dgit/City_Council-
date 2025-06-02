@@ -18,7 +18,7 @@ window.municipalityMembers_132250 = [
         "氏名": "武田　まさひと",
         "よみ": "たけだ　まさひと",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/inagitetsu"
     },
     {
         "氏名": "湯谷　ひろし",
@@ -30,7 +30,7 @@ window.municipalityMembers_132250 = [
         "氏名": "佐藤　しんじ",
         "よみ": "さとう　しんじ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/satoshin0406"
     },
     {
         "氏名": "つのじ　寛美",
@@ -78,7 +78,7 @@ window.municipalityMembers_132250 = [
         "氏名": "中田　中",
         "よみ": "なかた　あたる",
         "所属": "稲志会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ataru3"
     },
     {
         "氏名": "坂田　たけふみ",
@@ -120,7 +120,7 @@ window.municipalityMembers_132250 = [
         "氏名": "川村　あや",
         "よみ": "かわむら　あや",
         "所属": "稲志会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kawamuraaya0830"
     },
     {
         "氏名": "鈴木　誠",

@@ -60,7 +60,7 @@ window.municipalityMembers_132187 = [
         "氏名": "市川　佳樹",
         "よみ": "いちかわ　よしき",
         "所属": "立憲民主党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/0916yoshiking"
     },
     {
         "氏名": "小澤　芳輝",
@@ -84,7 +84,7 @@ window.municipalityMembers_132187 = [
         "氏名": "青木　健",
         "よみ": "あおき　けん",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/aokima33"
     },
     {
         "氏名": "堀　雄一朗",
