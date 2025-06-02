@@ -65,7 +65,18 @@
         // municipality-static.jsを動的に読み込み
         const municipalityScript = document.createElement('script');
         municipalityScript.src = `js/municipality-static.js?v=${version}`;
-        document.head.appendChild(municipalityScript);
+        document.body.appendChild(municipalityScript);
+        
+        // スクリプトの読み込み完了後に初期化関数を実行
+        municipalityScript.onload = function() {
+            // DOMContentLoadedが既に発火している場合のために直接実行
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', initialize);
+            } else {
+                // 既にDOMが読み込まれている場合は直接実行
+                initialize();
+            }
+        };
     </script>
     <!-- デバッグ用：動的読み込み版は以下をコメントアウトを外して使用 -->
     <!-- <script src="js/municipality.js"></script> -->
