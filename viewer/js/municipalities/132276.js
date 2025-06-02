@@ -12,7 +12,7 @@ window.municipalityMembers_132276 = [
         "氏名": "櫻沢　裕人",
         "よみ": "さくらざわ　ひろと",
         "所属": "新政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/sakurazawa_hiro"
     },
     {
         "氏名": "池澤　敦",
