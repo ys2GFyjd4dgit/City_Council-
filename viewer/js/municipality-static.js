@@ -29,9 +29,10 @@ async function initialize() {
 
 // Load councillor data from static JS file
 function loadStaticData() {
-    // 静的データファイルを動的に読み込む
+    // 静的データファイルを動的に読み込む（キャッシュバスティング付き）
     const script = document.createElement('script');
-    script.src = `js/municipalities/${municipalityCode}.js`;
+    const version = new Date().getTime();
+    script.src = `js/municipalities/${municipalityCode}.js?v=${version}`;
     
     console.log('Loading script:', script.src);
     
