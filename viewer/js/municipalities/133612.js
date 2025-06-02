@@ -42,7 +42,7 @@ window.municipalityMembers_133612 = [
         "氏名": "村田学",
         "よみ": "むらたまなぶ",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ManaMuraOshima"
     },
     {
         "氏名": "川嵜和光",
