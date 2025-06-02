@@ -58,7 +58,15 @@
         </footer>
     </div>
     
-    <script src="js/municipality-static.js"></script>
+    <script>
+        // キャッシュバスティング用のタイムスタンプを生成
+        const version = new Date().getTime();
+        
+        // municipality-static.jsを動的に読み込み
+        const municipalityScript = document.createElement('script');
+        municipalityScript.src = `js/municipality-static.js?v=${version}`;
+        document.head.appendChild(municipalityScript);
+    </script>
     <!-- デバッグ用：動的読み込み版は以下をコメントアウトを外して使用 -->
     <!-- <script src="js/municipality.js"></script> -->
 </body>
