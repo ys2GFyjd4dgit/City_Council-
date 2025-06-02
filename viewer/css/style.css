@@ -273,3 +273,45 @@ footer {
         content: "読み込み中...";
     }
 }
+
+/* Prefecture Selector */
+.prefecture-selector {
+    background-color: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.prefecture-selector label {
+    font-weight: bold;
+    margin-right: 1rem;
+    font-size: 1.1rem;
+}
+
+.prefecture-selector select {
+    padding: 0.75rem 1.5rem;
+    font-size: 1.1rem;
+    border: 2px solid #3498db;
+    border-radius: 4px;
+    background-color: white;
+    cursor: pointer;
+    min-width: 200px;
+}
+
+.prefecture-selector select:hover {
+    border-color: #2980b9;
+}
+
+.prefecture-selector select:focus {
+    outline: none;
+    border-color: #2980b9;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+}
+
+#loading {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 2rem 0;
+}

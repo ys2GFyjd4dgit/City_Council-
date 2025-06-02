@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>都道府県別議員一覧</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="prefecture-name">都道府県別議員一覧</h1>
+            <nav>
+                <a href="index.html">← 市町村一覧に戻る</a>
+            </nav>
+        </header>
+        
+        <main>
+            <div class="prefecture-selector">
+                <label for="prefecture-select">都道府県を選択:</label>
+                <select id="prefecture-select">
+                    <option value="">選択してください</option>
+                    <option value="13_東京都">東京都</option>
+                    <option value="11_埼玉県">埼玉県</option>
+                </select>
+            </div>
+            
+            <div id="content-area" style="display: none;">
+                <div class="controls">
+                    <div class="search-box">
+                        <input type="text" id="search-input" placeholder="議員名で検索...">
+                    </div>
+                    <div class="filter-box">
+                        <label for="municipality-filter">市町村で絞り込み:</label>
+                        <select id="municipality-filter">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
+                    <div class="filter-box">
+                        <label for="party-filter">政党・会派で絞り込み:</label>
+                        <select id="party-filter">
+                            <option value="">すべて</option>
+                        </select>
+                    </div>
+                    <div class="stats">
+                        <span id="total-count">総数: 0</span>
+                        <span id="x-account-count">X アカウント保有: 0</span>
+                    </div>
+                </div>
+                
+                <div class="table-container">
+                    <table id="councillor-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="municipality" class="sortable">市町村 <span class="sort-icon">▼</span></th>
+                                <th data-sort="name" class="sortable">議員名 <span class="sort-icon">▼</span></th>
+                                <th data-sort="ruby" class="sortable">ふりがな <span class="sort-icon">▼</span></th>
+                                <th data-sort="party" class="sortable">政党・会派 <span class="sort-icon">▼</span></th>
+                                <th data-sort="x_account" class="sortable">X (旧Twitter) <span class="sort-icon">▼</span></th>
+                            </tr>
+                        </thead>
+                        <tbody id="councillor-tbody">
+                            <!-- JavaScript will populate this -->
+                        </tbody>
+                    </table>
+                </div>
+                
+                <div id="no-results" style="display: none;">
+                    <p>検索条件に一致する議員が見つかりませんでした。</p>
+                </div>
+                
+                <div id="loading" style="display: none; text-align: center; padding: 20px;">
+                    <p>データを読み込んでいます...</p>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2025 市町村議会議員データビューア</p>
+        </footer>
+    </div>
+    
+    <script>
+        // キャッシュバスティング用のタイムスタンプを生成
+        const version = new Date().getTime();
+        
+        // data.jsを動的に読み込み
+        const dataScript = document.createElement('script');
+        dataScript.src = `js/data.js?v=${version}`;
+        document.body.appendChild(dataScript);
+        
+        // data.jsの読み込み完了後にprefecture-static.jsを読み込み
+        dataScript.onload = function() {
+            const prefectureScript = document.createElement('script');
+            prefectureScript.src = `js/prefecture-static.js?v=${version}`;
+            document.body.appendChild(prefectureScript);
+            
+            // prefecture-static.jsの読み込み完了後に初期化関数を実行
+            prefectureScript.onload = function() {
+                if (document.readyState === 'loading') {
+                    document.addEventListener('DOMContentLoaded', initializePrefecture);
+                } else {
+                    initializePrefecture();
+                }
+            };
+        };
+    </script>
+</body>
+</html>
