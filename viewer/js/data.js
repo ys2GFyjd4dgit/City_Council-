@@ -35,7 +35,7 @@ const municipalityData = {
     '133051': { name: '日の出町', prefecture: '13_東京都', count: 14, xCount: 0 },
     '133078': { name: '檜原村', prefecture: '13_東京都', count: 8, xCount: 0 },
     '133086': { name: '奥多摩町', prefecture: '13_東京都', count: 10, xCount: 0 },
-    '133612': { name: '大島町', prefecture: '13_東京都', count: 14, xCount: 0 },
+    '133612': { name: '大島町', prefecture: '13_東京都', count: 14, xCount: 1 },
     '133621': { name: '利島村', prefecture: '13_東京都', count: 6, xCount: 2 },
     '133639': { name: '新島村', prefecture: '13_東京都', count: 10, xCount: 0 },
     '133647': { name: '神津島村', prefecture: '13_東京都', count: 8, xCount: 0 },
