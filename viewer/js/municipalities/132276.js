@@ -48,7 +48,7 @@ window.municipalityMembers_132276 = [
         "氏名": "高田　和登",
         "よみ": "たかだ　かずと",
         "所属": "つながる力",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/takadakazuto"
     },
     {
         "氏名": "浜中　順",

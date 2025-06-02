@@ -28,7 +28,7 @@ const municipalityData = {
     '132233': { name: '武蔵村山市', prefecture: '13_東京都', count: 20, xCount: 10 },
     '132241': { name: '多摩市', prefecture: '13_東京都', count: 23, xCount: 11 },
     '132250': { name: '稲城市', prefecture: '13_東京都', count: 22, xCount: 4 },
-    '132276': { name: '羽村市', prefecture: '13_東京都', count: 18, xCount: 1 },
+    '132276': { name: '羽村市', prefecture: '13_東京都', count: 18, xCount: 2 },
     '132284': { name: 'あきる野市', prefecture: '13_東京都', count: 21, xCount: 10 },
     '132292': { name: '西東京市', prefecture: '13_東京都', count: 28, xCount: 1 },
     '133035': { name: '瑞穂町', prefecture: '13_東京都', count: 15, xCount: 0 },
