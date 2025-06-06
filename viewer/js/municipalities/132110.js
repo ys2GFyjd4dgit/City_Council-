@@ -1,4 +1,4 @@
-// 議員データ - 132110 （2025年06月02日更新）
+// 議員データ - 132110 （2025年06月06日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_132110 = [
@@ -72,7 +72,7 @@ window.municipalityMembers_132110 = [
         "氏名": "髙橋　政美",
         "よみ": "たかはし まさみ",
         "所属": "市議会公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/DtUe7q"
     },
     {
         "氏名": "津本　裕子",
@@ -84,7 +84,7 @@ window.municipalityMembers_132110 = [
         "氏名": "外山　まなみ",
         "よみ": "とやま まなみ",
         "所属": "自民党小平政和会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/mtoyama0131"
     },
     {
         "氏名": "中江　美和",
@@ -120,7 +120,7 @@ window.municipalityMembers_132110 = [
         "氏名": "福室　英俊",
         "よみ": "ふくむろ ひでとし",
         "所属": "自民党小平政和会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/hqzydmbr5p5prgy"
     },
     {
         "氏名": "細谷　正",
@@ -138,7 +138,7 @@ window.municipalityMembers_132110 = [
         "氏名": "三輪　博美",
         "よみ": "みわ ひろみ",
         "所属": "日本共産党小平市議団",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/piromi1982"
     },
     {
         "氏名": "安竹　洋平",
@@ -150,7 +150,7 @@ window.municipalityMembers_132110 = [
         "氏名": "山田　大輔",
         "よみ": "やまだ だいすけ",
         "所属": "自民党小平政和会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/KODAIRA_DAISUKI"
     },
     {
         "氏名": "幸田　昌之",
@@ -162,6 +162,6 @@ window.municipalityMembers_132110 = [
         "氏名": "吉本　ゆうすけ",
         "よみ": "よしもと ゆうすけ",
         "所属": "フォーラム小平",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/TP5wYSBtGoLaOrx"
     }
 ];
