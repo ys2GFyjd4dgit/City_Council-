@@ -1,4 +1,4 @@
-// 議員データ（2025年06月02日更新）
+// 議員データ（2025年06月06日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 // 手動で編集しないでください
 
@@ -15,7 +15,7 @@ const municipalityData = {
     '132080': { name: '調布市', prefecture: '13_東京都', count: 28, xCount: 5 },
     '132098': { name: '町田市', prefecture: '13_東京都', count: 33, xCount: 16 },
     '132101': { name: '小金井市', prefecture: '13_東京都', count: 24, xCount: 8 },
-    '132110': { name: '小平市', prefecture: '13_東京都', count: 27, xCount: 14 },
+    '132110': { name: '小平市', prefecture: '13_東京都', count: 27, xCount: 20 },
     '132128': { name: '日野市', prefecture: '13_東京都', count: 23, xCount: 8 },
     '132136': { name: '東村山市', prefecture: '13_東京都', count: 24, xCount: 5 },
     '132144': { name: '国分寺市', prefecture: '13_東京都', count: 20, xCount: 18 },
