@@ -1,0 +1,43 @@
+member_name,strategy_type,priority,query,url
+池田望,direct_search,high,"""池田望"" 村議 -RT",https://x.com/search?q=%22%E6%B1%A0%E7%94%B0%E6%9C%9B%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+池田望,direct_search,high,"""池田望"" 小笠原村 議員",https://x.com/search?q=%22%E6%B1%A0%E7%94%B0%E6%9C%9B%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+池田望,direct_search,high,池田望 プロフィール 村議,https://x.com/search?q=%E6%B1%A0%E7%94%B0%E6%9C%9B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+池田望,election_search,low,池田望 当選 小笠原村,https://x.com/search?q=%E6%B1%A0%E7%94%B0%E6%9C%9B%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+池田望,election_search,low,#小笠原村選挙 池田望,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%B1%A0%E7%94%B0%E6%9C%9B&f=user
+池田望,election_search,low,池田望 選挙ポスター,https://x.com/search?q=%E6%B1%A0%E7%94%B0%E6%9C%9B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+稲垣勇,direct_search,high,"""稲垣勇"" 村議 -RT",https://x.com/search?q=%22%E7%A8%B2%E5%9E%A3%E5%8B%87%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+稲垣勇,direct_search,high,"""稲垣勇"" 小笠原村 議員",https://x.com/search?q=%22%E7%A8%B2%E5%9E%A3%E5%8B%87%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+稲垣勇,direct_search,high,稲垣勇 プロフィール 村議,https://x.com/search?q=%E7%A8%B2%E5%9E%A3%E5%8B%87%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+稲垣勇,election_search,low,稲垣勇 当選 小笠原村,https://x.com/search?q=%E7%A8%B2%E5%9E%A3%E5%8B%87%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+稲垣勇,election_search,low,#小笠原村選挙 稲垣勇,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E7%A8%B2%E5%9E%A3%E5%8B%87&f=user
+稲垣勇,election_search,low,稲垣勇 選挙ポスター,https://x.com/search?q=%E7%A8%B2%E5%9E%A3%E5%8B%87%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+杉田一男,direct_search,high,"""杉田一男"" 村議 -RT",https://x.com/search?q=%22%E6%9D%89%E7%94%B0%E4%B8%80%E7%94%B7%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+杉田一男,direct_search,high,"""杉田一男"" 小笠原村 議員",https://x.com/search?q=%22%E6%9D%89%E7%94%B0%E4%B8%80%E7%94%B7%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+杉田一男,direct_search,high,杉田一男 プロフィール 村議,https://x.com/search?q=%E6%9D%89%E7%94%B0%E4%B8%80%E7%94%B7%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+杉田一男,election_search,low,杉田一男 当選 小笠原村,https://x.com/search?q=%E6%9D%89%E7%94%B0%E4%B8%80%E7%94%B7%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+杉田一男,election_search,low,#小笠原村選挙 杉田一男,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%9D%89%E7%94%B0%E4%B8%80%E7%94%B7&f=user
+杉田一男,election_search,low,杉田一男 選挙ポスター,https://x.com/search?q=%E6%9D%89%E7%94%B0%E4%B8%80%E7%94%B7%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+片股敬昌,direct_search,high,"""片股敬昌"" 村議 -RT",https://x.com/search?q=%22%E7%89%87%E8%82%A1%E6%95%AC%E6%98%8C%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+片股敬昌,direct_search,high,"""片股敬昌"" 小笠原村 議員",https://x.com/search?q=%22%E7%89%87%E8%82%A1%E6%95%AC%E6%98%8C%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+片股敬昌,direct_search,high,片股敬昌 プロフィール 村議,https://x.com/search?q=%E7%89%87%E8%82%A1%E6%95%AC%E6%98%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+片股敬昌,election_search,low,片股敬昌 当選 小笠原村,https://x.com/search?q=%E7%89%87%E8%82%A1%E6%95%AC%E6%98%8C%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+片股敬昌,election_search,low,#小笠原村選挙 片股敬昌,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E7%89%87%E8%82%A1%E6%95%AC%E6%98%8C&f=user
+片股敬昌,election_search,low,片股敬昌 選挙ポスター,https://x.com/search?q=%E7%89%87%E8%82%A1%E6%95%AC%E6%98%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+安藤重行,direct_search,high,"""安藤重行"" 村議 -RT",https://x.com/search?q=%22%E5%AE%89%E8%97%A4%E9%87%8D%E8%A1%8C%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+安藤重行,direct_search,high,"""安藤重行"" 小笠原村 議員",https://x.com/search?q=%22%E5%AE%89%E8%97%A4%E9%87%8D%E8%A1%8C%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+安藤重行,direct_search,high,安藤重行 プロフィール 村議,https://x.com/search?q=%E5%AE%89%E8%97%A4%E9%87%8D%E8%A1%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+安藤重行,election_search,low,安藤重行 当選 小笠原村,https://x.com/search?q=%E5%AE%89%E8%97%A4%E9%87%8D%E8%A1%8C%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+安藤重行,election_search,low,#小笠原村選挙 安藤重行,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%AE%89%E8%97%A4%E9%87%8D%E8%A1%8C&f=user
+安藤重行,election_search,low,安藤重行 選挙ポスター,https://x.com/search?q=%E5%AE%89%E8%97%A4%E9%87%8D%E8%A1%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水良一,direct_search,high,"""清水良一"" 村議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E8%89%AF%E4%B8%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+清水良一,direct_search,high,"""清水良一"" 小笠原村 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E8%89%AF%E4%B8%80%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+清水良一,direct_search,high,清水良一 プロフィール 村議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E8%89%AF%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+清水良一,election_search,low,清水良一 当選 小笠原村,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E8%89%AF%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+清水良一,election_search,low,#小笠原村選挙 清水良一,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E8%89%AF%E4%B8%80&f=user
+清水良一,election_search,low,清水良一 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E8%89%AF%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+平野悠介,direct_search,high,"""平野悠介"" 村議 -RT",https://x.com/search?q=%22%E5%B9%B3%E9%87%8E%E6%82%A0%E4%BB%8B%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+平野悠介,direct_search,high,"""平野悠介"" 小笠原村 議員",https://x.com/search?q=%22%E5%B9%B3%E9%87%8E%E6%82%A0%E4%BB%8B%22%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+平野悠介,direct_search,high,平野悠介 プロフィール 村議,https://x.com/search?q=%E5%B9%B3%E9%87%8E%E6%82%A0%E4%BB%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+平野悠介,election_search,low,平野悠介 当選 小笠原村,https://x.com/search?q=%E5%B9%B3%E9%87%8E%E6%82%A0%E4%BB%8B%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91&f=user
+平野悠介,election_search,low,#小笠原村選挙 平野悠介,https://x.com/search?q=%23%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B9%B3%E9%87%8E%E6%82%A0%E4%BB%8B&f=user
+平野悠介,election_search,low,平野悠介 選挙ポスター,https://x.com/search?q=%E5%B9%B3%E9%87%8E%E6%82%A0%E4%BB%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

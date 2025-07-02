@@ -1,0 +1,97 @@
+member_name,strategy_type,priority,query,url
+あらたに　隆見,direct_search,high,"""あらたに　隆見"" 市議 -RT",https://x.com/search?q=%22%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E3%80%80%E9%9A%86%E8%A6%8B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+あらたに　隆見,direct_search,high,"""あらたに　隆見"" 多摩市 議員",https://x.com/search?q=%22%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E3%80%80%E9%9A%86%E8%A6%8B%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+あらたに　隆見,direct_search,high,あらたに隆見 プロフィール 市議,https://x.com/search?q=%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E9%9A%86%E8%A6%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+あらたに　隆見,party_search,medium,公明党 多摩市 あらたに,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB&f=user
+あらたに　隆見,party_search,medium,"""公明党"" メンバー あらたに　隆見",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E3%80%80%E9%9A%86%E8%A6%8B&f=user
+あらたに　隆見,election_search,low,あらたに　隆見 当選 多摩市,https://x.com/search?q=%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E3%80%80%E9%9A%86%E8%A6%8B%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+あらたに　隆見,election_search,low,#多摩市選挙 あらたに　隆見,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E3%80%80%E9%9A%86%E8%A6%8B&f=user
+あらたに　隆見,election_search,low,あらたに　隆見 選挙ポスター,https://x.com/search?q=%E3%81%82%E3%82%89%E3%81%9F%E3%81%AB%E3%80%80%E9%9A%86%E8%A6%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石山　ひろあき,direct_search,high,"""石山　ひろあき"" 市議 -RT",https://x.com/search?q=%22%E7%9F%B3%E5%B1%B1%E3%80%80%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+石山　ひろあき,direct_search,high,"""石山　ひろあき"" 多摩市 議員",https://x.com/search?q=%22%E7%9F%B3%E5%B1%B1%E3%80%80%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+石山　ひろあき,direct_search,high,石山ひろあき プロフィール 市議,https://x.com/search?q=%E7%9F%B3%E5%B1%B1%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+石山　ひろあき,party_search,medium,自民党 多摩市 石山,https://x.com/search?q=%E8%87%AA%E6%B0%91%E5%85%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E7%9F%B3%E5%B1%B1&f=user
+石山　ひろあき,party_search,medium,"""自民党"" メンバー 石山　ひろあき",https://x.com/search?q=%22%E8%87%AA%E6%B0%91%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%9F%B3%E5%B1%B1%E3%80%80%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D&f=user
+石山　ひろあき,election_search,low,石山　ひろあき 当選 多摩市,https://x.com/search?q=%E7%9F%B3%E5%B1%B1%E3%80%80%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+石山　ひろあき,election_search,low,#多摩市選挙 石山　ひろあき,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%9F%B3%E5%B1%B1%E3%80%80%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D&f=user
+石山　ひろあき,election_search,low,石山　ひろあき 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E5%B1%B1%E3%80%80%E3%81%B2%E3%82%8D%E3%81%82%E3%81%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+上杉　ただし,direct_search,high,"""上杉　ただし"" 市議 -RT",https://x.com/search?q=%22%E4%B8%8A%E6%9D%89%E3%80%80%E3%81%9F%E3%81%A0%E3%81%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+上杉　ただし,direct_search,high,"""上杉　ただし"" 多摩市 議員",https://x.com/search?q=%22%E4%B8%8A%E6%9D%89%E3%80%80%E3%81%9F%E3%81%A0%E3%81%97%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+上杉　ただし,direct_search,high,上杉ただし プロフィール 市議,https://x.com/search?q=%E4%B8%8A%E6%9D%89%E3%81%9F%E3%81%A0%E3%81%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+上杉　ただし,party_search,medium,日本共産党 多摩市 上杉,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E4%B8%8A%E6%9D%89&f=user
+上杉　ただし,party_search,medium,"""日本共産党"" メンバー 上杉　ただし",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%8A%E6%9D%89%E3%80%80%E3%81%9F%E3%81%A0%E3%81%97&f=user
+上杉　ただし,election_search,low,上杉　ただし 当選 多摩市,https://x.com/search?q=%E4%B8%8A%E6%9D%89%E3%80%80%E3%81%9F%E3%81%A0%E3%81%97%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+上杉　ただし,election_search,low,#多摩市選挙 上杉　ただし,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%8A%E6%9D%89%E3%80%80%E3%81%9F%E3%81%A0%E3%81%97&f=user
+上杉　ただし,election_search,low,上杉　ただし 選挙ポスター,https://x.com/search?q=%E4%B8%8A%E6%9D%89%E3%80%80%E3%81%9F%E3%81%A0%E3%81%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+おにづか　こずえ,direct_search,high,"""おにづか　こずえ"" 市議 -RT",https://x.com/search?q=%22%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%80%80%E3%81%93%E3%81%9A%E3%81%88%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+おにづか　こずえ,direct_search,high,"""おにづか　こずえ"" 多摩市 議員",https://x.com/search?q=%22%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%80%80%E3%81%93%E3%81%9A%E3%81%88%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+おにづか　こずえ,direct_search,high,おにづかこずえ プロフィール 市議,https://x.com/search?q=%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%81%93%E3%81%9A%E3%81%88%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+おにづか　こずえ,party_search,medium,あすたま・維新 多摩市 おにづか,https://x.com/search?q=%E3%81%82%E3%81%99%E3%81%9F%E3%81%BE%E3%83%BB%E7%B6%AD%E6%96%B0%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B&f=user
+おにづか　こずえ,party_search,medium,"""あすたま・維新"" メンバー おにづか　こずえ",https://x.com/search?q=%22%E3%81%82%E3%81%99%E3%81%9F%E3%81%BE%E3%83%BB%E7%B6%AD%E6%96%B0%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%80%80%E3%81%93%E3%81%9A%E3%81%88&f=user
+おにづか　こずえ,election_search,low,おにづか　こずえ 当選 多摩市,https://x.com/search?q=%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%80%80%E3%81%93%E3%81%9A%E3%81%88%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+おにづか　こずえ,election_search,low,#多摩市選挙 おにづか　こずえ,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%80%80%E3%81%93%E3%81%9A%E3%81%88&f=user
+おにづか　こずえ,election_search,low,おにづか　こずえ 選挙ポスター,https://x.com/search?q=%E3%81%8A%E3%81%AB%E3%81%A5%E3%81%8B%E3%80%80%E3%81%93%E3%81%9A%E3%81%88%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+折戸　小夜子,direct_search,high,"""折戸　小夜子"" 市議 -RT",https://x.com/search?q=%22%E6%8A%98%E6%88%B8%E3%80%80%E5%B0%8F%E5%A4%9C%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+折戸　小夜子,direct_search,high,"""折戸　小夜子"" 多摩市 議員",https://x.com/search?q=%22%E6%8A%98%E6%88%B8%E3%80%80%E5%B0%8F%E5%A4%9C%E5%AD%90%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+折戸　小夜子,direct_search,high,折戸小夜子 プロフィール 市議,https://x.com/search?q=%E6%8A%98%E6%88%B8%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+折戸　小夜子,party_search,medium,多摩の風 多摩市 折戸,https://x.com/search?q=%E5%A4%9A%E6%91%A9%E3%81%AE%E9%A2%A8%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E6%8A%98%E6%88%B8&f=user
+折戸　小夜子,party_search,medium,"""多摩の風"" メンバー 折戸　小夜子",https://x.com/search?q=%22%E5%A4%9A%E6%91%A9%E3%81%AE%E9%A2%A8%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%8A%98%E6%88%B8%E3%80%80%E5%B0%8F%E5%A4%9C%E5%AD%90&f=user
+折戸　小夜子,election_search,low,折戸　小夜子 当選 多摩市,https://x.com/search?q=%E6%8A%98%E6%88%B8%E3%80%80%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+折戸　小夜子,election_search,low,#多摩市選挙 折戸　小夜子,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%8A%98%E6%88%B8%E3%80%80%E5%B0%8F%E5%A4%9C%E5%AD%90&f=user
+折戸　小夜子,election_search,low,折戸　小夜子 選挙ポスター,https://x.com/search?q=%E6%8A%98%E6%88%B8%E3%80%80%E5%B0%8F%E5%A4%9C%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+岸田　めぐみ,direct_search,high,"""岸田　めぐみ"" 市議 -RT",https://x.com/search?q=%22%E5%B2%B8%E7%94%B0%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+岸田　めぐみ,direct_search,high,"""岸田　めぐみ"" 多摩市 議員",https://x.com/search?q=%22%E5%B2%B8%E7%94%B0%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+岸田　めぐみ,direct_search,high,岸田めぐみ プロフィール 市議,https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%82%81%E3%81%90%E3%81%BF%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+岸田　めぐみ,party_search,medium,ネット・社民の会 多摩市 岸田,https://x.com/search?q=%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E7%A4%BE%E6%B0%91%E3%81%AE%E4%BC%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E5%B2%B8%E7%94%B0&f=user
+岸田　めぐみ,party_search,medium,"""ネット・社民の会"" メンバー 岸田　めぐみ",https://x.com/search?q=%22%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E7%A4%BE%E6%B0%91%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B2%B8%E7%94%B0%E3%80%80%E3%82%81%E3%81%90%E3%81%BF&f=user
+岸田　めぐみ,election_search,low,岸田　めぐみ 当選 多摩市,https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+岸田　めぐみ,election_search,low,#多摩市選挙 岸田　めぐみ,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B2%B8%E7%94%B0%E3%80%80%E3%82%81%E3%81%90%E3%81%BF&f=user
+岸田　めぐみ,election_search,low,岸田　めぐみ 選挙ポスター,https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+三階　道雄,direct_search,high,"""三階　道雄"" 市議 -RT",https://x.com/search?q=%22%E4%B8%89%E9%9A%8E%E3%80%80%E9%81%93%E9%9B%84%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+三階　道雄,direct_search,high,"""三階　道雄"" 多摩市 議員",https://x.com/search?q=%22%E4%B8%89%E9%9A%8E%E3%80%80%E9%81%93%E9%9B%84%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+三階　道雄,direct_search,high,三階道雄 プロフィール 市議,https://x.com/search?q=%E4%B8%89%E9%9A%8E%E9%81%93%E9%9B%84%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+三階　道雄,party_search,medium,公明党 多摩市 三階,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E4%B8%89%E9%9A%8E&f=user
+三階　道雄,party_search,medium,"""公明党"" メンバー 三階　道雄",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%89%E9%9A%8E%E3%80%80%E9%81%93%E9%9B%84&f=user
+三階　道雄,election_search,low,三階　道雄 当選 多摩市,https://x.com/search?q=%E4%B8%89%E9%9A%8E%E3%80%80%E9%81%93%E9%9B%84%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+三階　道雄,election_search,low,#多摩市選挙 三階　道雄,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%89%E9%9A%8E%E3%80%80%E9%81%93%E9%9B%84&f=user
+三階　道雄,election_search,low,三階　道雄 選挙ポスター,https://x.com/search?q=%E4%B8%89%E9%9A%8E%E3%80%80%E9%81%93%E9%9B%84%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+しのづか　元,direct_search,high,"""しのづか　元"" 市議 -RT",https://x.com/search?q=%22%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E3%80%80%E5%85%83%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+しのづか　元,direct_search,high,"""しのづか　元"" 多摩市 議員",https://x.com/search?q=%22%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E3%80%80%E5%85%83%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+しのづか　元,direct_search,high,しのづか元 プロフィール 市議,https://x.com/search?q=%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E5%85%83%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+しのづか　元,party_search,medium,多摩みらいの会 多摩市 しのづか,https://x.com/search?q=%E5%A4%9A%E6%91%A9%E3%81%BF%E3%82%89%E3%81%84%E3%81%AE%E4%BC%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B&f=user
+しのづか　元,party_search,medium,"""多摩みらいの会"" メンバー しのづか　元",https://x.com/search?q=%22%E5%A4%9A%E6%91%A9%E3%81%BF%E3%82%89%E3%81%84%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E3%80%80%E5%85%83&f=user
+しのづか　元,election_search,low,しのづか　元 当選 多摩市,https://x.com/search?q=%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E3%80%80%E5%85%83%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+しのづか　元,election_search,low,#多摩市選挙 しのづか　元,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E3%80%80%E5%85%83&f=user
+しのづか　元,election_search,low,しのづか　元 選挙ポスター,https://x.com/search?q=%E3%81%97%E3%81%AE%E3%81%A5%E3%81%8B%E3%80%80%E5%85%83%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+しらた　満,direct_search,high,"""しらた　満"" 市議 -RT",https://x.com/search?q=%22%E3%81%97%E3%82%89%E3%81%9F%E3%80%80%E6%BA%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+しらた　満,direct_search,high,"""しらた　満"" 多摩市 議員",https://x.com/search?q=%22%E3%81%97%E3%82%89%E3%81%9F%E3%80%80%E6%BA%80%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+しらた　満,direct_search,high,しらた満 プロフィール 市議,https://x.com/search?q=%E3%81%97%E3%82%89%E3%81%9F%E6%BA%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+しらた　満,party_search,medium,青空りっけん 多摩市 しらた,https://x.com/search?q=%E9%9D%92%E7%A9%BA%E3%82%8A%E3%81%A3%E3%81%91%E3%82%93%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E3%81%97%E3%82%89%E3%81%9F&f=user
+しらた　満,party_search,medium,"""青空りっけん"" メンバー しらた　満",https://x.com/search?q=%22%E9%9D%92%E7%A9%BA%E3%82%8A%E3%81%A3%E3%81%91%E3%82%93%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%97%E3%82%89%E3%81%9F%E3%80%80%E6%BA%80&f=user
+しらた　満,election_search,low,しらた　満 当選 多摩市,https://x.com/search?q=%E3%81%97%E3%82%89%E3%81%9F%E3%80%80%E6%BA%80%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+しらた　満,election_search,low,#多摩市選挙 しらた　満,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%97%E3%82%89%E3%81%9F%E3%80%80%E6%BA%80&f=user
+しらた　満,election_search,low,しらた　満 選挙ポスター,https://x.com/search?q=%E3%81%97%E3%82%89%E3%81%9F%E3%80%80%E6%BA%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中島　律子,direct_search,high,"""中島　律子"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E5%B3%B6%E3%80%80%E5%BE%8B%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中島　律子,direct_search,high,"""中島　律子"" 多摩市 議員",https://x.com/search?q=%22%E4%B8%AD%E5%B3%B6%E3%80%80%E5%BE%8B%E5%AD%90%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中島　律子,direct_search,high,中島律子 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E5%BE%8B%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中島　律子,party_search,medium,あすたま・維新 多摩市 中島,https://x.com/search?q=%E3%81%82%E3%81%99%E3%81%9F%E3%81%BE%E3%83%BB%E7%B6%AD%E6%96%B0%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E4%B8%AD%E5%B3%B6&f=user
+中島　律子,party_search,medium,"""あすたま・維新"" メンバー 中島　律子",https://x.com/search?q=%22%E3%81%82%E3%81%99%E3%81%9F%E3%81%BE%E3%83%BB%E7%B6%AD%E6%96%B0%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E5%B3%B6%E3%80%80%E5%BE%8B%E5%AD%90&f=user
+中島　律子,election_search,low,中島　律子 当選 多摩市,https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E3%80%80%E5%BE%8B%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+中島　律子,election_search,low,#多摩市選挙 中島　律子,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E5%B3%B6%E3%80%80%E5%BE%8B%E5%AD%90&f=user
+中島　律子,election_search,low,中島　律子 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E5%B3%B6%E3%80%80%E5%BE%8B%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+橋本　由美子,direct_search,high,"""橋本　由美子"" 市議 -RT",https://x.com/search?q=%22%E6%A9%8B%E6%9C%AC%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+橋本　由美子,direct_search,high,"""橋本　由美子"" 多摩市 議員",https://x.com/search?q=%22%E6%A9%8B%E6%9C%AC%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+橋本　由美子,direct_search,high,橋本由美子 プロフィール 市議,https://x.com/search?q=%E6%A9%8B%E6%9C%AC%E7%94%B1%E7%BE%8E%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+橋本　由美子,party_search,medium,日本共産党 多摩市 橋本,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E6%A9%8B%E6%9C%AC&f=user
+橋本　由美子,party_search,medium,"""日本共産党"" メンバー 橋本　由美子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A9%8B%E6%9C%AC%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90&f=user
+橋本　由美子,election_search,low,橋本　由美子 当選 多摩市,https://x.com/search?q=%E6%A9%8B%E6%9C%AC%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+橋本　由美子,election_search,low,#多摩市選挙 橋本　由美子,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A9%8B%E6%9C%AC%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90&f=user
+橋本　由美子,election_search,low,橋本　由美子 選挙ポスター,https://x.com/search?q=%E6%A9%8B%E6%9C%AC%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+渡辺　しんじ,direct_search,high,"""渡辺　しんじ"" 市議 -RT",https://x.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%97%E3%82%93%E3%81%98%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+渡辺　しんじ,direct_search,high,"""渡辺　しんじ"" 多摩市 議員",https://x.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%97%E3%82%93%E3%81%98%22%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+渡辺　しんじ,direct_search,high,渡辺しんじ プロフィール 市議,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%81%97%E3%82%93%E3%81%98%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+渡辺　しんじ,party_search,medium,公明党 多摩市 渡辺,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%A4%9A%E6%91%A9%E5%B8%82%20%E6%B8%A1%E8%BE%BA&f=user
+渡辺　しんじ,party_search,medium,"""公明党"" メンバー 渡辺　しんじ",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%97%E3%82%93%E3%81%98&f=user
+渡辺　しんじ,election_search,low,渡辺　しんじ 当選 多摩市,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%97%E3%82%93%E3%81%98%20%E5%BD%93%E9%81%B8%20%E5%A4%9A%E6%91%A9%E5%B8%82&f=user
+渡辺　しんじ,election_search,low,#多摩市選挙 渡辺　しんじ,https://x.com/search?q=%23%E5%A4%9A%E6%91%A9%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%97%E3%82%93%E3%81%98&f=user
+渡辺　しんじ,election_search,low,渡辺　しんじ 選挙ポスター,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%97%E3%82%93%E3%81%98%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

@@ -1,0 +1,37 @@
+member_name,strategy_type,priority,query,url
+栗本真一,direct_search,high,"""栗本真一"" 村議 -RT",https://x.com/search?q=%22%E6%A0%97%E6%9C%AC%E7%9C%9F%E4%B8%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+栗本真一,direct_search,high,"""栗本真一"" 御蔵島村 議員",https://x.com/search?q=%22%E6%A0%97%E6%9C%AC%E7%9C%9F%E4%B8%80%22%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+栗本真一,direct_search,high,栗本真一 プロフィール 村議,https://x.com/search?q=%E6%A0%97%E6%9C%AC%E7%9C%9F%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+栗本真一,election_search,low,栗本真一 当選 御蔵島村,https://x.com/search?q=%E6%A0%97%E6%9C%AC%E7%9C%9F%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91&f=user
+栗本真一,election_search,low,#御蔵島村選挙 栗本真一,https://x.com/search?q=%23%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%A0%97%E6%9C%AC%E7%9C%9F%E4%B8%80&f=user
+栗本真一,election_search,low,栗本真一 選挙ポスター,https://x.com/search?q=%E6%A0%97%E6%9C%AC%E7%9C%9F%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+栗本道雄,direct_search,high,"""栗本道雄"" 村議 -RT",https://x.com/search?q=%22%E6%A0%97%E6%9C%AC%E9%81%93%E9%9B%84%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+栗本道雄,direct_search,high,"""栗本道雄"" 御蔵島村 議員",https://x.com/search?q=%22%E6%A0%97%E6%9C%AC%E9%81%93%E9%9B%84%22%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+栗本道雄,direct_search,high,栗本道雄 プロフィール 村議,https://x.com/search?q=%E6%A0%97%E6%9C%AC%E9%81%93%E9%9B%84%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+栗本道雄,election_search,low,栗本道雄 当選 御蔵島村,https://x.com/search?q=%E6%A0%97%E6%9C%AC%E9%81%93%E9%9B%84%20%E5%BD%93%E9%81%B8%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91&f=user
+栗本道雄,election_search,low,#御蔵島村選挙 栗本道雄,https://x.com/search?q=%23%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%A0%97%E6%9C%AC%E9%81%93%E9%9B%84&f=user
+栗本道雄,election_search,low,栗本道雄 選挙ポスター,https://x.com/search?q=%E6%A0%97%E6%9C%AC%E9%81%93%E9%9B%84%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+黒田正道,direct_search,high,"""黒田正道"" 村議 -RT",https://x.com/search?q=%22%E9%BB%92%E7%94%B0%E6%AD%A3%E9%81%93%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+黒田正道,direct_search,high,"""黒田正道"" 御蔵島村 議員",https://x.com/search?q=%22%E9%BB%92%E7%94%B0%E6%AD%A3%E9%81%93%22%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+黒田正道,direct_search,high,黒田正道 プロフィール 村議,https://x.com/search?q=%E9%BB%92%E7%94%B0%E6%AD%A3%E9%81%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+黒田正道,election_search,low,黒田正道 当選 御蔵島村,https://x.com/search?q=%E9%BB%92%E7%94%B0%E6%AD%A3%E9%81%93%20%E5%BD%93%E9%81%B8%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91&f=user
+黒田正道,election_search,low,#御蔵島村選挙 黒田正道,https://x.com/search?q=%23%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%BB%92%E7%94%B0%E6%AD%A3%E9%81%93&f=user
+黒田正道,election_search,low,黒田正道 選挙ポスター,https://x.com/search?q=%E9%BB%92%E7%94%B0%E6%AD%A3%E9%81%93%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+砂原奈美子,direct_search,high,"""砂原奈美子"" 村議 -RT",https://x.com/search?q=%22%E7%A0%82%E5%8E%9F%E5%A5%88%E7%BE%8E%E5%AD%90%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+砂原奈美子,direct_search,high,"""砂原奈美子"" 御蔵島村 議員",https://x.com/search?q=%22%E7%A0%82%E5%8E%9F%E5%A5%88%E7%BE%8E%E5%AD%90%22%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+砂原奈美子,direct_search,high,砂原奈美子 プロフィール 村議,https://x.com/search?q=%E7%A0%82%E5%8E%9F%E5%A5%88%E7%BE%8E%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+砂原奈美子,election_search,low,砂原奈美子 当選 御蔵島村,https://x.com/search?q=%E7%A0%82%E5%8E%9F%E5%A5%88%E7%BE%8E%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91&f=user
+砂原奈美子,election_search,low,#御蔵島村選挙 砂原奈美子,https://x.com/search?q=%23%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E7%A0%82%E5%8E%9F%E5%A5%88%E7%BE%8E%E5%AD%90&f=user
+砂原奈美子,election_search,low,砂原奈美子 選挙ポスター,https://x.com/search?q=%E7%A0%82%E5%8E%9F%E5%A5%88%E7%BE%8E%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+西川理恵,direct_search,high,"""西川理恵"" 村議 -RT",https://x.com/search?q=%22%E8%A5%BF%E5%B7%9D%E7%90%86%E6%81%B5%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+西川理恵,direct_search,high,"""西川理恵"" 御蔵島村 議員",https://x.com/search?q=%22%E8%A5%BF%E5%B7%9D%E7%90%86%E6%81%B5%22%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+西川理恵,direct_search,high,西川理恵 プロフィール 村議,https://x.com/search?q=%E8%A5%BF%E5%B7%9D%E7%90%86%E6%81%B5%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+西川理恵,election_search,low,西川理恵 当選 御蔵島村,https://x.com/search?q=%E8%A5%BF%E5%B7%9D%E7%90%86%E6%81%B5%20%E5%BD%93%E9%81%B8%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91&f=user
+西川理恵,election_search,low,#御蔵島村選挙 西川理恵,https://x.com/search?q=%23%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E8%A5%BF%E5%B7%9D%E7%90%86%E6%81%B5&f=user
+西川理恵,election_search,low,西川理恵 選挙ポスター,https://x.com/search?q=%E8%A5%BF%E5%B7%9D%E7%90%86%E6%81%B5%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+広瀬旭治,direct_search,high,"""広瀬旭治"" 村議 -RT",https://x.com/search?q=%22%E5%BA%83%E7%80%AC%E6%97%AD%E6%B2%BB%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+広瀬旭治,direct_search,high,"""広瀬旭治"" 御蔵島村 議員",https://x.com/search?q=%22%E5%BA%83%E7%80%AC%E6%97%AD%E6%B2%BB%22%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+広瀬旭治,direct_search,high,広瀬旭治 プロフィール 村議,https://x.com/search?q=%E5%BA%83%E7%80%AC%E6%97%AD%E6%B2%BB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+広瀬旭治,election_search,low,広瀬旭治 当選 御蔵島村,https://x.com/search?q=%E5%BA%83%E7%80%AC%E6%97%AD%E6%B2%BB%20%E5%BD%93%E9%81%B8%20%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91&f=user
+広瀬旭治,election_search,low,#御蔵島村選挙 広瀬旭治,https://x.com/search?q=%23%E5%BE%A1%E8%94%B5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%BA%83%E7%80%AC%E6%97%AD%E6%B2%BB&f=user
+広瀬旭治,election_search,low,広瀬旭治 選挙ポスター,https://x.com/search?q=%E5%BA%83%E7%80%AC%E6%97%AD%E6%B2%BB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

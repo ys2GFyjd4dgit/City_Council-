@@ -1,0 +1,63 @@
+member_name,strategy_type,priority,query,url
+富田浩章,direct_search,high,"""富田浩章"" 村議 -RT",https://x.com/search?q=%22%E5%AF%8C%E7%94%B0%E6%B5%A9%E7%AB%A0%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+富田浩章,direct_search,high,"""富田浩章"" 新島村 議員",https://x.com/search?q=%22%E5%AF%8C%E7%94%B0%E6%B5%A9%E7%AB%A0%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+富田浩章,direct_search,high,富田浩章 プロフィール 村議,https://x.com/search?q=%E5%AF%8C%E7%94%B0%E6%B5%A9%E7%AB%A0%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+富田浩章,election_search,low,富田浩章 当選 新島村,https://x.com/search?q=%E5%AF%8C%E7%94%B0%E6%B5%A9%E7%AB%A0%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+富田浩章,election_search,low,#新島村選挙 富田浩章,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%AF%8C%E7%94%B0%E6%B5%A9%E7%AB%A0&f=user
+富田浩章,election_search,low,富田浩章 選挙ポスター,https://x.com/search?q=%E5%AF%8C%E7%94%B0%E6%B5%A9%E7%AB%A0%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+吉見一之,direct_search,high,"""吉見一之"" 村議 -RT",https://x.com/search?q=%22%E5%90%89%E8%A6%8B%E4%B8%80%E4%B9%8B%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+吉見一之,direct_search,high,"""吉見一之"" 新島村 議員",https://x.com/search?q=%22%E5%90%89%E8%A6%8B%E4%B8%80%E4%B9%8B%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+吉見一之,direct_search,high,吉見一之 プロフィール 村議,https://x.com/search?q=%E5%90%89%E8%A6%8B%E4%B8%80%E4%B9%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+吉見一之,election_search,low,吉見一之 当選 新島村,https://x.com/search?q=%E5%90%89%E8%A6%8B%E4%B8%80%E4%B9%8B%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+吉見一之,election_search,low,#新島村選挙 吉見一之,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%90%89%E8%A6%8B%E4%B8%80%E4%B9%8B&f=user
+吉見一之,election_search,low,吉見一之 選挙ポスター,https://x.com/search?q=%E5%90%89%E8%A6%8B%E4%B8%80%E4%B9%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+前田勝利,direct_search,high,"""前田勝利"" 村議 -RT",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E5%8B%9D%E5%88%A9%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+前田勝利,direct_search,high,"""前田勝利"" 新島村 議員",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E5%8B%9D%E5%88%A9%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+前田勝利,direct_search,high,前田勝利 プロフィール 村議,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%8B%9D%E5%88%A9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+前田勝利,election_search,low,前田勝利 当選 新島村,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%8B%9D%E5%88%A9%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+前田勝利,election_search,low,#新島村選挙 前田勝利,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%89%8D%E7%94%B0%E5%8B%9D%E5%88%A9&f=user
+前田勝利,election_search,low,前田勝利 選挙ポスター,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%8B%9D%E5%88%A9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大沼由美子,direct_search,high,"""大沼由美子"" 村議 -RT",https://x.com/search?q=%22%E5%A4%A7%E6%B2%BC%E7%94%B1%E7%BE%8E%E5%AD%90%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+大沼由美子,direct_search,high,"""大沼由美子"" 新島村 議員",https://x.com/search?q=%22%E5%A4%A7%E6%B2%BC%E7%94%B1%E7%BE%8E%E5%AD%90%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+大沼由美子,direct_search,high,大沼由美子 プロフィール 村議,https://x.com/search?q=%E5%A4%A7%E6%B2%BC%E7%94%B1%E7%BE%8E%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+大沼由美子,election_search,low,大沼由美子 当選 新島村,https://x.com/search?q=%E5%A4%A7%E6%B2%BC%E7%94%B1%E7%BE%8E%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+大沼由美子,election_search,low,#新島村選挙 大沼由美子,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%A4%A7%E6%B2%BC%E7%94%B1%E7%BE%8E%E5%AD%90&f=user
+大沼由美子,election_search,low,大沼由美子 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E6%B2%BC%E7%94%B1%E7%BE%8E%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小久保利佳,direct_search,high,"""小久保利佳"" 村議 -RT",https://x.com/search?q=%22%E5%B0%8F%E4%B9%85%E4%BF%9D%E5%88%A9%E4%BD%B3%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+小久保利佳,direct_search,high,"""小久保利佳"" 新島村 議員",https://x.com/search?q=%22%E5%B0%8F%E4%B9%85%E4%BF%9D%E5%88%A9%E4%BD%B3%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+小久保利佳,direct_search,high,小久保利佳 プロフィール 村議,https://x.com/search?q=%E5%B0%8F%E4%B9%85%E4%BF%9D%E5%88%A9%E4%BD%B3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+小久保利佳,election_search,low,小久保利佳 当選 新島村,https://x.com/search?q=%E5%B0%8F%E4%B9%85%E4%BF%9D%E5%88%A9%E4%BD%B3%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+小久保利佳,election_search,low,#新島村選挙 小久保利佳,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B0%8F%E4%B9%85%E4%BF%9D%E5%88%A9%E4%BD%B3&f=user
+小久保利佳,election_search,low,小久保利佳 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E4%B9%85%E4%BF%9D%E5%88%A9%E4%BD%B3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+綾亨,direct_search,high,"""綾亨"" 村議 -RT",https://x.com/search?q=%22%E7%B6%BE%E4%BA%A8%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+綾亨,direct_search,high,"""綾亨"" 新島村 議員",https://x.com/search?q=%22%E7%B6%BE%E4%BA%A8%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+綾亨,direct_search,high,綾亨 プロフィール 村議,https://x.com/search?q=%E7%B6%BE%E4%BA%A8%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+綾亨,party_search,medium,日本共産党 新島村 綾亨,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E7%B6%BE%E4%BA%A8&f=user
+綾亨,party_search,medium,"""日本共産党"" メンバー 綾亨",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%B6%BE%E4%BA%A8&f=user
+綾亨,election_search,low,綾亨 当選 新島村,https://x.com/search?q=%E7%B6%BE%E4%BA%A8%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+綾亨,election_search,low,#新島村選挙 綾亨,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E7%B6%BE%E4%BA%A8&f=user
+綾亨,election_search,low,綾亨 選挙ポスター,https://x.com/search?q=%E7%B6%BE%E4%BA%A8%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+前田壽夫,direct_search,high,"""前田壽夫"" 村議 -RT",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E5%A3%BD%E5%A4%AB%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+前田壽夫,direct_search,high,"""前田壽夫"" 新島村 議員",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E5%A3%BD%E5%A4%AB%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+前田壽夫,direct_search,high,前田壽夫 プロフィール 村議,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%A3%BD%E5%A4%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+前田壽夫,election_search,low,前田壽夫 当選 新島村,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%A3%BD%E5%A4%AB%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+前田壽夫,election_search,low,#新島村選挙 前田壽夫,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%89%8D%E7%94%B0%E5%A3%BD%E5%A4%AB&f=user
+前田壽夫,election_search,low,前田壽夫 選挙ポスター,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%A3%BD%E5%A4%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+青沼弘,direct_search,high,"""青沼弘"" 村議 -RT",https://x.com/search?q=%22%E9%9D%92%E6%B2%BC%E5%BC%98%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+青沼弘,direct_search,high,"""青沼弘"" 新島村 議員",https://x.com/search?q=%22%E9%9D%92%E6%B2%BC%E5%BC%98%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+青沼弘,direct_search,high,青沼弘 プロフィール 村議,https://x.com/search?q=%E9%9D%92%E6%B2%BC%E5%BC%98%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+青沼弘,election_search,low,青沼弘 当選 新島村,https://x.com/search?q=%E9%9D%92%E6%B2%BC%E5%BC%98%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+青沼弘,election_search,low,#新島村選挙 青沼弘,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%9D%92%E6%B2%BC%E5%BC%98&f=user
+青沼弘,election_search,low,青沼弘 選挙ポスター,https://x.com/search?q=%E9%9D%92%E6%B2%BC%E5%BC%98%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+前田卓秀,direct_search,high,"""前田卓秀"" 村議 -RT",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E5%8D%93%E7%A7%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+前田卓秀,direct_search,high,"""前田卓秀"" 新島村 議員",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E5%8D%93%E7%A7%80%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+前田卓秀,direct_search,high,前田卓秀 プロフィール 村議,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%8D%93%E7%A7%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+前田卓秀,election_search,low,前田卓秀 当選 新島村,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%8D%93%E7%A7%80%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+前田卓秀,election_search,low,#新島村選挙 前田卓秀,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%89%8D%E7%94%B0%E5%8D%93%E7%A7%80&f=user
+前田卓秀,election_search,low,前田卓秀 選挙ポスター,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%8D%93%E7%A7%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木村諭史,direct_search,high,"""木村諭史"" 村議 -RT",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E8%AB%AD%E5%8F%B2%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+木村諭史,direct_search,high,"""木村諭史"" 新島村 議員",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E8%AB%AD%E5%8F%B2%22%20%E6%96%B0%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+木村諭史,direct_search,high,木村諭史 プロフィール 村議,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E8%AB%AD%E5%8F%B2%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+木村諭史,election_search,low,木村諭史 当選 新島村,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E8%AB%AD%E5%8F%B2%20%E5%BD%93%E9%81%B8%20%E6%96%B0%E5%B3%B6%E6%9D%91&f=user
+木村諭史,election_search,low,#新島村選挙 木村諭史,https://x.com/search?q=%23%E6%96%B0%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%9C%A8%E6%9D%91%E8%AB%AD%E5%8F%B2&f=user
+木村諭史,election_search,low,木村諭史 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E8%AB%AD%E5%8F%B2%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

@@ -1,0 +1,153 @@
+member_name,strategy_type,priority,query,url
+小町　明夫,direct_search,high,"""小町　明夫"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E7%94%BA%E3%80%80%E6%98%8E%E5%A4%AB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小町　明夫,direct_search,high,"""小町　明夫"" 東村山市 議員",https://x.com/search?q=%22%E5%B0%8F%E7%94%BA%E3%80%80%E6%98%8E%E5%A4%AB%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小町　明夫,direct_search,high,小町明夫 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E7%94%BA%E6%98%8E%E5%A4%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小町　明夫,party_search,medium,自由民主党 東村山市 小町,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%B0%8F%E7%94%BA&f=user
+小町　明夫,party_search,medium,"""自由民主党"" メンバー 小町　明夫",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E7%94%BA%E3%80%80%E6%98%8E%E5%A4%AB&f=user
+小町　明夫,election_search,low,小町　明夫 当選 東村山市,https://x.com/search?q=%E5%B0%8F%E7%94%BA%E3%80%80%E6%98%8E%E5%A4%AB%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+小町　明夫,election_search,low,#東村山市選挙 小町　明夫,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E7%94%BA%E3%80%80%E6%98%8E%E5%A4%AB&f=user
+小町　明夫,election_search,low,小町　明夫 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E7%94%BA%E3%80%80%E6%98%8E%E5%A4%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+子安　じゅん,direct_search,high,"""子安　じゅん"" 市議 -RT",https://x.com/search?q=%22%E5%AD%90%E5%AE%89%E3%80%80%E3%81%98%E3%82%85%E3%82%93%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+子安　じゅん,direct_search,high,"""子安　じゅん"" 東村山市 議員",https://x.com/search?q=%22%E5%AD%90%E5%AE%89%E3%80%80%E3%81%98%E3%82%85%E3%82%93%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+子安　じゅん,direct_search,high,子安じゅん プロフィール 市議,https://x.com/search?q=%E5%AD%90%E5%AE%89%E3%81%98%E3%82%85%E3%82%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+子安　じゅん,party_search,medium,草の根市民クラブ 東村山市 子安,https://x.com/search?q=%E8%8D%89%E3%81%AE%E6%A0%B9%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%AD%90%E5%AE%89&f=user
+子安　じゅん,party_search,medium,"""草の根市民クラブ"" メンバー 子安　じゅん",https://x.com/search?q=%22%E8%8D%89%E3%81%AE%E6%A0%B9%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%AD%90%E5%AE%89%E3%80%80%E3%81%98%E3%82%85%E3%82%93&f=user
+子安　じゅん,election_search,low,子安　じゅん 当選 東村山市,https://x.com/search?q=%E5%AD%90%E5%AE%89%E3%80%80%E3%81%98%E3%82%85%E3%82%93%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+子安　じゅん,election_search,low,#東村山市選挙 子安　じゅん,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%AD%90%E5%AE%89%E3%80%80%E3%81%98%E3%82%85%E3%82%93&f=user
+子安　じゅん,election_search,low,子安　じゅん 選挙ポスター,https://x.com/search?q=%E5%AD%90%E5%AE%89%E3%80%80%E3%81%98%E3%82%85%E3%82%93%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木村　隆,direct_search,high,"""木村　隆"" 市議 -RT",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E3%80%80%E9%9A%86%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+木村　隆,direct_search,high,"""木村　隆"" 東村山市 議員",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E3%80%80%E9%9A%86%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+木村　隆,direct_search,high,木村隆 プロフィール 市議,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E9%9A%86%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+木村　隆,party_search,medium,自由民主党 東村山市 木村,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%9C%A8%E6%9D%91&f=user
+木村　隆,party_search,medium,"""自由民主党"" メンバー 木村　隆",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9C%A8%E6%9D%91%E3%80%80%E9%9A%86&f=user
+木村　隆,election_search,low,木村　隆 当選 東村山市,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E3%80%80%E9%9A%86%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+木村　隆,election_search,low,#東村山市選挙 木村　隆,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9C%A8%E6%9D%91%E3%80%80%E9%9A%86&f=user
+木村　隆,election_search,low,木村　隆 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E3%80%80%E9%9A%86%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+下沢　ゆきお,direct_search,high,"""下沢　ゆきお"" 市議 -RT",https://x.com/search?q=%22%E4%B8%8B%E6%B2%A2%E3%80%80%E3%82%86%E3%81%8D%E3%81%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+下沢　ゆきお,direct_search,high,"""下沢　ゆきお"" 東村山市 議員",https://x.com/search?q=%22%E4%B8%8B%E6%B2%A2%E3%80%80%E3%82%86%E3%81%8D%E3%81%8A%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+下沢　ゆきお,direct_search,high,下沢ゆきお プロフィール 市議,https://x.com/search?q=%E4%B8%8B%E6%B2%A2%E3%82%86%E3%81%8D%E3%81%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+下沢　ゆきお,party_search,medium,自由民主党 東村山市 下沢,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E4%B8%8B%E6%B2%A2&f=user
+下沢　ゆきお,party_search,medium,"""自由民主党"" メンバー 下沢　ゆきお",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%8B%E6%B2%A2%E3%80%80%E3%82%86%E3%81%8D%E3%81%8A&f=user
+下沢　ゆきお,election_search,low,下沢　ゆきお 当選 東村山市,https://x.com/search?q=%E4%B8%8B%E6%B2%A2%E3%80%80%E3%82%86%E3%81%8D%E3%81%8A%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+下沢　ゆきお,election_search,low,#東村山市選挙 下沢　ゆきお,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%8B%E6%B2%A2%E3%80%80%E3%82%86%E3%81%8D%E3%81%8A&f=user
+下沢　ゆきお,election_search,low,下沢　ゆきお 選挙ポスター,https://x.com/search?q=%E4%B8%8B%E6%B2%A2%E3%80%80%E3%82%86%E3%81%8D%E3%81%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+かくた　かづほ,direct_search,high,"""かくた　かづほ"" 市議 -RT",https://x.com/search?q=%22%E3%81%8B%E3%81%8F%E3%81%9F%E3%80%80%E3%81%8B%E3%81%A5%E3%81%BB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+かくた　かづほ,direct_search,high,"""かくた　かづほ"" 東村山市 議員",https://x.com/search?q=%22%E3%81%8B%E3%81%8F%E3%81%9F%E3%80%80%E3%81%8B%E3%81%A5%E3%81%BB%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+かくた　かづほ,direct_search,high,かくたかづほ プロフィール 市議,https://x.com/search?q=%E3%81%8B%E3%81%8F%E3%81%9F%E3%81%8B%E3%81%A5%E3%81%BB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+かくた　かづほ,party_search,medium,諸派 東村山市 かくた,https://x.com/search?q=%E8%AB%B8%E6%B4%BE%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%81%8B%E3%81%8F%E3%81%9F&f=user
+かくた　かづほ,party_search,medium,"""諸派"" メンバー かくた　かづほ",https://x.com/search?q=%22%E8%AB%B8%E6%B4%BE%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%8B%E3%81%8F%E3%81%9F%E3%80%80%E3%81%8B%E3%81%A5%E3%81%BB&f=user
+かくた　かづほ,election_search,low,かくた　かづほ 当選 東村山市,https://x.com/search?q=%E3%81%8B%E3%81%8F%E3%81%9F%E3%80%80%E3%81%8B%E3%81%A5%E3%81%BB%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+かくた　かづほ,election_search,low,#東村山市選挙 かくた　かづほ,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%8B%E3%81%8F%E3%81%9F%E3%80%80%E3%81%8B%E3%81%A5%E3%81%BB&f=user
+かくた　かづほ,election_search,low,かくた　かづほ 選挙ポスター,https://x.com/search?q=%E3%81%8B%E3%81%8F%E3%81%9F%E3%80%80%E3%81%8B%E3%81%A5%E3%81%BB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+白石　えつ子,direct_search,high,"""白石　えつ子"" 市議 -RT",https://x.com/search?q=%22%E7%99%BD%E7%9F%B3%E3%80%80%E3%81%88%E3%81%A4%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+白石　えつ子,direct_search,high,"""白石　えつ子"" 東村山市 議員",https://x.com/search?q=%22%E7%99%BD%E7%9F%B3%E3%80%80%E3%81%88%E3%81%A4%E5%AD%90%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+白石　えつ子,direct_search,high,白石えつ子 プロフィール 市議,https://x.com/search?q=%E7%99%BD%E7%9F%B3%E3%81%88%E3%81%A4%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+白石　えつ子,party_search,medium,諸派 東村山市 白石,https://x.com/search?q=%E8%AB%B8%E6%B4%BE%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E7%99%BD%E7%9F%B3&f=user
+白石　えつ子,party_search,medium,"""諸派"" メンバー 白石　えつ子",https://x.com/search?q=%22%E8%AB%B8%E6%B4%BE%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%99%BD%E7%9F%B3%E3%80%80%E3%81%88%E3%81%A4%E5%AD%90&f=user
+白石　えつ子,election_search,low,白石　えつ子 当選 東村山市,https://x.com/search?q=%E7%99%BD%E7%9F%B3%E3%80%80%E3%81%88%E3%81%A4%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+白石　えつ子,election_search,low,#東村山市選挙 白石　えつ子,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%99%BD%E7%9F%B3%E3%80%80%E3%81%88%E3%81%A4%E5%AD%90&f=user
+白石　えつ子,election_search,low,白石　えつ子 選挙ポスター,https://x.com/search?q=%E7%99%BD%E7%9F%B3%E3%80%80%E3%81%88%E3%81%A4%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+わたなべ　たかし,direct_search,high,"""わたなべ　たかし"" 市議 -RT",https://x.com/search?q=%22%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+わたなべ　たかし,direct_search,high,"""わたなべ　たかし"" 東村山市 議員",https://x.com/search?q=%22%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+わたなべ　たかし,direct_search,high,わたなべたかし プロフィール 市議,https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%81%9F%E3%81%8B%E3%81%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+わたなべ　たかし,party_search,medium,諸派 東村山市 わたなべ,https://x.com/search?q=%E8%AB%B8%E6%B4%BE%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9&f=user
+わたなべ　たかし,party_search,medium,"""諸派"" メンバー わたなべ　たかし",https://x.com/search?q=%22%E8%AB%B8%E6%B4%BE%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97&f=user
+わたなべ　たかし,election_search,low,わたなべ　たかし 当選 東村山市,https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+わたなべ　たかし,election_search,low,#東村山市選挙 わたなべ　たかし,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97&f=user
+わたなべ　たかし,election_search,low,わたなべ　たかし 選挙ポスター,https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%AA%E3%81%B9%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+浅見　みどり,direct_search,high,"""浅見　みどり"" 市議 -RT",https://x.com/search?q=%22%E6%B5%85%E8%A6%8B%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+浅見　みどり,direct_search,high,"""浅見　みどり"" 東村山市 議員",https://x.com/search?q=%22%E6%B5%85%E8%A6%8B%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+浅見　みどり,direct_search,high,浅見みどり プロフィール 市議,https://x.com/search?q=%E6%B5%85%E8%A6%8B%E3%81%BF%E3%81%A9%E3%82%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+浅見　みどり,party_search,medium,日本共産党 東村山市 浅見,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%B5%85%E8%A6%8B&f=user
+浅見　みどり,party_search,medium,"""日本共産党"" メンバー 浅見　みどり",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B5%85%E8%A6%8B%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A&f=user
+浅見　みどり,election_search,low,浅見　みどり 当選 東村山市,https://x.com/search?q=%E6%B5%85%E8%A6%8B%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+浅見　みどり,election_search,low,#東村山市選挙 浅見　みどり,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B5%85%E8%A6%8B%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A&f=user
+浅見　みどり,election_search,low,浅見　みどり 選挙ポスター,https://x.com/search?q=%E6%B5%85%E8%A6%8B%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+熊木　敏己,direct_search,high,"""熊木　敏己"" 市議 -RT",https://x.com/search?q=%22%E7%86%8A%E6%9C%A8%E3%80%80%E6%95%8F%E5%B7%B1%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+熊木　敏己,direct_search,high,"""熊木　敏己"" 東村山市 議員",https://x.com/search?q=%22%E7%86%8A%E6%9C%A8%E3%80%80%E6%95%8F%E5%B7%B1%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+熊木　敏己,direct_search,high,熊木敏己 プロフィール 市議,https://x.com/search?q=%E7%86%8A%E6%9C%A8%E6%95%8F%E5%B7%B1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+熊木　敏己,party_search,medium,自由民主党 東村山市 熊木,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E7%86%8A%E6%9C%A8&f=user
+熊木　敏己,party_search,medium,"""自由民主党"" メンバー 熊木　敏己",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%86%8A%E6%9C%A8%E3%80%80%E6%95%8F%E5%B7%B1&f=user
+熊木　敏己,election_search,low,熊木　敏己 当選 東村山市,https://x.com/search?q=%E7%86%8A%E6%9C%A8%E3%80%80%E6%95%8F%E5%B7%B1%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+熊木　敏己,election_search,low,#東村山市選挙 熊木　敏己,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%86%8A%E6%9C%A8%E3%80%80%E6%95%8F%E5%B7%B1&f=user
+熊木　敏己,election_search,low,熊木　敏己 選挙ポスター,https://x.com/search?q=%E7%86%8A%E6%9C%A8%E3%80%80%E6%95%8F%E5%B7%B1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小林　美緒,direct_search,high,"""小林　美緒"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E7%BE%8E%E7%B7%92%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小林　美緒,direct_search,high,"""小林　美緒"" 東村山市 議員",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E7%BE%8E%E7%B7%92%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小林　美緒,direct_search,high,小林美緒 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E7%BE%8E%E7%B7%92%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小林　美緒,party_search,medium,自由民主党 東村山市 小林,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%B0%8F%E6%9E%97&f=user
+小林　美緒,party_search,medium,"""自由民主党"" メンバー 小林　美緒",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E6%9E%97%E3%80%80%E7%BE%8E%E7%B7%92&f=user
+小林　美緒,election_search,low,小林　美緒 当選 東村山市,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E7%BE%8E%E7%B7%92%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+小林　美緒,election_search,low,#東村山市選挙 小林　美緒,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%9E%97%E3%80%80%E7%BE%8E%E7%B7%92&f=user
+小林　美緒,election_search,low,小林　美緒 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E7%BE%8E%E7%B7%92%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+伊藤　真一,direct_search,high,"""伊藤　真一"" 市議 -RT",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E7%9C%9F%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+伊藤　真一,direct_search,high,"""伊藤　真一"" 東村山市 議員",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E7%9C%9F%E4%B8%80%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+伊藤　真一,direct_search,high,伊藤真一 プロフィール 市議,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E7%9C%9F%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+伊藤　真一,party_search,medium,公明党 東村山市 伊藤,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E4%BC%8A%E8%97%A4&f=user
+伊藤　真一,party_search,medium,"""公明党"" メンバー 伊藤　真一",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BC%8A%E8%97%A4%E3%80%80%E7%9C%9F%E4%B8%80&f=user
+伊藤　真一,election_search,low,伊藤　真一 当選 東村山市,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E7%9C%9F%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+伊藤　真一,election_search,low,#東村山市選挙 伊藤　真一,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BC%8A%E8%97%A4%E3%80%80%E7%9C%9F%E4%B8%80&f=user
+伊藤　真一,election_search,low,伊藤　真一 選挙ポスター,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E7%9C%9F%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+渡辺　英子,direct_search,high,"""渡辺　英子"" 市議 -RT",https://x.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E8%8B%B1%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+渡辺　英子,direct_search,high,"""渡辺　英子"" 東村山市 議員",https://x.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E8%8B%B1%E5%AD%90%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+渡辺　英子,direct_search,high,渡辺英子 プロフィール 市議,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E8%8B%B1%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+渡辺　英子,party_search,medium,公明党 東村山市 渡辺,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%B8%A1%E8%BE%BA&f=user
+渡辺　英子,party_search,medium,"""公明党"" メンバー 渡辺　英子",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%A1%E8%BE%BA%E3%80%80%E8%8B%B1%E5%AD%90&f=user
+渡辺　英子,election_search,low,渡辺　英子 当選 東村山市,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E8%8B%B1%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+渡辺　英子,election_search,low,#東村山市選挙 渡辺　英子,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%A1%E8%BE%BA%E3%80%80%E8%8B%B1%E5%AD%90&f=user
+渡辺　英子,election_search,low,渡辺　英子 選挙ポスター,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E8%8B%B1%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石橋　光明,direct_search,high,"""石橋　光明"" 市議 -RT",https://x.com/search?q=%22%E7%9F%B3%E6%A9%8B%E3%80%80%E5%85%89%E6%98%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+石橋　光明,direct_search,high,"""石橋　光明"" 東村山市 議員",https://x.com/search?q=%22%E7%9F%B3%E6%A9%8B%E3%80%80%E5%85%89%E6%98%8E%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+石橋　光明,direct_search,high,石橋光明 プロフィール 市議,https://x.com/search?q=%E7%9F%B3%E6%A9%8B%E5%85%89%E6%98%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+石橋　光明,party_search,medium,公明党 東村山市 石橋,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E7%9F%B3%E6%A9%8B&f=user
+石橋　光明,party_search,medium,"""公明党"" メンバー 石橋　光明",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%9F%B3%E6%A9%8B%E3%80%80%E5%85%89%E6%98%8E&f=user
+石橋　光明,election_search,low,石橋　光明 当選 東村山市,https://x.com/search?q=%E7%9F%B3%E6%A9%8B%E3%80%80%E5%85%89%E6%98%8E%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+石橋　光明,election_search,low,#東村山市選挙 石橋　光明,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%9F%B3%E6%A9%8B%E3%80%80%E5%85%89%E6%98%8E&f=user
+石橋　光明,election_search,low,石橋　光明 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E6%A9%8B%E3%80%80%E5%85%89%E6%98%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+村山　じゅん子,direct_search,high,"""村山　じゅん子"" 市議 -RT",https://x.com/search?q=%22%E6%9D%91%E5%B1%B1%E3%80%80%E3%81%98%E3%82%85%E3%82%93%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+村山　じゅん子,direct_search,high,"""村山　じゅん子"" 東村山市 議員",https://x.com/search?q=%22%E6%9D%91%E5%B1%B1%E3%80%80%E3%81%98%E3%82%85%E3%82%93%E5%AD%90%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+村山　じゅん子,direct_search,high,村山じゅん子 プロフィール 市議,https://x.com/search?q=%E6%9D%91%E5%B1%B1%E3%81%98%E3%82%85%E3%82%93%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+村山　じゅん子,party_search,medium,公明党 東村山市 村山,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%9D%91%E5%B1%B1&f=user
+村山　じゅん子,party_search,medium,"""公明党"" メンバー 村山　じゅん子",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9D%91%E5%B1%B1%E3%80%80%E3%81%98%E3%82%85%E3%82%93%E5%AD%90&f=user
+村山　じゅん子,election_search,low,村山　じゅん子 当選 東村山市,https://x.com/search?q=%E6%9D%91%E5%B1%B1%E3%80%80%E3%81%98%E3%82%85%E3%82%93%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+村山　じゅん子,election_search,low,#東村山市選挙 村山　じゅん子,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%91%E5%B1%B1%E3%80%80%E3%81%98%E3%82%85%E3%82%93%E5%AD%90&f=user
+村山　じゅん子,election_search,low,村山　じゅん子 選挙ポスター,https://x.com/search?q=%E6%9D%91%E5%B1%B1%E3%80%80%E3%81%98%E3%82%85%E3%82%93%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+駒崎　高行,direct_search,high,"""駒崎　高行"" 市議 -RT",https://x.com/search?q=%22%E9%A7%92%E5%B4%8E%E3%80%80%E9%AB%98%E8%A1%8C%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+駒崎　高行,direct_search,high,"""駒崎　高行"" 東村山市 議員",https://x.com/search?q=%22%E9%A7%92%E5%B4%8E%E3%80%80%E9%AB%98%E8%A1%8C%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+駒崎　高行,direct_search,high,駒崎高行 プロフィール 市議,https://x.com/search?q=%E9%A7%92%E5%B4%8E%E9%AB%98%E8%A1%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+駒崎　高行,party_search,medium,公明党 東村山市 駒崎,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E9%A7%92%E5%B4%8E&f=user
+駒崎　高行,party_search,medium,"""公明党"" メンバー 駒崎　高行",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%A7%92%E5%B4%8E%E3%80%80%E9%AB%98%E8%A1%8C&f=user
+駒崎　高行,election_search,low,駒崎　高行 当選 東村山市,https://x.com/search?q=%E9%A7%92%E5%B4%8E%E3%80%80%E9%AB%98%E8%A1%8C%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+駒崎　高行,election_search,low,#東村山市選挙 駒崎　高行,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%A7%92%E5%B4%8E%E3%80%80%E9%AB%98%E8%A1%8C&f=user
+駒崎　高行,election_search,low,駒崎　高行 選挙ポスター,https://x.com/search?q=%E9%A7%92%E5%B4%8E%E3%80%80%E9%AB%98%E8%A1%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+横尾　たかお,direct_search,high,"""横尾　たかお"" 市議 -RT",https://x.com/search?q=%22%E6%A8%AA%E5%B0%BE%E3%80%80%E3%81%9F%E3%81%8B%E3%81%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+横尾　たかお,direct_search,high,"""横尾　たかお"" 東村山市 議員",https://x.com/search?q=%22%E6%A8%AA%E5%B0%BE%E3%80%80%E3%81%9F%E3%81%8B%E3%81%8A%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+横尾　たかお,direct_search,high,横尾たかお プロフィール 市議,https://x.com/search?q=%E6%A8%AA%E5%B0%BE%E3%81%9F%E3%81%8B%E3%81%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+横尾　たかお,party_search,medium,公明党 東村山市 横尾,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%A8%AA%E5%B0%BE&f=user
+横尾　たかお,party_search,medium,"""公明党"" メンバー 横尾　たかお",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A8%AA%E5%B0%BE%E3%80%80%E3%81%9F%E3%81%8B%E3%81%8A&f=user
+横尾　たかお,election_search,low,横尾　たかお 当選 東村山市,https://x.com/search?q=%E6%A8%AA%E5%B0%BE%E3%80%80%E3%81%9F%E3%81%8B%E3%81%8A%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+横尾　たかお,election_search,low,#東村山市選挙 横尾　たかお,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A8%AA%E5%B0%BE%E3%80%80%E3%81%9F%E3%81%8B%E3%81%8A&f=user
+横尾　たかお,election_search,low,横尾　たかお 選挙ポスター,https://x.com/search?q=%E6%A8%AA%E5%B0%BE%E3%80%80%E3%81%9F%E3%81%8B%E3%81%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水　健文,direct_search,high,"""清水　健文"" 市議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E5%81%A5%E6%96%87%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+清水　健文,direct_search,high,"""清水　健文"" 東村山市 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E5%81%A5%E6%96%87%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+清水　健文,direct_search,high,清水健文 プロフィール 市議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E5%81%A5%E6%96%87%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+清水　健文,party_search,medium,立憲民主党 東村山市 清水,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%B8%85%E6%B0%B4&f=user
+清水　健文,party_search,medium,"""立憲民主党"" メンバー 清水　健文",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%85%E6%B0%B4%E3%80%80%E5%81%A5%E6%96%87&f=user
+清水　健文,election_search,low,清水　健文 当選 東村山市,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E5%81%A5%E6%96%87%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+清水　健文,election_search,low,#東村山市選挙 清水　健文,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E3%80%80%E5%81%A5%E6%96%87&f=user
+清水　健文,election_search,low,清水　健文 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E5%81%A5%E6%96%87%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山田　たか子,direct_search,high,"""山田　たか子"" 市議 -RT",https://x.com/search?q=%22%E5%B1%B1%E7%94%B0%E3%80%80%E3%81%9F%E3%81%8B%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+山田　たか子,direct_search,high,"""山田　たか子"" 東村山市 議員",https://x.com/search?q=%22%E5%B1%B1%E7%94%B0%E3%80%80%E3%81%9F%E3%81%8B%E5%AD%90%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+山田　たか子,direct_search,high,山田たか子 プロフィール 市議,https://x.com/search?q=%E5%B1%B1%E7%94%B0%E3%81%9F%E3%81%8B%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+山田　たか子,party_search,medium,日本共産党 東村山市 山田,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%B1%B1%E7%94%B0&f=user
+山田　たか子,party_search,medium,"""日本共産党"" メンバー 山田　たか子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E7%94%B0%E3%80%80%E3%81%9F%E3%81%8B%E5%AD%90&f=user
+山田　たか子,election_search,low,山田　たか子 当選 東村山市,https://x.com/search?q=%E5%B1%B1%E7%94%B0%E3%80%80%E3%81%9F%E3%81%8B%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+山田　たか子,election_search,low,#東村山市選挙 山田　たか子,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B1%B1%E7%94%B0%E3%80%80%E3%81%9F%E3%81%8B%E5%AD%90&f=user
+山田　たか子,election_search,low,山田　たか子 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E7%94%B0%E3%80%80%E3%81%9F%E3%81%8B%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+さとう　直子,direct_search,high,"""さとう　直子"" 市議 -RT",https://x.com/search?q=%22%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E7%9B%B4%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+さとう　直子,direct_search,high,"""さとう　直子"" 東村山市 議員",https://x.com/search?q=%22%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E7%9B%B4%E5%AD%90%22%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+さとう　直子,direct_search,high,さとう直子 プロフィール 市議,https://x.com/search?q=%E3%81%95%E3%81%A8%E3%81%86%E7%9B%B4%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+さとう　直子,party_search,medium,日本共産党 東村山市 さとう,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%20%E3%81%95%E3%81%A8%E3%81%86&f=user
+さとう　直子,party_search,medium,"""日本共産党"" メンバー さとう　直子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E7%9B%B4%E5%AD%90&f=user
+さとう　直子,election_search,low,さとう　直子 当選 東村山市,https://x.com/search?q=%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E7%9B%B4%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+さとう　直子,election_search,low,#東村山市選挙 さとう　直子,https://x.com/search?q=%23%E6%9D%B1%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E7%9B%B4%E5%AD%90&f=user
+さとう　直子,election_search,low,さとう　直子 選挙ポスター,https://x.com/search?q=%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E7%9B%B4%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

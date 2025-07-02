@@ -1,0 +1,129 @@
+member_name,strategy_type,priority,query,url
+佐藤　弘治,direct_search,high,"""佐藤　弘治"" 市議 -RT",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E5%BC%98%E6%B2%BB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+佐藤　弘治,direct_search,high,"""佐藤　弘治"" 福生市 議員",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E5%BC%98%E6%B2%BB%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+佐藤　弘治,direct_search,high,佐藤弘治 プロフィール 市議,https://x.com/search?q=%E4%BD%90%E8%97%A4%E5%BC%98%E6%B2%BB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+佐藤　弘治,party_search,medium,正和会 福生市 佐藤,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E4%BD%90%E8%97%A4&f=user
+佐藤　弘治,party_search,medium,"""正和会"" メンバー 佐藤　弘治",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BD%90%E8%97%A4%E3%80%80%E5%BC%98%E6%B2%BB&f=user
+佐藤　弘治,election_search,low,佐藤　弘治 当選 福生市,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E5%BC%98%E6%B2%BB%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+佐藤　弘治,election_search,low,#福生市選挙 佐藤　弘治,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BD%90%E8%97%A4%E3%80%80%E5%BC%98%E6%B2%BB&f=user
+佐藤　弘治,election_search,low,佐藤　弘治 選挙ポスター,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E5%BC%98%E6%B2%BB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+仲間　正司,direct_search,high,"""仲間　正司"" 市議 -RT",https://x.com/search?q=%22%E4%BB%B2%E9%96%93%E3%80%80%E6%AD%A3%E5%8F%B8%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+仲間　正司,direct_search,high,"""仲間　正司"" 福生市 議員",https://x.com/search?q=%22%E4%BB%B2%E9%96%93%E3%80%80%E6%AD%A3%E5%8F%B8%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+仲間　正司,direct_search,high,仲間正司 プロフィール 市議,https://x.com/search?q=%E4%BB%B2%E9%96%93%E6%AD%A3%E5%8F%B8%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+仲間　正司,party_search,medium,正和会 福生市 仲間,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E4%BB%B2%E9%96%93&f=user
+仲間　正司,party_search,medium,"""正和会"" メンバー 仲間　正司",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BB%B2%E9%96%93%E3%80%80%E6%AD%A3%E5%8F%B8&f=user
+仲間　正司,election_search,low,仲間　正司 当選 福生市,https://x.com/search?q=%E4%BB%B2%E9%96%93%E3%80%80%E6%AD%A3%E5%8F%B8%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+仲間　正司,election_search,low,#福生市選挙 仲間　正司,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BB%B2%E9%96%93%E3%80%80%E6%AD%A3%E5%8F%B8&f=user
+仲間　正司,election_search,low,仲間　正司 選挙ポスター,https://x.com/search?q=%E4%BB%B2%E9%96%93%E3%80%80%E6%AD%A3%E5%8F%B8%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+森田　哲哉,direct_search,high,"""森田　哲哉"" 市議 -RT",https://x.com/search?q=%22%E6%A3%AE%E7%94%B0%E3%80%80%E5%93%B2%E5%93%89%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+森田　哲哉,direct_search,high,"""森田　哲哉"" 福生市 議員",https://x.com/search?q=%22%E6%A3%AE%E7%94%B0%E3%80%80%E5%93%B2%E5%93%89%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+森田　哲哉,direct_search,high,森田哲哉 プロフィール 市議,https://x.com/search?q=%E6%A3%AE%E7%94%B0%E5%93%B2%E5%93%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+森田　哲哉,party_search,medium,正和会 福生市 森田,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E6%A3%AE%E7%94%B0&f=user
+森田　哲哉,party_search,medium,"""正和会"" メンバー 森田　哲哉",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A3%AE%E7%94%B0%E3%80%80%E5%93%B2%E5%93%89&f=user
+森田　哲哉,election_search,low,森田　哲哉 当選 福生市,https://x.com/search?q=%E6%A3%AE%E7%94%B0%E3%80%80%E5%93%B2%E5%93%89%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+森田　哲哉,election_search,low,#福生市選挙 森田　哲哉,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A3%AE%E7%94%B0%E3%80%80%E5%93%B2%E5%93%89&f=user
+森田　哲哉,election_search,low,森田　哲哉 選挙ポスター,https://x.com/search?q=%E6%A3%AE%E7%94%B0%E3%80%80%E5%93%B2%E5%93%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山崎　貴裕,direct_search,high,"""山崎　貴裕"" 市議 -RT",https://x.com/search?q=%22%E5%B1%B1%E5%B4%8E%E3%80%80%E8%B2%B4%E8%A3%95%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+山崎　貴裕,direct_search,high,"""山崎　貴裕"" 福生市 議員",https://x.com/search?q=%22%E5%B1%B1%E5%B4%8E%E3%80%80%E8%B2%B4%E8%A3%95%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+山崎　貴裕,direct_search,high,山崎貴裕 プロフィール 市議,https://x.com/search?q=%E5%B1%B1%E5%B4%8E%E8%B2%B4%E8%A3%95%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+山崎　貴裕,party_search,medium,正和会 福生市 山崎,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%B1%B1%E5%B4%8E&f=user
+山崎　貴裕,party_search,medium,"""正和会"" メンバー 山崎　貴裕",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E5%B4%8E%E3%80%80%E8%B2%B4%E8%A3%95&f=user
+山崎　貴裕,election_search,low,山崎　貴裕 当選 福生市,https://x.com/search?q=%E5%B1%B1%E5%B4%8E%E3%80%80%E8%B2%B4%E8%A3%95%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+山崎　貴裕,election_search,low,#福生市選挙 山崎　貴裕,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B1%B1%E5%B4%8E%E3%80%80%E8%B2%B4%E8%A3%95&f=user
+山崎　貴裕,election_search,low,山崎　貴裕 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E5%B4%8E%E3%80%80%E8%B2%B4%E8%A3%95%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小林　貢,direct_search,high,"""小林　貢"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E8%B2%A2%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小林　貢,direct_search,high,"""小林　貢"" 福生市 議員",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E8%B2%A2%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小林　貢,direct_search,high,小林貢 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E8%B2%A2%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小林　貢,party_search,medium,正和会 福生市 小林,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%B0%8F%E6%9E%97&f=user
+小林　貢,party_search,medium,"""正和会"" メンバー 小林　貢",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E6%9E%97%E3%80%80%E8%B2%A2&f=user
+小林　貢,election_search,low,小林　貢 当選 福生市,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E8%B2%A2%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+小林　貢,election_search,low,#福生市選挙 小林　貢,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%9E%97%E3%80%80%E8%B2%A2&f=user
+小林　貢,election_search,low,小林　貢 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E8%B2%A2%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+川﨑　善友,direct_search,high,"""川﨑　善友"" 市議 -RT",https://x.com/search?q=%22%E5%B7%9D%EF%A8%91%E3%80%80%E5%96%84%E5%8F%8B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+川﨑　善友,direct_search,high,"""川﨑　善友"" 福生市 議員",https://x.com/search?q=%22%E5%B7%9D%EF%A8%91%E3%80%80%E5%96%84%E5%8F%8B%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+川﨑　善友,direct_search,high,川﨑善友 プロフィール 市議,https://x.com/search?q=%E5%B7%9D%EF%A8%91%E5%96%84%E5%8F%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+川﨑　善友,party_search,medium,公明党 福生市 川﨑,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%B7%9D%EF%A8%91&f=user
+川﨑　善友,party_search,medium,"""公明党"" メンバー 川﨑　善友",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B7%9D%EF%A8%91%E3%80%80%E5%96%84%E5%8F%8B&f=user
+川﨑　善友,election_search,low,川﨑　善友 当選 福生市,https://x.com/search?q=%E5%B7%9D%EF%A8%91%E3%80%80%E5%96%84%E5%8F%8B%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+川﨑　善友,election_search,low,#福生市選挙 川﨑　善友,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B7%9D%EF%A8%91%E3%80%80%E5%96%84%E5%8F%8B&f=user
+川﨑　善友,election_search,low,川﨑　善友 選挙ポスター,https://x.com/search?q=%E5%B7%9D%EF%A8%91%E3%80%80%E5%96%84%E5%8F%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+西尾　壽々斗,direct_search,high,"""西尾　壽々斗"" 市議 -RT",https://x.com/search?q=%22%E8%A5%BF%E5%B0%BE%E3%80%80%E5%A3%BD%E3%80%85%E6%96%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+西尾　壽々斗,direct_search,high,"""西尾　壽々斗"" 福生市 議員",https://x.com/search?q=%22%E8%A5%BF%E5%B0%BE%E3%80%80%E5%A3%BD%E3%80%85%E6%96%97%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+西尾　壽々斗,direct_search,high,西尾壽々斗 プロフィール 市議,https://x.com/search?q=%E8%A5%BF%E5%B0%BE%E5%A3%BD%E3%80%85%E6%96%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+西尾　壽々斗,party_search,medium,日本維新の会 福生市 西尾,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E7%B6%AD%E6%96%B0%E3%81%AE%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%A5%BF%E5%B0%BE&f=user
+西尾　壽々斗,party_search,medium,"""日本維新の会"" メンバー 西尾　壽々斗",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E7%B6%AD%E6%96%B0%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%A5%BF%E5%B0%BE%E3%80%80%E5%A3%BD%E3%80%85%E6%96%97&f=user
+西尾　壽々斗,election_search,low,西尾　壽々斗 当選 福生市,https://x.com/search?q=%E8%A5%BF%E5%B0%BE%E3%80%80%E5%A3%BD%E3%80%85%E6%96%97%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+西尾　壽々斗,election_search,low,#福生市選挙 西尾　壽々斗,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%A5%BF%E5%B0%BE%E3%80%80%E5%A3%BD%E3%80%85%E6%96%97&f=user
+西尾　壽々斗,election_search,low,西尾　壽々斗 選挙ポスター,https://x.com/search?q=%E8%A5%BF%E5%B0%BE%E3%80%80%E5%A3%BD%E3%80%85%E6%96%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+伊藤　広美,direct_search,high,"""伊藤　広美"" 市議 -RT",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E5%BA%83%E7%BE%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+伊藤　広美,direct_search,high,"""伊藤　広美"" 福生市 議員",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E5%BA%83%E7%BE%8E%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+伊藤　広美,direct_search,high,伊藤広美 プロフィール 市議,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E5%BA%83%E7%BE%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+伊藤　広美,party_search,medium,日本共産党 福生市 伊藤,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E4%BC%8A%E8%97%A4&f=user
+伊藤　広美,party_search,medium,"""日本共産党"" メンバー 伊藤　広美",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BC%8A%E8%97%A4%E3%80%80%E5%BA%83%E7%BE%8E&f=user
+伊藤　広美,election_search,low,伊藤　広美 当選 福生市,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E5%BA%83%E7%BE%8E%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+伊藤　広美,election_search,low,#福生市選挙 伊藤　広美,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BC%8A%E8%97%A4%E3%80%80%E5%BA%83%E7%BE%8E&f=user
+伊藤　広美,election_search,low,伊藤　広美 選挙ポスター,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E5%BA%83%E7%BE%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+市毛　雅大,direct_search,high,"""市毛　雅大"" 市議 -RT",https://x.com/search?q=%22%E5%B8%82%E6%AF%9B%E3%80%80%E9%9B%85%E5%A4%A7%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+市毛　雅大,direct_search,high,"""市毛　雅大"" 福生市 議員",https://x.com/search?q=%22%E5%B8%82%E6%AF%9B%E3%80%80%E9%9B%85%E5%A4%A7%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+市毛　雅大,direct_search,high,市毛雅大 プロフィール 市議,https://x.com/search?q=%E5%B8%82%E6%AF%9B%E9%9B%85%E5%A4%A7%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+市毛　雅大,party_search,medium,日本共産党 福生市 市毛,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%B8%82%E6%AF%9B&f=user
+市毛　雅大,party_search,medium,"""日本共産党"" メンバー 市毛　雅大",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B8%82%E6%AF%9B%E3%80%80%E9%9B%85%E5%A4%A7&f=user
+市毛　雅大,election_search,low,市毛　雅大 当選 福生市,https://x.com/search?q=%E5%B8%82%E6%AF%9B%E3%80%80%E9%9B%85%E5%A4%A7%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+市毛　雅大,election_search,low,#福生市選挙 市毛　雅大,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B8%82%E6%AF%9B%E3%80%80%E9%9B%85%E5%A4%A7&f=user
+市毛　雅大,election_search,low,市毛　雅大 選挙ポスター,https://x.com/search?q=%E5%B8%82%E6%AF%9B%E3%80%80%E9%9B%85%E5%A4%A7%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小澤　芳輝,direct_search,high,"""小澤　芳輝"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%BE%A4%E3%80%80%E8%8A%B3%E8%BC%9D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小澤　芳輝,direct_search,high,"""小澤　芳輝"" 福生市 議員",https://x.com/search?q=%22%E5%B0%8F%E6%BE%A4%E3%80%80%E8%8A%B3%E8%BC%9D%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小澤　芳輝,direct_search,high,小澤芳輝 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E6%BE%A4%E8%8A%B3%E8%BC%9D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小澤　芳輝,party_search,medium,正和会 福生市 小澤,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%B0%8F%E6%BE%A4&f=user
+小澤　芳輝,party_search,medium,"""正和会"" メンバー 小澤　芳輝",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E6%BE%A4%E3%80%80%E8%8A%B3%E8%BC%9D&f=user
+小澤　芳輝,election_search,low,小澤　芳輝 当選 福生市,https://x.com/search?q=%E5%B0%8F%E6%BE%A4%E3%80%80%E8%8A%B3%E8%BC%9D%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+小澤　芳輝,election_search,low,#福生市選挙 小澤　芳輝,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%BE%A4%E3%80%80%E8%8A%B3%E8%BC%9D&f=user
+小澤　芳輝,election_search,low,小澤　芳輝 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%BE%A4%E3%80%80%E8%8A%B3%E8%BC%9D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+武藤　政義,direct_search,high,"""武藤　政義"" 市議 -RT",https://x.com/search?q=%22%E6%AD%A6%E8%97%A4%E3%80%80%E6%94%BF%E7%BE%A9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+武藤　政義,direct_search,high,"""武藤　政義"" 福生市 議員",https://x.com/search?q=%22%E6%AD%A6%E8%97%A4%E3%80%80%E6%94%BF%E7%BE%A9%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+武藤　政義,direct_search,high,武藤政義 プロフィール 市議,https://x.com/search?q=%E6%AD%A6%E8%97%A4%E6%94%BF%E7%BE%A9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+武藤　政義,party_search,medium,正和会 福生市 武藤,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E6%AD%A6%E8%97%A4&f=user
+武藤　政義,party_search,medium,"""正和会"" メンバー 武藤　政義",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%AD%A6%E8%97%A4%E3%80%80%E6%94%BF%E7%BE%A9&f=user
+武藤　政義,election_search,low,武藤　政義 当選 福生市,https://x.com/search?q=%E6%AD%A6%E8%97%A4%E3%80%80%E6%94%BF%E7%BE%A9%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+武藤　政義,election_search,low,#福生市選挙 武藤　政義,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%AD%A6%E8%97%A4%E3%80%80%E6%94%BF%E7%BE%A9&f=user
+武藤　政義,election_search,low,武藤　政義 選挙ポスター,https://x.com/search?q=%E6%AD%A6%E8%97%A4%E3%80%80%E6%94%BF%E7%BE%A9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水　義朋,direct_search,high,"""清水　義朋"" 市議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E7%BE%A9%E6%9C%8B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+清水　義朋,direct_search,high,"""清水　義朋"" 福生市 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E7%BE%A9%E6%9C%8B%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+清水　義朋,direct_search,high,清水義朋 プロフィール 市議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E7%BE%A9%E6%9C%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+清水　義朋,party_search,medium,正和会 福生市 清水,https://x.com/search?q=%E6%AD%A3%E5%92%8C%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E6%B8%85%E6%B0%B4&f=user
+清水　義朋,party_search,medium,"""正和会"" メンバー 清水　義朋",https://x.com/search?q=%22%E6%AD%A3%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%85%E6%B0%B4%E3%80%80%E7%BE%A9%E6%9C%8B&f=user
+清水　義朋,election_search,low,清水　義朋 当選 福生市,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E7%BE%A9%E6%9C%8B%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+清水　義朋,election_search,low,#福生市選挙 清水　義朋,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E3%80%80%E7%BE%A9%E6%9C%8B&f=user
+清水　義朋,election_search,low,清水　義朋 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E7%BE%A9%E6%9C%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+堀　雄一朗,direct_search,high,"""堀　雄一朗"" 市議 -RT",https://x.com/search?q=%22%E5%A0%80%E3%80%80%E9%9B%84%E4%B8%80%E6%9C%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+堀　雄一朗,direct_search,high,"""堀　雄一朗"" 福生市 議員",https://x.com/search?q=%22%E5%A0%80%E3%80%80%E9%9B%84%E4%B8%80%E6%9C%97%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+堀　雄一朗,direct_search,high,堀雄一朗 プロフィール 市議,https://x.com/search?q=%E5%A0%80%E9%9B%84%E4%B8%80%E6%9C%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+堀　雄一朗,party_search,medium,公明党 福生市 堀,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%A0%80&f=user
+堀　雄一朗,party_search,medium,"""公明党"" メンバー 堀　雄一朗",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A0%80%E3%80%80%E9%9B%84%E4%B8%80%E6%9C%97&f=user
+堀　雄一朗,election_search,low,堀　雄一朗 当選 福生市,https://x.com/search?q=%E5%A0%80%E3%80%80%E9%9B%84%E4%B8%80%E6%9C%97%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+堀　雄一朗,election_search,low,#福生市選挙 堀　雄一朗,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A0%80%E3%80%80%E9%9B%84%E4%B8%80%E6%9C%97&f=user
+堀　雄一朗,election_search,low,堀　雄一朗 選挙ポスター,https://x.com/search?q=%E5%A0%80%E3%80%80%E9%9B%84%E4%B8%80%E6%9C%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+原田　剛,direct_search,high,"""原田　剛"" 市議 -RT",https://x.com/search?q=%22%E5%8E%9F%E7%94%B0%E3%80%80%E5%89%9B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+原田　剛,direct_search,high,"""原田　剛"" 福生市 議員",https://x.com/search?q=%22%E5%8E%9F%E7%94%B0%E3%80%80%E5%89%9B%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+原田　剛,direct_search,high,原田剛 プロフィール 市議,https://x.com/search?q=%E5%8E%9F%E7%94%B0%E5%89%9B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+原田　剛,party_search,medium,公明党 福生市 原田,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%8E%9F%E7%94%B0&f=user
+原田　剛,party_search,medium,"""公明党"" メンバー 原田　剛",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%8E%9F%E7%94%B0%E3%80%80%E5%89%9B&f=user
+原田　剛,election_search,low,原田　剛 当選 福生市,https://x.com/search?q=%E5%8E%9F%E7%94%B0%E3%80%80%E5%89%9B%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+原田　剛,election_search,low,#福生市選挙 原田　剛,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%8E%9F%E7%94%B0%E3%80%80%E5%89%9B&f=user
+原田　剛,election_search,low,原田　剛 選挙ポスター,https://x.com/search?q=%E5%8E%9F%E7%94%B0%E3%80%80%E5%89%9B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+三原　智子,direct_search,high,"""三原　智子"" 市議 -RT",https://x.com/search?q=%22%E4%B8%89%E5%8E%9F%E3%80%80%E6%99%BA%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+三原　智子,direct_search,high,"""三原　智子"" 福生市 議員",https://x.com/search?q=%22%E4%B8%89%E5%8E%9F%E3%80%80%E6%99%BA%E5%AD%90%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+三原　智子,direct_search,high,三原智子 プロフィール 市議,https://x.com/search?q=%E4%B8%89%E5%8E%9F%E6%99%BA%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+三原　智子,party_search,medium,生活者ネットワーク 福生市 三原,https://x.com/search?q=%E7%94%9F%E6%B4%BB%E8%80%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E4%B8%89%E5%8E%9F&f=user
+三原　智子,party_search,medium,"""生活者ネットワーク"" メンバー 三原　智子",https://x.com/search?q=%22%E7%94%9F%E6%B4%BB%E8%80%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%89%E5%8E%9F%E3%80%80%E6%99%BA%E5%AD%90&f=user
+三原　智子,election_search,low,三原　智子 当選 福生市,https://x.com/search?q=%E4%B8%89%E5%8E%9F%E3%80%80%E6%99%BA%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+三原　智子,election_search,low,#福生市選挙 三原　智子,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%89%E5%8E%9F%E3%80%80%E6%99%BA%E5%AD%90&f=user
+三原　智子,election_search,low,三原　智子 選挙ポスター,https://x.com/search?q=%E4%B8%89%E5%8E%9F%E3%80%80%E6%99%BA%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+幡垣　正生,direct_search,high,"""幡垣　正生"" 市議 -RT",https://x.com/search?q=%22%E5%B9%A1%E5%9E%A3%E3%80%80%E6%AD%A3%E7%94%9F%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+幡垣　正生,direct_search,high,"""幡垣　正生"" 福生市 議員",https://x.com/search?q=%22%E5%B9%A1%E5%9E%A3%E3%80%80%E6%AD%A3%E7%94%9F%22%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+幡垣　正生,direct_search,high,幡垣正生 プロフィール 市議,https://x.com/search?q=%E5%B9%A1%E5%9E%A3%E6%AD%A3%E7%94%9F%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+幡垣　正生,party_search,medium,スポーツ・文化を通じて人づくりと街づくりの会 福生市 幡垣,https://x.com/search?q=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E4%BA%BA%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%A8%E8%A1%97%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E4%BC%9A%20%E7%A6%8F%E7%94%9F%E5%B8%82%20%E5%B9%A1%E5%9E%A3&f=user
+幡垣　正生,party_search,medium,"""スポーツ・文化を通じて人づくりと街づくりの会"" メンバー 幡垣　正生",https://x.com/search?q=%22%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%BB%E6%96%87%E5%8C%96%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E4%BA%BA%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%A8%E8%A1%97%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B9%A1%E5%9E%A3%E3%80%80%E6%AD%A3%E7%94%9F&f=user
+幡垣　正生,election_search,low,幡垣　正生 当選 福生市,https://x.com/search?q=%E5%B9%A1%E5%9E%A3%E3%80%80%E6%AD%A3%E7%94%9F%20%E5%BD%93%E9%81%B8%20%E7%A6%8F%E7%94%9F%E5%B8%82&f=user
+幡垣　正生,election_search,low,#福生市選挙 幡垣　正生,https://x.com/search?q=%23%E7%A6%8F%E7%94%9F%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B9%A1%E5%9E%A3%E3%80%80%E6%AD%A3%E7%94%9F&f=user
+幡垣　正生,election_search,low,幡垣　正生 選挙ポスター,https://x.com/search?q=%E5%B9%A1%E5%9E%A3%E3%80%80%E6%AD%A3%E7%94%9F%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

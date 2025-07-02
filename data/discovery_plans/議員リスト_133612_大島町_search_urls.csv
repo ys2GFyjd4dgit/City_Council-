@@ -1,0 +1,93 @@
+member_name,strategy_type,priority,query,url
+中林一巳,direct_search,high,"""中林一巳"" 町議 -RT",https://x.com/search?q=%22%E4%B8%AD%E6%9E%97%E4%B8%80%E5%B7%B3%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+中林一巳,direct_search,high,"""中林一巳"" 大島町 議員",https://x.com/search?q=%22%E4%B8%AD%E6%9E%97%E4%B8%80%E5%B7%B3%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+中林一巳,direct_search,high,中林一巳 プロフィール 町議,https://x.com/search?q=%E4%B8%AD%E6%9E%97%E4%B8%80%E5%B7%B3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+中林一巳,election_search,low,中林一巳 当選 大島町,https://x.com/search?q=%E4%B8%AD%E6%9E%97%E4%B8%80%E5%B7%B3%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+中林一巳,election_search,low,#大島町選挙 中林一巳,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E4%B8%AD%E6%9E%97%E4%B8%80%E5%B7%B3&f=user
+中林一巳,election_search,low,中林一巳 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E6%9E%97%E4%B8%80%E5%B7%B3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+白澤治,direct_search,high,"""白澤治"" 町議 -RT",https://x.com/search?q=%22%E7%99%BD%E6%BE%A4%E6%B2%BB%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+白澤治,direct_search,high,"""白澤治"" 大島町 議員",https://x.com/search?q=%22%E7%99%BD%E6%BE%A4%E6%B2%BB%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+白澤治,direct_search,high,白澤治 プロフィール 町議,https://x.com/search?q=%E7%99%BD%E6%BE%A4%E6%B2%BB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+白澤治,election_search,low,白澤治 当選 大島町,https://x.com/search?q=%E7%99%BD%E6%BE%A4%E6%B2%BB%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+白澤治,election_search,low,#大島町選挙 白澤治,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E7%99%BD%E6%BE%A4%E6%B2%BB&f=user
+白澤治,election_search,low,白澤治 選挙ポスター,https://x.com/search?q=%E7%99%BD%E6%BE%A4%E6%B2%BB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+宮川鉄雄,direct_search,high,"""宮川鉄雄"" 町議 -RT",https://x.com/search?q=%22%E5%AE%AE%E5%B7%9D%E9%89%84%E9%9B%84%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+宮川鉄雄,direct_search,high,"""宮川鉄雄"" 大島町 議員",https://x.com/search?q=%22%E5%AE%AE%E5%B7%9D%E9%89%84%E9%9B%84%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+宮川鉄雄,direct_search,high,宮川鉄雄 プロフィール 町議,https://x.com/search?q=%E5%AE%AE%E5%B7%9D%E9%89%84%E9%9B%84%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+宮川鉄雄,election_search,low,宮川鉄雄 当選 大島町,https://x.com/search?q=%E5%AE%AE%E5%B7%9D%E9%89%84%E9%9B%84%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+宮川鉄雄,election_search,low,#大島町選挙 宮川鉄雄,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E5%AE%AE%E5%B7%9D%E9%89%84%E9%9B%84&f=user
+宮川鉄雄,election_search,low,宮川鉄雄 選挙ポスター,https://x.com/search?q=%E5%AE%AE%E5%B7%9D%E9%89%84%E9%9B%84%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+松島良清,direct_search,high,"""松島良清"" 町議 -RT",https://x.com/search?q=%22%E6%9D%BE%E5%B3%B6%E8%89%AF%E6%B8%85%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+松島良清,direct_search,high,"""松島良清"" 大島町 議員",https://x.com/search?q=%22%E6%9D%BE%E5%B3%B6%E8%89%AF%E6%B8%85%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+松島良清,direct_search,high,松島良清 プロフィール 町議,https://x.com/search?q=%E6%9D%BE%E5%B3%B6%E8%89%AF%E6%B8%85%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+松島良清,election_search,low,松島良清 当選 大島町,https://x.com/search?q=%E6%9D%BE%E5%B3%B6%E8%89%AF%E6%B8%85%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+松島良清,election_search,low,#大島町選挙 松島良清,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E6%9D%BE%E5%B3%B6%E8%89%AF%E6%B8%85&f=user
+松島良清,election_search,low,松島良清 選挙ポスター,https://x.com/search?q=%E6%9D%BE%E5%B3%B6%E8%89%AF%E6%B8%85%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+酒井周,direct_search,high,"""酒井周"" 町議 -RT",https://x.com/search?q=%22%E9%85%92%E4%BA%95%E5%91%A8%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+酒井周,direct_search,high,"""酒井周"" 大島町 議員",https://x.com/search?q=%22%E9%85%92%E4%BA%95%E5%91%A8%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+酒井周,direct_search,high,酒井周 プロフィール 町議,https://x.com/search?q=%E9%85%92%E4%BA%95%E5%91%A8%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+酒井周,party_search,medium,日本共産党 大島町 酒井,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E9%85%92%E4%BA%95&f=user
+酒井周,party_search,medium,"""日本共産党"" メンバー 酒井周",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%85%92%E4%BA%95%E5%91%A8&f=user
+酒井周,election_search,low,酒井周 当選 大島町,https://x.com/search?q=%E9%85%92%E4%BA%95%E5%91%A8%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+酒井周,election_search,low,#大島町選挙 酒井周,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E9%85%92%E4%BA%95%E5%91%A8&f=user
+酒井周,election_search,low,酒井周 選挙ポスター,https://x.com/search?q=%E9%85%92%E4%BA%95%E5%91%A8%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山田忠敬,direct_search,high,"""山田忠敬"" 町議 -RT",https://x.com/search?q=%22%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+山田忠敬,direct_search,high,"""山田忠敬"" 大島町 議員",https://x.com/search?q=%22%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+山田忠敬,direct_search,high,山田忠敬 プロフィール 町議,https://x.com/search?q=%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+山田忠敬,party_search,medium,日本共産党 大島町 山田,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E5%B1%B1%E7%94%B0&f=user
+山田忠敬,party_search,medium,"""日本共産党"" メンバー 山田忠敬",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC&f=user
+山田忠敬,election_search,low,山田忠敬 当選 大島町,https://x.com/search?q=%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+山田忠敬,election_search,low,#大島町選挙 山田忠敬,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC&f=user
+山田忠敬,election_search,low,山田忠敬 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E7%94%B0%E5%BF%A0%E6%95%AC%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+川嵜和光,direct_search,high,"""川嵜和光"" 町議 -RT",https://x.com/search?q=%22%E5%B7%9D%E5%B5%9C%E5%92%8C%E5%85%89%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+川嵜和光,direct_search,high,"""川嵜和光"" 大島町 議員",https://x.com/search?q=%22%E5%B7%9D%E5%B5%9C%E5%92%8C%E5%85%89%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+川嵜和光,direct_search,high,川嵜和光 プロフィール 町議,https://x.com/search?q=%E5%B7%9D%E5%B5%9C%E5%92%8C%E5%85%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+川嵜和光,election_search,low,川嵜和光 当選 大島町,https://x.com/search?q=%E5%B7%9D%E5%B5%9C%E5%92%8C%E5%85%89%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+川嵜和光,election_search,low,#大島町選挙 川嵜和光,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E5%B7%9D%E5%B5%9C%E5%92%8C%E5%85%89&f=user
+川嵜和光,election_search,low,川嵜和光 選挙ポスター,https://x.com/search?q=%E5%B7%9D%E5%B5%9C%E5%92%8C%E5%85%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+西川達江,direct_search,high,"""西川達江"" 町議 -RT",https://x.com/search?q=%22%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+西川達江,direct_search,high,"""西川達江"" 大島町 議員",https://x.com/search?q=%22%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+西川達江,direct_search,high,西川達江 プロフィール 町議,https://x.com/search?q=%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+西川達江,party_search,medium,公明党 大島町 西川,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%A5%BF%E5%B7%9D&f=user
+西川達江,party_search,medium,"""公明党"" メンバー 西川達江",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F&f=user
+西川達江,election_search,low,西川達江 当選 大島町,https://x.com/search?q=%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+西川達江,election_search,low,#大島町選挙 西川達江,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F&f=user
+西川達江,election_search,low,西川達江 選挙ポスター,https://x.com/search?q=%E8%A5%BF%E5%B7%9D%E9%81%94%E6%B1%9F%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+高橋千香,direct_search,high,"""高橋千香"" 町議 -RT",https://x.com/search?q=%22%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+高橋千香,direct_search,high,"""高橋千香"" 大島町 議員",https://x.com/search?q=%22%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+高橋千香,direct_search,high,高橋千香 プロフィール 町議,https://x.com/search?q=%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+高橋千香,party_search,medium,公明党 大島町 高橋,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E9%AB%98%E6%A9%8B&f=user
+高橋千香,party_search,medium,"""公明党"" メンバー 高橋千香",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99&f=user
+高橋千香,election_search,low,高橋千香 当選 大島町,https://x.com/search?q=%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+高橋千香,election_search,low,#大島町選挙 高橋千香,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99&f=user
+高橋千香,election_search,low,高橋千香 選挙ポスター,https://x.com/search?q=%E9%AB%98%E6%A9%8B%E5%8D%83%E9%A6%99%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小池渉,direct_search,high,"""小池渉"" 町議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%B1%A0%E6%B8%89%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+小池渉,direct_search,high,"""小池渉"" 大島町 議員",https://x.com/search?q=%22%E5%B0%8F%E6%B1%A0%E6%B8%89%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+小池渉,direct_search,high,小池渉 プロフィール 町議,https://x.com/search?q=%E5%B0%8F%E6%B1%A0%E6%B8%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+小池渉,party_search,medium,日本共産党 大島町 小池,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E5%B0%8F%E6%B1%A0&f=user
+小池渉,party_search,medium,"""日本共産党"" メンバー 小池渉",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E6%B1%A0%E6%B8%89&f=user
+小池渉,election_search,low,小池渉 当選 大島町,https://x.com/search?q=%E5%B0%8F%E6%B1%A0%E6%B8%89%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+小池渉,election_search,low,#大島町選挙 小池渉,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%B1%A0%E6%B8%89&f=user
+小池渉,election_search,low,小池渉 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%B1%A0%E6%B8%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中村佳一,direct_search,high,"""中村佳一"" 町議 -RT",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E4%BD%B3%E4%B8%80%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+中村佳一,direct_search,high,"""中村佳一"" 大島町 議員",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E4%BD%B3%E4%B8%80%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+中村佳一,direct_search,high,中村佳一 プロフィール 町議,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E4%BD%B3%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+中村佳一,election_search,low,中村佳一 当選 大島町,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E4%BD%B3%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+中村佳一,election_search,low,#大島町選挙 中村佳一,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E4%B8%AD%E6%9D%91%E4%BD%B3%E4%B8%80&f=user
+中村佳一,election_search,low,中村佳一 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E4%BD%B3%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+関野茂夫,direct_search,high,"""関野茂夫"" 町議 -RT",https://x.com/search?q=%22%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+関野茂夫,direct_search,high,"""関野茂夫"" 大島町 議員",https://x.com/search?q=%22%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+関野茂夫,direct_search,high,関野茂夫 プロフィール 町議,https://x.com/search?q=%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+関野茂夫,party_search,medium,自由民主党 大島町 関野,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E9%96%A2%E9%87%8E&f=user
+関野茂夫,party_search,medium,"""自由民主党"" メンバー 関野茂夫",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB&f=user
+関野茂夫,election_search,low,関野茂夫 当選 大島町,https://x.com/search?q=%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+関野茂夫,election_search,low,#大島町選挙 関野茂夫,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB&f=user
+関野茂夫,election_search,low,関野茂夫 選挙ポスター,https://x.com/search?q=%E9%96%A2%E9%87%8E%E8%8C%82%E5%A4%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鶴崎勝彦,direct_search,high,"""鶴崎勝彦"" 町議 -RT",https://x.com/search?q=%22%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6%22%20%E7%94%BA%E8%AD%B0%20-RT&f=user
+鶴崎勝彦,direct_search,high,"""鶴崎勝彦"" 大島町 議員",https://x.com/search?q=%22%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6%22%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E8%AD%B0%E5%93%A1&f=user
+鶴崎勝彦,direct_search,high,鶴崎勝彦 プロフィール 町議,https://x.com/search?q=%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E7%94%BA%E8%AD%B0&f=user
+鶴崎勝彦,party_search,medium,自由民主党 大島町 鶴崎,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%A4%A7%E5%B3%B6%E7%94%BA%20%E9%B6%B4%E5%B4%8E&f=user
+鶴崎勝彦,party_search,medium,"""自由民主党"" メンバー 鶴崎勝彦",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6&f=user
+鶴崎勝彦,election_search,low,鶴崎勝彦 当選 大島町,https://x.com/search?q=%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6%20%E5%BD%93%E9%81%B8%20%E5%A4%A7%E5%B3%B6%E7%94%BA&f=user
+鶴崎勝彦,election_search,low,#大島町選挙 鶴崎勝彦,https://x.com/search?q=%23%E5%A4%A7%E5%B3%B6%E7%94%BA%E9%81%B8%E6%8C%99%20%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6&f=user
+鶴崎勝彦,election_search,low,鶴崎勝彦 選挙ポスター,https://x.com/search?q=%E9%B6%B4%E5%B4%8E%E5%8B%9D%E5%BD%A6%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

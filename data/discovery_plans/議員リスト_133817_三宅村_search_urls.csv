@@ -1,0 +1,45 @@
+member_name,strategy_type,priority,query,url
+北川　博史,direct_search,high,"""北川　博史"" 村議 -RT",https://x.com/search?q=%22%E5%8C%97%E5%B7%9D%E3%80%80%E5%8D%9A%E5%8F%B2%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+北川　博史,direct_search,high,"""北川　博史"" 三宅村 議員",https://x.com/search?q=%22%E5%8C%97%E5%B7%9D%E3%80%80%E5%8D%9A%E5%8F%B2%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+北川　博史,direct_search,high,北川博史 プロフィール 村議,https://x.com/search?q=%E5%8C%97%E5%B7%9D%E5%8D%9A%E5%8F%B2%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+北川　博史,election_search,low,北川　博史 当選 三宅村,https://x.com/search?q=%E5%8C%97%E5%B7%9D%E3%80%80%E5%8D%9A%E5%8F%B2%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+北川　博史,election_search,low,#三宅村選挙 北川　博史,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%8C%97%E5%B7%9D%E3%80%80%E5%8D%9A%E5%8F%B2&f=user
+北川　博史,election_search,low,北川　博史 選挙ポスター,https://x.com/search?q=%E5%8C%97%E5%B7%9D%E3%80%80%E5%8D%9A%E5%8F%B2%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+髙松　秀直,direct_search,high,"""髙松　秀直"" 村議 -RT",https://x.com/search?q=%22%E9%AB%99%E6%9D%BE%E3%80%80%E7%A7%80%E7%9B%B4%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+髙松　秀直,direct_search,high,"""髙松　秀直"" 三宅村 議員",https://x.com/search?q=%22%E9%AB%99%E6%9D%BE%E3%80%80%E7%A7%80%E7%9B%B4%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+髙松　秀直,direct_search,high,髙松秀直 プロフィール 村議,https://x.com/search?q=%E9%AB%99%E6%9D%BE%E7%A7%80%E7%9B%B4%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+髙松　秀直,election_search,low,髙松　秀直 当選 三宅村,https://x.com/search?q=%E9%AB%99%E6%9D%BE%E3%80%80%E7%A7%80%E7%9B%B4%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+髙松　秀直,election_search,low,#三宅村選挙 髙松　秀直,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%AB%99%E6%9D%BE%E3%80%80%E7%A7%80%E7%9B%B4&f=user
+髙松　秀直,election_search,low,髙松　秀直 選挙ポスター,https://x.com/search?q=%E9%AB%99%E6%9D%BE%E3%80%80%E7%A7%80%E7%9B%B4%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+曽我部　宏一,direct_search,high,"""曽我部　宏一"" 村議 -RT",https://x.com/search?q=%22%E6%9B%BD%E6%88%91%E9%83%A8%E3%80%80%E5%AE%8F%E4%B8%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+曽我部　宏一,direct_search,high,"""曽我部　宏一"" 三宅村 議員",https://x.com/search?q=%22%E6%9B%BD%E6%88%91%E9%83%A8%E3%80%80%E5%AE%8F%E4%B8%80%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+曽我部　宏一,direct_search,high,曽我部宏一 プロフィール 村議,https://x.com/search?q=%E6%9B%BD%E6%88%91%E9%83%A8%E5%AE%8F%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+曽我部　宏一,election_search,low,曽我部　宏一 当選 三宅村,https://x.com/search?q=%E6%9B%BD%E6%88%91%E9%83%A8%E3%80%80%E5%AE%8F%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+曽我部　宏一,election_search,low,#三宅村選挙 曽我部　宏一,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%9B%BD%E6%88%91%E9%83%A8%E3%80%80%E5%AE%8F%E4%B8%80&f=user
+曽我部　宏一,election_search,low,曽我部　宏一 選挙ポスター,https://x.com/search?q=%E6%9B%BD%E6%88%91%E9%83%A8%E3%80%80%E5%AE%8F%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+佐久間　正文,direct_search,high,"""佐久間　正文"" 村議 -RT",https://x.com/search?q=%22%E4%BD%90%E4%B9%85%E9%96%93%E3%80%80%E6%AD%A3%E6%96%87%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+佐久間　正文,direct_search,high,"""佐久間　正文"" 三宅村 議員",https://x.com/search?q=%22%E4%BD%90%E4%B9%85%E9%96%93%E3%80%80%E6%AD%A3%E6%96%87%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+佐久間　正文,direct_search,high,佐久間正文 プロフィール 村議,https://x.com/search?q=%E4%BD%90%E4%B9%85%E9%96%93%E6%AD%A3%E6%96%87%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+佐久間　正文,election_search,low,佐久間　正文 当選 三宅村,https://x.com/search?q=%E4%BD%90%E4%B9%85%E9%96%93%E3%80%80%E6%AD%A3%E6%96%87%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+佐久間　正文,election_search,low,#三宅村選挙 佐久間　正文,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E4%BD%90%E4%B9%85%E9%96%93%E3%80%80%E6%AD%A3%E6%96%87&f=user
+佐久間　正文,election_search,low,佐久間　正文 選挙ポスター,https://x.com/search?q=%E4%BD%90%E4%B9%85%E9%96%93%E3%80%80%E6%AD%A3%E6%96%87%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+沖山　肇,direct_search,high,"""沖山　肇"" 村議 -RT",https://x.com/search?q=%22%E6%B2%96%E5%B1%B1%E3%80%80%E8%82%87%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+沖山　肇,direct_search,high,"""沖山　肇"" 三宅村 議員",https://x.com/search?q=%22%E6%B2%96%E5%B1%B1%E3%80%80%E8%82%87%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+沖山　肇,direct_search,high,沖山肇 プロフィール 村議,https://x.com/search?q=%E6%B2%96%E5%B1%B1%E8%82%87%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+沖山　肇,election_search,low,沖山　肇 当選 三宅村,https://x.com/search?q=%E6%B2%96%E5%B1%B1%E3%80%80%E8%82%87%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+沖山　肇,election_search,low,#三宅村選挙 沖山　肇,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%B2%96%E5%B1%B1%E3%80%80%E8%82%87&f=user
+沖山　肇,election_search,low,沖山　肇 選挙ポスター,https://x.com/search?q=%E6%B2%96%E5%B1%B1%E3%80%80%E8%82%87%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+平川　大作,direct_search,high,"""平川　大作"" 村議 -RT",https://x.com/search?q=%22%E5%B9%B3%E5%B7%9D%E3%80%80%E5%A4%A7%E4%BD%9C%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+平川　大作,direct_search,high,"""平川　大作"" 三宅村 議員",https://x.com/search?q=%22%E5%B9%B3%E5%B7%9D%E3%80%80%E5%A4%A7%E4%BD%9C%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+平川　大作,direct_search,high,平川大作 プロフィール 村議,https://x.com/search?q=%E5%B9%B3%E5%B7%9D%E5%A4%A7%E4%BD%9C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+平川　大作,party_search,medium,共産党 三宅村 平川,https://x.com/search?q=%E5%85%B1%E7%94%A3%E5%85%9A%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E5%B9%B3%E5%B7%9D&f=user
+平川　大作,party_search,medium,"""共産党"" メンバー 平川　大作",https://x.com/search?q=%22%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B9%B3%E5%B7%9D%E3%80%80%E5%A4%A7%E4%BD%9C&f=user
+平川　大作,election_search,low,平川　大作 当選 三宅村,https://x.com/search?q=%E5%B9%B3%E5%B7%9D%E3%80%80%E5%A4%A7%E4%BD%9C%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+平川　大作,election_search,low,#三宅村選挙 平川　大作,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B9%B3%E5%B7%9D%E3%80%80%E5%A4%A7%E4%BD%9C&f=user
+平川　大作,election_search,low,平川　大作 選挙ポスター,https://x.com/search?q=%E5%B9%B3%E5%B7%9D%E3%80%80%E5%A4%A7%E4%BD%9C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+谷　寿文,direct_search,high,"""谷　寿文"" 村議 -RT",https://x.com/search?q=%22%E8%B0%B7%E3%80%80%E5%AF%BF%E6%96%87%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+谷　寿文,direct_search,high,"""谷　寿文"" 三宅村 議員",https://x.com/search?q=%22%E8%B0%B7%E3%80%80%E5%AF%BF%E6%96%87%22%20%E4%B8%89%E5%AE%85%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+谷　寿文,direct_search,high,谷寿文 プロフィール 村議,https://x.com/search?q=%E8%B0%B7%E5%AF%BF%E6%96%87%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+谷　寿文,election_search,low,谷　寿文 当選 三宅村,https://x.com/search?q=%E8%B0%B7%E3%80%80%E5%AF%BF%E6%96%87%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E5%AE%85%E6%9D%91&f=user
+谷　寿文,election_search,low,#三宅村選挙 谷　寿文,https://x.com/search?q=%23%E4%B8%89%E5%AE%85%E6%9D%91%E9%81%B8%E6%8C%99%20%E8%B0%B7%E3%80%80%E5%AF%BF%E6%96%87&f=user
+谷　寿文,election_search,low,谷　寿文 選挙ポスター,https://x.com/search?q=%E8%B0%B7%E3%80%80%E5%AF%BF%E6%96%87%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

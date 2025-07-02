@@ -1,0 +1,25 @@
+member_name,strategy_type,priority,query,url
+髙田竜次,direct_search,high,"""髙田竜次"" 村議 -RT",https://x.com/search?q=%22%E9%AB%99%E7%94%B0%E7%AB%9C%E6%AC%A1%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+髙田竜次,direct_search,high,"""髙田竜次"" 利島村 議員",https://x.com/search?q=%22%E9%AB%99%E7%94%B0%E7%AB%9C%E6%AC%A1%22%20%E5%88%A9%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+髙田竜次,direct_search,high,髙田竜次 プロフィール 村議,https://x.com/search?q=%E9%AB%99%E7%94%B0%E7%AB%9C%E6%AC%A1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+髙田竜次,election_search,low,髙田竜次 当選 利島村,https://x.com/search?q=%E9%AB%99%E7%94%B0%E7%AB%9C%E6%AC%A1%20%E5%BD%93%E9%81%B8%20%E5%88%A9%E5%B3%B6%E6%9D%91&f=user
+髙田竜次,election_search,low,#利島村選挙 髙田竜次,https://x.com/search?q=%23%E5%88%A9%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%AB%99%E7%94%B0%E7%AB%9C%E6%AC%A1&f=user
+髙田竜次,election_search,low,髙田竜次 選挙ポスター,https://x.com/search?q=%E9%AB%99%E7%94%B0%E7%AB%9C%E6%AC%A1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木村航大,direct_search,high,"""木村航大"" 村議 -RT",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E8%88%AA%E5%A4%A7%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+木村航大,direct_search,high,"""木村航大"" 利島村 議員",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E8%88%AA%E5%A4%A7%22%20%E5%88%A9%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+木村航大,direct_search,high,木村航大 プロフィール 村議,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E8%88%AA%E5%A4%A7%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+木村航大,election_search,low,木村航大 当選 利島村,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E8%88%AA%E5%A4%A7%20%E5%BD%93%E9%81%B8%20%E5%88%A9%E5%B3%B6%E6%9D%91&f=user
+木村航大,election_search,low,#利島村選挙 木村航大,https://x.com/search?q=%23%E5%88%A9%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%9C%A8%E6%9D%91%E8%88%AA%E5%A4%A7&f=user
+木村航大,election_search,low,木村航大 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E8%88%AA%E5%A4%A7%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石野美由紀,direct_search,high,"""石野美由紀"" 村議 -RT",https://x.com/search?q=%22%E7%9F%B3%E9%87%8E%E7%BE%8E%E7%94%B1%E7%B4%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+石野美由紀,direct_search,high,"""石野美由紀"" 利島村 議員",https://x.com/search?q=%22%E7%9F%B3%E9%87%8E%E7%BE%8E%E7%94%B1%E7%B4%80%22%20%E5%88%A9%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+石野美由紀,direct_search,high,石野美由紀 プロフィール 村議,https://x.com/search?q=%E7%9F%B3%E9%87%8E%E7%BE%8E%E7%94%B1%E7%B4%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+石野美由紀,election_search,low,石野美由紀 当選 利島村,https://x.com/search?q=%E7%9F%B3%E9%87%8E%E7%BE%8E%E7%94%B1%E7%B4%80%20%E5%BD%93%E9%81%B8%20%E5%88%A9%E5%B3%B6%E6%9D%91&f=user
+石野美由紀,election_search,low,#利島村選挙 石野美由紀,https://x.com/search?q=%23%E5%88%A9%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E7%9F%B3%E9%87%8E%E7%BE%8E%E7%94%B1%E7%B4%80&f=user
+石野美由紀,election_search,low,石野美由紀 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E9%87%8E%E7%BE%8E%E7%94%B1%E7%B4%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+井口保,direct_search,high,"""井口保"" 村議 -RT",https://x.com/search?q=%22%E4%BA%95%E5%8F%A3%E4%BF%9D%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+井口保,direct_search,high,"""井口保"" 利島村 議員",https://x.com/search?q=%22%E4%BA%95%E5%8F%A3%E4%BF%9D%22%20%E5%88%A9%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+井口保,direct_search,high,井口保 プロフィール 村議,https://x.com/search?q=%E4%BA%95%E5%8F%A3%E4%BF%9D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+井口保,election_search,low,井口保 当選 利島村,https://x.com/search?q=%E4%BA%95%E5%8F%A3%E4%BF%9D%20%E5%BD%93%E9%81%B8%20%E5%88%A9%E5%B3%B6%E6%9D%91&f=user
+井口保,election_search,low,#利島村選挙 井口保,https://x.com/search?q=%23%E5%88%A9%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E4%BA%95%E5%8F%A3%E4%BF%9D&f=user
+井口保,election_search,low,井口保 選挙ポスター,https://x.com/search?q=%E4%BA%95%E5%8F%A3%E4%BF%9D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

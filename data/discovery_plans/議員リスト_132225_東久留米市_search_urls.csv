@@ -1,0 +1,121 @@
+member_name,strategy_type,priority,query,url
+三浦　猛,direct_search,high,"""三浦　猛"" 市議 -RT",https://x.com/search?q=%22%E4%B8%89%E6%B5%A6%E3%80%80%E7%8C%9B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+三浦　猛,direct_search,high,"""三浦　猛"" 東久留米市 議員",https://x.com/search?q=%22%E4%B8%89%E6%B5%A6%E3%80%80%E7%8C%9B%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+三浦　猛,direct_search,high,三浦猛 プロフィール 市議,https://x.com/search?q=%E4%B8%89%E6%B5%A6%E7%8C%9B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+三浦　猛,party_search,medium,公明党 東久留米市 三浦,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E4%B8%89%E6%B5%A6&f=user
+三浦　猛,party_search,medium,"""公明党"" メンバー 三浦　猛",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%89%E6%B5%A6%E3%80%80%E7%8C%9B&f=user
+三浦　猛,election_search,low,三浦　猛 当選 東久留米市,https://x.com/search?q=%E4%B8%89%E6%B5%A6%E3%80%80%E7%8C%9B%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+三浦　猛,election_search,low,#東久留米市選挙 三浦　猛,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%89%E6%B5%A6%E3%80%80%E7%8C%9B&f=user
+三浦　猛,election_search,low,三浦　猛 選挙ポスター,https://x.com/search?q=%E4%B8%89%E6%B5%A6%E3%80%80%E7%8C%9B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+引間　太一,direct_search,high,"""引間　太一"" 市議 -RT",https://x.com/search?q=%22%E5%BC%95%E9%96%93%E3%80%80%E5%A4%AA%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+引間　太一,direct_search,high,"""引間　太一"" 東久留米市 議員",https://x.com/search?q=%22%E5%BC%95%E9%96%93%E3%80%80%E5%A4%AA%E4%B8%80%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+引間　太一,direct_search,high,引間太一 プロフィール 市議,https://x.com/search?q=%E5%BC%95%E9%96%93%E5%A4%AA%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+引間　太一,party_search,medium,ニューウェーブ 東久留米市 引間,https://x.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E5%BC%95%E9%96%93&f=user
+引間　太一,party_search,medium,"""ニューウェーブ"" メンバー 引間　太一",https://x.com/search?q=%22%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%BC%95%E9%96%93%E3%80%80%E5%A4%AA%E4%B8%80&f=user
+引間　太一,election_search,low,引間　太一 当選 東久留米市,https://x.com/search?q=%E5%BC%95%E9%96%93%E3%80%80%E5%A4%AA%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+引間　太一,election_search,low,#東久留米市選挙 引間　太一,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%BC%95%E9%96%93%E3%80%80%E5%A4%AA%E4%B8%80&f=user
+引間　太一,election_search,low,引間　太一 選挙ポスター,https://x.com/search?q=%E5%BC%95%E9%96%93%E3%80%80%E5%A4%AA%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+佐藤　一郎,direct_search,high,"""佐藤　一郎"" 市議 -RT",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E4%B8%80%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+佐藤　一郎,direct_search,high,"""佐藤　一郎"" 東久留米市 議員",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E4%B8%80%E9%83%8E%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+佐藤　一郎,direct_search,high,佐藤一郎 プロフィール 市議,https://x.com/search?q=%E4%BD%90%E8%97%A4%E4%B8%80%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+佐藤　一郎,party_search,medium,東久留米維新の会 東久留米市 佐藤,https://x.com/search?q=%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E7%B6%AD%E6%96%B0%E3%81%AE%E4%BC%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E4%BD%90%E8%97%A4&f=user
+佐藤　一郎,party_search,medium,"""東久留米維新の会"" メンバー 佐藤　一郎",https://x.com/search?q=%22%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E7%B6%AD%E6%96%B0%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BD%90%E8%97%A4%E3%80%80%E4%B8%80%E9%83%8E&f=user
+佐藤　一郎,election_search,low,佐藤　一郎 当選 東久留米市,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E4%B8%80%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+佐藤　一郎,election_search,low,#東久留米市選挙 佐藤　一郎,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BD%90%E8%97%A4%E3%80%80%E4%B8%80%E9%83%8E&f=user
+佐藤　一郎,election_search,low,佐藤　一郎 選挙ポスター,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E4%B8%80%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+細谷　祥子,direct_search,high,"""細谷　祥子"" 市議 -RT",https://x.com/search?q=%22%E7%B4%B0%E8%B0%B7%E3%80%80%E7%A5%A5%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+細谷　祥子,direct_search,high,"""細谷　祥子"" 東久留米市 議員",https://x.com/search?q=%22%E7%B4%B0%E8%B0%B7%E3%80%80%E7%A5%A5%E5%AD%90%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+細谷　祥子,direct_search,high,細谷祥子 プロフィール 市議,https://x.com/search?q=%E7%B4%B0%E8%B0%B7%E7%A5%A5%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+細谷　祥子,party_search,medium,都民ファーストの会 東久留米市 細谷,https://x.com/search?q=%E9%83%BD%E6%B0%91%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E4%BC%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E7%B4%B0%E8%B0%B7&f=user
+細谷　祥子,party_search,medium,"""都民ファーストの会"" メンバー 細谷　祥子",https://x.com/search?q=%22%E9%83%BD%E6%B0%91%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%B4%B0%E8%B0%B7%E3%80%80%E7%A5%A5%E5%AD%90&f=user
+細谷　祥子,election_search,low,細谷　祥子 当選 東久留米市,https://x.com/search?q=%E7%B4%B0%E8%B0%B7%E3%80%80%E7%A5%A5%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+細谷　祥子,election_search,low,#東久留米市選挙 細谷　祥子,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%B4%B0%E8%B0%B7%E3%80%80%E7%A5%A5%E5%AD%90&f=user
+細谷　祥子,election_search,low,細谷　祥子 選挙ポスター,https://x.com/search?q=%E7%B4%B0%E8%B0%B7%E3%80%80%E7%A5%A5%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鴨志田　芳美,direct_search,high,"""鴨志田　芳美"" 市議 -RT",https://x.com/search?q=%22%E9%B4%A8%E5%BF%97%E7%94%B0%E3%80%80%E8%8A%B3%E7%BE%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+鴨志田　芳美,direct_search,high,"""鴨志田　芳美"" 東久留米市 議員",https://x.com/search?q=%22%E9%B4%A8%E5%BF%97%E7%94%B0%E3%80%80%E8%8A%B3%E7%BE%8E%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+鴨志田　芳美,direct_search,high,鴨志田芳美 プロフィール 市議,https://x.com/search?q=%E9%B4%A8%E5%BF%97%E7%94%B0%E8%8A%B3%E7%BE%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+鴨志田　芳美,party_search,medium,日本共産党 東久留米市 鴨志田,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E9%B4%A8%E5%BF%97%E7%94%B0&f=user
+鴨志田　芳美,party_search,medium,"""日本共産党"" メンバー 鴨志田　芳美",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%B4%A8%E5%BF%97%E7%94%B0%E3%80%80%E8%8A%B3%E7%BE%8E&f=user
+鴨志田　芳美,election_search,low,鴨志田　芳美 当選 東久留米市,https://x.com/search?q=%E9%B4%A8%E5%BF%97%E7%94%B0%E3%80%80%E8%8A%B3%E7%BE%8E%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+鴨志田　芳美,election_search,low,#東久留米市選挙 鴨志田　芳美,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%B4%A8%E5%BF%97%E7%94%B0%E3%80%80%E8%8A%B3%E7%BE%8E&f=user
+鴨志田　芳美,election_search,low,鴨志田　芳美 選挙ポスター,https://x.com/search?q=%E9%B4%A8%E5%BF%97%E7%94%B0%E3%80%80%E8%8A%B3%E7%BE%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+関根　光浩,direct_search,high,"""関根　光浩"" 市議 -RT",https://x.com/search?q=%22%E9%96%A2%E6%A0%B9%E3%80%80%E5%85%89%E6%B5%A9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+関根　光浩,direct_search,high,"""関根　光浩"" 東久留米市 議員",https://x.com/search?q=%22%E9%96%A2%E6%A0%B9%E3%80%80%E5%85%89%E6%B5%A9%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+関根　光浩,direct_search,high,関根光浩 プロフィール 市議,https://x.com/search?q=%E9%96%A2%E6%A0%B9%E5%85%89%E6%B5%A9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+関根　光浩,party_search,medium,公明党 東久留米市 関根,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E9%96%A2%E6%A0%B9&f=user
+関根　光浩,party_search,medium,"""公明党"" メンバー 関根　光浩",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%96%A2%E6%A0%B9%E3%80%80%E5%85%89%E6%B5%A9&f=user
+関根　光浩,election_search,low,関根　光浩 当選 東久留米市,https://x.com/search?q=%E9%96%A2%E6%A0%B9%E3%80%80%E5%85%89%E6%B5%A9%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+関根　光浩,election_search,low,#東久留米市選挙 関根　光浩,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%96%A2%E6%A0%B9%E3%80%80%E5%85%89%E6%B5%A9&f=user
+関根　光浩,election_search,low,関根　光浩 選挙ポスター,https://x.com/search?q=%E9%96%A2%E6%A0%B9%E3%80%80%E5%85%89%E6%B5%A9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+宮川　豊史,direct_search,high,"""宮川　豊史"" 市議 -RT",https://x.com/search?q=%22%E5%AE%AE%E5%B7%9D%E3%80%80%E8%B1%8A%E5%8F%B2%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+宮川　豊史,direct_search,high,"""宮川　豊史"" 東久留米市 議員",https://x.com/search?q=%22%E5%AE%AE%E5%B7%9D%E3%80%80%E8%B1%8A%E5%8F%B2%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+宮川　豊史,direct_search,high,宮川豊史 プロフィール 市議,https://x.com/search?q=%E5%AE%AE%E5%B7%9D%E8%B1%8A%E5%8F%B2%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+宮川　豊史,party_search,medium,久留米ハートネット 東久留米市 宮川,https://x.com/search?q=%E4%B9%85%E7%95%99%E7%B1%B3%E3%83%8F%E3%83%BC%E3%83%88%E3%83%8D%E3%83%83%E3%83%88%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E5%AE%AE%E5%B7%9D&f=user
+宮川　豊史,party_search,medium,"""久留米ハートネット"" メンバー 宮川　豊史",https://x.com/search?q=%22%E4%B9%85%E7%95%99%E7%B1%B3%E3%83%8F%E3%83%BC%E3%83%88%E3%83%8D%E3%83%83%E3%83%88%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%AE%AE%E5%B7%9D%E3%80%80%E8%B1%8A%E5%8F%B2&f=user
+宮川　豊史,election_search,low,宮川　豊史 当選 東久留米市,https://x.com/search?q=%E5%AE%AE%E5%B7%9D%E3%80%80%E8%B1%8A%E5%8F%B2%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+宮川　豊史,election_search,low,#東久留米市選挙 宮川　豊史,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%AE%AE%E5%B7%9D%E3%80%80%E8%B1%8A%E5%8F%B2&f=user
+宮川　豊史,election_search,low,宮川　豊史 選挙ポスター,https://x.com/search?q=%E5%AE%AE%E5%B7%9D%E3%80%80%E8%B1%8A%E5%8F%B2%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+野島　武夫,direct_search,high,"""野島　武夫"" 市議 -RT",https://x.com/search?q=%22%E9%87%8E%E5%B3%B6%E3%80%80%E6%AD%A6%E5%A4%AB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+野島　武夫,direct_search,high,"""野島　武夫"" 東久留米市 議員",https://x.com/search?q=%22%E9%87%8E%E5%B3%B6%E3%80%80%E6%AD%A6%E5%A4%AB%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+野島　武夫,direct_search,high,野島武夫 プロフィール 市議,https://x.com/search?q=%E9%87%8E%E5%B3%B6%E6%AD%A6%E5%A4%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+野島　武夫,party_search,medium,自民クラブ 東久留米市 野島,https://x.com/search?q=%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E9%87%8E%E5%B3%B6&f=user
+野島　武夫,party_search,medium,"""自民クラブ"" メンバー 野島　武夫",https://x.com/search?q=%22%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%87%8E%E5%B3%B6%E3%80%80%E6%AD%A6%E5%A4%AB&f=user
+野島　武夫,election_search,low,野島　武夫 当選 東久留米市,https://x.com/search?q=%E9%87%8E%E5%B3%B6%E3%80%80%E6%AD%A6%E5%A4%AB%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+野島　武夫,election_search,low,#東久留米市選挙 野島　武夫,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%87%8E%E5%B3%B6%E3%80%80%E6%AD%A6%E5%A4%AB&f=user
+野島　武夫,election_search,low,野島　武夫 選挙ポスター,https://x.com/search?q=%E9%87%8E%E5%B3%B6%E3%80%80%E6%AD%A6%E5%A4%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+篠宮　よしのり,direct_search,high,"""篠宮　よしのり"" 市議 -RT",https://x.com/search?q=%22%E7%AF%A0%E5%AE%AE%E3%80%80%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+篠宮　よしのり,direct_search,high,"""篠宮　よしのり"" 東久留米市 議員",https://x.com/search?q=%22%E7%AF%A0%E5%AE%AE%E3%80%80%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+篠宮　よしのり,direct_search,high,篠宮よしのり プロフィール 市議,https://x.com/search?q=%E7%AF%A0%E5%AE%AE%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+篠宮　よしのり,party_search,medium,自民クラブ 東久留米市 篠宮,https://x.com/search?q=%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E7%AF%A0%E5%AE%AE&f=user
+篠宮　よしのり,party_search,medium,"""自民クラブ"" メンバー 篠宮　よしのり",https://x.com/search?q=%22%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%AF%A0%E5%AE%AE%E3%80%80%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A&f=user
+篠宮　よしのり,election_search,low,篠宮　よしのり 当選 東久留米市,https://x.com/search?q=%E7%AF%A0%E5%AE%AE%E3%80%80%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+篠宮　よしのり,election_search,low,#東久留米市選挙 篠宮　よしのり,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%AF%A0%E5%AE%AE%E3%80%80%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A&f=user
+篠宮　よしのり,election_search,low,篠宮　よしのり 選挙ポスター,https://x.com/search?q=%E7%AF%A0%E5%AE%AE%E3%80%80%E3%82%88%E3%81%97%E3%81%AE%E3%82%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+当麻　一哉,direct_search,high,"""当麻　一哉"" 市議 -RT",https://x.com/search?q=%22%E5%BD%93%E9%BA%BB%E3%80%80%E4%B8%80%E5%93%89%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+当麻　一哉,direct_search,high,"""当麻　一哉"" 東久留米市 議員",https://x.com/search?q=%22%E5%BD%93%E9%BA%BB%E3%80%80%E4%B8%80%E5%93%89%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+当麻　一哉,direct_search,high,当麻一哉 プロフィール 市議,https://x.com/search?q=%E5%BD%93%E9%BA%BB%E4%B8%80%E5%93%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+当麻　一哉,party_search,medium,自民クラブ 東久留米市 当麻,https://x.com/search?q=%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E5%BD%93%E9%BA%BB&f=user
+当麻　一哉,party_search,medium,"""自民クラブ"" メンバー 当麻　一哉",https://x.com/search?q=%22%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%BD%93%E9%BA%BB%E3%80%80%E4%B8%80%E5%93%89&f=user
+当麻　一哉,election_search,low,当麻　一哉 当選 東久留米市,https://x.com/search?q=%E5%BD%93%E9%BA%BB%E3%80%80%E4%B8%80%E5%93%89%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+当麻　一哉,election_search,low,#東久留米市選挙 当麻　一哉,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%BD%93%E9%BA%BB%E3%80%80%E4%B8%80%E5%93%89&f=user
+当麻　一哉,election_search,low,当麻　一哉 選挙ポスター,https://x.com/search?q=%E5%BD%93%E9%BA%BB%E3%80%80%E4%B8%80%E5%93%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+沢西　卓哉,direct_search,high,"""沢西　卓哉"" 市議 -RT",https://x.com/search?q=%22%E6%B2%A2%E8%A5%BF%E3%80%80%E5%8D%93%E5%93%89%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+沢西　卓哉,direct_search,high,"""沢西　卓哉"" 東久留米市 議員",https://x.com/search?q=%22%E6%B2%A2%E8%A5%BF%E3%80%80%E5%8D%93%E5%93%89%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+沢西　卓哉,direct_search,high,沢西卓哉 プロフィール 市議,https://x.com/search?q=%E6%B2%A2%E8%A5%BF%E5%8D%93%E5%93%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+沢西　卓哉,party_search,medium,自民クラブ 東久留米市 沢西,https://x.com/search?q=%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E6%B2%A2%E8%A5%BF&f=user
+沢西　卓哉,party_search,medium,"""自民クラブ"" メンバー 沢西　卓哉",https://x.com/search?q=%22%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B2%A2%E8%A5%BF%E3%80%80%E5%8D%93%E5%93%89&f=user
+沢西　卓哉,election_search,low,沢西　卓哉 当選 東久留米市,https://x.com/search?q=%E6%B2%A2%E8%A5%BF%E3%80%80%E5%8D%93%E5%93%89%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+沢西　卓哉,election_search,low,#東久留米市選挙 沢西　卓哉,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B2%A2%E8%A5%BF%E3%80%80%E5%8D%93%E5%93%89&f=user
+沢西　卓哉,election_search,low,沢西　卓哉 選挙ポスター,https://x.com/search?q=%E6%B2%A2%E8%A5%BF%E3%80%80%E5%8D%93%E5%93%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+永田　雅子,direct_search,high,"""永田　雅子"" 市議 -RT",https://x.com/search?q=%22%E6%B0%B8%E7%94%B0%E3%80%80%E9%9B%85%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+永田　雅子,direct_search,high,"""永田　雅子"" 東久留米市 議員",https://x.com/search?q=%22%E6%B0%B8%E7%94%B0%E3%80%80%E9%9B%85%E5%AD%90%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+永田　雅子,direct_search,high,永田雅子 プロフィール 市議,https://x.com/search?q=%E6%B0%B8%E7%94%B0%E9%9B%85%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+永田　雅子,party_search,medium,日本共産党 東久留米市 永田,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E6%B0%B8%E7%94%B0&f=user
+永田　雅子,party_search,medium,"""日本共産党"" メンバー 永田　雅子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B0%B8%E7%94%B0%E3%80%80%E9%9B%85%E5%AD%90&f=user
+永田　雅子,election_search,low,永田　雅子 当選 東久留米市,https://x.com/search?q=%E6%B0%B8%E7%94%B0%E3%80%80%E9%9B%85%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+永田　雅子,election_search,low,#東久留米市選挙 永田　雅子,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B0%B8%E7%94%B0%E3%80%80%E9%9B%85%E5%AD%90&f=user
+永田　雅子,election_search,low,永田　雅子 選挙ポスター,https://x.com/search?q=%E6%B0%B8%E7%94%B0%E3%80%80%E9%9B%85%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+村山　順次郎,direct_search,high,"""村山　順次郎"" 市議 -RT",https://x.com/search?q=%22%E6%9D%91%E5%B1%B1%E3%80%80%E9%A0%86%E6%AC%A1%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+村山　順次郎,direct_search,high,"""村山　順次郎"" 東久留米市 議員",https://x.com/search?q=%22%E6%9D%91%E5%B1%B1%E3%80%80%E9%A0%86%E6%AC%A1%E9%83%8E%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+村山　順次郎,direct_search,high,村山順次郎 プロフィール 市議,https://x.com/search?q=%E6%9D%91%E5%B1%B1%E9%A0%86%E6%AC%A1%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+村山　順次郎,party_search,medium,日本共産党 東久留米市 村山,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E6%9D%91%E5%B1%B1&f=user
+村山　順次郎,party_search,medium,"""日本共産党"" メンバー 村山　順次郎",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9D%91%E5%B1%B1%E3%80%80%E9%A0%86%E6%AC%A1%E9%83%8E&f=user
+村山　順次郎,election_search,low,村山　順次郎 当選 東久留米市,https://x.com/search?q=%E6%9D%91%E5%B1%B1%E3%80%80%E9%A0%86%E6%AC%A1%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+村山　順次郎,election_search,low,#東久留米市選挙 村山　順次郎,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%91%E5%B1%B1%E3%80%80%E9%A0%86%E6%AC%A1%E9%83%8E&f=user
+村山　順次郎,election_search,low,村山　順次郎 選挙ポスター,https://x.com/search?q=%E6%9D%91%E5%B1%B1%E3%80%80%E9%A0%86%E6%AC%A1%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+間宮　美季,direct_search,high,"""間宮　美季"" 市議 -RT",https://x.com/search?q=%22%E9%96%93%E5%AE%AE%E3%80%80%E7%BE%8E%E5%AD%A3%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+間宮　美季,direct_search,high,"""間宮　美季"" 東久留米市 議員",https://x.com/search?q=%22%E9%96%93%E5%AE%AE%E3%80%80%E7%BE%8E%E5%AD%A3%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+間宮　美季,direct_search,high,間宮美季 プロフィール 市議,https://x.com/search?q=%E9%96%93%E5%AE%AE%E7%BE%8E%E5%AD%A3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+間宮　美季,party_search,medium,市民自治フォーラム 東久留米市 間宮,https://x.com/search?q=%E5%B8%82%E6%B0%91%E8%87%AA%E6%B2%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E9%96%93%E5%AE%AE&f=user
+間宮　美季,party_search,medium,"""市民自治フォーラム"" メンバー 間宮　美季",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E8%87%AA%E6%B2%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%96%93%E5%AE%AE%E3%80%80%E7%BE%8E%E5%AD%A3&f=user
+間宮　美季,election_search,low,間宮　美季 当選 東久留米市,https://x.com/search?q=%E9%96%93%E5%AE%AE%E3%80%80%E7%BE%8E%E5%AD%A3%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+間宮　美季,election_search,low,#東久留米市選挙 間宮　美季,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%96%93%E5%AE%AE%E3%80%80%E7%BE%8E%E5%AD%A3&f=user
+間宮　美季,election_search,low,間宮　美季 選挙ポスター,https://x.com/search?q=%E9%96%93%E5%AE%AE%E3%80%80%E7%BE%8E%E5%AD%A3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+沢田　孝康,direct_search,high,"""沢田　孝康"" 市議 -RT",https://x.com/search?q=%22%E6%B2%A2%E7%94%B0%E3%80%80%E5%AD%9D%E5%BA%B7%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+沢田　孝康,direct_search,high,"""沢田　孝康"" 東久留米市 議員",https://x.com/search?q=%22%E6%B2%A2%E7%94%B0%E3%80%80%E5%AD%9D%E5%BA%B7%22%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+沢田　孝康,direct_search,high,沢田孝康 プロフィール 市議,https://x.com/search?q=%E6%B2%A2%E7%94%B0%E5%AD%9D%E5%BA%B7%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+沢田　孝康,party_search,medium,公明党 東久留米市 沢田,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%20%E6%B2%A2%E7%94%B0&f=user
+沢田　孝康,party_search,medium,"""公明党"" メンバー 沢田　孝康",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B2%A2%E7%94%B0%E3%80%80%E5%AD%9D%E5%BA%B7&f=user
+沢田　孝康,election_search,low,沢田　孝康 当選 東久留米市,https://x.com/search?q=%E6%B2%A2%E7%94%B0%E3%80%80%E5%AD%9D%E5%BA%B7%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82&f=user
+沢田　孝康,election_search,low,#東久留米市選挙 沢田　孝康,https://x.com/search?q=%23%E6%9D%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B2%A2%E7%94%B0%E3%80%80%E5%AD%9D%E5%BA%B7&f=user
+沢田　孝康,election_search,low,沢田　孝康 選挙ポスター,https://x.com/search?q=%E6%B2%A2%E7%94%B0%E3%80%80%E5%AD%9D%E5%BA%B7%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

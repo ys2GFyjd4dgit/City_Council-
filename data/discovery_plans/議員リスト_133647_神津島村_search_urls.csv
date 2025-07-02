@@ -1,0 +1,49 @@
+member_name,strategy_type,priority,query,url
+小林　正吾郎,direct_search,high,"""小林　正吾郎"" 村議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E5%90%BE%E9%83%8E%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+小林　正吾郎,direct_search,high,"""小林　正吾郎"" 神津島村 議員",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E5%90%BE%E9%83%8E%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+小林　正吾郎,direct_search,high,小林正吾郎 プロフィール 村議,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E6%AD%A3%E5%90%BE%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+小林　正吾郎,election_search,low,小林　正吾郎 当選 神津島村,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E5%90%BE%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+小林　正吾郎,election_search,low,#神津島村選挙 小林　正吾郎,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E5%90%BE%E9%83%8E&f=user
+小林　正吾郎,election_search,low,小林　正吾郎 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E5%90%BE%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+関　真樹,direct_search,high,"""関　真樹"" 村議 -RT",https://x.com/search?q=%22%E9%96%A2%E3%80%80%E7%9C%9F%E6%A8%B9%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+関　真樹,direct_search,high,"""関　真樹"" 神津島村 議員",https://x.com/search?q=%22%E9%96%A2%E3%80%80%E7%9C%9F%E6%A8%B9%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+関　真樹,direct_search,high,関真樹 プロフィール 村議,https://x.com/search?q=%E9%96%A2%E7%9C%9F%E6%A8%B9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+関　真樹,election_search,low,関　真樹 当選 神津島村,https://x.com/search?q=%E9%96%A2%E3%80%80%E7%9C%9F%E6%A8%B9%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+関　真樹,election_search,low,#神津島村選挙 関　真樹,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%96%A2%E3%80%80%E7%9C%9F%E6%A8%B9&f=user
+関　真樹,election_search,low,関　真樹 選挙ポスター,https://x.com/search?q=%E9%96%A2%E3%80%80%E7%9C%9F%E6%A8%B9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鈴木　佑典,direct_search,high,"""鈴木　佑典"" 村議 -RT",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E4%BD%91%E5%85%B8%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+鈴木　佑典,direct_search,high,"""鈴木　佑典"" 神津島村 議員",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E4%BD%91%E5%85%B8%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+鈴木　佑典,direct_search,high,鈴木佑典 プロフィール 村議,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E4%BD%91%E5%85%B8%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+鈴木　佑典,election_search,low,鈴木　佑典 当選 神津島村,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E4%BD%91%E5%85%B8%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+鈴木　佑典,election_search,low,#神津島村選挙 鈴木　佑典,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%88%B4%E6%9C%A8%E3%80%80%E4%BD%91%E5%85%B8&f=user
+鈴木　佑典,election_search,low,鈴木　佑典 選挙ポスター,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E4%BD%91%E5%85%B8%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+松本　裕一,direct_search,high,"""松本　裕一"" 村議 -RT",https://x.com/search?q=%22%E6%9D%BE%E6%9C%AC%E3%80%80%E8%A3%95%E4%B8%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+松本　裕一,direct_search,high,"""松本　裕一"" 神津島村 議員",https://x.com/search?q=%22%E6%9D%BE%E6%9C%AC%E3%80%80%E8%A3%95%E4%B8%80%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+松本　裕一,direct_search,high,松本裕一 プロフィール 村議,https://x.com/search?q=%E6%9D%BE%E6%9C%AC%E8%A3%95%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+松本　裕一,election_search,low,松本　裕一 当選 神津島村,https://x.com/search?q=%E6%9D%BE%E6%9C%AC%E3%80%80%E8%A3%95%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+松本　裕一,election_search,low,#神津島村選挙 松本　裕一,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%9D%BE%E6%9C%AC%E3%80%80%E8%A3%95%E4%B8%80&f=user
+松本　裕一,election_search,low,松本　裕一 選挙ポスター,https://x.com/search?q=%E6%9D%BE%E6%9C%AC%E3%80%80%E8%A3%95%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鈴木　国忠,direct_search,high,"""鈴木　国忠"" 村議 -RT",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E5%9B%BD%E5%BF%A0%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+鈴木　国忠,direct_search,high,"""鈴木　国忠"" 神津島村 議員",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E5%9B%BD%E5%BF%A0%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+鈴木　国忠,direct_search,high,鈴木国忠 プロフィール 村議,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E5%9B%BD%E5%BF%A0%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+鈴木　国忠,election_search,low,鈴木　国忠 当選 神津島村,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E5%9B%BD%E5%BF%A0%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+鈴木　国忠,election_search,low,#神津島村選挙 鈴木　国忠,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%88%B4%E6%9C%A8%E3%80%80%E5%9B%BD%E5%BF%A0&f=user
+鈴木　国忠,election_search,low,鈴木　国忠 選挙ポスター,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E5%9B%BD%E5%BF%A0%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+浜川　芳光,direct_search,high,"""浜川　芳光"" 村議 -RT",https://x.com/search?q=%22%E6%B5%9C%E5%B7%9D%E3%80%80%E8%8A%B3%E5%85%89%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+浜川　芳光,direct_search,high,"""浜川　芳光"" 神津島村 議員",https://x.com/search?q=%22%E6%B5%9C%E5%B7%9D%E3%80%80%E8%8A%B3%E5%85%89%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+浜川　芳光,direct_search,high,浜川芳光 プロフィール 村議,https://x.com/search?q=%E6%B5%9C%E5%B7%9D%E8%8A%B3%E5%85%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+浜川　芳光,election_search,low,浜川　芳光 当選 神津島村,https://x.com/search?q=%E6%B5%9C%E5%B7%9D%E3%80%80%E8%8A%B3%E5%85%89%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+浜川　芳光,election_search,low,#神津島村選挙 浜川　芳光,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%B5%9C%E5%B7%9D%E3%80%80%E8%8A%B3%E5%85%89&f=user
+浜川　芳光,election_search,low,浜川　芳光 選挙ポスター,https://x.com/search?q=%E6%B5%9C%E5%B7%9D%E3%80%80%E8%8A%B3%E5%85%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水　勝彦,direct_search,high,"""清水　勝彦"" 村議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%9D%E5%BD%A6%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+清水　勝彦,direct_search,high,"""清水　勝彦"" 神津島村 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%9D%E5%BD%A6%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+清水　勝彦,direct_search,high,清水勝彦 プロフィール 村議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E5%8B%9D%E5%BD%A6%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+清水　勝彦,election_search,low,清水　勝彦 当選 神津島村,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%9D%E5%BD%A6%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+清水　勝彦,election_search,low,#神津島村選挙 清水　勝彦,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%9D%E5%BD%A6&f=user
+清水　勝彦,election_search,low,清水　勝彦 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%9D%E5%BD%A6%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水　勉,direct_search,high,"""清水　勉"" 村議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%89%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+清水　勉,direct_search,high,"""清水　勉"" 神津島村 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%89%22%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+清水　勉,direct_search,high,清水勉 プロフィール 村議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E5%8B%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+清水　勉,election_search,low,清水　勉 当選 神津島村,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%89%20%E5%BD%93%E9%81%B8%20%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91&f=user
+清水　勉,election_search,low,#神津島村選挙 清水　勉,https://x.com/search?q=%23%E7%A5%9E%E6%B4%A5%E5%B3%B6%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%89&f=user
+清水　勉,election_search,low,清水　勉 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E5%8B%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

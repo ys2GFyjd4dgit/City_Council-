@@ -1,0 +1,81 @@
+member_name,strategy_type,priority,query,url
+蔵野　恵美子,direct_search,high,"""蔵野　恵美子"" 市議 -RT",https://x.com/search?q=%22%E8%94%B5%E9%87%8E%E3%80%80%E6%81%B5%E7%BE%8E%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+蔵野　恵美子,direct_search,high,"""蔵野　恵美子"" 武蔵野市 議員",https://x.com/search?q=%22%E8%94%B5%E9%87%8E%E3%80%80%E6%81%B5%E7%BE%8E%E5%AD%90%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+蔵野　恵美子,direct_search,high,蔵野恵美子 プロフィール 市議,https://x.com/search?q=%E8%94%B5%E9%87%8E%E6%81%B5%E7%BE%8E%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+蔵野　恵美子,party_search,medium,立憲民主ネット 武蔵野市 蔵野,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E3%83%8D%E3%83%83%E3%83%88%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%94%B5%E9%87%8E&f=user
+蔵野　恵美子,party_search,medium,"""立憲民主ネット"" メンバー 蔵野　恵美子",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E3%83%8D%E3%83%83%E3%83%88%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%94%B5%E9%87%8E%E3%80%80%E6%81%B5%E7%BE%8E%E5%AD%90&f=user
+蔵野　恵美子,election_search,low,蔵野　恵美子 当選 武蔵野市,https://x.com/search?q=%E8%94%B5%E9%87%8E%E3%80%80%E6%81%B5%E7%BE%8E%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+蔵野　恵美子,election_search,low,#武蔵野市選挙 蔵野　恵美子,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%94%B5%E9%87%8E%E3%80%80%E6%81%B5%E7%BE%8E%E5%AD%90&f=user
+蔵野　恵美子,election_search,low,蔵野　恵美子 選挙ポスター,https://x.com/search?q=%E8%94%B5%E9%87%8E%E3%80%80%E6%81%B5%E7%BE%8E%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+西園寺　みきこ,direct_search,high,"""西園寺　みきこ"" 市議 -RT",https://x.com/search?q=%22%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%80%80%E3%81%BF%E3%81%8D%E3%81%93%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+西園寺　みきこ,direct_search,high,"""西園寺　みきこ"" 武蔵野市 議員",https://x.com/search?q=%22%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%80%80%E3%81%BF%E3%81%8D%E3%81%93%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+西園寺　みきこ,direct_search,high,西園寺みきこ プロフィール 市議,https://x.com/search?q=%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%81%BF%E3%81%8D%E3%81%93%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+西園寺　みきこ,party_search,medium,立憲民主ネット 武蔵野市 西園寺,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E3%83%8D%E3%83%83%E3%83%88%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%A5%BF%E5%9C%92%E5%AF%BA&f=user
+西園寺　みきこ,party_search,medium,"""立憲民主ネット"" メンバー 西園寺　みきこ",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E3%83%8D%E3%83%83%E3%83%88%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%80%80%E3%81%BF%E3%81%8D%E3%81%93&f=user
+西園寺　みきこ,election_search,low,西園寺　みきこ 当選 武蔵野市,https://x.com/search?q=%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%80%80%E3%81%BF%E3%81%8D%E3%81%93%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+西園寺　みきこ,election_search,low,#武蔵野市選挙 西園寺　みきこ,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%80%80%E3%81%BF%E3%81%8D%E3%81%93&f=user
+西園寺　みきこ,election_search,low,西園寺　みきこ 選挙ポスター,https://x.com/search?q=%E8%A5%BF%E5%9C%92%E5%AF%BA%E3%80%80%E3%81%BF%E3%81%8D%E3%81%93%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+深沢　達也,direct_search,high,"""深沢　達也"" 市議 -RT",https://x.com/search?q=%22%E6%B7%B1%E6%B2%A2%E3%80%80%E9%81%94%E4%B9%9F%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+深沢　達也,direct_search,high,"""深沢　達也"" 武蔵野市 議員",https://x.com/search?q=%22%E6%B7%B1%E6%B2%A2%E3%80%80%E9%81%94%E4%B9%9F%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+深沢　達也,direct_search,high,深沢達也 プロフィール 市議,https://x.com/search?q=%E6%B7%B1%E6%B2%A2%E9%81%94%E4%B9%9F%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+深沢　達也,party_search,medium,立憲民主ネット 武蔵野市 深沢,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E3%83%8D%E3%83%83%E3%83%88%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E6%B7%B1%E6%B2%A2&f=user
+深沢　達也,party_search,medium,"""立憲民主ネット"" メンバー 深沢　達也",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E3%83%8D%E3%83%83%E3%83%88%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B7%B1%E6%B2%A2%E3%80%80%E9%81%94%E4%B9%9F&f=user
+深沢　達也,election_search,low,深沢　達也 当選 武蔵野市,https://x.com/search?q=%E6%B7%B1%E6%B2%A2%E3%80%80%E9%81%94%E4%B9%9F%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+深沢　達也,election_search,low,#武蔵野市選挙 深沢　達也,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B7%B1%E6%B2%A2%E3%80%80%E9%81%94%E4%B9%9F&f=user
+深沢　達也,election_search,low,深沢　達也 選挙ポスター,https://x.com/search?q=%E6%B7%B1%E6%B2%A2%E3%80%80%E9%81%94%E4%B9%9F%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+与座　武,direct_search,high,"""与座　武"" 市議 -RT",https://x.com/search?q=%22%E4%B8%8E%E5%BA%A7%E3%80%80%E6%AD%A6%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+与座　武,direct_search,high,"""与座　武"" 武蔵野市 議員",https://x.com/search?q=%22%E4%B8%8E%E5%BA%A7%E3%80%80%E6%AD%A6%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+与座　武,direct_search,high,与座武 プロフィール 市議,https://x.com/search?q=%E4%B8%8E%E5%BA%A7%E6%AD%A6%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+与座　武,party_search,medium,自由民主・市民クラブ 武蔵野市 与座,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E4%B8%8E%E5%BA%A7&f=user
+与座　武,party_search,medium,"""自由民主・市民クラブ"" メンバー 与座　武",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%8E%E5%BA%A7%E3%80%80%E6%AD%A6&f=user
+与座　武,election_search,low,与座　武 当選 武蔵野市,https://x.com/search?q=%E4%B8%8E%E5%BA%A7%E3%80%80%E6%AD%A6%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+与座　武,election_search,low,#武蔵野市選挙 与座　武,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%8E%E5%BA%A7%E3%80%80%E6%AD%A6&f=user
+与座　武,election_search,low,与座　武 選挙ポスター,https://x.com/search?q=%E4%B8%8E%E5%BA%A7%E3%80%80%E6%AD%A6%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+道場　ひでのり,direct_search,high,"""道場　ひでのり"" 市議 -RT",https://x.com/search?q=%22%E9%81%93%E5%A0%B4%E3%80%80%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+道場　ひでのり,direct_search,high,"""道場　ひでのり"" 武蔵野市 議員",https://x.com/search?q=%22%E9%81%93%E5%A0%B4%E3%80%80%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+道場　ひでのり,direct_search,high,道場ひでのり プロフィール 市議,https://x.com/search?q=%E9%81%93%E5%A0%B4%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+道場　ひでのり,party_search,medium,自由民主・市民クラブ 武蔵野市 道場,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E9%81%93%E5%A0%B4&f=user
+道場　ひでのり,party_search,medium,"""自由民主・市民クラブ"" メンバー 道場　ひでのり",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%81%93%E5%A0%B4%E3%80%80%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A&f=user
+道場　ひでのり,election_search,low,道場　ひでのり 当選 武蔵野市,https://x.com/search?q=%E9%81%93%E5%A0%B4%E3%80%80%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+道場　ひでのり,election_search,low,#武蔵野市選挙 道場　ひでのり,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%81%93%E5%A0%B4%E3%80%80%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A&f=user
+道場　ひでのり,election_search,low,道場　ひでのり 選挙ポスター,https://x.com/search?q=%E9%81%93%E5%A0%B4%E3%80%80%E3%81%B2%E3%81%A7%E3%81%AE%E3%82%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+きくち　由美子,direct_search,high,"""きくち　由美子"" 市議 -RT",https://x.com/search?q=%22%E3%81%8D%E3%81%8F%E3%81%A1%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+きくち　由美子,direct_search,high,"""きくち　由美子"" 武蔵野市 議員",https://x.com/search?q=%22%E3%81%8D%E3%81%8F%E3%81%A1%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+きくち　由美子,direct_search,high,きくち由美子 プロフィール 市議,https://x.com/search?q=%E3%81%8D%E3%81%8F%E3%81%A1%E7%94%B1%E7%BE%8E%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+きくち　由美子,party_search,medium,自由民主・市民クラブ 武蔵野市 きくち,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E3%81%8D%E3%81%8F%E3%81%A1&f=user
+きくち　由美子,party_search,medium,"""自由民主・市民クラブ"" メンバー きくち　由美子",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%8D%E3%81%8F%E3%81%A1%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90&f=user
+きくち　由美子,election_search,low,きくち　由美子 当選 武蔵野市,https://x.com/search?q=%E3%81%8D%E3%81%8F%E3%81%A1%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+きくち　由美子,election_search,low,#武蔵野市選挙 きくち　由美子,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%8D%E3%81%8F%E3%81%A1%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90&f=user
+きくち　由美子,election_search,low,きくち　由美子 選挙ポスター,https://x.com/search?q=%E3%81%8D%E3%81%8F%E3%81%A1%E3%80%80%E7%94%B1%E7%BE%8E%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木崎　剛,direct_search,high,"""木崎　剛"" 市議 -RT",https://x.com/search?q=%22%E6%9C%A8%E5%B4%8E%E3%80%80%E5%89%9B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+木崎　剛,direct_search,high,"""木崎　剛"" 武蔵野市 議員",https://x.com/search?q=%22%E6%9C%A8%E5%B4%8E%E3%80%80%E5%89%9B%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+木崎　剛,direct_search,high,木崎剛 プロフィール 市議,https://x.com/search?q=%E6%9C%A8%E5%B4%8E%E5%89%9B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+木崎　剛,party_search,medium,自由民主・市民クラブ 武蔵野市 木崎,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E6%9C%A8%E5%B4%8E&f=user
+木崎　剛,party_search,medium,"""自由民主・市民クラブ"" メンバー 木崎　剛",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E3%83%BB%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9C%A8%E5%B4%8E%E3%80%80%E5%89%9B&f=user
+木崎　剛,election_search,low,木崎　剛 当選 武蔵野市,https://x.com/search?q=%E6%9C%A8%E5%B4%8E%E3%80%80%E5%89%9B%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+木崎　剛,election_search,low,#武蔵野市選挙 木崎　剛,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9C%A8%E5%B4%8E%E3%80%80%E5%89%9B&f=user
+木崎　剛,election_search,low,木崎　剛 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E5%B4%8E%E3%80%80%E5%89%9B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+本間　まさよ,direct_search,high,"""本間　まさよ"" 市議 -RT",https://x.com/search?q=%22%E6%9C%AC%E9%96%93%E3%80%80%E3%81%BE%E3%81%95%E3%82%88%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+本間　まさよ,direct_search,high,"""本間　まさよ"" 武蔵野市 議員",https://x.com/search?q=%22%E6%9C%AC%E9%96%93%E3%80%80%E3%81%BE%E3%81%95%E3%82%88%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+本間　まさよ,direct_search,high,本間まさよ プロフィール 市議,https://x.com/search?q=%E6%9C%AC%E9%96%93%E3%81%BE%E3%81%95%E3%82%88%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+本間　まさよ,party_search,medium,日本共産党武蔵野市議団 武蔵野市 本間,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E8%AD%B0%E5%9B%A3%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E6%9C%AC%E9%96%93&f=user
+本間　まさよ,party_search,medium,"""日本共産党武蔵野市議団"" メンバー 本間　まさよ",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E8%AD%B0%E5%9B%A3%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9C%AC%E9%96%93%E3%80%80%E3%81%BE%E3%81%95%E3%82%88&f=user
+本間　まさよ,election_search,low,本間　まさよ 当選 武蔵野市,https://x.com/search?q=%E6%9C%AC%E9%96%93%E3%80%80%E3%81%BE%E3%81%95%E3%82%88%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+本間　まさよ,election_search,low,#武蔵野市選挙 本間　まさよ,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9C%AC%E9%96%93%E3%80%80%E3%81%BE%E3%81%95%E3%82%88&f=user
+本間　まさよ,election_search,low,本間　まさよ 選挙ポスター,https://x.com/search?q=%E6%9C%AC%E9%96%93%E3%80%80%E3%81%BE%E3%81%95%E3%82%88%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+宮代　一利,direct_search,high,"""宮代　一利"" 市議 -RT",https://x.com/search?q=%22%E5%AE%AE%E4%BB%A3%E3%80%80%E4%B8%80%E5%88%A9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+宮代　一利,direct_search,high,"""宮代　一利"" 武蔵野市 議員",https://x.com/search?q=%22%E5%AE%AE%E4%BB%A3%E3%80%80%E4%B8%80%E5%88%A9%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+宮代　一利,direct_search,high,宮代一利 プロフィール 市議,https://x.com/search?q=%E5%AE%AE%E4%BB%A3%E4%B8%80%E5%88%A9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+宮代　一利,party_search,medium,ワクワクはたらく 武蔵野市 宮代,https://x.com/search?q=%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E5%AE%AE%E4%BB%A3&f=user
+宮代　一利,party_search,medium,"""ワクワクはたらく"" メンバー 宮代　一利",https://x.com/search?q=%22%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E3%81%AF%E3%81%9F%E3%82%89%E3%81%8F%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%AE%AE%E4%BB%A3%E3%80%80%E4%B8%80%E5%88%A9&f=user
+宮代　一利,election_search,low,宮代　一利 当選 武蔵野市,https://x.com/search?q=%E5%AE%AE%E4%BB%A3%E3%80%80%E4%B8%80%E5%88%A9%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+宮代　一利,election_search,low,#武蔵野市選挙 宮代　一利,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%AE%AE%E4%BB%A3%E3%80%80%E4%B8%80%E5%88%A9&f=user
+宮代　一利,election_search,low,宮代　一利 選挙ポスター,https://x.com/search?q=%E5%AE%AE%E4%BB%A3%E3%80%80%E4%B8%80%E5%88%A9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+下田　ひろき,direct_search,high,"""下田　ひろき"" 市議 -RT",https://x.com/search?q=%22%E4%B8%8B%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+下田　ひろき,direct_search,high,"""下田　ひろき"" 武蔵野市 議員",https://x.com/search?q=%22%E4%B8%8B%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%8D%22%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+下田　ひろき,direct_search,high,下田ひろき プロフィール 市議,https://x.com/search?q=%E4%B8%8B%E7%94%B0%E3%81%B2%E3%82%8D%E3%81%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+下田　ひろき,party_search,medium,会派に属さない議員 武蔵野市 下田,https://x.com/search?q=%E4%BC%9A%E6%B4%BE%E3%81%AB%E5%B1%9E%E3%81%95%E3%81%AA%E3%81%84%E8%AD%B0%E5%93%A1%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%20%E4%B8%8B%E7%94%B0&f=user
+下田　ひろき,party_search,medium,"""会派に属さない議員"" メンバー 下田　ひろき",https://x.com/search?q=%22%E4%BC%9A%E6%B4%BE%E3%81%AB%E5%B1%9E%E3%81%95%E3%81%AA%E3%81%84%E8%AD%B0%E5%93%A1%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%8B%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%8D&f=user
+下田　ひろき,election_search,low,下田　ひろき 当選 武蔵野市,https://x.com/search?q=%E4%B8%8B%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%8D%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82&f=user
+下田　ひろき,election_search,low,#武蔵野市選挙 下田　ひろき,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%8B%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%8D&f=user
+下田　ひろき,election_search,low,下田　ひろき 選挙ポスター,https://x.com/search?q=%E4%B8%8B%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
