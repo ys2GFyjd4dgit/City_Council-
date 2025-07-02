@@ -180,7 +180,6 @@ class AutomatedXAccountFinder:
         chrome_options.add_argument('--disable-extensions')
         chrome_options.add_argument('--disable-plugins')
         chrome_options.add_argument('--disable-images')
-        chrome_options.add_argument('--disable-javascript')
         chrome_options.add_argument('--disable-web-security')
         chrome_options.add_argument('--allow-running-insecure-content')
         chrome_options.add_argument('--ignore-certificate-errors')
@@ -189,6 +188,10 @@ class AutomatedXAccountFinder:
         chrome_options.add_argument('--window-size=1920,1080')
         chrome_options.add_argument('--remote-debugging-port=9222')
         chrome_options.add_argument('--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36')
+        
+        chrome_options.add_argument('--disable-blink-features=AutomationControlled')
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        chrome_options.add_experimental_option('useAutomationExtension', False)
         
         service = Service(ChromeDriverManager().install())
         self.driver = webdriver.Chrome(service=service, options=chrome_options)
