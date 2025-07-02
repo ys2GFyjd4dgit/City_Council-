@@ -4,6 +4,9 @@
 
 > **AI開発者の方へ**: このプロジェクトはAIによる編集を想定しています。
 > 詳しい編集ガイドは[docs/AI_GUIDE.md](docs/AI_GUIDE.md)をご覧ください。
+> 
+> **🤖 Devinで作業する方へ**: データ更新時の重要な注意事項があります。
+> 必ず[DEVIN_GUIDELINES.md](DEVIN_GUIDELINES.md)を確認してから作業を開始してください。
 
 ## 📊 データビューア
 
@@ -218,3 +221,4 @@ python scripts/validate_data.py
 - [自治体コード一覧](docs/MUNICIPALITY_CODES.md) - 自治体コードの参照
 - [作業フロー](docs/WORKFLOW.md) - 新規データ追加の詳細手順
 - [Claude用指示書](CLAUDE.md) - Claude Code専用の指示書
+- [Devin向けガイドライン](DEVIN_GUIDELINES.md) - Devin AI専用の詳細な作業ガイドライン ⚠️**必読**
