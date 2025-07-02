@@ -1,0 +1,73 @@
+member_name,strategy_type,priority,query,url
+小林　澄子,direct_search,high,"""小林　澄子"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E6%BE%84%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小林　澄子,direct_search,high,"""小林　澄子"" 所沢市 議員",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E6%BE%84%E5%AD%90%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小林　澄子,direct_search,high,小林澄子 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E6%BE%84%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小林　澄子,party_search,medium,日本共産党 所沢市 小林,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E5%B0%8F%E6%9E%97&f=user
+小林　澄子,party_search,medium,"""日本共産党"" メンバー 小林　澄子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E6%9E%97%E3%80%80%E6%BE%84%E5%AD%90&f=user
+小林　澄子,election_search,low,小林　澄子 当選 所沢市,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E6%BE%84%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+小林　澄子,election_search,low,#所沢市選挙 小林　澄子,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%9E%97%E3%80%80%E6%BE%84%E5%AD%90&f=user
+小林　澄子,election_search,low,小林　澄子 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E6%BE%84%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+植竹　成年,direct_search,high,"""植竹　成年"" 市議 -RT",https://x.com/search?q=%22%E6%A4%8D%E7%AB%B9%E3%80%80%E6%88%90%E5%B9%B4%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+植竹　成年,direct_search,high,"""植竹　成年"" 所沢市 議員",https://x.com/search?q=%22%E6%A4%8D%E7%AB%B9%E3%80%80%E6%88%90%E5%B9%B4%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+植竹　成年,direct_search,high,植竹成年 プロフィール 市議,https://x.com/search?q=%E6%A4%8D%E7%AB%B9%E6%88%90%E5%B9%B4%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+植竹　成年,party_search,medium,公明党 所沢市 植竹,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E6%A4%8D%E7%AB%B9&f=user
+植竹　成年,party_search,medium,"""公明党"" メンバー 植竹　成年",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A4%8D%E7%AB%B9%E3%80%80%E6%88%90%E5%B9%B4&f=user
+植竹　成年,election_search,low,植竹　成年 当選 所沢市,https://x.com/search?q=%E6%A4%8D%E7%AB%B9%E3%80%80%E6%88%90%E5%B9%B4%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+植竹　成年,election_search,low,#所沢市選挙 植竹　成年,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A4%8D%E7%AB%B9%E3%80%80%E6%88%90%E5%B9%B4&f=user
+植竹　成年,election_search,low,植竹　成年 選挙ポスター,https://x.com/search?q=%E6%A4%8D%E7%AB%B9%E3%80%80%E6%88%90%E5%B9%B4%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大庭　祥照,direct_search,high,"""大庭　祥照"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E5%BA%AD%E3%80%80%E7%A5%A5%E7%85%A7%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大庭　祥照,direct_search,high,"""大庭　祥照"" 所沢市 議員",https://x.com/search?q=%22%E5%A4%A7%E5%BA%AD%E3%80%80%E7%A5%A5%E7%85%A7%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大庭　祥照,direct_search,high,大庭祥照 プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E5%BA%AD%E7%A5%A5%E7%85%A7%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大庭　祥照,party_search,medium,自由民主党・維新・参政・無所属の会 所沢市 大庭,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E3%83%BB%E7%B6%AD%E6%96%B0%E3%83%BB%E5%8F%82%E6%94%BF%E3%83%BB%E7%84%A1%E6%89%80%E5%B1%9E%E3%81%AE%E4%BC%9A%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E5%A4%A7%E5%BA%AD&f=user
+大庭　祥照,party_search,medium,"""自由民主党・維新・参政・無所属の会"" メンバー 大庭　祥照",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E3%83%BB%E7%B6%AD%E6%96%B0%E3%83%BB%E5%8F%82%E6%94%BF%E3%83%BB%E7%84%A1%E6%89%80%E5%B1%9E%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E5%BA%AD%E3%80%80%E7%A5%A5%E7%85%A7&f=user
+大庭　祥照,election_search,low,大庭　祥照 当選 所沢市,https://x.com/search?q=%E5%A4%A7%E5%BA%AD%E3%80%80%E7%A5%A5%E7%85%A7%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+大庭　祥照,election_search,low,#所沢市選挙 大庭　祥照,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E5%BA%AD%E3%80%80%E7%A5%A5%E7%85%A7&f=user
+大庭　祥照,election_search,low,大庭　祥照 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E5%BA%AD%E3%80%80%E7%A5%A5%E7%85%A7%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大石　健一,direct_search,high,"""大石　健一"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E7%9F%B3%E3%80%80%E5%81%A5%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大石　健一,direct_search,high,"""大石　健一"" 所沢市 議員",https://x.com/search?q=%22%E5%A4%A7%E7%9F%B3%E3%80%80%E5%81%A5%E4%B8%80%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大石　健一,direct_search,high,大石健一 プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E7%9F%B3%E5%81%A5%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大石　健一,party_search,medium,至誠自民クラブ 所沢市 大石,https://x.com/search?q=%E8%87%B3%E8%AA%A0%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E5%A4%A7%E7%9F%B3&f=user
+大石　健一,party_search,medium,"""至誠自民クラブ"" メンバー 大石　健一",https://x.com/search?q=%22%E8%87%B3%E8%AA%A0%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E7%9F%B3%E3%80%80%E5%81%A5%E4%B8%80&f=user
+大石　健一,election_search,low,大石　健一 当選 所沢市,https://x.com/search?q=%E5%A4%A7%E7%9F%B3%E3%80%80%E5%81%A5%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+大石　健一,election_search,low,#所沢市選挙 大石　健一,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E7%9F%B3%E3%80%80%E5%81%A5%E4%B8%80&f=user
+大石　健一,election_search,low,大石　健一 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E7%9F%B3%E3%80%80%E5%81%A5%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山口　浩美,direct_search,high,"""山口　浩美"" 市議 -RT",https://x.com/search?q=%22%E5%B1%B1%E5%8F%A3%E3%80%80%E6%B5%A9%E7%BE%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+山口　浩美,direct_search,high,"""山口　浩美"" 所沢市 議員",https://x.com/search?q=%22%E5%B1%B1%E5%8F%A3%E3%80%80%E6%B5%A9%E7%BE%8E%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+山口　浩美,direct_search,high,山口浩美 プロフィール 市議,https://x.com/search?q=%E5%B1%B1%E5%8F%A3%E6%B5%A9%E7%BE%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+山口　浩美,party_search,medium,公明党 所沢市 山口,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E5%B1%B1%E5%8F%A3&f=user
+山口　浩美,party_search,medium,"""公明党"" メンバー 山口　浩美",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E5%8F%A3%E3%80%80%E6%B5%A9%E7%BE%8E&f=user
+山口　浩美,election_search,low,山口　浩美 当選 所沢市,https://x.com/search?q=%E5%B1%B1%E5%8F%A3%E3%80%80%E6%B5%A9%E7%BE%8E%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+山口　浩美,election_search,low,#所沢市選挙 山口　浩美,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B1%B1%E5%8F%A3%E3%80%80%E6%B5%A9%E7%BE%8E&f=user
+山口　浩美,election_search,low,山口　浩美 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E5%8F%A3%E3%80%80%E6%B5%A9%E7%BE%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中　毅志,direct_search,high,"""中　毅志"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E3%80%80%E6%AF%85%E5%BF%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中　毅志,direct_search,high,"""中　毅志"" 所沢市 議員",https://x.com/search?q=%22%E4%B8%AD%E3%80%80%E6%AF%85%E5%BF%97%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中　毅志,direct_search,high,中毅志 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E6%AF%85%E5%BF%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中　毅志,party_search,medium,市民クラブ未来 所沢市 中,https://x.com/search?q=%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%E6%9C%AA%E6%9D%A5%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E4%B8%AD&f=user
+中　毅志,party_search,medium,"""市民クラブ未来"" メンバー 中　毅志",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%E6%9C%AA%E6%9D%A5%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E3%80%80%E6%AF%85%E5%BF%97&f=user
+中　毅志,election_search,low,中　毅志 当選 所沢市,https://x.com/search?q=%E4%B8%AD%E3%80%80%E6%AF%85%E5%BF%97%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+中　毅志,election_search,low,#所沢市選挙 中　毅志,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E3%80%80%E6%AF%85%E5%BF%97&f=user
+中　毅志,election_search,low,中　毅志 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E3%80%80%E6%AF%85%E5%BF%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+青木　利幸,direct_search,high,"""青木　利幸"" 市議 -RT",https://x.com/search?q=%22%E9%9D%92%E6%9C%A8%E3%80%80%E5%88%A9%E5%B9%B8%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+青木　利幸,direct_search,high,"""青木　利幸"" 所沢市 議員",https://x.com/search?q=%22%E9%9D%92%E6%9C%A8%E3%80%80%E5%88%A9%E5%B9%B8%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+青木　利幸,direct_search,high,青木利幸 プロフィール 市議,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E5%88%A9%E5%B9%B8%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+青木　利幸,party_search,medium,市民クラブ未来 所沢市 青木,https://x.com/search?q=%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%E6%9C%AA%E6%9D%A5%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E9%9D%92%E6%9C%A8&f=user
+青木　利幸,party_search,medium,"""市民クラブ未来"" メンバー 青木　利幸",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%E6%9C%AA%E6%9D%A5%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%9D%92%E6%9C%A8%E3%80%80%E5%88%A9%E5%B9%B8&f=user
+青木　利幸,election_search,low,青木　利幸 当選 所沢市,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E3%80%80%E5%88%A9%E5%B9%B8%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+青木　利幸,election_search,low,#所沢市選挙 青木　利幸,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%9D%92%E6%9C%A8%E3%80%80%E5%88%A9%E5%B9%B8&f=user
+青木　利幸,election_search,low,青木　利幸 選挙ポスター,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E3%80%80%E5%88%A9%E5%B9%B8%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大舘　隆行,direct_search,high,"""大舘　隆行"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E8%88%98%E3%80%80%E9%9A%86%E8%A1%8C%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大舘　隆行,direct_search,high,"""大舘　隆行"" 所沢市 議員",https://x.com/search?q=%22%E5%A4%A7%E8%88%98%E3%80%80%E9%9A%86%E8%A1%8C%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大舘　隆行,direct_search,high,大舘隆行 プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E8%88%98%E9%9A%86%E8%A1%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大舘　隆行,party_search,medium,至誠自民クラブ 所沢市 大舘,https://x.com/search?q=%E8%87%B3%E8%AA%A0%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E5%A4%A7%E8%88%98&f=user
+大舘　隆行,party_search,medium,"""至誠自民クラブ"" メンバー 大舘　隆行",https://x.com/search?q=%22%E8%87%B3%E8%AA%A0%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E8%88%98%E3%80%80%E9%9A%86%E8%A1%8C&f=user
+大舘　隆行,election_search,low,大舘　隆行 当選 所沢市,https://x.com/search?q=%E5%A4%A7%E8%88%98%E3%80%80%E9%9A%86%E8%A1%8C%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+大舘　隆行,election_search,low,#所沢市選挙 大舘　隆行,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E8%88%98%E3%80%80%E9%9A%86%E8%A1%8C&f=user
+大舘　隆行,election_search,low,大舘　隆行 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E8%88%98%E3%80%80%E9%9A%86%E8%A1%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+秋田　孝,direct_search,high,"""秋田　孝"" 市議 -RT",https://x.com/search?q=%22%E7%A7%8B%E7%94%B0%E3%80%80%E5%AD%9D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+秋田　孝,direct_search,high,"""秋田　孝"" 所沢市 議員",https://x.com/search?q=%22%E7%A7%8B%E7%94%B0%E3%80%80%E5%AD%9D%22%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+秋田　孝,direct_search,high,秋田孝 プロフィール 市議,https://x.com/search?q=%E7%A7%8B%E7%94%B0%E5%AD%9D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+秋田　孝,party_search,medium,至誠自民クラブ 所沢市 秋田,https://x.com/search?q=%E8%87%B3%E8%AA%A0%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%89%80%E6%B2%A2%E5%B8%82%20%E7%A7%8B%E7%94%B0&f=user
+秋田　孝,party_search,medium,"""至誠自民クラブ"" メンバー 秋田　孝",https://x.com/search?q=%22%E8%87%B3%E8%AA%A0%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%A7%8B%E7%94%B0%E3%80%80%E5%AD%9D&f=user
+秋田　孝,election_search,low,秋田　孝 当選 所沢市,https://x.com/search?q=%E7%A7%8B%E7%94%B0%E3%80%80%E5%AD%9D%20%E5%BD%93%E9%81%B8%20%E6%89%80%E6%B2%A2%E5%B8%82&f=user
+秋田　孝,election_search,low,#所沢市選挙 秋田　孝,https://x.com/search?q=%23%E6%89%80%E6%B2%A2%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%A7%8B%E7%94%B0%E3%80%80%E5%AD%9D&f=user
+秋田　孝,election_search,low,秋田　孝 選挙ポスター,https://x.com/search?q=%E7%A7%8B%E7%94%B0%E3%80%80%E5%AD%9D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

@@ -1,0 +1,81 @@
+member_name,strategy_type,priority,query,url
+上村　和子,direct_search,high,"""上村　和子"" 市議 -RT",https://x.com/search?q=%22%E4%B8%8A%E6%9D%91%E3%80%80%E5%92%8C%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+上村　和子,direct_search,high,"""上村　和子"" 国立市 議員",https://x.com/search?q=%22%E4%B8%8A%E6%9D%91%E3%80%80%E5%92%8C%E5%AD%90%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+上村　和子,direct_search,high,上村和子 プロフィール 市議,https://x.com/search?q=%E4%B8%8A%E6%9D%91%E5%92%8C%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+上村　和子,party_search,medium,こぶしの木 国立市 上村,https://x.com/search?q=%E3%81%93%E3%81%B6%E3%81%97%E3%81%AE%E6%9C%A8%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E4%B8%8A%E6%9D%91&f=user
+上村　和子,party_search,medium,"""こぶしの木"" メンバー 上村　和子",https://x.com/search?q=%22%E3%81%93%E3%81%B6%E3%81%97%E3%81%AE%E6%9C%A8%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%8A%E6%9D%91%E3%80%80%E5%92%8C%E5%AD%90&f=user
+上村　和子,election_search,low,上村　和子 当選 国立市,https://x.com/search?q=%E4%B8%8A%E6%9D%91%E3%80%80%E5%92%8C%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+上村　和子,election_search,low,#国立市選挙 上村　和子,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%8A%E6%9D%91%E3%80%80%E5%92%8C%E5%AD%90&f=user
+上村　和子,election_search,low,上村　和子 選挙ポスター,https://x.com/search?q=%E4%B8%8A%E6%9D%91%E3%80%80%E5%92%8C%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石井　めぐみ,direct_search,high,"""石井　めぐみ"" 市議 -RT",https://x.com/search?q=%22%E7%9F%B3%E4%BA%95%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+石井　めぐみ,direct_search,high,"""石井　めぐみ"" 国立市 議員",https://x.com/search?q=%22%E7%9F%B3%E4%BA%95%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+石井　めぐみ,direct_search,high,石井めぐみ プロフィール 市議,https://x.com/search?q=%E7%9F%B3%E4%BA%95%E3%82%81%E3%81%90%E3%81%BF%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+石井　めぐみ,party_search,medium,新しい議会 国立市 石井,https://x.com/search?q=%E6%96%B0%E3%81%97%E3%81%84%E8%AD%B0%E4%BC%9A%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E7%9F%B3%E4%BA%95&f=user
+石井　めぐみ,party_search,medium,"""新しい議会"" メンバー 石井　めぐみ",https://x.com/search?q=%22%E6%96%B0%E3%81%97%E3%81%84%E8%AD%B0%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%9F%B3%E4%BA%95%E3%80%80%E3%82%81%E3%81%90%E3%81%BF&f=user
+石井　めぐみ,election_search,low,石井　めぐみ 当選 国立市,https://x.com/search?q=%E7%9F%B3%E4%BA%95%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+石井　めぐみ,election_search,low,#国立市選挙 石井　めぐみ,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%9F%B3%E4%BA%95%E3%80%80%E3%82%81%E3%81%90%E3%81%BF&f=user
+石井　めぐみ,election_search,low,石井　めぐみ 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E4%BA%95%E3%80%80%E3%82%81%E3%81%90%E3%81%BF%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大谷　俊樹,direct_search,high,"""大谷　俊樹"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E8%B0%B7%E3%80%80%E4%BF%8A%E6%A8%B9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大谷　俊樹,direct_search,high,"""大谷　俊樹"" 国立市 議員",https://x.com/search?q=%22%E5%A4%A7%E8%B0%B7%E3%80%80%E4%BF%8A%E6%A8%B9%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大谷　俊樹,direct_search,high,大谷俊樹 プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E8%B0%B7%E4%BF%8A%E6%A8%B9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大谷　俊樹,party_search,medium,自由民主党 国立市 大谷,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E5%A4%A7%E8%B0%B7&f=user
+大谷　俊樹,party_search,medium,"""自由民主党"" メンバー 大谷　俊樹",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E8%B0%B7%E3%80%80%E4%BF%8A%E6%A8%B9&f=user
+大谷　俊樹,election_search,low,大谷　俊樹 当選 国立市,https://x.com/search?q=%E5%A4%A7%E8%B0%B7%E3%80%80%E4%BF%8A%E6%A8%B9%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+大谷　俊樹,election_search,low,#国立市選挙 大谷　俊樹,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E8%B0%B7%E3%80%80%E4%BF%8A%E6%A8%B9&f=user
+大谷　俊樹,election_search,low,大谷　俊樹 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E8%B0%B7%E3%80%80%E4%BF%8A%E6%A8%B9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中谷　絢子,direct_search,high,"""中谷　絢子"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E8%B0%B7%E3%80%80%E7%B5%A2%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中谷　絢子,direct_search,high,"""中谷　絢子"" 国立市 議員",https://x.com/search?q=%22%E4%B8%AD%E8%B0%B7%E3%80%80%E7%B5%A2%E5%AD%90%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中谷　絢子,direct_search,high,中谷絢子 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E8%B0%B7%E7%B5%A2%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中谷　絢子,party_search,medium,社民・ネット・風 国立市 中谷,https://x.com/search?q=%E7%A4%BE%E6%B0%91%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E9%A2%A8%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E4%B8%AD%E8%B0%B7&f=user
+中谷　絢子,party_search,medium,"""社民・ネット・風"" メンバー 中谷　絢子",https://x.com/search?q=%22%E7%A4%BE%E6%B0%91%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E9%A2%A8%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E8%B0%B7%E3%80%80%E7%B5%A2%E5%AD%90&f=user
+中谷　絢子,election_search,low,中谷　絢子 当選 国立市,https://x.com/search?q=%E4%B8%AD%E8%B0%B7%E3%80%80%E7%B5%A2%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+中谷　絢子,election_search,low,#国立市選挙 中谷　絢子,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E8%B0%B7%E3%80%80%E7%B5%A2%E5%AD%90&f=user
+中谷　絢子,election_search,low,中谷　絢子 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E8%B0%B7%E3%80%80%E7%B5%A2%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+稗田　美菜子,direct_search,high,"""稗田　美菜子"" 市議 -RT",https://x.com/search?q=%22%E7%A8%97%E7%94%B0%E3%80%80%E7%BE%8E%E8%8F%9C%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+稗田　美菜子,direct_search,high,"""稗田　美菜子"" 国立市 議員",https://x.com/search?q=%22%E7%A8%97%E7%94%B0%E3%80%80%E7%BE%8E%E8%8F%9C%E5%AD%90%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+稗田　美菜子,direct_search,high,稗田美菜子 プロフィール 市議,https://x.com/search?q=%E7%A8%97%E7%94%B0%E7%BE%8E%E8%8F%9C%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+稗田　美菜子,party_search,medium,立憲民主党 国立市 稗田,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E7%A8%97%E7%94%B0&f=user
+稗田　美菜子,party_search,medium,"""立憲民主党"" メンバー 稗田　美菜子",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%A8%97%E7%94%B0%E3%80%80%E7%BE%8E%E8%8F%9C%E5%AD%90&f=user
+稗田　美菜子,election_search,low,稗田　美菜子 当選 国立市,https://x.com/search?q=%E7%A8%97%E7%94%B0%E3%80%80%E7%BE%8E%E8%8F%9C%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+稗田　美菜子,election_search,low,#国立市選挙 稗田　美菜子,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%A8%97%E7%94%B0%E3%80%80%E7%BE%8E%E8%8F%9C%E5%AD%90&f=user
+稗田　美菜子,election_search,low,稗田　美菜子 選挙ポスター,https://x.com/search?q=%E7%A8%97%E7%94%B0%E3%80%80%E7%BE%8E%E8%8F%9C%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+遠藤　直弘,direct_search,high,"""遠藤　直弘"" 市議 -RT",https://x.com/search?q=%22%E9%81%A0%E8%97%A4%E3%80%80%E7%9B%B4%E5%BC%98%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+遠藤　直弘,direct_search,high,"""遠藤　直弘"" 国立市 議員",https://x.com/search?q=%22%E9%81%A0%E8%97%A4%E3%80%80%E7%9B%B4%E5%BC%98%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+遠藤　直弘,direct_search,high,遠藤直弘 プロフィール 市議,https://x.com/search?q=%E9%81%A0%E8%97%A4%E7%9B%B4%E5%BC%98%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+遠藤　直弘,party_search,medium,自由民主党 国立市 遠藤,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E9%81%A0%E8%97%A4&f=user
+遠藤　直弘,party_search,medium,"""自由民主党"" メンバー 遠藤　直弘",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%81%A0%E8%97%A4%E3%80%80%E7%9B%B4%E5%BC%98&f=user
+遠藤　直弘,election_search,low,遠藤　直弘 当選 国立市,https://x.com/search?q=%E9%81%A0%E8%97%A4%E3%80%80%E7%9B%B4%E5%BC%98%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+遠藤　直弘,election_search,low,#国立市選挙 遠藤　直弘,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%81%A0%E8%97%A4%E3%80%80%E7%9B%B4%E5%BC%98&f=user
+遠藤　直弘,election_search,low,遠藤　直弘 選挙ポスター,https://x.com/search?q=%E9%81%A0%E8%97%A4%E3%80%80%E7%9B%B4%E5%BC%98%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+高柳　貴美代,direct_search,high,"""高柳　貴美代"" 市議 -RT",https://x.com/search?q=%22%E9%AB%98%E6%9F%B3%E3%80%80%E8%B2%B4%E7%BE%8E%E4%BB%A3%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+高柳　貴美代,direct_search,high,"""高柳　貴美代"" 国立市 議員",https://x.com/search?q=%22%E9%AB%98%E6%9F%B3%E3%80%80%E8%B2%B4%E7%BE%8E%E4%BB%A3%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+高柳　貴美代,direct_search,high,高柳貴美代 プロフィール 市議,https://x.com/search?q=%E9%AB%98%E6%9F%B3%E8%B2%B4%E7%BE%8E%E4%BB%A3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+高柳　貴美代,party_search,medium,自由民主党 国立市 高柳,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E9%AB%98%E6%9F%B3&f=user
+高柳　貴美代,party_search,medium,"""自由民主党"" メンバー 高柳　貴美代",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%AB%98%E6%9F%B3%E3%80%80%E8%B2%B4%E7%BE%8E%E4%BB%A3&f=user
+高柳　貴美代,election_search,low,高柳　貴美代 当選 国立市,https://x.com/search?q=%E9%AB%98%E6%9F%B3%E3%80%80%E8%B2%B4%E7%BE%8E%E4%BB%A3%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+高柳　貴美代,election_search,low,#国立市選挙 高柳　貴美代,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%AB%98%E6%9F%B3%E3%80%80%E8%B2%B4%E7%BE%8E%E4%BB%A3&f=user
+高柳　貴美代,election_search,low,高柳　貴美代 選挙ポスター,https://x.com/search?q=%E9%AB%98%E6%9F%B3%E3%80%80%E8%B2%B4%E7%BE%8E%E4%BB%A3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+関口　博,direct_search,high,"""関口　博"" 市議 -RT",https://x.com/search?q=%22%E9%96%A2%E5%8F%A3%E3%80%80%E5%8D%9A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+関口　博,direct_search,high,"""関口　博"" 国立市 議員",https://x.com/search?q=%22%E9%96%A2%E5%8F%A3%E3%80%80%E5%8D%9A%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+関口　博,direct_search,high,関口博 プロフィール 市議,https://x.com/search?q=%E9%96%A2%E5%8F%A3%E5%8D%9A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+関口　博,party_search,medium,社民・ネット・風 国立市 関口,https://x.com/search?q=%E7%A4%BE%E6%B0%91%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E9%A2%A8%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E9%96%A2%E5%8F%A3&f=user
+関口　博,party_search,medium,"""社民・ネット・風"" メンバー 関口　博",https://x.com/search?q=%22%E7%A4%BE%E6%B0%91%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E9%A2%A8%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%96%A2%E5%8F%A3%E3%80%80%E5%8D%9A&f=user
+関口　博,election_search,low,関口　博 当選 国立市,https://x.com/search?q=%E9%96%A2%E5%8F%A3%E3%80%80%E5%8D%9A%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+関口　博,election_search,low,#国立市選挙 関口　博,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%96%A2%E5%8F%A3%E3%80%80%E5%8D%9A&f=user
+関口　博,election_search,low,関口　博 選挙ポスター,https://x.com/search?q=%E9%96%A2%E5%8F%A3%E3%80%80%E5%8D%9A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+藤田　貴裕,direct_search,high,"""藤田　貴裕"" 市議 -RT",https://x.com/search?q=%22%E8%97%A4%E7%94%B0%E3%80%80%E8%B2%B4%E8%A3%95%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+藤田　貴裕,direct_search,high,"""藤田　貴裕"" 国立市 議員",https://x.com/search?q=%22%E8%97%A4%E7%94%B0%E3%80%80%E8%B2%B4%E8%A3%95%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+藤田　貴裕,direct_search,high,藤田貴裕 プロフィール 市議,https://x.com/search?q=%E8%97%A4%E7%94%B0%E8%B2%B4%E8%A3%95%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+藤田　貴裕,party_search,medium,社民・ネット・風 国立市 藤田,https://x.com/search?q=%E7%A4%BE%E6%B0%91%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E9%A2%A8%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%97%A4%E7%94%B0&f=user
+藤田　貴裕,party_search,medium,"""社民・ネット・風"" メンバー 藤田　貴裕",https://x.com/search?q=%22%E7%A4%BE%E6%B0%91%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E9%A2%A8%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%97%A4%E7%94%B0%E3%80%80%E8%B2%B4%E8%A3%95&f=user
+藤田　貴裕,election_search,low,藤田　貴裕 当選 国立市,https://x.com/search?q=%E8%97%A4%E7%94%B0%E3%80%80%E8%B2%B4%E8%A3%95%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+藤田　貴裕,election_search,low,#国立市選挙 藤田　貴裕,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%97%A4%E7%94%B0%E3%80%80%E8%B2%B4%E8%A3%95&f=user
+藤田　貴裕,election_search,low,藤田　貴裕 選挙ポスター,https://x.com/search?q=%E8%97%A4%E7%94%B0%E3%80%80%E8%B2%B4%E8%A3%95%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+青木　健,direct_search,high,"""青木　健"" 市議 -RT",https://x.com/search?q=%22%E9%9D%92%E6%9C%A8%E3%80%80%E5%81%A5%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+青木　健,direct_search,high,"""青木　健"" 国立市 議員",https://x.com/search?q=%22%E9%9D%92%E6%9C%A8%E3%80%80%E5%81%A5%22%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+青木　健,direct_search,high,青木健 プロフィール 市議,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E5%81%A5%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+青木　健,party_search,medium,自由民主党 国立市 青木,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E5%9B%BD%E7%AB%8B%E5%B8%82%20%E9%9D%92%E6%9C%A8&f=user
+青木　健,party_search,medium,"""自由民主党"" メンバー 青木　健",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%9D%92%E6%9C%A8%E3%80%80%E5%81%A5&f=user
+青木　健,election_search,low,青木　健 当選 国立市,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E3%80%80%E5%81%A5%20%E5%BD%93%E9%81%B8%20%E5%9B%BD%E7%AB%8B%E5%B8%82&f=user
+青木　健,election_search,low,#国立市選挙 青木　健,https://x.com/search?q=%23%E5%9B%BD%E7%AB%8B%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%9D%92%E6%9C%A8%E3%80%80%E5%81%A5&f=user
+青木　健,election_search,low,青木　健 選挙ポスター,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E3%80%80%E5%81%A5%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

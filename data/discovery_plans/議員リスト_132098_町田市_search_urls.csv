@@ -1,0 +1,135 @@
+member_name,strategy_type,priority,query,url
+渡辺　さとし,direct_search,high,"""渡辺　さとし"" 市議 -RT",https://x.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+渡辺　さとし,direct_search,high,"""渡辺　さとし"" 町田市 議員",https://x.com/search?q=%22%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+渡辺　さとし,direct_search,high,渡辺さとし プロフィール 市議,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%81%95%E3%81%A8%E3%81%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+渡辺　さとし,party_search,medium,まちだ市民クラブ 町田市 渡辺,https://x.com/search?q=%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E6%B8%A1%E8%BE%BA&f=user
+渡辺　さとし,party_search,medium,"""まちだ市民クラブ"" メンバー 渡辺　さとし",https://x.com/search?q=%22%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%95%E3%81%A8%E3%81%97&f=user
+渡辺　さとし,election_search,low,渡辺　さとし 当選 町田市,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+渡辺　さとし,election_search,low,#町田市選挙 渡辺　さとし,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%95%E3%81%A8%E3%81%97&f=user
+渡辺　さとし,election_search,low,渡辺　さとし 選挙ポスター,https://x.com/search?q=%E6%B8%A1%E8%BE%BA%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+笹倉　みどり,direct_search,high,"""笹倉　みどり"" 市議 -RT",https://x.com/search?q=%22%E7%AC%B9%E5%80%89%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+笹倉　みどり,direct_search,high,"""笹倉　みどり"" 町田市 議員",https://x.com/search?q=%22%E7%AC%B9%E5%80%89%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+笹倉　みどり,direct_search,high,笹倉みどり プロフィール 市議,https://x.com/search?q=%E7%AC%B9%E5%80%89%E3%81%BF%E3%81%A9%E3%82%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+笹倉　みどり,party_search,medium,まちだ市民クラブ 町田市 笹倉,https://x.com/search?q=%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E7%AC%B9%E5%80%89&f=user
+笹倉　みどり,party_search,medium,"""まちだ市民クラブ"" メンバー 笹倉　みどり",https://x.com/search?q=%22%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%AC%B9%E5%80%89%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A&f=user
+笹倉　みどり,election_search,low,笹倉　みどり 当選 町田市,https://x.com/search?q=%E7%AC%B9%E5%80%89%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+笹倉　みどり,election_search,low,#町田市選挙 笹倉　みどり,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%AC%B9%E5%80%89%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A&f=user
+笹倉　みどり,election_search,low,笹倉　みどり 選挙ポスター,https://x.com/search?q=%E7%AC%B9%E5%80%89%E3%80%80%E3%81%BF%E3%81%A9%E3%82%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+加藤　真彦,direct_search,high,"""加藤　真彦"" 市議 -RT",https://x.com/search?q=%22%E5%8A%A0%E8%97%A4%E3%80%80%E7%9C%9F%E5%BD%A6%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+加藤　真彦,direct_search,high,"""加藤　真彦"" 町田市 議員",https://x.com/search?q=%22%E5%8A%A0%E8%97%A4%E3%80%80%E7%9C%9F%E5%BD%A6%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+加藤　真彦,direct_search,high,加藤真彦 プロフィール 市議,https://x.com/search?q=%E5%8A%A0%E8%97%A4%E7%9C%9F%E5%BD%A6%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+加藤　真彦,party_search,medium,自由民主党 町田市 加藤,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E5%8A%A0%E8%97%A4&f=user
+加藤　真彦,party_search,medium,"""自由民主党"" メンバー 加藤　真彦",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%8A%A0%E8%97%A4%E3%80%80%E7%9C%9F%E5%BD%A6&f=user
+加藤　真彦,election_search,low,加藤　真彦 当選 町田市,https://x.com/search?q=%E5%8A%A0%E8%97%A4%E3%80%80%E7%9C%9F%E5%BD%A6%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+加藤　真彦,election_search,low,#町田市選挙 加藤　真彦,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%8A%A0%E8%97%A4%E3%80%80%E7%9C%9F%E5%BD%A6&f=user
+加藤　真彦,election_search,low,加藤　真彦 選挙ポスター,https://x.com/search?q=%E5%8A%A0%E8%97%A4%E3%80%80%E7%9C%9F%E5%BD%A6%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石川　好忠,direct_search,high,"""石川　好忠"" 市議 -RT",https://x.com/search?q=%22%E7%9F%B3%E5%B7%9D%E3%80%80%E5%A5%BD%E5%BF%A0%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+石川　好忠,direct_search,high,"""石川　好忠"" 町田市 議員",https://x.com/search?q=%22%E7%9F%B3%E5%B7%9D%E3%80%80%E5%A5%BD%E5%BF%A0%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+石川　好忠,direct_search,high,石川好忠 プロフィール 市議,https://x.com/search?q=%E7%9F%B3%E5%B7%9D%E5%A5%BD%E5%BF%A0%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+石川　好忠,party_search,medium,自由民主党 町田市 石川,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E7%9F%B3%E5%B7%9D&f=user
+石川　好忠,party_search,medium,"""自由民主党"" メンバー 石川　好忠",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%9F%B3%E5%B7%9D%E3%80%80%E5%A5%BD%E5%BF%A0&f=user
+石川　好忠,election_search,low,石川　好忠 当選 町田市,https://x.com/search?q=%E7%9F%B3%E5%B7%9D%E3%80%80%E5%A5%BD%E5%BF%A0%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+石川　好忠,election_search,low,#町田市選挙 石川　好忠,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%9F%B3%E5%B7%9D%E3%80%80%E5%A5%BD%E5%BF%A0&f=user
+石川　好忠,election_search,low,石川　好忠 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E5%B7%9D%E3%80%80%E5%A5%BD%E5%BF%A0%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+佐藤　和彦,direct_search,high,"""佐藤　和彦"" 市議 -RT",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E5%92%8C%E5%BD%A6%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+佐藤　和彦,direct_search,high,"""佐藤　和彦"" 町田市 議員",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E5%92%8C%E5%BD%A6%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+佐藤　和彦,direct_search,high,佐藤和彦 プロフィール 市議,https://x.com/search?q=%E4%BD%90%E8%97%A4%E5%92%8C%E5%BD%A6%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+佐藤　和彦,party_search,medium,まちだ市民クラブ 町田市 佐藤,https://x.com/search?q=%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E4%BD%90%E8%97%A4&f=user
+佐藤　和彦,party_search,medium,"""まちだ市民クラブ"" メンバー 佐藤　和彦",https://x.com/search?q=%22%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BD%90%E8%97%A4%E3%80%80%E5%92%8C%E5%BD%A6&f=user
+佐藤　和彦,election_search,low,佐藤　和彦 当選 町田市,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E5%92%8C%E5%BD%A6%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+佐藤　和彦,election_search,low,#町田市選挙 佐藤　和彦,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BD%90%E8%97%A4%E3%80%80%E5%92%8C%E5%BD%A6&f=user
+佐藤　和彦,election_search,low,佐藤　和彦 選挙ポスター,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E5%92%8C%E5%BD%A6%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+松岡　みゆき,direct_search,high,"""松岡　みゆき"" 市議 -RT",https://x.com/search?q=%22%E6%9D%BE%E5%B2%A1%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+松岡　みゆき,direct_search,high,"""松岡　みゆき"" 町田市 議員",https://x.com/search?q=%22%E6%9D%BE%E5%B2%A1%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+松岡　みゆき,direct_search,high,松岡みゆき プロフィール 市議,https://x.com/search?q=%E6%9D%BE%E5%B2%A1%E3%81%BF%E3%82%86%E3%81%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+松岡　みゆき,election_search,low,松岡　みゆき 当選 町田市,https://x.com/search?q=%E6%9D%BE%E5%B2%A1%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+松岡　みゆき,election_search,low,#町田市選挙 松岡　みゆき,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%BE%E5%B2%A1%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D&f=user
+松岡　みゆき,election_search,low,松岡　みゆき 選挙ポスター,https://x.com/search?q=%E6%9D%BE%E5%B2%A1%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+おんじょう　由久,direct_search,high,"""おんじょう　由久"" 市議 -RT",https://x.com/search?q=%22%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E3%80%80%E7%94%B1%E4%B9%85%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+おんじょう　由久,direct_search,high,"""おんじょう　由久"" 町田市 議員",https://x.com/search?q=%22%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E3%80%80%E7%94%B1%E4%B9%85%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+おんじょう　由久,direct_search,high,おんじょう由久 プロフィール 市議,https://x.com/search?q=%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E7%94%B1%E4%B9%85%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+おんじょう　由久,party_search,medium,公明党 町田市 おんじょう,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86&f=user
+おんじょう　由久,party_search,medium,"""公明党"" メンバー おんじょう　由久",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E3%80%80%E7%94%B1%E4%B9%85&f=user
+おんじょう　由久,election_search,low,おんじょう　由久 当選 町田市,https://x.com/search?q=%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E3%80%80%E7%94%B1%E4%B9%85%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+おんじょう　由久,election_search,low,#町田市選挙 おんじょう　由久,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E3%80%80%E7%94%B1%E4%B9%85&f=user
+おんじょう　由久,election_search,low,おんじょう　由久 選挙ポスター,https://x.com/search?q=%E3%81%8A%E3%82%93%E3%81%98%E3%82%87%E3%81%86%E3%80%80%E7%94%B1%E4%B9%85%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+松葉　ひろみ,direct_search,high,"""松葉　ひろみ"" 市議 -RT",https://x.com/search?q=%22%E6%9D%BE%E8%91%89%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+松葉　ひろみ,direct_search,high,"""松葉　ひろみ"" 町田市 議員",https://x.com/search?q=%22%E6%9D%BE%E8%91%89%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+松葉　ひろみ,direct_search,high,松葉ひろみ プロフィール 市議,https://x.com/search?q=%E6%9D%BE%E8%91%89%E3%81%B2%E3%82%8D%E3%81%BF%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+松葉　ひろみ,party_search,medium,公明党 町田市 松葉,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E6%9D%BE%E8%91%89&f=user
+松葉　ひろみ,party_search,medium,"""公明党"" メンバー 松葉　ひろみ",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9D%BE%E8%91%89%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF&f=user
+松葉　ひろみ,election_search,low,松葉　ひろみ 当選 町田市,https://x.com/search?q=%E6%9D%BE%E8%91%89%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+松葉　ひろみ,election_search,low,#町田市選挙 松葉　ひろみ,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%BE%E8%91%89%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF&f=user
+松葉　ひろみ,election_search,low,松葉　ひろみ 選挙ポスター,https://x.com/search?q=%E6%9D%BE%E8%91%89%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+いわせ　和子,direct_search,high,"""いわせ　和子"" 市議 -RT",https://x.com/search?q=%22%E3%81%84%E3%82%8F%E3%81%9B%E3%80%80%E5%92%8C%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+いわせ　和子,direct_search,high,"""いわせ　和子"" 町田市 議員",https://x.com/search?q=%22%E3%81%84%E3%82%8F%E3%81%9B%E3%80%80%E5%92%8C%E5%AD%90%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+いわせ　和子,direct_search,high,いわせ和子 プロフィール 市議,https://x.com/search?q=%E3%81%84%E3%82%8F%E3%81%9B%E5%92%8C%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+いわせ　和子,party_search,medium,選ばれる町田をつくる会 町田市 いわせ,https://x.com/search?q=%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%94%BA%E7%94%B0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E4%BC%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E3%81%84%E3%82%8F%E3%81%9B&f=user
+いわせ　和子,party_search,medium,"""選ばれる町田をつくる会"" メンバー いわせ　和子",https://x.com/search?q=%22%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%94%BA%E7%94%B0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%84%E3%82%8F%E3%81%9B%E3%80%80%E5%92%8C%E5%AD%90&f=user
+いわせ　和子,election_search,low,いわせ　和子 当選 町田市,https://x.com/search?q=%E3%81%84%E3%82%8F%E3%81%9B%E3%80%80%E5%92%8C%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+いわせ　和子,election_search,low,#町田市選挙 いわせ　和子,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%84%E3%82%8F%E3%81%9B%E3%80%80%E5%92%8C%E5%AD%90&f=user
+いわせ　和子,election_search,low,いわせ　和子 選挙ポスター,https://x.com/search?q=%E3%81%84%E3%82%8F%E3%81%9B%E3%80%80%E5%92%8C%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+おぜき　重太郎,direct_search,high,"""おぜき　重太郎"" 市議 -RT",https://x.com/search?q=%22%E3%81%8A%E3%81%9C%E3%81%8D%E3%80%80%E9%87%8D%E5%A4%AA%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+おぜき　重太郎,direct_search,high,"""おぜき　重太郎"" 町田市 議員",https://x.com/search?q=%22%E3%81%8A%E3%81%9C%E3%81%8D%E3%80%80%E9%87%8D%E5%A4%AA%E9%83%8E%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+おぜき　重太郎,direct_search,high,おぜき重太郎 プロフィール 市議,https://x.com/search?q=%E3%81%8A%E3%81%9C%E3%81%8D%E9%87%8D%E5%A4%AA%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+おぜき　重太郎,party_search,medium,諸派 町田市 おぜき,https://x.com/search?q=%E8%AB%B8%E6%B4%BE%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E3%81%8A%E3%81%9C%E3%81%8D&f=user
+おぜき　重太郎,party_search,medium,"""諸派"" メンバー おぜき　重太郎",https://x.com/search?q=%22%E8%AB%B8%E6%B4%BE%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%8A%E3%81%9C%E3%81%8D%E3%80%80%E9%87%8D%E5%A4%AA%E9%83%8E&f=user
+おぜき　重太郎,election_search,low,おぜき　重太郎 当選 町田市,https://x.com/search?q=%E3%81%8A%E3%81%9C%E3%81%8D%E3%80%80%E9%87%8D%E5%A4%AA%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+おぜき　重太郎,election_search,low,#町田市選挙 おぜき　重太郎,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%8A%E3%81%9C%E3%81%8D%E3%80%80%E9%87%8D%E5%A4%AA%E9%83%8E&f=user
+おぜき　重太郎,election_search,low,おぜき　重太郎 選挙ポスター,https://x.com/search?q=%E3%81%8A%E3%81%9C%E3%81%8D%E3%80%80%E9%87%8D%E5%A4%AA%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+戸塚　正人,direct_search,high,"""戸塚　正人"" 市議 -RT",https://x.com/search?q=%22%E6%88%B8%E5%A1%9A%E3%80%80%E6%AD%A3%E4%BA%BA%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+戸塚　正人,direct_search,high,"""戸塚　正人"" 町田市 議員",https://x.com/search?q=%22%E6%88%B8%E5%A1%9A%E3%80%80%E6%AD%A3%E4%BA%BA%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+戸塚　正人,direct_search,high,戸塚正人 プロフィール 市議,https://x.com/search?q=%E6%88%B8%E5%A1%9A%E6%AD%A3%E4%BA%BA%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+戸塚　正人,party_search,medium,まちだ市民クラブ 町田市 戸塚,https://x.com/search?q=%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E6%88%B8%E5%A1%9A&f=user
+戸塚　正人,party_search,medium,"""まちだ市民クラブ"" メンバー 戸塚　正人",https://x.com/search?q=%22%E3%81%BE%E3%81%A1%E3%81%A0%E5%B8%82%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%88%B8%E5%A1%9A%E3%80%80%E6%AD%A3%E4%BA%BA&f=user
+戸塚　正人,election_search,low,戸塚　正人 当選 町田市,https://x.com/search?q=%E6%88%B8%E5%A1%9A%E3%80%80%E6%AD%A3%E4%BA%BA%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+戸塚　正人,election_search,low,#町田市選挙 戸塚　正人,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%88%B8%E5%A1%9A%E3%80%80%E6%AD%A3%E4%BA%BA&f=user
+戸塚　正人,election_search,low,戸塚　正人 選挙ポスター,https://x.com/search?q=%E6%88%B8%E5%A1%9A%E3%80%80%E6%AD%A3%E4%BA%BA%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+おく　栄一,direct_search,high,"""おく　栄一"" 市議 -RT",https://x.com/search?q=%22%E3%81%8A%E3%81%8F%E3%80%80%E6%A0%84%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+おく　栄一,direct_search,high,"""おく　栄一"" 町田市 議員",https://x.com/search?q=%22%E3%81%8A%E3%81%8F%E3%80%80%E6%A0%84%E4%B8%80%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+おく　栄一,direct_search,high,おく栄一 プロフィール 市議,https://x.com/search?q=%E3%81%8A%E3%81%8F%E6%A0%84%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+おく　栄一,party_search,medium,公明党 町田市 おく,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E3%81%8A%E3%81%8F&f=user
+おく　栄一,party_search,medium,"""公明党"" メンバー おく　栄一",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%8A%E3%81%8F%E3%80%80%E6%A0%84%E4%B8%80&f=user
+おく　栄一,election_search,low,おく　栄一 当選 町田市,https://x.com/search?q=%E3%81%8A%E3%81%8F%E3%80%80%E6%A0%84%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+おく　栄一,election_search,low,#町田市選挙 おく　栄一,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%8A%E3%81%8F%E3%80%80%E6%A0%84%E4%B8%80&f=user
+おく　栄一,election_search,low,おく　栄一 選挙ポスター,https://x.com/search?q=%E3%81%8A%E3%81%8F%E3%80%80%E6%A0%84%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+若林　章喜,direct_search,high,"""若林　章喜"" 市議 -RT",https://x.com/search?q=%22%E8%8B%A5%E6%9E%97%E3%80%80%E7%AB%A0%E5%96%9C%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+若林　章喜,direct_search,high,"""若林　章喜"" 町田市 議員",https://x.com/search?q=%22%E8%8B%A5%E6%9E%97%E3%80%80%E7%AB%A0%E5%96%9C%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+若林　章喜,direct_search,high,若林章喜 プロフィール 市議,https://x.com/search?q=%E8%8B%A5%E6%9E%97%E7%AB%A0%E5%96%9C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+若林　章喜,party_search,medium,選ばれる町田をつくる会 町田市 若林,https://x.com/search?q=%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%94%BA%E7%94%B0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E4%BC%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%8B%A5%E6%9E%97&f=user
+若林　章喜,party_search,medium,"""選ばれる町田をつくる会"" メンバー 若林　章喜",https://x.com/search?q=%22%E9%81%B8%E3%81%B0%E3%82%8C%E3%82%8B%E7%94%BA%E7%94%B0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%8B%A5%E6%9E%97%E3%80%80%E7%AB%A0%E5%96%9C&f=user
+若林　章喜,election_search,low,若林　章喜 当選 町田市,https://x.com/search?q=%E8%8B%A5%E6%9E%97%E3%80%80%E7%AB%A0%E5%96%9C%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+若林　章喜,election_search,low,#町田市選挙 若林　章喜,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%8B%A5%E6%9E%97%E3%80%80%E7%AB%A0%E5%96%9C&f=user
+若林　章喜,election_search,low,若林　章喜 選挙ポスター,https://x.com/search?q=%E8%8B%A5%E6%9E%97%E3%80%80%E7%AB%A0%E5%96%9C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+熊沢　あやり,direct_search,high,"""熊沢　あやり"" 市議 -RT",https://x.com/search?q=%22%E7%86%8A%E6%B2%A2%E3%80%80%E3%81%82%E3%82%84%E3%82%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+熊沢　あやり,direct_search,high,"""熊沢　あやり"" 町田市 議員",https://x.com/search?q=%22%E7%86%8A%E6%B2%A2%E3%80%80%E3%81%82%E3%82%84%E3%82%8A%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+熊沢　あやり,direct_search,high,熊沢あやり プロフィール 市議,https://x.com/search?q=%E7%86%8A%E6%B2%A2%E3%81%82%E3%82%84%E3%82%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+熊沢　あやり,party_search,medium,諸派 町田市 熊沢,https://x.com/search?q=%E8%AB%B8%E6%B4%BE%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E7%86%8A%E6%B2%A2&f=user
+熊沢　あやり,party_search,medium,"""諸派"" メンバー 熊沢　あやり",https://x.com/search?q=%22%E8%AB%B8%E6%B4%BE%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%86%8A%E6%B2%A2%E3%80%80%E3%81%82%E3%82%84%E3%82%8A&f=user
+熊沢　あやり,election_search,low,熊沢　あやり 当選 町田市,https://x.com/search?q=%E7%86%8A%E6%B2%A2%E3%80%80%E3%81%82%E3%82%84%E3%82%8A%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+熊沢　あやり,election_search,low,#町田市選挙 熊沢　あやり,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%86%8A%E6%B2%A2%E3%80%80%E3%81%82%E3%82%84%E3%82%8A&f=user
+熊沢　あやり,election_search,low,熊沢　あやり 選挙ポスター,https://x.com/search?q=%E7%86%8A%E6%B2%A2%E3%80%80%E3%81%82%E3%82%84%E3%82%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+細野　龍子,direct_search,high,"""細野　龍子"" 市議 -RT",https://x.com/search?q=%22%E7%B4%B0%E9%87%8E%E3%80%80%E9%BE%8D%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+細野　龍子,direct_search,high,"""細野　龍子"" 町田市 議員",https://x.com/search?q=%22%E7%B4%B0%E9%87%8E%E3%80%80%E9%BE%8D%E5%AD%90%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+細野　龍子,direct_search,high,細野龍子 プロフィール 市議,https://x.com/search?q=%E7%B4%B0%E9%87%8E%E9%BE%8D%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+細野　龍子,party_search,medium,日本共産党 町田市 細野,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E7%B4%B0%E9%87%8E&f=user
+細野　龍子,party_search,medium,"""日本共産党"" メンバー 細野　龍子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%B4%B0%E9%87%8E%E3%80%80%E9%BE%8D%E5%AD%90&f=user
+細野　龍子,election_search,low,細野　龍子 当選 町田市,https://x.com/search?q=%E7%B4%B0%E9%87%8E%E3%80%80%E9%BE%8D%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+細野　龍子,election_search,low,#町田市選挙 細野　龍子,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%B4%B0%E9%87%8E%E3%80%80%E9%BE%8D%E5%AD%90&f=user
+細野　龍子,election_search,low,細野　龍子 選挙ポスター,https://x.com/search?q=%E7%B4%B0%E9%87%8E%E3%80%80%E9%BE%8D%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+殿村　健一,direct_search,high,"""殿村　健一"" 市議 -RT",https://x.com/search?q=%22%E6%AE%BF%E6%9D%91%E3%80%80%E5%81%A5%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+殿村　健一,direct_search,high,"""殿村　健一"" 町田市 議員",https://x.com/search?q=%22%E6%AE%BF%E6%9D%91%E3%80%80%E5%81%A5%E4%B8%80%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+殿村　健一,direct_search,high,殿村健一 プロフィール 市議,https://x.com/search?q=%E6%AE%BF%E6%9D%91%E5%81%A5%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+殿村　健一,party_search,medium,日本共産党 町田市 殿村,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E6%AE%BF%E6%9D%91&f=user
+殿村　健一,party_search,medium,"""日本共産党"" メンバー 殿村　健一",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%AE%BF%E6%9D%91%E3%80%80%E5%81%A5%E4%B8%80&f=user
+殿村　健一,election_search,low,殿村　健一 当選 町田市,https://x.com/search?q=%E6%AE%BF%E6%9D%91%E3%80%80%E5%81%A5%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+殿村　健一,election_search,low,#町田市選挙 殿村　健一,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%AE%BF%E6%9D%91%E3%80%80%E5%81%A5%E4%B8%80&f=user
+殿村　健一,election_search,low,殿村　健一 選挙ポスター,https://x.com/search?q=%E6%AE%BF%E6%9D%91%E3%80%80%E5%81%A5%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+佐藤　伸一郎,direct_search,high,"""佐藤　伸一郎"" 市議 -RT",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E4%BC%B8%E4%B8%80%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+佐藤　伸一郎,direct_search,high,"""佐藤　伸一郎"" 町田市 議員",https://x.com/search?q=%22%E4%BD%90%E8%97%A4%E3%80%80%E4%BC%B8%E4%B8%80%E9%83%8E%22%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+佐藤　伸一郎,direct_search,high,佐藤伸一郎 プロフィール 市議,https://x.com/search?q=%E4%BD%90%E8%97%A4%E4%BC%B8%E4%B8%80%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+佐藤　伸一郎,party_search,medium,自由民主党 町田市 佐藤,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E7%94%BA%E7%94%B0%E5%B8%82%20%E4%BD%90%E8%97%A4&f=user
+佐藤　伸一郎,party_search,medium,"""自由民主党"" メンバー 佐藤　伸一郎",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BD%90%E8%97%A4%E3%80%80%E4%BC%B8%E4%B8%80%E9%83%8E&f=user
+佐藤　伸一郎,election_search,low,佐藤　伸一郎 当選 町田市,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E4%BC%B8%E4%B8%80%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E7%94%BA%E7%94%B0%E5%B8%82&f=user
+佐藤　伸一郎,election_search,low,#町田市選挙 佐藤　伸一郎,https://x.com/search?q=%23%E7%94%BA%E7%94%B0%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BD%90%E8%97%A4%E3%80%80%E4%BC%B8%E4%B8%80%E9%83%8E&f=user
+佐藤　伸一郎,election_search,low,佐藤　伸一郎 選挙ポスター,https://x.com/search?q=%E4%BD%90%E8%97%A4%E3%80%80%E4%BC%B8%E4%B8%80%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

@@ -1,0 +1,63 @@
+member_name,strategy_type,priority,query,url
+関　綾子,direct_search,high,"""関　綾子"" 市議 -RT",https://x.com/search?q=%22%E9%96%A2%E3%80%80%E7%B6%BE%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+関　綾子,direct_search,high,"""関　綾子"" 東大和市 議員",https://x.com/search?q=%22%E9%96%A2%E3%80%80%E7%B6%BE%E5%AD%90%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+関　綾子,direct_search,high,関綾子 プロフィール 市議,https://x.com/search?q=%E9%96%A2%E7%B6%BE%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+関　綾子,election_search,low,関　綾子 当選 東大和市,https://x.com/search?q=%E9%96%A2%E3%80%80%E7%B6%BE%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+関　綾子,election_search,low,#東大和市選挙 関　綾子,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%96%A2%E3%80%80%E7%B6%BE%E5%AD%90&f=user
+関　綾子,election_search,low,関　綾子 選挙ポスター,https://x.com/search?q=%E9%96%A2%E3%80%80%E7%B6%BE%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中村　庄一郎,direct_search,high,"""中村　庄一郎"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E3%80%80%E5%BA%84%E4%B8%80%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中村　庄一郎,direct_search,high,"""中村　庄一郎"" 東大和市 議員",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E3%80%80%E5%BA%84%E4%B8%80%E9%83%8E%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中村　庄一郎,direct_search,high,中村庄一郎 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E5%BA%84%E4%B8%80%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中村　庄一郎,party_search,medium,自由民主党新政会 東大和市 中村,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E4%B8%AD%E6%9D%91&f=user
+中村　庄一郎,party_search,medium,"""自由民主党新政会"" メンバー 中村　庄一郎",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E6%9D%91%E3%80%80%E5%BA%84%E4%B8%80%E9%83%8E&f=user
+中村　庄一郎,election_search,low,中村　庄一郎 当選 東大和市,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%80%80%E5%BA%84%E4%B8%80%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+中村　庄一郎,election_search,low,#東大和市選挙 中村　庄一郎,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E6%9D%91%E3%80%80%E5%BA%84%E4%B8%80%E9%83%8E&f=user
+中村　庄一郎,election_search,low,中村　庄一郎 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%80%80%E5%BA%84%E4%B8%80%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木下　富雄,direct_search,high,"""木下　富雄"" 市議 -RT",https://x.com/search?q=%22%E6%9C%A8%E4%B8%8B%E3%80%80%E5%AF%8C%E9%9B%84%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+木下　富雄,direct_search,high,"""木下　富雄"" 東大和市 議員",https://x.com/search?q=%22%E6%9C%A8%E4%B8%8B%E3%80%80%E5%AF%8C%E9%9B%84%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+木下　富雄,direct_search,high,木下富雄 プロフィール 市議,https://x.com/search?q=%E6%9C%A8%E4%B8%8B%E5%AF%8C%E9%9B%84%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+木下　富雄,party_search,medium,自由民主党新政会 東大和市 木下,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E6%9C%A8%E4%B8%8B&f=user
+木下　富雄,party_search,medium,"""自由民主党新政会"" メンバー 木下　富雄",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9C%A8%E4%B8%8B%E3%80%80%E5%AF%8C%E9%9B%84&f=user
+木下　富雄,election_search,low,木下　富雄 当選 東大和市,https://x.com/search?q=%E6%9C%A8%E4%B8%8B%E3%80%80%E5%AF%8C%E9%9B%84%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+木下　富雄,election_search,low,#東大和市選挙 木下　富雄,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9C%A8%E4%B8%8B%E3%80%80%E5%AF%8C%E9%9B%84&f=user
+木下　富雄,election_search,low,木下　富雄 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E4%B8%8B%E3%80%80%E5%AF%8C%E9%9B%84%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+押本　修,direct_search,high,"""押本　修"" 市議 -RT",https://x.com/search?q=%22%E6%8A%BC%E6%9C%AC%E3%80%80%E4%BF%AE%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+押本　修,direct_search,high,"""押本　修"" 東大和市 議員",https://x.com/search?q=%22%E6%8A%BC%E6%9C%AC%E3%80%80%E4%BF%AE%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+押本　修,direct_search,high,押本修 プロフィール 市議,https://x.com/search?q=%E6%8A%BC%E6%9C%AC%E4%BF%AE%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+押本　修,party_search,medium,自由民主党 東大和市 押本,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E6%8A%BC%E6%9C%AC&f=user
+押本　修,party_search,medium,"""自由民主党"" メンバー 押本　修",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%8A%BC%E6%9C%AC%E3%80%80%E4%BF%AE&f=user
+押本　修,election_search,low,押本　修 当選 東大和市,https://x.com/search?q=%E6%8A%BC%E6%9C%AC%E3%80%80%E4%BF%AE%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+押本　修,election_search,low,#東大和市選挙 押本　修,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%8A%BC%E6%9C%AC%E3%80%80%E4%BF%AE&f=user
+押本　修,election_search,low,押本　修 選挙ポスター,https://x.com/search?q=%E6%8A%BC%E6%9C%AC%E3%80%80%E4%BF%AE%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+蜂須賀　千雅,direct_search,high,"""蜂須賀　千雅"" 市議 -RT",https://x.com/search?q=%22%E8%9C%82%E9%A0%88%E8%B3%80%E3%80%80%E5%8D%83%E9%9B%85%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+蜂須賀　千雅,direct_search,high,"""蜂須賀　千雅"" 東大和市 議員",https://x.com/search?q=%22%E8%9C%82%E9%A0%88%E8%B3%80%E3%80%80%E5%8D%83%E9%9B%85%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+蜂須賀　千雅,direct_search,high,蜂須賀千雅 プロフィール 市議,https://x.com/search?q=%E8%9C%82%E9%A0%88%E8%B3%80%E5%8D%83%E9%9B%85%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+蜂須賀　千雅,party_search,medium,自由民主党 東大和市 蜂須賀,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%9C%82%E9%A0%88%E8%B3%80&f=user
+蜂須賀　千雅,party_search,medium,"""自由民主党"" メンバー 蜂須賀　千雅",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%9C%82%E9%A0%88%E8%B3%80%E3%80%80%E5%8D%83%E9%9B%85&f=user
+蜂須賀　千雅,election_search,low,蜂須賀　千雅 当選 東大和市,https://x.com/search?q=%E8%9C%82%E9%A0%88%E8%B3%80%E3%80%80%E5%8D%83%E9%9B%85%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+蜂須賀　千雅,election_search,low,#東大和市選挙 蜂須賀　千雅,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%9C%82%E9%A0%88%E8%B3%80%E3%80%80%E5%8D%83%E9%9B%85&f=user
+蜂須賀　千雅,election_search,low,蜂須賀　千雅 選挙ポスター,https://x.com/search?q=%E8%9C%82%E9%A0%88%E8%B3%80%E3%80%80%E5%8D%83%E9%9B%85%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+荒幡　伸一,direct_search,high,"""荒幡　伸一"" 市議 -RT",https://x.com/search?q=%22%E8%8D%92%E5%B9%A1%E3%80%80%E4%BC%B8%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+荒幡　伸一,direct_search,high,"""荒幡　伸一"" 東大和市 議員",https://x.com/search?q=%22%E8%8D%92%E5%B9%A1%E3%80%80%E4%BC%B8%E4%B8%80%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+荒幡　伸一,direct_search,high,荒幡伸一 プロフィール 市議,https://x.com/search?q=%E8%8D%92%E5%B9%A1%E4%BC%B8%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+荒幡　伸一,party_search,medium,公明党 東大和市 荒幡,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%8D%92%E5%B9%A1&f=user
+荒幡　伸一,party_search,medium,"""公明党"" メンバー 荒幡　伸一",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%8D%92%E5%B9%A1%E3%80%80%E4%BC%B8%E4%B8%80&f=user
+荒幡　伸一,election_search,low,荒幡　伸一 当選 東大和市,https://x.com/search?q=%E8%8D%92%E5%B9%A1%E3%80%80%E4%BC%B8%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+荒幡　伸一,election_search,low,#東大和市選挙 荒幡　伸一,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%8D%92%E5%B9%A1%E3%80%80%E4%BC%B8%E4%B8%80&f=user
+荒幡　伸一,election_search,low,荒幡　伸一 選挙ポスター,https://x.com/search?q=%E8%8D%92%E5%B9%A1%E3%80%80%E4%BC%B8%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+金井　康哲,direct_search,high,"""金井　康哲"" 市議 -RT",https://x.com/search?q=%22%E9%87%91%E4%BA%95%E3%80%80%E5%BA%B7%E5%93%B2%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+金井　康哲,direct_search,high,"""金井　康哲"" 東大和市 議員",https://x.com/search?q=%22%E9%87%91%E4%BA%95%E3%80%80%E5%BA%B7%E5%93%B2%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+金井　康哲,direct_search,high,金井康哲 プロフィール 市議,https://x.com/search?q=%E9%87%91%E4%BA%95%E5%BA%B7%E5%93%B2%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+金井　康哲,party_search,medium,やまとみどり 東大和市 金井,https://x.com/search?q=%E3%82%84%E3%81%BE%E3%81%A8%E3%81%BF%E3%81%A9%E3%82%8A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E9%87%91%E4%BA%95&f=user
+金井　康哲,party_search,medium,"""やまとみどり"" メンバー 金井　康哲",https://x.com/search?q=%22%E3%82%84%E3%81%BE%E3%81%A8%E3%81%BF%E3%81%A9%E3%82%8A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%87%91%E4%BA%95%E3%80%80%E5%BA%B7%E5%93%B2&f=user
+金井　康哲,election_search,low,金井　康哲 当選 東大和市,https://x.com/search?q=%E9%87%91%E4%BA%95%E3%80%80%E5%BA%B7%E5%93%B2%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+金井　康哲,election_search,low,#東大和市選挙 金井　康哲,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%87%91%E4%BA%95%E3%80%80%E5%BA%B7%E5%93%B2&f=user
+金井　康哲,election_search,low,金井　康哲 選挙ポスター,https://x.com/search?q=%E9%87%91%E4%BA%95%E3%80%80%E5%BA%B7%E5%93%B2%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中野　志乃夫,direct_search,high,"""中野　志乃夫"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E9%87%8E%E3%80%80%E5%BF%97%E4%B9%83%E5%A4%AB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中野　志乃夫,direct_search,high,"""中野　志乃夫"" 東大和市 議員",https://x.com/search?q=%22%E4%B8%AD%E9%87%8E%E3%80%80%E5%BF%97%E4%B9%83%E5%A4%AB%22%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中野　志乃夫,direct_search,high,中野志乃夫 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E9%87%8E%E5%BF%97%E4%B9%83%E5%A4%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中野　志乃夫,party_search,medium,やまとみどり 東大和市 中野,https://x.com/search?q=%E3%82%84%E3%81%BE%E3%81%A8%E3%81%BF%E3%81%A9%E3%82%8A%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%20%E4%B8%AD%E9%87%8E&f=user
+中野　志乃夫,party_search,medium,"""やまとみどり"" メンバー 中野　志乃夫",https://x.com/search?q=%22%E3%82%84%E3%81%BE%E3%81%A8%E3%81%BF%E3%81%A9%E3%82%8A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E9%87%8E%E3%80%80%E5%BF%97%E4%B9%83%E5%A4%AB&f=user
+中野　志乃夫,election_search,low,中野　志乃夫 当選 東大和市,https://x.com/search?q=%E4%B8%AD%E9%87%8E%E3%80%80%E5%BF%97%E4%B9%83%E5%A4%AB%20%E5%BD%93%E9%81%B8%20%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82&f=user
+中野　志乃夫,election_search,low,#東大和市選挙 中野　志乃夫,https://x.com/search?q=%23%E6%9D%B1%E5%A4%A7%E5%92%8C%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E9%87%8E%E3%80%80%E5%BF%97%E4%B9%83%E5%A4%AB&f=user
+中野　志乃夫,election_search,low,中野　志乃夫 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E9%87%8E%E3%80%80%E5%BF%97%E4%B9%83%E5%A4%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

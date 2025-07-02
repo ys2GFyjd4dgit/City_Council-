@@ -1,0 +1,61 @@
+member_name,strategy_type,priority,query,url
+松岡　賢二,direct_search,high,"""松岡　賢二"" 村議 -RT",https://x.com/search?q=%22%E6%9D%BE%E5%B2%A1%E3%80%80%E8%B3%A2%E4%BA%8C%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+松岡　賢二,direct_search,high,"""松岡　賢二"" 檜原村 議員",https://x.com/search?q=%22%E6%9D%BE%E5%B2%A1%E3%80%80%E8%B3%A2%E4%BA%8C%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+松岡　賢二,direct_search,high,松岡賢二 プロフィール 村議,https://x.com/search?q=%E6%9D%BE%E5%B2%A1%E8%B3%A2%E4%BA%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+松岡　賢二,election_search,low,松岡　賢二 当選 檜原村,https://x.com/search?q=%E6%9D%BE%E5%B2%A1%E3%80%80%E8%B3%A2%E4%BA%8C%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+松岡　賢二,election_search,low,#檜原村選挙 松岡　賢二,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E6%9D%BE%E5%B2%A1%E3%80%80%E8%B3%A2%E4%BA%8C&f=user
+松岡　賢二,election_search,low,松岡　賢二 選挙ポスター,https://x.com/search?q=%E6%9D%BE%E5%B2%A1%E3%80%80%E8%B3%A2%E4%BA%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山嵜　源重,direct_search,high,"""山嵜　源重"" 村議 -RT",https://x.com/search?q=%22%E5%B1%B1%E5%B5%9C%E3%80%80%E6%BA%90%E9%87%8D%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+山嵜　源重,direct_search,high,"""山嵜　源重"" 檜原村 議員",https://x.com/search?q=%22%E5%B1%B1%E5%B5%9C%E3%80%80%E6%BA%90%E9%87%8D%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+山嵜　源重,direct_search,high,山嵜源重 プロフィール 村議,https://x.com/search?q=%E5%B1%B1%E5%B5%9C%E6%BA%90%E9%87%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+山嵜　源重,party_search,medium,自由民主党檜原新政会 檜原村 山嵜,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E5%B1%B1%E5%B5%9C&f=user
+山嵜　源重,party_search,medium,"""自由民主党檜原新政会"" メンバー 山嵜　源重",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E5%B5%9C%E3%80%80%E6%BA%90%E9%87%8D&f=user
+山嵜　源重,election_search,low,山嵜　源重 当選 檜原村,https://x.com/search?q=%E5%B1%B1%E5%B5%9C%E3%80%80%E6%BA%90%E9%87%8D%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+山嵜　源重,election_search,low,#檜原村選挙 山嵜　源重,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B1%B1%E5%B5%9C%E3%80%80%E6%BA%90%E9%87%8D&f=user
+山嵜　源重,election_search,low,山嵜　源重 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E5%B5%9C%E3%80%80%E6%BA%90%E9%87%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+嶋﨑　佐有理,direct_search,high,"""嶋﨑　佐有理"" 村議 -RT",https://x.com/search?q=%22%E5%B6%8B%EF%A8%91%E3%80%80%E4%BD%90%E6%9C%89%E7%90%86%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+嶋﨑　佐有理,direct_search,high,"""嶋﨑　佐有理"" 檜原村 議員",https://x.com/search?q=%22%E5%B6%8B%EF%A8%91%E3%80%80%E4%BD%90%E6%9C%89%E7%90%86%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+嶋﨑　佐有理,direct_search,high,嶋﨑佐有理 プロフィール 村議,https://x.com/search?q=%E5%B6%8B%EF%A8%91%E4%BD%90%E6%9C%89%E7%90%86%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+嶋﨑　佐有理,election_search,low,嶋﨑　佐有理 当選 檜原村,https://x.com/search?q=%E5%B6%8B%EF%A8%91%E3%80%80%E4%BD%90%E6%9C%89%E7%90%86%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+嶋﨑　佐有理,election_search,low,#檜原村選挙 嶋﨑　佐有理,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B6%8B%EF%A8%91%E3%80%80%E4%BD%90%E6%9C%89%E7%90%86&f=user
+嶋﨑　佐有理,election_search,low,嶋﨑　佐有理 選挙ポスター,https://x.com/search?q=%E5%B6%8B%EF%A8%91%E3%80%80%E4%BD%90%E6%9C%89%E7%90%86%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+野村　雅巳,direct_search,high,"""野村　雅巳"" 村議 -RT",https://x.com/search?q=%22%E9%87%8E%E6%9D%91%E3%80%80%E9%9B%85%E5%B7%B3%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+野村　雅巳,direct_search,high,"""野村　雅巳"" 檜原村 議員",https://x.com/search?q=%22%E9%87%8E%E6%9D%91%E3%80%80%E9%9B%85%E5%B7%B3%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+野村　雅巳,direct_search,high,野村雅巳 プロフィール 村議,https://x.com/search?q=%E9%87%8E%E6%9D%91%E9%9B%85%E5%B7%B3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+野村　雅巳,party_search,medium,自由民主党檜原新政会 檜原村 野村,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E9%87%8E%E6%9D%91&f=user
+野村　雅巳,party_search,medium,"""自由民主党檜原新政会"" メンバー 野村　雅巳",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%87%8E%E6%9D%91%E3%80%80%E9%9B%85%E5%B7%B3&f=user
+野村　雅巳,election_search,low,野村　雅巳 当選 檜原村,https://x.com/search?q=%E9%87%8E%E6%9D%91%E3%80%80%E9%9B%85%E5%B7%B3%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+野村　雅巳,election_search,low,#檜原村選挙 野村　雅巳,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%87%8E%E6%9D%91%E3%80%80%E9%9B%85%E5%B7%B3&f=user
+野村　雅巳,election_search,low,野村　雅巳 選挙ポスター,https://x.com/search?q=%E9%87%8E%E6%9D%91%E3%80%80%E9%9B%85%E5%B7%B3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+田中　惣一,direct_search,high,"""田中　惣一"" 村議 -RT",https://x.com/search?q=%22%E7%94%B0%E4%B8%AD%E3%80%80%E6%83%A3%E4%B8%80%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+田中　惣一,direct_search,high,"""田中　惣一"" 檜原村 議員",https://x.com/search?q=%22%E7%94%B0%E4%B8%AD%E3%80%80%E6%83%A3%E4%B8%80%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+田中　惣一,direct_search,high,田中惣一 プロフィール 村議,https://x.com/search?q=%E7%94%B0%E4%B8%AD%E6%83%A3%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+田中　惣一,party_search,medium,自由民主党檜原新政会 檜原村 田中,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E7%94%B0%E4%B8%AD&f=user
+田中　惣一,party_search,medium,"""自由民主党檜原新政会"" メンバー 田中　惣一",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%94%B0%E4%B8%AD%E3%80%80%E6%83%A3%E4%B8%80&f=user
+田中　惣一,election_search,low,田中　惣一 当選 檜原村,https://x.com/search?q=%E7%94%B0%E4%B8%AD%E3%80%80%E6%83%A3%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+田中　惣一,election_search,low,#檜原村選挙 田中　惣一,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E7%94%B0%E4%B8%AD%E3%80%80%E6%83%A3%E4%B8%80&f=user
+田中　惣一,election_search,low,田中　惣一 選挙ポスター,https://x.com/search?q=%E7%94%B0%E4%B8%AD%E3%80%80%E6%83%A3%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+青木　亮輔,direct_search,high,"""青木　亮輔"" 村議 -RT",https://x.com/search?q=%22%E9%9D%92%E6%9C%A8%E3%80%80%E4%BA%AE%E8%BC%94%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+青木　亮輔,direct_search,high,"""青木　亮輔"" 檜原村 議員",https://x.com/search?q=%22%E9%9D%92%E6%9C%A8%E3%80%80%E4%BA%AE%E8%BC%94%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+青木　亮輔,direct_search,high,青木亮輔 プロフィール 村議,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E4%BA%AE%E8%BC%94%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+青木　亮輔,party_search,medium,自由民主党檜原新政会 檜原村 青木,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E9%9D%92%E6%9C%A8&f=user
+青木　亮輔,party_search,medium,"""自由民主党檜原新政会"" メンバー 青木　亮輔",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%9D%92%E6%9C%A8%E3%80%80%E4%BA%AE%E8%BC%94&f=user
+青木　亮輔,election_search,low,青木　亮輔 当選 檜原村,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E3%80%80%E4%BA%AE%E8%BC%94%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+青木　亮輔,election_search,low,#檜原村選挙 青木　亮輔,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E9%9D%92%E6%9C%A8%E3%80%80%E4%BA%AE%E8%BC%94&f=user
+青木　亮輔,election_search,low,青木　亮輔 選挙ポスター,https://x.com/search?q=%E9%9D%92%E6%9C%A8%E3%80%80%E4%BA%AE%E8%BC%94%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中村　賢次,direct_search,high,"""中村　賢次"" 村議 -RT",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E3%80%80%E8%B3%A2%E6%AC%A1%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+中村　賢次,direct_search,high,"""中村　賢次"" 檜原村 議員",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E3%80%80%E8%B3%A2%E6%AC%A1%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+中村　賢次,direct_search,high,中村賢次 プロフィール 村議,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E8%B3%A2%E6%AC%A1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+中村　賢次,party_search,medium,けやきの会 檜原村 中村,https://x.com/search?q=%E3%81%91%E3%82%84%E3%81%8D%E3%81%AE%E4%BC%9A%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E4%B8%AD%E6%9D%91&f=user
+中村　賢次,party_search,medium,"""けやきの会"" メンバー 中村　賢次",https://x.com/search?q=%22%E3%81%91%E3%82%84%E3%81%8D%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E6%9D%91%E3%80%80%E8%B3%A2%E6%AC%A1&f=user
+中村　賢次,election_search,low,中村　賢次 当選 檜原村,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%80%80%E8%B3%A2%E6%AC%A1%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+中村　賢次,election_search,low,#檜原村選挙 中村　賢次,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E4%B8%AD%E6%9D%91%E3%80%80%E8%B3%A2%E6%AC%A1&f=user
+中村　賢次,election_search,low,中村　賢次 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%80%80%E8%B3%A2%E6%AC%A1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+峰岸　茂,direct_search,high,"""峰岸　茂"" 村議 -RT",https://x.com/search?q=%22%E5%B3%B0%E5%B2%B8%E3%80%80%E8%8C%82%22%20%E6%9D%91%E8%AD%B0%20-RT&f=user
+峰岸　茂,direct_search,high,"""峰岸　茂"" 檜原村 議員",https://x.com/search?q=%22%E5%B3%B0%E5%B2%B8%E3%80%80%E8%8C%82%22%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E8%AD%B0%E5%93%A1&f=user
+峰岸　茂,direct_search,high,峰岸茂 プロフィール 村議,https://x.com/search?q=%E5%B3%B0%E5%B2%B8%E8%8C%82%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E6%9D%91%E8%AD%B0&f=user
+峰岸　茂,party_search,medium,自由民主党檜原新政会 檜原村 峰岸,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AA%9C%E5%8E%9F%E6%9D%91%20%E5%B3%B0%E5%B2%B8&f=user
+峰岸　茂,party_search,medium,"""自由民主党檜原新政会"" メンバー 峰岸　茂",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%AA%9C%E5%8E%9F%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B3%B0%E5%B2%B8%E3%80%80%E8%8C%82&f=user
+峰岸　茂,election_search,low,峰岸　茂 当選 檜原村,https://x.com/search?q=%E5%B3%B0%E5%B2%B8%E3%80%80%E8%8C%82%20%E5%BD%93%E9%81%B8%20%E6%AA%9C%E5%8E%9F%E6%9D%91&f=user
+峰岸　茂,election_search,low,#檜原村選挙 峰岸　茂,https://x.com/search?q=%23%E6%AA%9C%E5%8E%9F%E6%9D%91%E9%81%B8%E6%8C%99%20%E5%B3%B0%E5%B2%B8%E3%80%80%E8%8C%82&f=user
+峰岸　茂,election_search,low,峰岸　茂 選挙ポスター,https://x.com/search?q=%E5%B3%B0%E5%B2%B8%E3%80%80%E8%8C%82%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

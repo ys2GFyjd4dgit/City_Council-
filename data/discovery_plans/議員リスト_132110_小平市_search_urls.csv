@@ -1,0 +1,57 @@
+member_name,strategy_type,priority,query,url
+さとう　悦子,direct_search,high,"""さとう　悦子"" 市議 -RT",https://x.com/search?q=%22%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E6%82%A6%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+さとう　悦子,direct_search,high,"""さとう　悦子"" 小平市 議員",https://x.com/search?q=%22%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E6%82%A6%E5%AD%90%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+さとう　悦子,direct_search,high,さとう悦子 プロフィール 市議,https://x.com/search?q=%E3%81%95%E3%81%A8%E3%81%86%E6%82%A6%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+さとう　悦子,party_search,medium,生活者ネットワーク 小平市 さとう,https://x.com/search?q=%E7%94%9F%E6%B4%BB%E8%80%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E3%81%95%E3%81%A8%E3%81%86&f=user
+さとう　悦子,party_search,medium,"""生活者ネットワーク"" メンバー さとう　悦子",https://x.com/search?q=%22%E7%94%9F%E6%B4%BB%E8%80%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E6%82%A6%E5%AD%90&f=user
+さとう　悦子,election_search,low,さとう　悦子 当選 小平市,https://x.com/search?q=%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E6%82%A6%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+さとう　悦子,election_search,low,#小平市選挙 さとう　悦子,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E6%82%A6%E5%AD%90&f=user
+さとう　悦子,election_search,low,さとう　悦子 選挙ポスター,https://x.com/search?q=%E3%81%95%E3%81%A8%E3%81%86%E3%80%80%E6%82%A6%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+柴尾　ひろみ,direct_search,high,"""柴尾　ひろみ"" 市議 -RT",https://x.com/search?q=%22%E6%9F%B4%E5%B0%BE%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+柴尾　ひろみ,direct_search,high,"""柴尾　ひろみ"" 小平市 議員",https://x.com/search?q=%22%E6%9F%B4%E5%B0%BE%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+柴尾　ひろみ,direct_search,high,柴尾ひろみ プロフィール 市議,https://x.com/search?q=%E6%9F%B4%E5%B0%BE%E3%81%B2%E3%82%8D%E3%81%BF%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+柴尾　ひろみ,party_search,medium,生活者ネットワーク 小平市 柴尾,https://x.com/search?q=%E7%94%9F%E6%B4%BB%E8%80%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E6%9F%B4%E5%B0%BE&f=user
+柴尾　ひろみ,party_search,medium,"""生活者ネットワーク"" メンバー 柴尾　ひろみ",https://x.com/search?q=%22%E7%94%9F%E6%B4%BB%E8%80%85%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9F%B4%E5%B0%BE%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF&f=user
+柴尾　ひろみ,election_search,low,柴尾　ひろみ 当選 小平市,https://x.com/search?q=%E6%9F%B4%E5%B0%BE%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+柴尾　ひろみ,election_search,low,#小平市選挙 柴尾　ひろみ,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9F%B4%E5%B0%BE%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF&f=user
+柴尾　ひろみ,election_search,low,柴尾　ひろみ 選挙ポスター,https://x.com/search?q=%E6%9F%B4%E5%B0%BE%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鈴木　洋一,direct_search,high,"""鈴木　洋一"" 市議 -RT",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E6%B4%8B%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+鈴木　洋一,direct_search,high,"""鈴木　洋一"" 小平市 議員",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E6%B4%8B%E4%B8%80%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+鈴木　洋一,direct_search,high,鈴木洋一 プロフィール 市議,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E6%B4%8B%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+鈴木　洋一,party_search,medium,自民党小平政和会 小平市 鈴木,https://x.com/search?q=%E8%87%AA%E6%B0%91%E5%85%9A%E5%B0%8F%E5%B9%B3%E6%94%BF%E5%92%8C%E4%BC%9A%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E9%88%B4%E6%9C%A8&f=user
+鈴木　洋一,party_search,medium,"""自民党小平政和会"" メンバー 鈴木　洋一",https://x.com/search?q=%22%E8%87%AA%E6%B0%91%E5%85%9A%E5%B0%8F%E5%B9%B3%E6%94%BF%E5%92%8C%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%88%B4%E6%9C%A8%E3%80%80%E6%B4%8B%E4%B8%80&f=user
+鈴木　洋一,election_search,low,鈴木　洋一 当選 小平市,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E6%B4%8B%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+鈴木　洋一,election_search,low,#小平市選挙 鈴木　洋一,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%88%B4%E6%9C%A8%E3%80%80%E6%B4%8B%E4%B8%80&f=user
+鈴木　洋一,election_search,low,鈴木　洋一 選挙ポスター,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E6%B4%8B%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+津本　裕子,direct_search,high,"""津本　裕子"" 市議 -RT",https://x.com/search?q=%22%E6%B4%A5%E6%9C%AC%E3%80%80%E8%A3%95%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+津本　裕子,direct_search,high,"""津本　裕子"" 小平市 議員",https://x.com/search?q=%22%E6%B4%A5%E6%9C%AC%E3%80%80%E8%A3%95%E5%AD%90%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+津本　裕子,direct_search,high,津本裕子 プロフィール 市議,https://x.com/search?q=%E6%B4%A5%E6%9C%AC%E8%A3%95%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+津本　裕子,party_search,medium,市議会公明党 小平市 津本,https://x.com/search?q=%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E6%B4%A5%E6%9C%AC&f=user
+津本　裕子,party_search,medium,"""市議会公明党"" メンバー 津本　裕子",https://x.com/search?q=%22%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B4%A5%E6%9C%AC%E3%80%80%E8%A3%95%E5%AD%90&f=user
+津本　裕子,election_search,low,津本　裕子 当選 小平市,https://x.com/search?q=%E6%B4%A5%E6%9C%AC%E3%80%80%E8%A3%95%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+津本　裕子,election_search,low,#小平市選挙 津本　裕子,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B4%A5%E6%9C%AC%E3%80%80%E8%A3%95%E5%AD%90&f=user
+津本　裕子,election_search,low,津本　裕子 選挙ポスター,https://x.com/search?q=%E6%B4%A5%E6%9C%AC%E3%80%80%E8%A3%95%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+橋本　孝二,direct_search,high,"""橋本　孝二"" 市議 -RT",https://x.com/search?q=%22%E6%A9%8B%E6%9C%AC%E3%80%80%E5%AD%9D%E4%BA%8C%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+橋本　孝二,direct_search,high,"""橋本　孝二"" 小平市 議員",https://x.com/search?q=%22%E6%A9%8B%E6%9C%AC%E3%80%80%E5%AD%9D%E4%BA%8C%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+橋本　孝二,direct_search,high,橋本孝二 プロフィール 市議,https://x.com/search?q=%E6%A9%8B%E6%9C%AC%E5%AD%9D%E4%BA%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+橋本　孝二,party_search,medium,市議会公明党 小平市 橋本,https://x.com/search?q=%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E6%A9%8B%E6%9C%AC&f=user
+橋本　孝二,party_search,medium,"""市議会公明党"" メンバー 橋本　孝二",https://x.com/search?q=%22%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A9%8B%E6%9C%AC%E3%80%80%E5%AD%9D%E4%BA%8C&f=user
+橋本　孝二,election_search,low,橋本　孝二 当選 小平市,https://x.com/search?q=%E6%A9%8B%E6%9C%AC%E3%80%80%E5%AD%9D%E4%BA%8C%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+橋本　孝二,election_search,low,#小平市選挙 橋本　孝二,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A9%8B%E6%9C%AC%E3%80%80%E5%AD%9D%E4%BA%8C&f=user
+橋本　孝二,election_search,low,橋本　孝二 選挙ポスター,https://x.com/search?q=%E6%A9%8B%E6%9C%AC%E3%80%80%E5%AD%9D%E4%BA%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+細谷　正,direct_search,high,"""細谷　正"" 市議 -RT",https://x.com/search?q=%22%E7%B4%B0%E8%B0%B7%E3%80%80%E6%AD%A3%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+細谷　正,direct_search,high,"""細谷　正"" 小平市 議員",https://x.com/search?q=%22%E7%B4%B0%E8%B0%B7%E3%80%80%E6%AD%A3%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+細谷　正,direct_search,high,細谷正 プロフィール 市議,https://x.com/search?q=%E7%B4%B0%E8%B0%B7%E6%AD%A3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+細谷　正,party_search,medium,日本共産党小平市議団 小平市 細谷,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%E5%B0%8F%E5%B9%B3%E5%B8%82%E8%AD%B0%E5%9B%A3%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E7%B4%B0%E8%B0%B7&f=user
+細谷　正,party_search,medium,"""日本共産党小平市議団"" メンバー 細谷　正",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%E5%B0%8F%E5%B9%B3%E5%B8%82%E8%AD%B0%E5%9B%A3%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%B4%B0%E8%B0%B7%E3%80%80%E6%AD%A3&f=user
+細谷　正,election_search,low,細谷　正 当選 小平市,https://x.com/search?q=%E7%B4%B0%E8%B0%B7%E3%80%80%E6%AD%A3%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+細谷　正,election_search,low,#小平市選挙 細谷　正,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%B4%B0%E8%B0%B7%E3%80%80%E6%AD%A3&f=user
+細谷　正,election_search,low,細谷　正 選挙ポスター,https://x.com/search?q=%E7%B4%B0%E8%B0%B7%E3%80%80%E6%AD%A3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+幸田　昌之,direct_search,high,"""幸田　昌之"" 市議 -RT",https://x.com/search?q=%22%E5%B9%B8%E7%94%B0%E3%80%80%E6%98%8C%E4%B9%8B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+幸田　昌之,direct_search,high,"""幸田　昌之"" 小平市 議員",https://x.com/search?q=%22%E5%B9%B8%E7%94%B0%E3%80%80%E6%98%8C%E4%B9%8B%22%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+幸田　昌之,direct_search,high,幸田昌之 プロフィール 市議,https://x.com/search?q=%E5%B9%B8%E7%94%B0%E6%98%8C%E4%B9%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+幸田　昌之,party_search,medium,市議会公明党 小平市 幸田,https://x.com/search?q=%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%B0%8F%E5%B9%B3%E5%B8%82%20%E5%B9%B8%E7%94%B0&f=user
+幸田　昌之,party_search,medium,"""市議会公明党"" メンバー 幸田　昌之",https://x.com/search?q=%22%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B9%B8%E7%94%B0%E3%80%80%E6%98%8C%E4%B9%8B&f=user
+幸田　昌之,election_search,low,幸田　昌之 当選 小平市,https://x.com/search?q=%E5%B9%B8%E7%94%B0%E3%80%80%E6%98%8C%E4%B9%8B%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E5%B9%B3%E5%B8%82&f=user
+幸田　昌之,election_search,low,#小平市選挙 幸田　昌之,https://x.com/search?q=%23%E5%B0%8F%E5%B9%B3%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B9%B8%E7%94%B0%E3%80%80%E6%98%8C%E4%B9%8B&f=user
+幸田　昌之,election_search,low,幸田　昌之 選挙ポスター,https://x.com/search?q=%E5%B9%B8%E7%94%B0%E3%80%80%E6%98%8C%E4%B9%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

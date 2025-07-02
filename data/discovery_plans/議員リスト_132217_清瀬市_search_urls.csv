@@ -1,0 +1,121 @@
+member_name,strategy_type,priority,query,url
+原　かずひろ,direct_search,high,"""原　かずひろ"" 市議 -RT",https://x.com/search?q=%22%E5%8E%9F%E3%80%80%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+原　かずひろ,direct_search,high,"""原　かずひろ"" 清瀬市 議員",https://x.com/search?q=%22%E5%8E%9F%E3%80%80%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+原　かずひろ,direct_search,high,原かずひろ プロフィール 市議,https://x.com/search?q=%E5%8E%9F%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+原　かずひろ,party_search,medium,公明党 清瀬市 原,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E5%8E%9F&f=user
+原　かずひろ,party_search,medium,"""公明党"" メンバー 原　かずひろ",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%8E%9F%E3%80%80%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D&f=user
+原　かずひろ,election_search,low,原　かずひろ 当選 清瀬市,https://x.com/search?q=%E5%8E%9F%E3%80%80%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+原　かずひろ,election_search,low,#清瀬市選挙 原　かずひろ,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%8E%9F%E3%80%80%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D&f=user
+原　かずひろ,election_search,low,原　かずひろ 選挙ポスター,https://x.com/search?q=%E5%8E%9F%E3%80%80%E3%81%8B%E3%81%9A%E3%81%B2%E3%82%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+やつだ　こうじ,direct_search,high,"""やつだ　こうじ"" 市議 -RT",https://x.com/search?q=%22%E3%82%84%E3%81%A4%E3%81%A0%E3%80%80%E3%81%93%E3%81%86%E3%81%98%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+やつだ　こうじ,direct_search,high,"""やつだ　こうじ"" 清瀬市 議員",https://x.com/search?q=%22%E3%82%84%E3%81%A4%E3%81%A0%E3%80%80%E3%81%93%E3%81%86%E3%81%98%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+やつだ　こうじ,direct_search,high,やつだこうじ プロフィール 市議,https://x.com/search?q=%E3%82%84%E3%81%A4%E3%81%A0%E3%81%93%E3%81%86%E3%81%98%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+やつだ　こうじ,party_search,medium,公明党 清瀬市 やつだ,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E3%82%84%E3%81%A4%E3%81%A0&f=user
+やつだ　こうじ,party_search,medium,"""公明党"" メンバー やつだ　こうじ",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%82%84%E3%81%A4%E3%81%A0%E3%80%80%E3%81%93%E3%81%86%E3%81%98&f=user
+やつだ　こうじ,election_search,low,やつだ　こうじ 当選 清瀬市,https://x.com/search?q=%E3%82%84%E3%81%A4%E3%81%A0%E3%80%80%E3%81%93%E3%81%86%E3%81%98%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+やつだ　こうじ,election_search,low,#清瀬市選挙 やつだ　こうじ,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%82%84%E3%81%A4%E3%81%A0%E3%80%80%E3%81%93%E3%81%86%E3%81%98&f=user
+やつだ　こうじ,election_search,low,やつだ　こうじ 選挙ポスター,https://x.com/search?q=%E3%82%84%E3%81%A4%E3%81%A0%E3%80%80%E3%81%93%E3%81%86%E3%81%98%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中村　きよし,direct_search,high,"""中村　きよし"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E3%80%80%E3%81%8D%E3%82%88%E3%81%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中村　きよし,direct_search,high,"""中村　きよし"" 清瀬市 議員",https://x.com/search?q=%22%E4%B8%AD%E6%9D%91%E3%80%80%E3%81%8D%E3%82%88%E3%81%97%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中村　きよし,direct_search,high,中村きよし プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%81%8D%E3%82%88%E3%81%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中村　きよし,party_search,medium,清瀬自民クラブ 清瀬市 中村,https://x.com/search?q=%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E4%B8%AD%E6%9D%91&f=user
+中村　きよし,party_search,medium,"""清瀬自民クラブ"" メンバー 中村　きよし",https://x.com/search?q=%22%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E6%9D%91%E3%80%80%E3%81%8D%E3%82%88%E3%81%97&f=user
+中村　きよし,election_search,low,中村　きよし 当選 清瀬市,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%80%80%E3%81%8D%E3%82%88%E3%81%97%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+中村　きよし,election_search,low,#清瀬市選挙 中村　きよし,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E6%9D%91%E3%80%80%E3%81%8D%E3%82%88%E3%81%97&f=user
+中村　きよし,election_search,low,中村　きよし 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E6%9D%91%E3%80%80%E3%81%8D%E3%82%88%E3%81%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+斉藤　まさひろ,direct_search,high,"""斉藤　まさひろ"" 市議 -RT",https://x.com/search?q=%22%E6%96%89%E8%97%A4%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+斉藤　まさひろ,direct_search,high,"""斉藤　まさひろ"" 清瀬市 議員",https://x.com/search?q=%22%E6%96%89%E8%97%A4%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+斉藤　まさひろ,direct_search,high,斉藤まさひろ プロフィール 市議,https://x.com/search?q=%E6%96%89%E8%97%A4%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+斉藤　まさひろ,party_search,medium,清瀬自民クラブ 清瀬市 斉藤,https://x.com/search?q=%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E6%96%89%E8%97%A4&f=user
+斉藤　まさひろ,party_search,medium,"""清瀬自民クラブ"" メンバー 斉藤　まさひろ",https://x.com/search?q=%22%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%96%89%E8%97%A4%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D&f=user
+斉藤　まさひろ,election_search,low,斉藤　まさひろ 当選 清瀬市,https://x.com/search?q=%E6%96%89%E8%97%A4%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+斉藤　まさひろ,election_search,low,#清瀬市選挙 斉藤　まさひろ,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%96%89%E8%97%A4%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D&f=user
+斉藤　まさひろ,election_search,low,斉藤　まさひろ 選挙ポスター,https://x.com/search?q=%E6%96%89%E8%97%A4%E3%80%80%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+友野　和子,direct_search,high,"""友野　和子"" 市議 -RT",https://x.com/search?q=%22%E5%8F%8B%E9%87%8E%E3%80%80%E5%92%8C%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+友野　和子,direct_search,high,"""友野　和子"" 清瀬市 議員",https://x.com/search?q=%22%E5%8F%8B%E9%87%8E%E3%80%80%E5%92%8C%E5%AD%90%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+友野　和子,direct_search,high,友野和子 プロフィール 市議,https://x.com/search?q=%E5%8F%8B%E9%87%8E%E5%92%8C%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+友野　和子,party_search,medium,清瀬自民クラブ 清瀬市 友野,https://x.com/search?q=%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E5%8F%8B%E9%87%8E&f=user
+友野　和子,party_search,medium,"""清瀬自民クラブ"" メンバー 友野　和子",https://x.com/search?q=%22%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%8F%8B%E9%87%8E%E3%80%80%E5%92%8C%E5%AD%90&f=user
+友野　和子,election_search,low,友野　和子 当選 清瀬市,https://x.com/search?q=%E5%8F%8B%E9%87%8E%E3%80%80%E5%92%8C%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+友野　和子,election_search,low,#清瀬市選挙 友野　和子,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%8F%8B%E9%87%8E%E3%80%80%E5%92%8C%E5%AD%90&f=user
+友野　和子,election_search,low,友野　和子 選挙ポスター,https://x.com/search?q=%E5%8F%8B%E9%87%8E%E3%80%80%E5%92%8C%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+ふせ　由女,direct_search,high,"""ふせ　由女"" 市議 -RT",https://x.com/search?q=%22%E3%81%B5%E3%81%9B%E3%80%80%E7%94%B1%E5%A5%B3%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+ふせ　由女,direct_search,high,"""ふせ　由女"" 清瀬市 議員",https://x.com/search?q=%22%E3%81%B5%E3%81%9B%E3%80%80%E7%94%B1%E5%A5%B3%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+ふせ　由女,direct_search,high,ふせ由女 プロフィール 市議,https://x.com/search?q=%E3%81%B5%E3%81%9B%E7%94%B1%E5%A5%B3%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+ふせ　由女,party_search,medium,共に生きる 清瀬市 ふせ,https://x.com/search?q=%E5%85%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E3%81%B5%E3%81%9B&f=user
+ふせ　由女,party_search,medium,"""共に生きる"" メンバー ふせ　由女",https://x.com/search?q=%22%E5%85%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%B5%E3%81%9B%E3%80%80%E7%94%B1%E5%A5%B3&f=user
+ふせ　由女,election_search,low,ふせ　由女 当選 清瀬市,https://x.com/search?q=%E3%81%B5%E3%81%9B%E3%80%80%E7%94%B1%E5%A5%B3%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+ふせ　由女,election_search,low,#清瀬市選挙 ふせ　由女,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%B5%E3%81%9B%E3%80%80%E7%94%B1%E5%A5%B3&f=user
+ふせ　由女,election_search,low,ふせ　由女 選挙ポスター,https://x.com/search?q=%E3%81%B5%E3%81%9B%E3%80%80%E7%94%B1%E5%A5%B3%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+香川　やすのり,direct_search,high,"""香川　やすのり"" 市議 -RT",https://x.com/search?q=%22%E9%A6%99%E5%B7%9D%E3%80%80%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+香川　やすのり,direct_search,high,"""香川　やすのり"" 清瀬市 議員",https://x.com/search?q=%22%E9%A6%99%E5%B7%9D%E3%80%80%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+香川　やすのり,direct_search,high,香川やすのり プロフィール 市議,https://x.com/search?q=%E9%A6%99%E5%B7%9D%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+香川　やすのり,party_search,medium,日本共産党 清瀬市 香川,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E9%A6%99%E5%B7%9D&f=user
+香川　やすのり,party_search,medium,"""日本共産党"" メンバー 香川　やすのり",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%A6%99%E5%B7%9D%E3%80%80%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A&f=user
+香川　やすのり,election_search,low,香川　やすのり 当選 清瀬市,https://x.com/search?q=%E9%A6%99%E5%B7%9D%E3%80%80%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+香川　やすのり,election_search,low,#清瀬市選挙 香川　やすのり,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%A6%99%E5%B7%9D%E3%80%80%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A&f=user
+香川　やすのり,election_search,low,香川　やすのり 選挙ポスター,https://x.com/search?q=%E9%A6%99%E5%B7%9D%E3%80%80%E3%82%84%E3%81%99%E3%81%AE%E3%82%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鈴木　たかし,direct_search,high,"""鈴木　たかし"" 市議 -RT",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+鈴木　たかし,direct_search,high,"""鈴木　たかし"" 清瀬市 議員",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+鈴木　たかし,direct_search,high,鈴木たかし プロフィール 市議,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%81%9F%E3%81%8B%E3%81%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+鈴木　たかし,party_search,medium,公明党 清瀬市 鈴木,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E9%88%B4%E6%9C%A8&f=user
+鈴木　たかし,party_search,medium,"""公明党"" メンバー 鈴木　たかし",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97&f=user
+鈴木　たかし,election_search,low,鈴木　たかし 当選 清瀬市,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+鈴木　たかし,election_search,low,#清瀬市選挙 鈴木　たかし,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97&f=user
+鈴木　たかし,election_search,low,鈴木　たかし 選挙ポスター,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%9F%E3%81%8B%E3%81%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+斉藤　あき子,direct_search,high,"""斉藤　あき子"" 市議 -RT",https://x.com/search?q=%22%E6%96%89%E8%97%A4%E3%80%80%E3%81%82%E3%81%8D%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+斉藤　あき子,direct_search,high,"""斉藤　あき子"" 清瀬市 議員",https://x.com/search?q=%22%E6%96%89%E8%97%A4%E3%80%80%E3%81%82%E3%81%8D%E5%AD%90%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+斉藤　あき子,direct_search,high,斉藤あき子 プロフィール 市議,https://x.com/search?q=%E6%96%89%E8%97%A4%E3%81%82%E3%81%8D%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+斉藤　あき子,party_search,medium,公明党 清瀬市 斉藤,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E6%96%89%E8%97%A4&f=user
+斉藤　あき子,party_search,medium,"""公明党"" メンバー 斉藤　あき子",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%96%89%E8%97%A4%E3%80%80%E3%81%82%E3%81%8D%E5%AD%90&f=user
+斉藤　あき子,election_search,low,斉藤　あき子 当選 清瀬市,https://x.com/search?q=%E6%96%89%E8%97%A4%E3%80%80%E3%81%82%E3%81%8D%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+斉藤　あき子,election_search,low,#清瀬市選挙 斉藤　あき子,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%96%89%E8%97%A4%E3%80%80%E3%81%82%E3%81%8D%E5%AD%90&f=user
+斉藤　あき子,election_search,low,斉藤　あき子 選挙ポスター,https://x.com/search?q=%E6%96%89%E8%97%A4%E3%80%80%E3%81%82%E3%81%8D%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石川　秀樹,direct_search,high,"""石川　秀樹"" 市議 -RT",https://x.com/search?q=%22%E7%9F%B3%E5%B7%9D%E3%80%80%E7%A7%80%E6%A8%B9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+石川　秀樹,direct_search,high,"""石川　秀樹"" 清瀬市 議員",https://x.com/search?q=%22%E7%9F%B3%E5%B7%9D%E3%80%80%E7%A7%80%E6%A8%B9%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+石川　秀樹,direct_search,high,石川秀樹 プロフィール 市議,https://x.com/search?q=%E7%9F%B3%E5%B7%9D%E7%A7%80%E6%A8%B9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+石川　秀樹,party_search,medium,無所属の会 清瀬市 石川,https://x.com/search?q=%E7%84%A1%E6%89%80%E5%B1%9E%E3%81%AE%E4%BC%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E7%9F%B3%E5%B7%9D&f=user
+石川　秀樹,party_search,medium,"""無所属の会"" メンバー 石川　秀樹",https://x.com/search?q=%22%E7%84%A1%E6%89%80%E5%B1%9E%E3%81%AE%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%9F%B3%E5%B7%9D%E3%80%80%E7%A7%80%E6%A8%B9&f=user
+石川　秀樹,election_search,low,石川　秀樹 当選 清瀬市,https://x.com/search?q=%E7%9F%B3%E5%B7%9D%E3%80%80%E7%A7%80%E6%A8%B9%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+石川　秀樹,election_search,low,#清瀬市選挙 石川　秀樹,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%9F%B3%E5%B7%9D%E3%80%80%E7%A7%80%E6%A8%B9&f=user
+石川　秀樹,election_search,low,石川　秀樹 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E5%B7%9D%E3%80%80%E7%A7%80%E6%A8%B9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水　ひろなが,direct_search,high,"""清水　ひろなが"" 市議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+清水　ひろなが,direct_search,high,"""清水　ひろなが"" 清瀬市 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+清水　ひろなが,direct_search,high,清水ひろなが プロフィール 市議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+清水　ひろなが,party_search,medium,清瀬自民クラブ 清瀬市 清水,https://x.com/search?q=%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E6%B8%85%E6%B0%B4&f=user
+清水　ひろなが,party_search,medium,"""清瀬自民クラブ"" メンバー 清水　ひろなが",https://x.com/search?q=%22%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%85%E6%B0%B4%E3%80%80%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C&f=user
+清水　ひろなが,election_search,low,清水　ひろなが 当選 清瀬市,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+清水　ひろなが,election_search,low,#清瀬市選挙 清水　ひろなが,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E3%80%80%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C&f=user
+清水　ひろなが,election_search,low,清水　ひろなが 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E3%81%B2%E3%82%8D%E3%81%AA%E3%81%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+森田　正英,direct_search,high,"""森田　正英"" 市議 -RT",https://x.com/search?q=%22%E6%A3%AE%E7%94%B0%E3%80%80%E6%AD%A3%E8%8B%B1%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+森田　正英,direct_search,high,"""森田　正英"" 清瀬市 議員",https://x.com/search?q=%22%E6%A3%AE%E7%94%B0%E3%80%80%E6%AD%A3%E8%8B%B1%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+森田　正英,direct_search,high,森田正英 プロフィール 市議,https://x.com/search?q=%E6%A3%AE%E7%94%B0%E6%AD%A3%E8%8B%B1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+森田　正英,party_search,medium,清瀬自民クラブ 清瀬市 森田,https://x.com/search?q=%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E6%A3%AE%E7%94%B0&f=user
+森田　正英,party_search,medium,"""清瀬自民クラブ"" メンバー 森田　正英",https://x.com/search?q=%22%E6%B8%85%E7%80%AC%E8%87%AA%E6%B0%91%E3%82%AF%E3%83%A9%E3%83%96%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A3%AE%E7%94%B0%E3%80%80%E6%AD%A3%E8%8B%B1&f=user
+森田　正英,election_search,low,森田　正英 当選 清瀬市,https://x.com/search?q=%E6%A3%AE%E7%94%B0%E3%80%80%E6%AD%A3%E8%8B%B1%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+森田　正英,election_search,low,#清瀬市選挙 森田　正英,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A3%AE%E7%94%B0%E3%80%80%E6%AD%A3%E8%8B%B1&f=user
+森田　正英,election_search,low,森田　正英 選挙ポスター,https://x.com/search?q=%E6%A3%AE%E7%94%B0%E3%80%80%E6%AD%A3%E8%8B%B1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+宮原　りえ,direct_search,high,"""宮原　りえ"" 市議 -RT",https://x.com/search?q=%22%E5%AE%AE%E5%8E%9F%E3%80%80%E3%82%8A%E3%81%88%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+宮原　りえ,direct_search,high,"""宮原　りえ"" 清瀬市 議員",https://x.com/search?q=%22%E5%AE%AE%E5%8E%9F%E3%80%80%E3%82%8A%E3%81%88%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+宮原　りえ,direct_search,high,宮原りえ プロフィール 市議,https://x.com/search?q=%E5%AE%AE%E5%8E%9F%E3%82%8A%E3%81%88%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+宮原　りえ,party_search,medium,風・立憲・ネット 清瀬市 宮原,https://x.com/search?q=%E9%A2%A8%E3%83%BB%E7%AB%8B%E6%86%B2%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E5%AE%AE%E5%8E%9F&f=user
+宮原　りえ,party_search,medium,"""風・立憲・ネット"" メンバー 宮原　りえ",https://x.com/search?q=%22%E9%A2%A8%E3%83%BB%E7%AB%8B%E6%86%B2%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%AE%AE%E5%8E%9F%E3%80%80%E3%82%8A%E3%81%88&f=user
+宮原　りえ,election_search,low,宮原　りえ 当選 清瀬市,https://x.com/search?q=%E5%AE%AE%E5%8E%9F%E3%80%80%E3%82%8A%E3%81%88%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+宮原　りえ,election_search,low,#清瀬市選挙 宮原　りえ,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%AE%AE%E5%8E%9F%E3%80%80%E3%82%8A%E3%81%88&f=user
+宮原　りえ,election_search,low,宮原　りえ 選挙ポスター,https://x.com/search?q=%E5%AE%AE%E5%8E%9F%E3%80%80%E3%82%8A%E3%81%88%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+松本　潤,direct_search,high,"""松本　潤"" 市議 -RT",https://x.com/search?q=%22%E6%9D%BE%E6%9C%AC%E3%80%80%E6%BD%A4%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+松本　潤,direct_search,high,"""松本　潤"" 清瀬市 議員",https://x.com/search?q=%22%E6%9D%BE%E6%9C%AC%E3%80%80%E6%BD%A4%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+松本　潤,direct_search,high,松本潤 プロフィール 市議,https://x.com/search?q=%E6%9D%BE%E6%9C%AC%E6%BD%A4%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+松本　潤,party_search,medium,風・立憲・ネット 清瀬市 松本,https://x.com/search?q=%E9%A2%A8%E3%83%BB%E7%AB%8B%E6%86%B2%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E6%9D%BE%E6%9C%AC&f=user
+松本　潤,party_search,medium,"""風・立憲・ネット"" メンバー 松本　潤",https://x.com/search?q=%22%E9%A2%A8%E3%83%BB%E7%AB%8B%E6%86%B2%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9D%BE%E6%9C%AC%E3%80%80%E6%BD%A4&f=user
+松本　潤,election_search,low,松本　潤 当選 清瀬市,https://x.com/search?q=%E6%9D%BE%E6%9C%AC%E3%80%80%E6%BD%A4%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+松本　潤,election_search,low,#清瀬市選挙 松本　潤,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%BE%E6%9C%AC%E3%80%80%E6%BD%A4&f=user
+松本　潤,election_search,low,松本　潤 選挙ポスター,https://x.com/search?q=%E6%9D%BE%E6%9C%AC%E3%80%80%E6%BD%A4%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+原田　ひろみ,direct_search,high,"""原田　ひろみ"" 市議 -RT",https://x.com/search?q=%22%E5%8E%9F%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+原田　ひろみ,direct_search,high,"""原田　ひろみ"" 清瀬市 議員",https://x.com/search?q=%22%E5%8E%9F%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%22%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+原田　ひろみ,direct_search,high,原田ひろみ プロフィール 市議,https://x.com/search?q=%E5%8E%9F%E7%94%B0%E3%81%B2%E3%82%8D%E3%81%BF%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+原田　ひろみ,party_search,medium,日本共産党 清瀬市 原田,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%B8%85%E7%80%AC%E5%B8%82%20%E5%8E%9F%E7%94%B0&f=user
+原田　ひろみ,party_search,medium,"""日本共産党"" メンバー 原田　ひろみ",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%8E%9F%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF&f=user
+原田　ひろみ,election_search,low,原田　ひろみ 当選 清瀬市,https://x.com/search?q=%E5%8E%9F%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%20%E5%BD%93%E9%81%B8%20%E6%B8%85%E7%80%AC%E5%B8%82&f=user
+原田　ひろみ,election_search,low,#清瀬市選挙 原田　ひろみ,https://x.com/search?q=%23%E6%B8%85%E7%80%AC%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%8E%9F%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF&f=user
+原田　ひろみ,election_search,low,原田　ひろみ 選挙ポスター,https://x.com/search?q=%E5%8E%9F%E7%94%B0%E3%80%80%E3%81%B2%E3%82%8D%E3%81%BF%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

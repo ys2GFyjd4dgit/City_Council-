@@ -1,0 +1,81 @@
+member_name,strategy_type,priority,query,url
+前田　善信,direct_search,high,"""前田　善信"" 市議 -RT",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E3%80%80%E5%96%84%E4%BF%A1%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+前田　善信,direct_search,high,"""前田　善信"" 武蔵村山市 議員",https://x.com/search?q=%22%E5%89%8D%E7%94%B0%E3%80%80%E5%96%84%E4%BF%A1%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+前田　善信,direct_search,high,前田善信 プロフィール 市議,https://x.com/search?q=%E5%89%8D%E7%94%B0%E5%96%84%E4%BF%A1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+前田　善信,party_search,medium,公明党 武蔵村山市 前田,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%89%8D%E7%94%B0&f=user
+前田　善信,party_search,medium,"""公明党"" メンバー 前田　善信",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%89%8D%E7%94%B0%E3%80%80%E5%96%84%E4%BF%A1&f=user
+前田　善信,election_search,low,前田　善信 当選 武蔵村山市,https://x.com/search?q=%E5%89%8D%E7%94%B0%E3%80%80%E5%96%84%E4%BF%A1%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+前田　善信,election_search,low,#武蔵村山市選挙 前田　善信,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%89%8D%E7%94%B0%E3%80%80%E5%96%84%E4%BF%A1&f=user
+前田　善信,election_search,low,前田　善信 選挙ポスター,https://x.com/search?q=%E5%89%8D%E7%94%B0%E3%80%80%E5%96%84%E4%BF%A1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+須藤　千詠子,direct_search,high,"""須藤　千詠子"" 市議 -RT",https://x.com/search?q=%22%E9%A0%88%E8%97%A4%E3%80%80%E5%8D%83%E8%A9%A0%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+須藤　千詠子,direct_search,high,"""須藤　千詠子"" 武蔵村山市 議員",https://x.com/search?q=%22%E9%A0%88%E8%97%A4%E3%80%80%E5%8D%83%E8%A9%A0%E5%AD%90%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+須藤　千詠子,direct_search,high,須藤千詠子 プロフィール 市議,https://x.com/search?q=%E9%A0%88%E8%97%A4%E5%8D%83%E8%A9%A0%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+須藤　千詠子,party_search,medium,公明党 武蔵村山市 須藤,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E9%A0%88%E8%97%A4&f=user
+須藤　千詠子,party_search,medium,"""公明党"" メンバー 須藤　千詠子",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%A0%88%E8%97%A4%E3%80%80%E5%8D%83%E8%A9%A0%E5%AD%90&f=user
+須藤　千詠子,election_search,low,須藤　千詠子 当選 武蔵村山市,https://x.com/search?q=%E9%A0%88%E8%97%A4%E3%80%80%E5%8D%83%E8%A9%A0%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+須藤　千詠子,election_search,low,#武蔵村山市選挙 須藤　千詠子,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%A0%88%E8%97%A4%E3%80%80%E5%8D%83%E8%A9%A0%E5%AD%90&f=user
+須藤　千詠子,election_search,low,須藤　千詠子 選挙ポスター,https://x.com/search?q=%E9%A0%88%E8%97%A4%E3%80%80%E5%8D%83%E8%A9%A0%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+石黒　照久,direct_search,high,"""石黒　照久"" 市議 -RT",https://x.com/search?q=%22%E7%9F%B3%E9%BB%92%E3%80%80%E7%85%A7%E4%B9%85%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+石黒　照久,direct_search,high,"""石黒　照久"" 武蔵村山市 議員",https://x.com/search?q=%22%E7%9F%B3%E9%BB%92%E3%80%80%E7%85%A7%E4%B9%85%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+石黒　照久,direct_search,high,石黒照久 プロフィール 市議,https://x.com/search?q=%E7%9F%B3%E9%BB%92%E7%85%A7%E4%B9%85%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+石黒　照久,party_search,medium,公明党 武蔵村山市 石黒,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E7%9F%B3%E9%BB%92&f=user
+石黒　照久,party_search,medium,"""公明党"" メンバー 石黒　照久",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%9F%B3%E9%BB%92%E3%80%80%E7%85%A7%E4%B9%85&f=user
+石黒　照久,election_search,low,石黒　照久 当選 武蔵村山市,https://x.com/search?q=%E7%9F%B3%E9%BB%92%E3%80%80%E7%85%A7%E4%B9%85%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+石黒　照久,election_search,low,#武蔵村山市選挙 石黒　照久,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%9F%B3%E9%BB%92%E3%80%80%E7%85%A7%E4%B9%85&f=user
+石黒　照久,election_search,low,石黒　照久 選挙ポスター,https://x.com/search?q=%E7%9F%B3%E9%BB%92%E3%80%80%E7%85%A7%E4%B9%85%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+遠藤　政雄,direct_search,high,"""遠藤　政雄"" 市議 -RT",https://x.com/search?q=%22%E9%81%A0%E8%97%A4%E3%80%80%E6%94%BF%E9%9B%84%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+遠藤　政雄,direct_search,high,"""遠藤　政雄"" 武蔵村山市 議員",https://x.com/search?q=%22%E9%81%A0%E8%97%A4%E3%80%80%E6%94%BF%E9%9B%84%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+遠藤　政雄,direct_search,high,遠藤政雄 プロフィール 市議,https://x.com/search?q=%E9%81%A0%E8%97%A4%E6%94%BF%E9%9B%84%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+遠藤　政雄,party_search,medium,公明党 武蔵村山市 遠藤,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E9%81%A0%E8%97%A4&f=user
+遠藤　政雄,party_search,medium,"""公明党"" メンバー 遠藤　政雄",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%81%A0%E8%97%A4%E3%80%80%E6%94%BF%E9%9B%84&f=user
+遠藤　政雄,election_search,low,遠藤　政雄 当選 武蔵村山市,https://x.com/search?q=%E9%81%A0%E8%97%A4%E3%80%80%E6%94%BF%E9%9B%84%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+遠藤　政雄,election_search,low,#武蔵村山市選挙 遠藤　政雄,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%81%A0%E8%97%A4%E3%80%80%E6%94%BF%E9%9B%84&f=user
+遠藤　政雄,election_search,low,遠藤　政雄 選挙ポスター,https://x.com/search?q=%E9%81%A0%E8%97%A4%E3%80%80%E6%94%BF%E9%9B%84%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+長堀　武,direct_search,high,"""長堀　武"" 市議 -RT",https://x.com/search?q=%22%E9%95%B7%E5%A0%80%E3%80%80%E6%AD%A6%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+長堀　武,direct_search,high,"""長堀　武"" 武蔵村山市 議員",https://x.com/search?q=%22%E9%95%B7%E5%A0%80%E3%80%80%E6%AD%A6%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+長堀　武,direct_search,high,長堀武 プロフィール 市議,https://x.com/search?q=%E9%95%B7%E5%A0%80%E6%AD%A6%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+長堀　武,party_search,medium,新政会 武蔵村山市 長堀,https://x.com/search?q=%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E9%95%B7%E5%A0%80&f=user
+長堀　武,party_search,medium,"""新政会"" メンバー 長堀　武",https://x.com/search?q=%22%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%95%B7%E5%A0%80%E3%80%80%E6%AD%A6&f=user
+長堀　武,election_search,low,長堀　武 当選 武蔵村山市,https://x.com/search?q=%E9%95%B7%E5%A0%80%E3%80%80%E6%AD%A6%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+長堀　武,election_search,low,#武蔵村山市選挙 長堀　武,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%95%B7%E5%A0%80%E3%80%80%E6%AD%A6&f=user
+長堀　武,election_search,low,長堀　武 選挙ポスター,https://x.com/search?q=%E9%95%B7%E5%A0%80%E3%80%80%E6%AD%A6%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大野　正士,direct_search,high,"""大野　正士"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E9%87%8E%E3%80%80%E6%AD%A3%E5%A3%AB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大野　正士,direct_search,high,"""大野　正士"" 武蔵村山市 議員",https://x.com/search?q=%22%E5%A4%A7%E9%87%8E%E3%80%80%E6%AD%A3%E5%A3%AB%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大野　正士,direct_search,high,大野正士 プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E9%87%8E%E6%AD%A3%E5%A3%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大野　正士,party_search,medium,新政会 武蔵村山市 大野,https://x.com/search?q=%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%A4%A7%E9%87%8E&f=user
+大野　正士,party_search,medium,"""新政会"" メンバー 大野　正士",https://x.com/search?q=%22%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E9%87%8E%E3%80%80%E6%AD%A3%E5%A3%AB&f=user
+大野　正士,election_search,low,大野　正士 当選 武蔵村山市,https://x.com/search?q=%E5%A4%A7%E9%87%8E%E3%80%80%E6%AD%A3%E5%A3%AB%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+大野　正士,election_search,low,#武蔵村山市選挙 大野　正士,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E9%87%8E%E3%80%80%E6%AD%A3%E5%A3%AB&f=user
+大野　正士,election_search,low,大野　正士 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E9%87%8E%E3%80%80%E6%AD%A3%E5%A3%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+髙橋　弘志,direct_search,high,"""髙橋　弘志"" 市議 -RT",https://x.com/search?q=%22%E9%AB%99%E6%A9%8B%E3%80%80%E5%BC%98%E5%BF%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+髙橋　弘志,direct_search,high,"""髙橋　弘志"" 武蔵村山市 議員",https://x.com/search?q=%22%E9%AB%99%E6%A9%8B%E3%80%80%E5%BC%98%E5%BF%97%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+髙橋　弘志,direct_search,high,髙橋弘志 プロフィール 市議,https://x.com/search?q=%E9%AB%99%E6%A9%8B%E5%BC%98%E5%BF%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+髙橋　弘志,party_search,medium,公明党 武蔵村山市 髙橋,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E9%AB%99%E6%A9%8B&f=user
+髙橋　弘志,party_search,medium,"""公明党"" メンバー 髙橋　弘志",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%AB%99%E6%A9%8B%E3%80%80%E5%BC%98%E5%BF%97&f=user
+髙橋　弘志,election_search,low,髙橋　弘志 当選 武蔵村山市,https://x.com/search?q=%E9%AB%99%E6%A9%8B%E3%80%80%E5%BC%98%E5%BF%97%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+髙橋　弘志,election_search,low,#武蔵村山市選挙 髙橋　弘志,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%AB%99%E6%A9%8B%E3%80%80%E5%BC%98%E5%BF%97&f=user
+髙橋　弘志,election_search,low,髙橋　弘志 選挙ポスター,https://x.com/search?q=%E9%AB%99%E6%A9%8B%E3%80%80%E5%BC%98%E5%BF%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+藤枝　奈々,direct_search,high,"""藤枝　奈々"" 市議 -RT",https://x.com/search?q=%22%E8%97%A4%E6%9E%9D%E3%80%80%E5%A5%88%E3%80%85%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+藤枝　奈々,direct_search,high,"""藤枝　奈々"" 武蔵村山市 議員",https://x.com/search?q=%22%E8%97%A4%E6%9E%9D%E3%80%80%E5%A5%88%E3%80%85%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+藤枝　奈々,direct_search,high,藤枝奈々 プロフィール 市議,https://x.com/search?q=%E8%97%A4%E6%9E%9D%E5%A5%88%E3%80%85%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+藤枝　奈々,party_search,medium,日本共産党 武蔵村山市 藤枝,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%97%A4%E6%9E%9D&f=user
+藤枝　奈々,party_search,medium,"""日本共産党"" メンバー 藤枝　奈々",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%97%A4%E6%9E%9D%E3%80%80%E5%A5%88%E3%80%85&f=user
+藤枝　奈々,election_search,low,藤枝　奈々 当選 武蔵村山市,https://x.com/search?q=%E8%97%A4%E6%9E%9D%E3%80%80%E5%A5%88%E3%80%85%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+藤枝　奈々,election_search,low,#武蔵村山市選挙 藤枝　奈々,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%97%A4%E6%9E%9D%E3%80%80%E5%A5%88%E3%80%85&f=user
+藤枝　奈々,election_search,low,藤枝　奈々 選挙ポスター,https://x.com/search?q=%E8%97%A4%E6%9E%9D%E3%80%80%E5%A5%88%E3%80%85%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木村　祐子,direct_search,high,"""木村　祐子"" 市議 -RT",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E3%80%80%E7%A5%90%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+木村　祐子,direct_search,high,"""木村　祐子"" 武蔵村山市 議員",https://x.com/search?q=%22%E6%9C%A8%E6%9D%91%E3%80%80%E7%A5%90%E5%AD%90%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+木村　祐子,direct_search,high,木村祐子 プロフィール 市議,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E7%A5%90%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+木村　祐子,party_search,medium,市民のチカラ 武蔵村山市 木村,https://x.com/search?q=%E5%B8%82%E6%B0%91%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E6%9C%A8%E6%9D%91&f=user
+木村　祐子,party_search,medium,"""市民のチカラ"" メンバー 木村　祐子",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E3%81%AE%E3%83%81%E3%82%AB%E3%83%A9%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9C%A8%E6%9D%91%E3%80%80%E7%A5%90%E5%AD%90&f=user
+木村　祐子,election_search,low,木村　祐子 当選 武蔵村山市,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E3%80%80%E7%A5%90%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+木村　祐子,election_search,low,#武蔵村山市選挙 木村　祐子,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9C%A8%E6%9D%91%E3%80%80%E7%A5%90%E5%AD%90&f=user
+木村　祐子,election_search,low,木村　祐子 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E6%9D%91%E3%80%80%E7%A5%90%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+土田　雅一,direct_search,high,"""土田　雅一"" 市議 -RT",https://x.com/search?q=%22%E5%9C%9F%E7%94%B0%E3%80%80%E9%9B%85%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+土田　雅一,direct_search,high,"""土田　雅一"" 武蔵村山市 議員",https://x.com/search?q=%22%E5%9C%9F%E7%94%B0%E3%80%80%E9%9B%85%E4%B8%80%22%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+土田　雅一,direct_search,high,土田雅一 プロフィール 市議,https://x.com/search?q=%E5%9C%9F%E7%94%B0%E9%9B%85%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+土田　雅一,party_search,medium,新政会 武蔵村山市 土田,https://x.com/search?q=%E6%96%B0%E6%94%BF%E4%BC%9A%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%20%E5%9C%9F%E7%94%B0&f=user
+土田　雅一,party_search,medium,"""新政会"" メンバー 土田　雅一",https://x.com/search?q=%22%E6%96%B0%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%9C%9F%E7%94%B0%E3%80%80%E9%9B%85%E4%B8%80&f=user
+土田　雅一,election_search,low,土田　雅一 当選 武蔵村山市,https://x.com/search?q=%E5%9C%9F%E7%94%B0%E3%80%80%E9%9B%85%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82&f=user
+土田　雅一,election_search,low,#武蔵村山市選挙 土田　雅一,https://x.com/search?q=%23%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%9C%9F%E7%94%B0%E3%80%80%E9%9B%85%E4%B8%80&f=user
+土田　雅一,election_search,low,土田　雅一 選挙ポスター,https://x.com/search?q=%E5%9C%9F%E7%94%B0%E3%80%80%E9%9B%85%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

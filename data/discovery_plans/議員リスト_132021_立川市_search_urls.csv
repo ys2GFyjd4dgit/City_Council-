@@ -1,0 +1,127 @@
+member_name,strategy_type,priority,query,url
+浅川　修一,direct_search,high,"""浅川　修一"" 市議 -RT",https://x.com/search?q=%22%E6%B5%85%E5%B7%9D%E3%80%80%E4%BF%AE%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+浅川　修一,direct_search,high,"""浅川　修一"" 立川市 議員",https://x.com/search?q=%22%E6%B5%85%E5%B7%9D%E3%80%80%E4%BF%AE%E4%B8%80%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+浅川　修一,direct_search,high,浅川修一 プロフィール 市議,https://x.com/search?q=%E6%B5%85%E5%B7%9D%E4%BF%AE%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+浅川　修一,party_search,medium,日本共産党 立川市 浅川,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E6%B5%85%E5%B7%9D&f=user
+浅川　修一,party_search,medium,"""日本共産党"" メンバー 浅川　修一",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B5%85%E5%B7%9D%E3%80%80%E4%BF%AE%E4%B8%80&f=user
+浅川　修一,election_search,low,浅川　修一 当選 立川市,https://x.com/search?q=%E6%B5%85%E5%B7%9D%E3%80%80%E4%BF%AE%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+浅川　修一,election_search,low,#立川市選挙 浅川　修一,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B5%85%E5%B7%9D%E3%80%80%E4%BF%AE%E4%B8%80&f=user
+浅川　修一,election_search,low,浅川　修一 選挙ポスター,https://x.com/search?q=%E6%B5%85%E5%B7%9D%E3%80%80%E4%BF%AE%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+あべ　みさ,direct_search,high,"""あべ　みさ"" 市議 -RT",https://x.com/search?q=%22%E3%81%82%E3%81%B9%E3%80%80%E3%81%BF%E3%81%95%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+あべ　みさ,direct_search,high,"""あべ　みさ"" 立川市 議員",https://x.com/search?q=%22%E3%81%82%E3%81%B9%E3%80%80%E3%81%BF%E3%81%95%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+あべ　みさ,direct_search,high,あべみさ プロフィール 市議,https://x.com/search?q=%E3%81%82%E3%81%B9%E3%81%BF%E3%81%95%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+あべ　みさ,party_search,medium,立憲ネット緑たちかわ 立川市 あべ,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E3%83%8D%E3%83%83%E3%83%88%E7%B7%91%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E3%81%82%E3%81%B9&f=user
+あべ　みさ,party_search,medium,"""立憲ネット緑たちかわ"" メンバー あべ　みさ",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E3%83%8D%E3%83%83%E3%83%88%E7%B7%91%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%82%E3%81%B9%E3%80%80%E3%81%BF%E3%81%95&f=user
+あべ　みさ,election_search,low,あべ　みさ 当選 立川市,https://x.com/search?q=%E3%81%82%E3%81%B9%E3%80%80%E3%81%BF%E3%81%95%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+あべ　みさ,election_search,low,#立川市選挙 あべ　みさ,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%82%E3%81%B9%E3%80%80%E3%81%BF%E3%81%95&f=user
+あべ　みさ,election_search,low,あべ　みさ 選挙ポスター,https://x.com/search?q=%E3%81%82%E3%81%B9%E3%80%80%E3%81%BF%E3%81%95%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+伊藤　幸秀,direct_search,high,"""伊藤　幸秀"" 市議 -RT",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E5%B9%B8%E7%A7%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+伊藤　幸秀,direct_search,high,"""伊藤　幸秀"" 立川市 議員",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E5%B9%B8%E7%A7%80%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+伊藤　幸秀,direct_search,high,伊藤幸秀 プロフィール 市議,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E5%B9%B8%E7%A7%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+伊藤　幸秀,party_search,medium,公明党 立川市 伊藤,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E4%BC%8A%E8%97%A4&f=user
+伊藤　幸秀,party_search,medium,"""公明党"" メンバー 伊藤　幸秀",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BC%8A%E8%97%A4%E3%80%80%E5%B9%B8%E7%A7%80&f=user
+伊藤　幸秀,election_search,low,伊藤　幸秀 当選 立川市,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E5%B9%B8%E7%A7%80%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+伊藤　幸秀,election_search,low,#立川市選挙 伊藤　幸秀,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BC%8A%E8%97%A4%E3%80%80%E5%B9%B8%E7%A7%80&f=user
+伊藤　幸秀,election_search,low,伊藤　幸秀 選挙ポスター,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E5%B9%B8%E7%A7%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+稲橋　ゆみ子,direct_search,high,"""稲橋　ゆみ子"" 市議 -RT",https://x.com/search?q=%22%E7%A8%B2%E6%A9%8B%E3%80%80%E3%82%86%E3%81%BF%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+稲橋　ゆみ子,direct_search,high,"""稲橋　ゆみ子"" 立川市 議員",https://x.com/search?q=%22%E7%A8%B2%E6%A9%8B%E3%80%80%E3%82%86%E3%81%BF%E5%AD%90%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+稲橋　ゆみ子,direct_search,high,稲橋ゆみ子 プロフィール 市議,https://x.com/search?q=%E7%A8%B2%E6%A9%8B%E3%82%86%E3%81%BF%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+稲橋　ゆみ子,party_search,medium,立憲ネット緑たちかわ 立川市 稲橋,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E3%83%8D%E3%83%83%E3%83%88%E7%B7%91%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%A8%B2%E6%A9%8B&f=user
+稲橋　ゆみ子,party_search,medium,"""立憲ネット緑たちかわ"" メンバー 稲橋　ゆみ子",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E3%83%8D%E3%83%83%E3%83%88%E7%B7%91%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%A8%B2%E6%A9%8B%E3%80%80%E3%82%86%E3%81%BF%E5%AD%90&f=user
+稲橋　ゆみ子,election_search,low,稲橋　ゆみ子 当選 立川市,https://x.com/search?q=%E7%A8%B2%E6%A9%8B%E3%80%80%E3%82%86%E3%81%BF%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+稲橋　ゆみ子,election_search,low,#立川市選挙 稲橋　ゆみ子,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%A8%B2%E6%A9%8B%E3%80%80%E3%82%86%E3%81%BF%E5%AD%90&f=user
+稲橋　ゆみ子,election_search,low,稲橋　ゆみ子 選挙ポスター,https://x.com/search?q=%E7%A8%B2%E6%A9%8B%E3%80%80%E3%82%86%E3%81%BF%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+江口　元気,direct_search,high,"""江口　元気"" 市議 -RT",https://x.com/search?q=%22%E6%B1%9F%E5%8F%A3%E3%80%80%E5%85%83%E6%B0%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+江口　元気,direct_search,high,"""江口　元気"" 立川市 議員",https://x.com/search?q=%22%E6%B1%9F%E5%8F%A3%E3%80%80%E5%85%83%E6%B0%97%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+江口　元気,direct_search,high,江口元気 プロフィール 市議,https://x.com/search?q=%E6%B1%9F%E5%8F%A3%E5%85%83%E6%B0%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+江口　元気,election_search,low,江口　元気 当選 立川市,https://x.com/search?q=%E6%B1%9F%E5%8F%A3%E3%80%80%E5%85%83%E6%B0%97%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+江口　元気,election_search,low,#立川市選挙 江口　元気,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B1%9F%E5%8F%A3%E3%80%80%E5%85%83%E6%B0%97&f=user
+江口　元気,election_search,low,江口　元気 選挙ポスター,https://x.com/search?q=%E6%B1%9F%E5%8F%A3%E3%80%80%E5%85%83%E6%B0%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大石　ふみお,direct_search,high,"""大石　ふみお"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E7%9F%B3%E3%80%80%E3%81%B5%E3%81%BF%E3%81%8A%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大石　ふみお,direct_search,high,"""大石　ふみお"" 立川市 議員",https://x.com/search?q=%22%E5%A4%A7%E7%9F%B3%E3%80%80%E3%81%B5%E3%81%BF%E3%81%8A%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大石　ふみお,direct_search,high,大石ふみお プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E7%9F%B3%E3%81%B5%E3%81%BF%E3%81%8A%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大石　ふみお,party_search,medium,国民民主党 立川市 大石,https://x.com/search?q=%E5%9B%BD%E6%B0%91%E6%B0%91%E4%B8%BB%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E5%A4%A7%E7%9F%B3&f=user
+大石　ふみお,party_search,medium,"""国民民主党"" メンバー 大石　ふみお",https://x.com/search?q=%22%E5%9B%BD%E6%B0%91%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E7%9F%B3%E3%80%80%E3%81%B5%E3%81%BF%E3%81%8A&f=user
+大石　ふみお,election_search,low,大石　ふみお 当選 立川市,https://x.com/search?q=%E5%A4%A7%E7%9F%B3%E3%80%80%E3%81%B5%E3%81%BF%E3%81%8A%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+大石　ふみお,election_search,low,#立川市選挙 大石　ふみお,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E7%9F%B3%E3%80%80%E3%81%B5%E3%81%BF%E3%81%8A&f=user
+大石　ふみお,election_search,low,大石　ふみお 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E7%9F%B3%E3%80%80%E3%81%B5%E3%81%BF%E3%81%8A%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+門倉　正子,direct_search,high,"""門倉　正子"" 市議 -RT",https://x.com/search?q=%22%E9%96%80%E5%80%89%E3%80%80%E6%AD%A3%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+門倉　正子,direct_search,high,"""門倉　正子"" 立川市 議員",https://x.com/search?q=%22%E9%96%80%E5%80%89%E3%80%80%E6%AD%A3%E5%AD%90%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+門倉　正子,direct_search,high,門倉正子 プロフィール 市議,https://x.com/search?q=%E9%96%80%E5%80%89%E6%AD%A3%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+門倉　正子,party_search,medium,公明党 立川市 門倉,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E9%96%80%E5%80%89&f=user
+門倉　正子,party_search,medium,"""公明党"" メンバー 門倉　正子",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%96%80%E5%80%89%E3%80%80%E6%AD%A3%E5%AD%90&f=user
+門倉　正子,election_search,low,門倉　正子 当選 立川市,https://x.com/search?q=%E9%96%80%E5%80%89%E3%80%80%E6%AD%A3%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+門倉　正子,election_search,low,#立川市選挙 門倉　正子,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%96%80%E5%80%89%E3%80%80%E6%AD%A3%E5%AD%90&f=user
+門倉　正子,election_search,low,門倉　正子 選挙ポスター,https://x.com/search?q=%E9%96%80%E5%80%89%E3%80%80%E6%AD%A3%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+上條　彰一,direct_search,high,"""上條　彰一"" 市議 -RT",https://x.com/search?q=%22%E4%B8%8A%E6%A2%9D%E3%80%80%E5%BD%B0%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+上條　彰一,direct_search,high,"""上條　彰一"" 立川市 議員",https://x.com/search?q=%22%E4%B8%8A%E6%A2%9D%E3%80%80%E5%BD%B0%E4%B8%80%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+上條　彰一,direct_search,high,上條彰一 プロフィール 市議,https://x.com/search?q=%E4%B8%8A%E6%A2%9D%E5%BD%B0%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+上條　彰一,party_search,medium,日本共産党 立川市 上條,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E4%B8%8A%E6%A2%9D&f=user
+上條　彰一,party_search,medium,"""日本共産党"" メンバー 上條　彰一",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%8A%E6%A2%9D%E3%80%80%E5%BD%B0%E4%B8%80&f=user
+上條　彰一,election_search,low,上條　彰一 当選 立川市,https://x.com/search?q=%E4%B8%8A%E6%A2%9D%E3%80%80%E5%BD%B0%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+上條　彰一,election_search,low,#立川市選挙 上條　彰一,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%8A%E6%A2%9D%E3%80%80%E5%BD%B0%E4%B8%80&f=user
+上條　彰一,election_search,low,上條　彰一 選挙ポスター,https://x.com/search?q=%E4%B8%8A%E6%A2%9D%E3%80%80%E5%BD%B0%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+粂川　敏男,direct_search,high,"""粂川　敏男"" 市議 -RT",https://x.com/search?q=%22%E7%B2%82%E5%B7%9D%E3%80%80%E6%95%8F%E7%94%B7%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+粂川　敏男,direct_search,high,"""粂川　敏男"" 立川市 議員",https://x.com/search?q=%22%E7%B2%82%E5%B7%9D%E3%80%80%E6%95%8F%E7%94%B7%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+粂川　敏男,direct_search,high,粂川敏男 プロフィール 市議,https://x.com/search?q=%E7%B2%82%E5%B7%9D%E6%95%8F%E7%94%B7%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+粂川　敏男,party_search,medium,自由民主党 立川市 粂川,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%B2%82%E5%B7%9D&f=user
+粂川　敏男,party_search,medium,"""自由民主党"" メンバー 粂川　敏男",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%B2%82%E5%B7%9D%E3%80%80%E6%95%8F%E7%94%B7&f=user
+粂川　敏男,election_search,low,粂川　敏男 当選 立川市,https://x.com/search?q=%E7%B2%82%E5%B7%9D%E3%80%80%E6%95%8F%E7%94%B7%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+粂川　敏男,election_search,low,#立川市選挙 粂川　敏男,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%B2%82%E5%B7%9D%E3%80%80%E6%95%8F%E7%94%B7&f=user
+粂川　敏男,election_search,low,粂川　敏男 選挙ポスター,https://x.com/search?q=%E7%B2%82%E5%B7%9D%E3%80%80%E6%95%8F%E7%94%B7%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+頭山　太郎,direct_search,high,"""頭山　太郎"" 市議 -RT",https://x.com/search?q=%22%E9%A0%AD%E5%B1%B1%E3%80%80%E5%A4%AA%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+頭山　太郎,direct_search,high,"""頭山　太郎"" 立川市 議員",https://x.com/search?q=%22%E9%A0%AD%E5%B1%B1%E3%80%80%E5%A4%AA%E9%83%8E%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+頭山　太郎,direct_search,high,頭山太郎 プロフィール 市議,https://x.com/search?q=%E9%A0%AD%E5%B1%B1%E5%A4%AA%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+頭山　太郎,party_search,medium,安進会 立川市 頭山,https://x.com/search?q=%E5%AE%89%E9%80%B2%E4%BC%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E9%A0%AD%E5%B1%B1&f=user
+頭山　太郎,party_search,medium,"""安進会"" メンバー 頭山　太郎",https://x.com/search?q=%22%E5%AE%89%E9%80%B2%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%A0%AD%E5%B1%B1%E3%80%80%E5%A4%AA%E9%83%8E&f=user
+頭山　太郎,election_search,low,頭山　太郎 当選 立川市,https://x.com/search?q=%E9%A0%AD%E5%B1%B1%E3%80%80%E5%A4%AA%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+頭山　太郎,election_search,low,#立川市選挙 頭山　太郎,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%A0%AD%E5%B1%B1%E3%80%80%E5%A4%AA%E9%83%8E&f=user
+頭山　太郎,election_search,low,頭山　太郎 選挙ポスター,https://x.com/search?q=%E9%A0%AD%E5%B1%B1%E3%80%80%E5%A4%AA%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中町　聡,direct_search,high,"""中町　聡"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E7%94%BA%E3%80%80%E8%81%A1%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中町　聡,direct_search,high,"""中町　聡"" 立川市 議員",https://x.com/search?q=%22%E4%B8%AD%E7%94%BA%E3%80%80%E8%81%A1%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中町　聡,direct_search,high,中町聡 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E7%94%BA%E8%81%A1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中町　聡,party_search,medium,日本共産党 立川市 中町,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E4%B8%AD%E7%94%BA&f=user
+中町　聡,party_search,medium,"""日本共産党"" メンバー 中町　聡",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E7%94%BA%E3%80%80%E8%81%A1&f=user
+中町　聡,election_search,low,中町　聡 当選 立川市,https://x.com/search?q=%E4%B8%AD%E7%94%BA%E3%80%80%E8%81%A1%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+中町　聡,election_search,low,#立川市選挙 中町　聡,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E7%94%BA%E3%80%80%E8%81%A1&f=user
+中町　聡,election_search,low,中町　聡 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E7%94%BA%E3%80%80%E8%81%A1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+永元　香子,direct_search,high,"""永元　香子"" 市議 -RT",https://x.com/search?q=%22%E6%B0%B8%E5%85%83%E3%80%80%E9%A6%99%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+永元　香子,direct_search,high,"""永元　香子"" 立川市 議員",https://x.com/search?q=%22%E6%B0%B8%E5%85%83%E3%80%80%E9%A6%99%E5%AD%90%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+永元　香子,direct_search,high,永元香子 プロフィール 市議,https://x.com/search?q=%E6%B0%B8%E5%85%83%E9%A6%99%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+永元　香子,party_search,medium,日本共産党 立川市 永元,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E6%B0%B8%E5%85%83&f=user
+永元　香子,party_search,medium,"""日本共産党"" メンバー 永元　香子",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B0%B8%E5%85%83%E3%80%80%E9%A6%99%E5%AD%90&f=user
+永元　香子,election_search,low,永元　香子 当選 立川市,https://x.com/search?q=%E6%B0%B8%E5%85%83%E3%80%80%E9%A6%99%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+永元　香子,election_search,low,#立川市選挙 永元　香子,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B0%B8%E5%85%83%E3%80%80%E9%A6%99%E5%AD%90&f=user
+永元　香子,election_search,low,永元　香子 選挙ポスター,https://x.com/search?q=%E6%B0%B8%E5%85%83%E3%80%80%E9%A6%99%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+福島　正美,direct_search,high,"""福島　正美"" 市議 -RT",https://x.com/search?q=%22%E7%A6%8F%E5%B3%B6%E3%80%80%E6%AD%A3%E7%BE%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+福島　正美,direct_search,high,"""福島　正美"" 立川市 議員",https://x.com/search?q=%22%E7%A6%8F%E5%B3%B6%E3%80%80%E6%AD%A3%E7%BE%8E%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+福島　正美,direct_search,high,福島正美 プロフィール 市議,https://x.com/search?q=%E7%A6%8F%E5%B3%B6%E6%AD%A3%E7%BE%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+福島　正美,party_search,medium,公明党 立川市 福島,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E7%A6%8F%E5%B3%B6&f=user
+福島　正美,party_search,medium,"""公明党"" メンバー 福島　正美",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%A6%8F%E5%B3%B6%E3%80%80%E6%AD%A3%E7%BE%8E&f=user
+福島　正美,election_search,low,福島　正美 当選 立川市,https://x.com/search?q=%E7%A6%8F%E5%B3%B6%E3%80%80%E6%AD%A3%E7%BE%8E%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+福島　正美,election_search,low,#立川市選挙 福島　正美,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%A6%8F%E5%B3%B6%E3%80%80%E6%AD%A3%E7%BE%8E&f=user
+福島　正美,election_search,low,福島　正美 選挙ポスター,https://x.com/search?q=%E7%A6%8F%E5%B3%B6%E3%80%80%E6%AD%A3%E7%BE%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山本　みちよ,direct_search,high,"""山本　みちよ"" 市議 -RT",https://x.com/search?q=%22%E5%B1%B1%E6%9C%AC%E3%80%80%E3%81%BF%E3%81%A1%E3%82%88%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+山本　みちよ,direct_search,high,"""山本　みちよ"" 立川市 議員",https://x.com/search?q=%22%E5%B1%B1%E6%9C%AC%E3%80%80%E3%81%BF%E3%81%A1%E3%82%88%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+山本　みちよ,direct_search,high,山本みちよ プロフィール 市議,https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%81%BF%E3%81%A1%E3%82%88%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+山本　みちよ,party_search,medium,公明党 立川市 山本,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E5%B1%B1%E6%9C%AC&f=user
+山本　みちよ,party_search,medium,"""公明党"" メンバー 山本　みちよ",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E6%9C%AC%E3%80%80%E3%81%BF%E3%81%A1%E3%82%88&f=user
+山本　みちよ,election_search,low,山本　みちよ 当選 立川市,https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%80%80%E3%81%BF%E3%81%A1%E3%82%88%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+山本　みちよ,election_search,low,#立川市選挙 山本　みちよ,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B1%B1%E6%9C%AC%E3%80%80%E3%81%BF%E3%81%A1%E3%82%88&f=user
+山本　みちよ,election_search,low,山本　みちよ 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%80%80%E3%81%BF%E3%81%A1%E3%82%88%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+山本　洋輔,direct_search,high,"""山本　洋輔"" 市議 -RT",https://x.com/search?q=%22%E5%B1%B1%E6%9C%AC%E3%80%80%E6%B4%8B%E8%BC%94%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+山本　洋輔,direct_search,high,"""山本　洋輔"" 立川市 議員",https://x.com/search?q=%22%E5%B1%B1%E6%9C%AC%E3%80%80%E6%B4%8B%E8%BC%94%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+山本　洋輔,direct_search,high,山本洋輔 プロフィール 市議,https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E6%B4%8B%E8%BC%94%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+山本　洋輔,party_search,medium,立憲ネット緑たちかわ 立川市 山本,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E3%83%8D%E3%83%83%E3%83%88%E7%B7%91%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E5%B1%B1%E6%9C%AC&f=user
+山本　洋輔,party_search,medium,"""立憲ネット緑たちかわ"" メンバー 山本　洋輔",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E3%83%8D%E3%83%83%E3%83%88%E7%B7%91%E3%81%9F%E3%81%A1%E3%81%8B%E3%82%8F%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B1%B1%E6%9C%AC%E3%80%80%E6%B4%8B%E8%BC%94&f=user
+山本　洋輔,election_search,low,山本　洋輔 当選 立川市,https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%80%80%E6%B4%8B%E8%BC%94%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+山本　洋輔,election_search,low,#立川市選挙 山本　洋輔,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B1%B1%E6%9C%AC%E3%80%80%E6%B4%8B%E8%BC%94&f=user
+山本　洋輔,election_search,low,山本　洋輔 選挙ポスター,https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E3%80%80%E6%B4%8B%E8%BC%94%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+若木　早苗,direct_search,high,"""若木　早苗"" 市議 -RT",https://x.com/search?q=%22%E8%8B%A5%E6%9C%A8%E3%80%80%E6%97%A9%E8%8B%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+若木　早苗,direct_search,high,"""若木　早苗"" 立川市 議員",https://x.com/search?q=%22%E8%8B%A5%E6%9C%A8%E3%80%80%E6%97%A9%E8%8B%97%22%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+若木　早苗,direct_search,high,若木早苗 プロフィール 市議,https://x.com/search?q=%E8%8B%A5%E6%9C%A8%E6%97%A9%E8%8B%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+若木　早苗,party_search,medium,日本共産党 立川市 若木,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E7%AB%8B%E5%B7%9D%E5%B8%82%20%E8%8B%A5%E6%9C%A8&f=user
+若木　早苗,party_search,medium,"""日本共産党"" メンバー 若木　早苗",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%8B%A5%E6%9C%A8%E3%80%80%E6%97%A9%E8%8B%97&f=user
+若木　早苗,election_search,low,若木　早苗 当選 立川市,https://x.com/search?q=%E8%8B%A5%E6%9C%A8%E3%80%80%E6%97%A9%E8%8B%97%20%E5%BD%93%E9%81%B8%20%E7%AB%8B%E5%B7%9D%E5%B8%82&f=user
+若木　早苗,election_search,low,#立川市選挙 若木　早苗,https://x.com/search?q=%23%E7%AB%8B%E5%B7%9D%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%8B%A5%E6%9C%A8%E3%80%80%E6%97%A9%E8%8B%97&f=user
+若木　早苗,election_search,low,若木　早苗 選挙ポスター,https://x.com/search?q=%E8%8B%A5%E6%9C%A8%E3%80%80%E6%97%A9%E8%8B%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

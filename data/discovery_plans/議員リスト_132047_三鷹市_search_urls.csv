@@ -1,0 +1,89 @@
+member_name,strategy_type,priority,query,url
+成田　ちひろ,direct_search,high,"""成田　ちひろ"" 市議 -RT",https://x.com/search?q=%22%E6%88%90%E7%94%B0%E3%80%80%E3%81%A1%E3%81%B2%E3%82%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+成田　ちひろ,direct_search,high,"""成田　ちひろ"" 三鷹市 議員",https://x.com/search?q=%22%E6%88%90%E7%94%B0%E3%80%80%E3%81%A1%E3%81%B2%E3%82%8D%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+成田　ちひろ,direct_search,high,成田ちひろ プロフィール 市議,https://x.com/search?q=%E6%88%90%E7%94%B0%E3%81%A1%E3%81%B2%E3%82%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+成田　ちひろ,party_search,medium,未確認 三鷹市 成田,https://x.com/search?q=%E6%9C%AA%E7%A2%BA%E8%AA%8D%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E6%88%90%E7%94%B0&f=user
+成田　ちひろ,party_search,medium,"""未確認"" メンバー 成田　ちひろ",https://x.com/search?q=%22%E6%9C%AA%E7%A2%BA%E8%AA%8D%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%88%90%E7%94%B0%E3%80%80%E3%81%A1%E3%81%B2%E3%82%8D&f=user
+成田　ちひろ,election_search,low,成田　ちひろ 当選 三鷹市,https://x.com/search?q=%E6%88%90%E7%94%B0%E3%80%80%E3%81%A1%E3%81%B2%E3%82%8D%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+成田　ちひろ,election_search,low,#三鷹市選挙 成田　ちひろ,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%88%90%E7%94%B0%E3%80%80%E3%81%A1%E3%81%B2%E3%82%8D&f=user
+成田　ちひろ,election_search,low,成田　ちひろ 選挙ポスター,https://x.com/search?q=%E6%88%90%E7%94%B0%E3%80%80%E3%81%A1%E3%81%B2%E3%82%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+伊藤　俊明,direct_search,high,"""伊藤　俊明"" 市議 -RT",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E4%BF%8A%E6%98%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+伊藤　俊明,direct_search,high,"""伊藤　俊明"" 三鷹市 議員",https://x.com/search?q=%22%E4%BC%8A%E8%97%A4%E3%80%80%E4%BF%8A%E6%98%8E%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+伊藤　俊明,direct_search,high,伊藤俊明 プロフィール 市議,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E4%BF%8A%E6%98%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+伊藤　俊明,party_search,medium,自由民主党 三鷹市 伊藤,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E4%BC%8A%E8%97%A4&f=user
+伊藤　俊明,party_search,medium,"""自由民主党"" メンバー 伊藤　俊明",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BC%8A%E8%97%A4%E3%80%80%E4%BF%8A%E6%98%8E&f=user
+伊藤　俊明,election_search,low,伊藤　俊明 当選 三鷹市,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E4%BF%8A%E6%98%8E%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+伊藤　俊明,election_search,low,#三鷹市選挙 伊藤　俊明,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BC%8A%E8%97%A4%E3%80%80%E4%BF%8A%E6%98%8E&f=user
+伊藤　俊明,election_search,low,伊藤　俊明 選挙ポスター,https://x.com/search?q=%E4%BC%8A%E8%97%A4%E3%80%80%E4%BF%8A%E6%98%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+谷口　としや,direct_search,high,"""谷口　としや"" 市議 -RT",https://x.com/search?q=%22%E8%B0%B7%E5%8F%A3%E3%80%80%E3%81%A8%E3%81%97%E3%82%84%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+谷口　としや,direct_search,high,"""谷口　としや"" 三鷹市 議員",https://x.com/search?q=%22%E8%B0%B7%E5%8F%A3%E3%80%80%E3%81%A8%E3%81%97%E3%82%84%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+谷口　としや,direct_search,high,谷口としや プロフィール 市議,https://x.com/search?q=%E8%B0%B7%E5%8F%A3%E3%81%A8%E3%81%97%E3%82%84%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+谷口　としや,party_search,medium,未確認 三鷹市 谷口,https://x.com/search?q=%E6%9C%AA%E7%A2%BA%E8%AA%8D%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%B0%B7%E5%8F%A3&f=user
+谷口　としや,party_search,medium,"""未確認"" メンバー 谷口　としや",https://x.com/search?q=%22%E6%9C%AA%E7%A2%BA%E8%AA%8D%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%B0%B7%E5%8F%A3%E3%80%80%E3%81%A8%E3%81%97%E3%82%84&f=user
+谷口　としや,election_search,low,谷口　としや 当選 三鷹市,https://x.com/search?q=%E8%B0%B7%E5%8F%A3%E3%80%80%E3%81%A8%E3%81%97%E3%82%84%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+谷口　としや,election_search,low,#三鷹市選挙 谷口　としや,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%B0%B7%E5%8F%A3%E3%80%80%E3%81%A8%E3%81%97%E3%82%84&f=user
+谷口　としや,election_search,low,谷口　としや 選挙ポスター,https://x.com/search?q=%E8%B0%B7%E5%8F%A3%E3%80%80%E3%81%A8%E3%81%97%E3%82%84%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+土屋　けんいち,direct_search,high,"""土屋　けんいち"" 市議 -RT",https://x.com/search?q=%22%E5%9C%9F%E5%B1%8B%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+土屋　けんいち,direct_search,high,"""土屋　けんいち"" 三鷹市 議員",https://x.com/search?q=%22%E5%9C%9F%E5%B1%8B%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+土屋　けんいち,direct_search,high,土屋けんいち プロフィール 市議,https://x.com/search?q=%E5%9C%9F%E5%B1%8B%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+土屋　けんいち,party_search,medium,未確認 三鷹市 土屋,https://x.com/search?q=%E6%9C%AA%E7%A2%BA%E8%AA%8D%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E5%9C%9F%E5%B1%8B&f=user
+土屋　けんいち,party_search,medium,"""未確認"" メンバー 土屋　けんいち",https://x.com/search?q=%22%E6%9C%AA%E7%A2%BA%E8%AA%8D%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%9C%9F%E5%B1%8B%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1&f=user
+土屋　けんいち,election_search,low,土屋　けんいち 当選 三鷹市,https://x.com/search?q=%E5%9C%9F%E5%B1%8B%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+土屋　けんいち,election_search,low,#三鷹市選挙 土屋　けんいち,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%9C%9F%E5%B1%8B%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1&f=user
+土屋　けんいち,election_search,low,土屋　けんいち 選挙ポスター,https://x.com/search?q=%E5%9C%9F%E5%B1%8B%E3%80%80%E3%81%91%E3%82%93%E3%81%84%E3%81%A1%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小幡　和仁,direct_search,high,"""小幡　和仁"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E5%B9%A1%E3%80%80%E5%92%8C%E4%BB%81%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小幡　和仁,direct_search,high,"""小幡　和仁"" 三鷹市 議員",https://x.com/search?q=%22%E5%B0%8F%E5%B9%A1%E3%80%80%E5%92%8C%E4%BB%81%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小幡　和仁,direct_search,high,小幡和仁 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E5%B9%A1%E5%92%8C%E4%BB%81%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小幡　和仁,party_search,medium,立憲民主党 三鷹市 小幡,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E5%B0%8F%E5%B9%A1&f=user
+小幡　和仁,party_search,medium,"""立憲民主党"" メンバー 小幡　和仁",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E5%B9%A1%E3%80%80%E5%92%8C%E4%BB%81&f=user
+小幡　和仁,election_search,low,小幡　和仁 当選 三鷹市,https://x.com/search?q=%E5%B0%8F%E5%B9%A1%E3%80%80%E5%92%8C%E4%BB%81%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+小幡　和仁,election_search,low,#三鷹市選挙 小幡　和仁,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E5%B9%A1%E3%80%80%E5%92%8C%E4%BB%81&f=user
+小幡　和仁,election_search,low,小幡　和仁 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E5%B9%A1%E3%80%80%E5%92%8C%E4%BB%81%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+岩見　大三,direct_search,high,"""岩見　大三"" 市議 -RT",https://x.com/search?q=%22%E5%B2%A9%E8%A6%8B%E3%80%80%E5%A4%A7%E4%B8%89%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+岩見　大三,direct_search,high,"""岩見　大三"" 三鷹市 議員",https://x.com/search?q=%22%E5%B2%A9%E8%A6%8B%E3%80%80%E5%A4%A7%E4%B8%89%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+岩見　大三,direct_search,high,岩見大三 プロフィール 市議,https://x.com/search?q=%E5%B2%A9%E8%A6%8B%E5%A4%A7%E4%B8%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+岩見　大三,party_search,medium,日本共産党 三鷹市 岩見,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E5%B2%A9%E8%A6%8B&f=user
+岩見　大三,party_search,medium,"""日本共産党"" メンバー 岩見　大三",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B2%A9%E8%A6%8B%E3%80%80%E5%A4%A7%E4%B8%89&f=user
+岩見　大三,election_search,low,岩見　大三 当選 三鷹市,https://x.com/search?q=%E5%B2%A9%E8%A6%8B%E3%80%80%E5%A4%A7%E4%B8%89%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+岩見　大三,election_search,low,#三鷹市選挙 岩見　大三,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B2%A9%E8%A6%8B%E3%80%80%E5%A4%A7%E4%B8%89&f=user
+岩見　大三,election_search,low,岩見　大三 選挙ポスター,https://x.com/search?q=%E5%B2%A9%E8%A6%8B%E3%80%80%E5%A4%A7%E4%B8%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+佐々木　かずよ,direct_search,high,"""佐々木　かずよ"" 市議 -RT",https://x.com/search?q=%22%E4%BD%90%E3%80%85%E6%9C%A8%E3%80%80%E3%81%8B%E3%81%9A%E3%82%88%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+佐々木　かずよ,direct_search,high,"""佐々木　かずよ"" 三鷹市 議員",https://x.com/search?q=%22%E4%BD%90%E3%80%85%E6%9C%A8%E3%80%80%E3%81%8B%E3%81%9A%E3%82%88%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+佐々木　かずよ,direct_search,high,佐々木かずよ プロフィール 市議,https://x.com/search?q=%E4%BD%90%E3%80%85%E6%9C%A8%E3%81%8B%E3%81%9A%E3%82%88%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+佐々木　かずよ,party_search,medium,未確認 三鷹市 佐々木,https://x.com/search?q=%E6%9C%AA%E7%A2%BA%E8%AA%8D%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E4%BD%90%E3%80%85%E6%9C%A8&f=user
+佐々木　かずよ,party_search,medium,"""未確認"" メンバー 佐々木　かずよ",https://x.com/search?q=%22%E6%9C%AA%E7%A2%BA%E8%AA%8D%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BD%90%E3%80%85%E6%9C%A8%E3%80%80%E3%81%8B%E3%81%9A%E3%82%88&f=user
+佐々木　かずよ,election_search,low,佐々木　かずよ 当選 三鷹市,https://x.com/search?q=%E4%BD%90%E3%80%85%E6%9C%A8%E3%80%80%E3%81%8B%E3%81%9A%E3%82%88%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+佐々木　かずよ,election_search,low,#三鷹市選挙 佐々木　かずよ,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BD%90%E3%80%85%E6%9C%A8%E3%80%80%E3%81%8B%E3%81%9A%E3%82%88&f=user
+佐々木　かずよ,election_search,low,佐々木　かずよ 選挙ポスター,https://x.com/search?q=%E4%BD%90%E3%80%85%E6%9C%A8%E3%80%80%E3%81%8B%E3%81%9A%E3%82%88%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+大城　みゆき,direct_search,high,"""大城　みゆき"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A7%E5%9F%8E%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+大城　みゆき,direct_search,high,"""大城　みゆき"" 三鷹市 議員",https://x.com/search?q=%22%E5%A4%A7%E5%9F%8E%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+大城　みゆき,direct_search,high,大城みゆき プロフィール 市議,https://x.com/search?q=%E5%A4%A7%E5%9F%8E%E3%81%BF%E3%82%86%E3%81%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+大城　みゆき,party_search,medium,日本共産党 三鷹市 大城,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E5%A4%A7%E5%9F%8E&f=user
+大城　みゆき,party_search,medium,"""日本共産党"" メンバー 大城　みゆき",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A7%E5%9F%8E%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D&f=user
+大城　みゆき,election_search,low,大城　みゆき 当選 三鷹市,https://x.com/search?q=%E5%A4%A7%E5%9F%8E%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+大城　みゆき,election_search,low,#三鷹市選挙 大城　みゆき,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A7%E5%9F%8E%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D&f=user
+大城　みゆき,election_search,low,大城　みゆき 選挙ポスター,https://x.com/search?q=%E5%A4%A7%E5%9F%8E%E3%80%80%E3%81%BF%E3%82%86%E3%81%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+栗原　けんじ,direct_search,high,"""栗原　けんじ"" 市議 -RT",https://x.com/search?q=%22%E6%A0%97%E5%8E%9F%E3%80%80%E3%81%91%E3%82%93%E3%81%98%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+栗原　けんじ,direct_search,high,"""栗原　けんじ"" 三鷹市 議員",https://x.com/search?q=%22%E6%A0%97%E5%8E%9F%E3%80%80%E3%81%91%E3%82%93%E3%81%98%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+栗原　けんじ,direct_search,high,栗原けんじ プロフィール 市議,https://x.com/search?q=%E6%A0%97%E5%8E%9F%E3%81%91%E3%82%93%E3%81%98%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+栗原　けんじ,party_search,medium,日本共産党 三鷹市 栗原,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E6%A0%97%E5%8E%9F&f=user
+栗原　けんじ,party_search,medium,"""日本共産党"" メンバー 栗原　けんじ",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%A0%97%E5%8E%9F%E3%80%80%E3%81%91%E3%82%93%E3%81%98&f=user
+栗原　けんじ,election_search,low,栗原　けんじ 当選 三鷹市,https://x.com/search?q=%E6%A0%97%E5%8E%9F%E3%80%80%E3%81%91%E3%82%93%E3%81%98%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+栗原　けんじ,election_search,low,#三鷹市選挙 栗原　けんじ,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%A0%97%E5%8E%9F%E3%80%80%E3%81%91%E3%82%93%E3%81%98&f=user
+栗原　けんじ,election_search,low,栗原　けんじ 選挙ポスター,https://x.com/search?q=%E6%A0%97%E5%8E%9F%E3%80%80%E3%81%91%E3%82%93%E3%81%98%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+伊沢　けい子,direct_search,high,"""伊沢　けい子"" 市議 -RT",https://x.com/search?q=%22%E4%BC%8A%E6%B2%A2%E3%80%80%E3%81%91%E3%81%84%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+伊沢　けい子,direct_search,high,"""伊沢　けい子"" 三鷹市 議員",https://x.com/search?q=%22%E4%BC%8A%E6%B2%A2%E3%80%80%E3%81%91%E3%81%84%E5%AD%90%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+伊沢　けい子,direct_search,high,伊沢けい子 プロフィール 市議,https://x.com/search?q=%E4%BC%8A%E6%B2%A2%E3%81%91%E3%81%84%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+伊沢　けい子,party_search,medium,自由民主党 三鷹市 伊沢,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E4%BC%8A%E6%B2%A2&f=user
+伊沢　けい子,party_search,medium,"""自由民主党"" メンバー 伊沢　けい子",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%BC%8A%E6%B2%A2%E3%80%80%E3%81%91%E3%81%84%E5%AD%90&f=user
+伊沢　けい子,election_search,low,伊沢　けい子 当選 三鷹市,https://x.com/search?q=%E4%BC%8A%E6%B2%A2%E3%80%80%E3%81%91%E3%81%84%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+伊沢　けい子,election_search,low,#三鷹市選挙 伊沢　けい子,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%BC%8A%E6%B2%A2%E3%80%80%E3%81%91%E3%81%84%E5%AD%90&f=user
+伊沢　けい子,election_search,low,伊沢　けい子 選挙ポスター,https://x.com/search?q=%E4%BC%8A%E6%B2%A2%E3%80%80%E3%81%91%E3%81%84%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+高谷　真一朗,direct_search,high,"""高谷　真一朗"" 市議 -RT",https://x.com/search?q=%22%E9%AB%98%E8%B0%B7%E3%80%80%E7%9C%9F%E4%B8%80%E6%9C%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+高谷　真一朗,direct_search,high,"""高谷　真一朗"" 三鷹市 議員",https://x.com/search?q=%22%E9%AB%98%E8%B0%B7%E3%80%80%E7%9C%9F%E4%B8%80%E6%9C%97%22%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+高谷　真一朗,direct_search,high,高谷真一朗 プロフィール 市議,https://x.com/search?q=%E9%AB%98%E8%B0%B7%E7%9C%9F%E4%B8%80%E6%9C%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+高谷　真一朗,party_search,medium,立憲民主党 三鷹市 高谷,https://x.com/search?q=%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%20%E4%B8%89%E9%B7%B9%E5%B8%82%20%E9%AB%98%E8%B0%B7&f=user
+高谷　真一朗,party_search,medium,"""立憲民主党"" メンバー 高谷　真一朗",https://x.com/search?q=%22%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%AB%98%E8%B0%B7%E3%80%80%E7%9C%9F%E4%B8%80%E6%9C%97&f=user
+高谷　真一朗,election_search,low,高谷　真一朗 当選 三鷹市,https://x.com/search?q=%E9%AB%98%E8%B0%B7%E3%80%80%E7%9C%9F%E4%B8%80%E6%9C%97%20%E5%BD%93%E9%81%B8%20%E4%B8%89%E9%B7%B9%E5%B8%82&f=user
+高谷　真一朗,election_search,low,#三鷹市選挙 高谷　真一朗,https://x.com/search?q=%23%E4%B8%89%E9%B7%B9%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%AB%98%E8%B0%B7%E3%80%80%E7%9C%9F%E4%B8%80%E6%9C%97&f=user
+高谷　真一朗,election_search,low,高谷　真一朗 選挙ポスター,https://x.com/search?q=%E9%AB%98%E8%B0%B7%E3%80%80%E7%9C%9F%E4%B8%80%E6%9C%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

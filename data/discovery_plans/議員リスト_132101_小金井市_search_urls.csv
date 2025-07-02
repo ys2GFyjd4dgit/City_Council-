@@ -1,0 +1,129 @@
+member_name,strategy_type,priority,query,url
+太田　浩典,direct_search,high,"""太田　浩典"" 市議 -RT",https://x.com/search?q=%22%E5%A4%AA%E7%94%B0%E3%80%80%E6%B5%A9%E5%85%B8%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+太田　浩典,direct_search,high,"""太田　浩典"" 小金井市 議員",https://x.com/search?q=%22%E5%A4%AA%E7%94%B0%E3%80%80%E6%B5%A9%E5%85%B8%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+太田　浩典,direct_search,high,太田浩典 プロフィール 市議,https://x.com/search?q=%E5%A4%AA%E7%94%B0%E6%B5%A9%E5%85%B8%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+太田　浩典,party_search,medium,小金井市政会 小金井市 太田,https://x.com/search?q=%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E6%94%BF%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E5%A4%AA%E7%94%B0&f=user
+太田　浩典,party_search,medium,"""小金井市政会"" メンバー 太田　浩典",https://x.com/search?q=%22%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%AA%E7%94%B0%E3%80%80%E6%B5%A9%E5%85%B8&f=user
+太田　浩典,election_search,low,太田　浩典 当選 小金井市,https://x.com/search?q=%E5%A4%AA%E7%94%B0%E3%80%80%E6%B5%A9%E5%85%B8%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+太田　浩典,election_search,low,#小金井市選挙 太田　浩典,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%AA%E7%94%B0%E3%80%80%E6%B5%A9%E5%85%B8&f=user
+太田　浩典,election_search,low,太田　浩典 選挙ポスター,https://x.com/search?q=%E5%A4%AA%E7%94%B0%E3%80%80%E6%B5%A9%E5%85%B8%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+中井　れい子,direct_search,high,"""中井　れい子"" 市議 -RT",https://x.com/search?q=%22%E4%B8%AD%E4%BA%95%E3%80%80%E3%82%8C%E3%81%84%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+中井　れい子,direct_search,high,"""中井　れい子"" 小金井市 議員",https://x.com/search?q=%22%E4%B8%AD%E4%BA%95%E3%80%80%E3%82%8C%E3%81%84%E5%AD%90%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+中井　れい子,direct_search,high,中井れい子 プロフィール 市議,https://x.com/search?q=%E4%B8%AD%E4%BA%95%E3%82%8C%E3%81%84%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+中井　れい子,party_search,medium,小金井市政会 小金井市 中井,https://x.com/search?q=%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E6%94%BF%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E4%B8%AD%E4%BA%95&f=user
+中井　れい子,party_search,medium,"""小金井市政会"" メンバー 中井　れい子",https://x.com/search?q=%22%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%AD%E4%BA%95%E3%80%80%E3%82%8C%E3%81%84%E5%AD%90&f=user
+中井　れい子,election_search,low,中井　れい子 当選 小金井市,https://x.com/search?q=%E4%B8%AD%E4%BA%95%E3%80%80%E3%82%8C%E3%81%84%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+中井　れい子,election_search,low,#小金井市選挙 中井　れい子,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E4%B8%AD%E4%BA%95%E3%80%80%E3%82%8C%E3%81%84%E5%AD%90&f=user
+中井　れい子,election_search,low,中井　れい子 選挙ポスター,https://x.com/search?q=%E4%B8%AD%E4%BA%95%E3%80%80%E3%82%8C%E3%81%84%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+水谷　貴子,direct_search,high,"""水谷　貴子"" 市議 -RT",https://x.com/search?q=%22%E6%B0%B4%E8%B0%B7%E3%80%80%E8%B2%B4%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+水谷　貴子,direct_search,high,"""水谷　貴子"" 小金井市 議員",https://x.com/search?q=%22%E6%B0%B4%E8%B0%B7%E3%80%80%E8%B2%B4%E5%AD%90%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+水谷　貴子,direct_search,high,水谷貴子 プロフィール 市議,https://x.com/search?q=%E6%B0%B4%E8%B0%B7%E8%B2%B4%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+水谷　貴子,party_search,medium,市民自治 小金井市 水谷,https://x.com/search?q=%E5%B8%82%E6%B0%91%E8%87%AA%E6%B2%BB%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E6%B0%B4%E8%B0%B7&f=user
+水谷　貴子,party_search,medium,"""市民自治"" メンバー 水谷　貴子",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E8%87%AA%E6%B2%BB%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B0%B4%E8%B0%B7%E3%80%80%E8%B2%B4%E5%AD%90&f=user
+水谷　貴子,election_search,low,水谷　貴子 当選 小金井市,https://x.com/search?q=%E6%B0%B4%E8%B0%B7%E3%80%80%E8%B2%B4%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+水谷　貴子,election_search,low,#小金井市選挙 水谷　貴子,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B0%B4%E8%B0%B7%E3%80%80%E8%B2%B4%E5%AD%90&f=user
+水谷　貴子,election_search,low,水谷　貴子 選挙ポスター,https://x.com/search?q=%E6%B0%B4%E8%B0%B7%E3%80%80%E8%B2%B4%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+長取　太郎,direct_search,high,"""長取　太郎"" 市議 -RT",https://x.com/search?q=%22%E9%95%B7%E5%8F%96%E3%80%80%E5%A4%AA%E9%83%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+長取　太郎,direct_search,high,"""長取　太郎"" 小金井市 議員",https://x.com/search?q=%22%E9%95%B7%E5%8F%96%E3%80%80%E5%A4%AA%E9%83%8E%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+長取　太郎,direct_search,high,長取太郎 プロフィール 市議,https://x.com/search?q=%E9%95%B7%E5%8F%96%E5%A4%AA%E9%83%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+長取　太郎,party_search,medium,市民自治 小金井市 長取,https://x.com/search?q=%E5%B8%82%E6%B0%91%E8%87%AA%E6%B2%BB%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E9%95%B7%E5%8F%96&f=user
+長取　太郎,party_search,medium,"""市民自治"" メンバー 長取　太郎",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E8%87%AA%E6%B2%BB%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%95%B7%E5%8F%96%E3%80%80%E5%A4%AA%E9%83%8E&f=user
+長取　太郎,election_search,low,長取　太郎 当選 小金井市,https://x.com/search?q=%E9%95%B7%E5%8F%96%E3%80%80%E5%A4%AA%E9%83%8E%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+長取　太郎,election_search,low,#小金井市選挙 長取　太郎,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%95%B7%E5%8F%96%E3%80%80%E5%A4%AA%E9%83%8E&f=user
+長取　太郎,election_search,low,長取　太郎 選挙ポスター,https://x.com/search?q=%E9%95%B7%E5%8F%96%E3%80%80%E5%A4%AA%E9%83%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+安田　桂子,direct_search,high,"""安田　桂子"" 市議 -RT",https://x.com/search?q=%22%E5%AE%89%E7%94%B0%E3%80%80%E6%A1%82%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+安田　桂子,direct_search,high,"""安田　桂子"" 小金井市 議員",https://x.com/search?q=%22%E5%AE%89%E7%94%B0%E3%80%80%E6%A1%82%E5%AD%90%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+安田　桂子,direct_search,high,安田桂子 プロフィール 市議,https://x.com/search?q=%E5%AE%89%E7%94%B0%E6%A1%82%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+安田　桂子,party_search,medium,市民ネットワーク 小金井市 安田,https://x.com/search?q=%E5%B8%82%E6%B0%91%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E5%AE%89%E7%94%B0&f=user
+安田　桂子,party_search,medium,"""市民ネットワーク"" メンバー 安田　桂子",https://x.com/search?q=%22%E5%B8%82%E6%B0%91%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%AE%89%E7%94%B0%E3%80%80%E6%A1%82%E5%AD%90&f=user
+安田　桂子,election_search,low,安田　桂子 当選 小金井市,https://x.com/search?q=%E5%AE%89%E7%94%B0%E3%80%80%E6%A1%82%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+安田　桂子,election_search,low,#小金井市選挙 安田　桂子,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%AE%89%E7%94%B0%E3%80%80%E6%A1%82%E5%AD%90&f=user
+安田　桂子,election_search,low,安田　桂子 選挙ポスター,https://x.com/search?q=%E5%AE%89%E7%94%B0%E3%80%80%E6%A1%82%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+小林　正樹,direct_search,high,"""小林　正樹"" 市議 -RT",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E6%A8%B9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+小林　正樹,direct_search,high,"""小林　正樹"" 小金井市 議員",https://x.com/search?q=%22%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E6%A8%B9%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+小林　正樹,direct_search,high,小林正樹 プロフィール 市議,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E6%AD%A3%E6%A8%B9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+小林　正樹,party_search,medium,小金井市政会 小金井市 小林,https://x.com/search?q=%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E6%94%BF%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E5%B0%8F%E6%9E%97&f=user
+小林　正樹,party_search,medium,"""小金井市政会"" メンバー 小林　正樹",https://x.com/search?q=%22%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E6%94%BF%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E6%A8%B9&f=user
+小林　正樹,election_search,low,小林　正樹 当選 小金井市,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E6%A8%B9%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+小林　正樹,election_search,low,#小金井市選挙 小林　正樹,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E6%A8%B9&f=user
+小林　正樹,election_search,low,小林　正樹 選挙ポスター,https://x.com/search?q=%E5%B0%8F%E6%9E%97%E3%80%80%E6%AD%A3%E6%A8%B9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+河野　麻美,direct_search,high,"""河野　麻美"" 市議 -RT",https://x.com/search?q=%22%E6%B2%B3%E9%87%8E%E3%80%80%E9%BA%BB%E7%BE%8E%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+河野　麻美,direct_search,high,"""河野　麻美"" 小金井市 議員",https://x.com/search?q=%22%E6%B2%B3%E9%87%8E%E3%80%80%E9%BA%BB%E7%BE%8E%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+河野　麻美,direct_search,high,河野麻美 プロフィール 市議,https://x.com/search?q=%E6%B2%B3%E9%87%8E%E9%BA%BB%E7%BE%8E%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+河野　麻美,party_search,medium,公明党 小金井市 河野,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E6%B2%B3%E9%87%8E&f=user
+河野　麻美,party_search,medium,"""公明党"" メンバー 河野　麻美",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B2%B3%E9%87%8E%E3%80%80%E9%BA%BB%E7%BE%8E&f=user
+河野　麻美,election_search,low,河野　麻美 当選 小金井市,https://x.com/search?q=%E6%B2%B3%E9%87%8E%E3%80%80%E9%BA%BB%E7%BE%8E%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+河野　麻美,election_search,low,#小金井市選挙 河野　麻美,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B2%B3%E9%87%8E%E3%80%80%E9%BA%BB%E7%BE%8E&f=user
+河野　麻美,election_search,low,河野　麻美 選挙ポスター,https://x.com/search?q=%E6%B2%B3%E9%87%8E%E3%80%80%E9%BA%BB%E7%BE%8E%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+沖浦　篤,direct_search,high,"""沖浦　篤"" 市議 -RT",https://x.com/search?q=%22%E6%B2%96%E6%B5%A6%E3%80%80%E7%AF%A4%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+沖浦　篤,direct_search,high,"""沖浦　篤"" 小金井市 議員",https://x.com/search?q=%22%E6%B2%96%E6%B5%A6%E3%80%80%E7%AF%A4%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+沖浦　篤,direct_search,high,沖浦篤 プロフィール 市議,https://x.com/search?q=%E6%B2%96%E6%B5%A6%E7%AF%A4%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+沖浦　篤,party_search,medium,人新会 小金井市 沖浦,https://x.com/search?q=%E4%BA%BA%E6%96%B0%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E6%B2%96%E6%B5%A6&f=user
+沖浦　篤,party_search,medium,"""人新会"" メンバー 沖浦　篤",https://x.com/search?q=%22%E4%BA%BA%E6%96%B0%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B2%96%E6%B5%A6%E3%80%80%E7%AF%A4&f=user
+沖浦　篤,election_search,low,沖浦　篤 当選 小金井市,https://x.com/search?q=%E6%B2%96%E6%B5%A6%E3%80%80%E7%AF%A4%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+沖浦　篤,election_search,low,#小金井市選挙 沖浦　篤,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B2%96%E6%B5%A6%E3%80%80%E7%AF%A4&f=user
+沖浦　篤,election_search,low,沖浦　篤 選挙ポスター,https://x.com/search?q=%E6%B2%96%E6%B5%A6%E3%80%80%E7%AF%A4%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+木蘭　典子,direct_search,high,"""木蘭　典子"" 市議 -RT",https://x.com/search?q=%22%E6%9C%A8%E8%98%AD%E3%80%80%E5%85%B8%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+木蘭　典子,direct_search,high,"""木蘭　典子"" 小金井市 議員",https://x.com/search?q=%22%E6%9C%A8%E8%98%AD%E3%80%80%E5%85%B8%E5%AD%90%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+木蘭　典子,direct_search,high,木蘭典子 プロフィール 市議,https://x.com/search?q=%E6%9C%A8%E8%98%AD%E5%85%B8%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+木蘭　典子,party_search,medium,人新会 小金井市 木蘭,https://x.com/search?q=%E4%BA%BA%E6%96%B0%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E6%9C%A8%E8%98%AD&f=user
+木蘭　典子,party_search,medium,"""人新会"" メンバー 木蘭　典子",https://x.com/search?q=%22%E4%BA%BA%E6%96%B0%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9C%A8%E8%98%AD%E3%80%80%E5%85%B8%E5%AD%90&f=user
+木蘭　典子,election_search,low,木蘭　典子 当選 小金井市,https://x.com/search?q=%E6%9C%A8%E8%98%AD%E3%80%80%E5%85%B8%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+木蘭　典子,election_search,low,#小金井市選挙 木蘭　典子,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9C%A8%E8%98%AD%E3%80%80%E5%85%B8%E5%AD%90&f=user
+木蘭　典子,election_search,low,木蘭　典子 選挙ポスター,https://x.com/search?q=%E6%9C%A8%E8%98%AD%E3%80%80%E5%85%B8%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+村上　洋介,direct_search,high,"""村上　洋介"" 市議 -RT",https://x.com/search?q=%22%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E4%BB%8B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+村上　洋介,direct_search,high,"""村上　洋介"" 小金井市 議員",https://x.com/search?q=%22%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E4%BB%8B%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+村上　洋介,direct_search,high,村上洋介 プロフィール 市議,https://x.com/search?q=%E6%9D%91%E4%B8%8A%E6%B4%8B%E4%BB%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+村上　洋介,party_search,medium,あいそ 小金井市 村上,https://x.com/search?q=%E3%81%82%E3%81%84%E3%81%9D%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E6%9D%91%E4%B8%8A&f=user
+村上　洋介,party_search,medium,"""あいそ"" メンバー 村上　洋介",https://x.com/search?q=%22%E3%81%82%E3%81%84%E3%81%9D%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E4%BB%8B&f=user
+村上　洋介,election_search,low,村上　洋介 当選 小金井市,https://x.com/search?q=%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E4%BB%8B%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+村上　洋介,election_search,low,#小金井市選挙 村上　洋介,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E4%BB%8B&f=user
+村上　洋介,election_search,low,村上　洋介 選挙ポスター,https://x.com/search?q=%E6%9D%91%E4%B8%8A%E3%80%80%E6%B4%8B%E4%BB%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+藤川　健二,direct_search,high,"""藤川　健二"" 市議 -RT",https://x.com/search?q=%22%E8%97%A4%E5%B7%9D%E3%80%80%E5%81%A5%E4%BA%8C%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+藤川　健二,direct_search,high,"""藤川　健二"" 小金井市 議員",https://x.com/search?q=%22%E8%97%A4%E5%B7%9D%E3%80%80%E5%81%A5%E4%BA%8C%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+藤川　健二,direct_search,high,藤川健二 プロフィール 市議,https://x.com/search?q=%E8%97%A4%E5%B7%9D%E5%81%A5%E4%BA%8C%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+藤川　健二,party_search,medium,市政 小金井市 藤川,https://x.com/search?q=%E5%B8%82%E6%94%BF%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%97%A4%E5%B7%9D&f=user
+藤川　健二,party_search,medium,"""市政"" メンバー 藤川　健二",https://x.com/search?q=%22%E5%B8%82%E6%94%BF%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%97%A4%E5%B7%9D%E3%80%80%E5%81%A5%E4%BA%8C&f=user
+藤川　健二,election_search,low,藤川　健二 当選 小金井市,https://x.com/search?q=%E8%97%A4%E5%B7%9D%E3%80%80%E5%81%A5%E4%BA%8C%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+藤川　健二,election_search,low,#小金井市選挙 藤川　健二,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%97%A4%E5%B7%9D%E3%80%80%E5%81%A5%E4%BA%8C&f=user
+藤川　健二,election_search,low,藤川　健二 選挙ポスター,https://x.com/search?q=%E8%97%A4%E5%B7%9D%E3%80%80%E5%81%A5%E4%BA%8C%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+田渕　久崇,direct_search,high,"""田渕　久崇"" 市議 -RT",https://x.com/search?q=%22%E7%94%B0%E6%B8%95%E3%80%80%E4%B9%85%E5%B4%87%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+田渕　久崇,direct_search,high,"""田渕　久崇"" 小金井市 議員",https://x.com/search?q=%22%E7%94%B0%E6%B8%95%E3%80%80%E4%B9%85%E5%B4%87%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+田渕　久崇,direct_search,high,田渕久崇 プロフィール 市議,https://x.com/search?q=%E7%94%B0%E6%B8%95%E4%B9%85%E5%B4%87%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+田渕　久崇,party_search,medium,日本共産党 小金井市 田渕,https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E7%94%B0%E6%B8%95&f=user
+田渕　久崇,party_search,medium,"""日本共産党"" メンバー 田渕　久崇",https://x.com/search?q=%22%E6%97%A5%E6%9C%AC%E5%85%B1%E7%94%A3%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%94%B0%E6%B8%95%E3%80%80%E4%B9%85%E5%B4%87&f=user
+田渕　久崇,election_search,low,田渕　久崇 当選 小金井市,https://x.com/search?q=%E7%94%B0%E6%B8%95%E3%80%80%E4%B9%85%E5%B4%87%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+田渕　久崇,election_search,low,#小金井市選挙 田渕　久崇,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%94%B0%E6%B8%95%E3%80%80%E4%B9%85%E5%B4%87&f=user
+田渕　久崇,election_search,low,田渕　久崇 選挙ポスター,https://x.com/search?q=%E7%94%B0%E6%B8%95%E3%80%80%E4%B9%85%E5%B4%87%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+福原　康貴,direct_search,high,"""福原　康貴"" 市議 -RT",https://x.com/search?q=%22%E7%A6%8F%E5%8E%9F%E3%80%80%E5%BA%B7%E8%B2%B4%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+福原　康貴,direct_search,high,"""福原　康貴"" 小金井市 議員",https://x.com/search?q=%22%E7%A6%8F%E5%8E%9F%E3%80%80%E5%BA%B7%E8%B2%B4%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+福原　康貴,direct_search,high,福原康貴 プロフィール 市議,https://x.com/search?q=%E7%A6%8F%E5%8E%9F%E5%BA%B7%E8%B2%B4%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+福原　康貴,party_search,medium,公明党 小金井市 福原,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E7%A6%8F%E5%8E%9F&f=user
+福原　康貴,party_search,medium,"""公明党"" メンバー 福原　康貴",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%A6%8F%E5%8E%9F%E3%80%80%E5%BA%B7%E8%B2%B4&f=user
+福原　康貴,election_search,low,福原　康貴 当選 小金井市,https://x.com/search?q=%E7%A6%8F%E5%8E%9F%E3%80%80%E5%BA%B7%E8%B2%B4%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+福原　康貴,election_search,low,#小金井市選挙 福原　康貴,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%A6%8F%E5%8E%9F%E3%80%80%E5%BA%B7%E8%B2%B4&f=user
+福原　康貴,election_search,low,福原　康貴 選挙ポスター,https://x.com/search?q=%E7%A6%8F%E5%8E%9F%E3%80%80%E5%BA%B7%E8%B2%B4%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+遠藤　百合子,direct_search,high,"""遠藤　百合子"" 市議 -RT",https://x.com/search?q=%22%E9%81%A0%E8%97%A4%E3%80%80%E7%99%BE%E5%90%88%E5%AD%90%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+遠藤　百合子,direct_search,high,"""遠藤　百合子"" 小金井市 議員",https://x.com/search?q=%22%E9%81%A0%E8%97%A4%E3%80%80%E7%99%BE%E5%90%88%E5%AD%90%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+遠藤　百合子,direct_search,high,遠藤百合子 プロフィール 市議,https://x.com/search?q=%E9%81%A0%E8%97%A4%E7%99%BE%E5%90%88%E5%AD%90%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+遠藤　百合子,party_search,medium,公明党 小金井市 遠藤,https://x.com/search?q=%E5%85%AC%E6%98%8E%E5%85%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E9%81%A0%E8%97%A4&f=user
+遠藤　百合子,party_search,medium,"""公明党"" メンバー 遠藤　百合子",https://x.com/search?q=%22%E5%85%AC%E6%98%8E%E5%85%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%81%A0%E8%97%A4%E3%80%80%E7%99%BE%E5%90%88%E5%AD%90&f=user
+遠藤　百合子,election_search,low,遠藤　百合子 当選 小金井市,https://x.com/search?q=%E9%81%A0%E8%97%A4%E3%80%80%E7%99%BE%E5%90%88%E5%AD%90%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+遠藤　百合子,election_search,low,#小金井市選挙 遠藤　百合子,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%81%A0%E8%97%A4%E3%80%80%E7%99%BE%E5%90%88%E5%AD%90&f=user
+遠藤　百合子,election_search,low,遠藤　百合子 選挙ポスター,https://x.com/search?q=%E9%81%A0%E8%97%A4%E3%80%80%E7%99%BE%E5%90%88%E5%AD%90%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+岸田　正義,direct_search,high,"""岸田　正義"" 市議 -RT",https://x.com/search?q=%22%E5%B2%B8%E7%94%B0%E3%80%80%E6%AD%A3%E7%BE%A9%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+岸田　正義,direct_search,high,"""岸田　正義"" 小金井市 議員",https://x.com/search?q=%22%E5%B2%B8%E7%94%B0%E3%80%80%E6%AD%A3%E7%BE%A9%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+岸田　正義,direct_search,high,岸田正義 プロフィール 市議,https://x.com/search?q=%E5%B2%B8%E7%94%B0%E6%AD%A3%E7%BE%A9%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+岸田　正義,party_search,medium,人新会 小金井市 岸田,https://x.com/search?q=%E4%BA%BA%E6%96%B0%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E5%B2%B8%E7%94%B0&f=user
+岸田　正義,party_search,medium,"""人新会"" メンバー 岸田　正義",https://x.com/search?q=%22%E4%BA%BA%E6%96%B0%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%B2%B8%E7%94%B0%E3%80%80%E6%AD%A3%E7%BE%A9&f=user
+岸田　正義,election_search,low,岸田　正義 当選 小金井市,https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%80%80%E6%AD%A3%E7%BE%A9%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+岸田　正義,election_search,low,#小金井市選挙 岸田　正義,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%B2%B8%E7%94%B0%E3%80%80%E6%AD%A3%E7%BE%A9&f=user
+岸田　正義,election_search,low,岸田　正義 選挙ポスター,https://x.com/search?q=%E5%B2%B8%E7%94%B0%E3%80%80%E6%AD%A3%E7%BE%A9%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+鈴木　茂夫,direct_search,high,"""鈴木　茂夫"" 市議 -RT",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E8%8C%82%E5%A4%AB%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+鈴木　茂夫,direct_search,high,"""鈴木　茂夫"" 小金井市 議員",https://x.com/search?q=%22%E9%88%B4%E6%9C%A8%E3%80%80%E8%8C%82%E5%A4%AB%22%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+鈴木　茂夫,direct_search,high,鈴木茂夫 プロフィール 市議,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E8%8C%82%E5%A4%AB%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+鈴木　茂夫,party_search,medium,人新会 小金井市 鈴木,https://x.com/search?q=%E4%BA%BA%E6%96%B0%E4%BC%9A%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%20%E9%88%B4%E6%9C%A8&f=user
+鈴木　茂夫,party_search,medium,"""人新会"" メンバー 鈴木　茂夫",https://x.com/search?q=%22%E4%BA%BA%E6%96%B0%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E9%88%B4%E6%9C%A8%E3%80%80%E8%8C%82%E5%A4%AB&f=user
+鈴木　茂夫,election_search,low,鈴木　茂夫 当選 小金井市,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E8%8C%82%E5%A4%AB%20%E5%BD%93%E9%81%B8%20%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82&f=user
+鈴木　茂夫,election_search,low,#小金井市選挙 鈴木　茂夫,https://x.com/search?q=%23%E5%B0%8F%E9%87%91%E4%BA%95%E5%B8%82%E9%81%B8%E6%8C%99%20%E9%88%B4%E6%9C%A8%E3%80%80%E8%8C%82%E5%A4%AB&f=user
+鈴木　茂夫,election_search,low,鈴木　茂夫 選挙ポスター,https://x.com/search?q=%E9%88%B4%E6%9C%A8%E3%80%80%E8%8C%82%E5%A4%AB%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user

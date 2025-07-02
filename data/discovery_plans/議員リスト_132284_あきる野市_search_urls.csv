@@ -1,0 +1,89 @@
+member_name,strategy_type,priority,query,url
+しょうじ　さとし,direct_search,high,"""しょうじ　さとし"" 市議 -RT",https://x.com/search?q=%22%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+しょうじ　さとし,direct_search,high,"""しょうじ　さとし"" あきる野市 議員",https://x.com/search?q=%22%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+しょうじ　さとし,direct_search,high,しょうじさとし プロフィール 市議,https://x.com/search?q=%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%81%95%E3%81%A8%E3%81%97%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+しょうじ　さとし,party_search,medium,リメンバー あきる野市 しょうじ,https://x.com/search?q=%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E3%81%97%E3%82%87%E3%81%86%E3%81%98&f=user
+しょうじ　さとし,party_search,medium,"""リメンバー"" メンバー しょうじ　さとし",https://x.com/search?q=%22%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%80%80%E3%81%95%E3%81%A8%E3%81%97&f=user
+しょうじ　さとし,election_search,low,しょうじ　さとし 当選 あきる野市,https://x.com/search?q=%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+しょうじ　さとし,election_search,low,#あきる野市選挙 しょうじ　さとし,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%80%80%E3%81%95%E3%81%A8%E3%81%97&f=user
+しょうじ　さとし,election_search,low,しょうじ　さとし 選挙ポスター,https://x.com/search?q=%E3%81%97%E3%82%87%E3%81%86%E3%81%98%E3%80%80%E3%81%95%E3%81%A8%E3%81%97%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+国松　まさき,direct_search,high,"""国松　まさき"" 市議 -RT",https://x.com/search?q=%22%E5%9B%BD%E6%9D%BE%E3%80%80%E3%81%BE%E3%81%95%E3%81%8D%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+国松　まさき,direct_search,high,"""国松　まさき"" あきる野市 議員",https://x.com/search?q=%22%E5%9B%BD%E6%9D%BE%E3%80%80%E3%81%BE%E3%81%95%E3%81%8D%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+国松　まさき,direct_search,high,国松まさき プロフィール 市議,https://x.com/search?q=%E5%9B%BD%E6%9D%BE%E3%81%BE%E3%81%95%E3%81%8D%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+国松　まさき,party_search,medium,自由民主党志清会 あきる野市 国松,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E5%9B%BD%E6%9D%BE&f=user
+国松　まさき,party_search,medium,"""自由民主党志清会"" メンバー 国松　まさき",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%9B%BD%E6%9D%BE%E3%80%80%E3%81%BE%E3%81%95%E3%81%8D&f=user
+国松　まさき,election_search,low,国松　まさき 当選 あきる野市,https://x.com/search?q=%E5%9B%BD%E6%9D%BE%E3%80%80%E3%81%BE%E3%81%95%E3%81%8D%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+国松　まさき,election_search,low,#あきる野市選挙 国松　まさき,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%9B%BD%E6%9D%BE%E3%80%80%E3%81%BE%E3%81%95%E3%81%8D&f=user
+国松　まさき,election_search,low,国松　まさき 選挙ポスター,https://x.com/search?q=%E5%9B%BD%E6%9D%BE%E3%80%80%E3%81%BE%E3%81%95%E3%81%8D%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+よしざわ　ゆたか,direct_search,high,"""よしざわ　ゆたか"" 市議 -RT",https://x.com/search?q=%22%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%80%80%E3%82%86%E3%81%9F%E3%81%8B%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+よしざわ　ゆたか,direct_search,high,"""よしざわ　ゆたか"" あきる野市 議員",https://x.com/search?q=%22%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%80%80%E3%82%86%E3%81%9F%E3%81%8B%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+よしざわ　ゆたか,direct_search,high,よしざわゆたか プロフィール 市議,https://x.com/search?q=%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%82%86%E3%81%9F%E3%81%8B%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+よしざわ　ゆたか,party_search,medium,自由民主党志清会 あきる野市 よしざわ,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E3%82%88%E3%81%97%E3%81%96%E3%82%8F&f=user
+よしざわ　ゆたか,party_search,medium,"""自由民主党志清会"" メンバー よしざわ　ゆたか",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%80%80%E3%82%86%E3%81%9F%E3%81%8B&f=user
+よしざわ　ゆたか,election_search,low,よしざわ　ゆたか 当選 あきる野市,https://x.com/search?q=%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%80%80%E3%82%86%E3%81%9F%E3%81%8B%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+よしざわ　ゆたか,election_search,low,#あきる野市選挙 よしざわ　ゆたか,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%80%80%E3%82%86%E3%81%9F%E3%81%8B&f=user
+よしざわ　ゆたか,election_search,low,よしざわ　ゆたか 選挙ポスター,https://x.com/search?q=%E3%82%88%E3%81%97%E3%81%96%E3%82%8F%E3%80%80%E3%82%86%E3%81%9F%E3%81%8B%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+浦野　治光,direct_search,high,"""浦野　治光"" 市議 -RT",https://x.com/search?q=%22%E6%B5%A6%E9%87%8E%E3%80%80%E6%B2%BB%E5%85%89%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+浦野　治光,direct_search,high,"""浦野　治光"" あきる野市 議員",https://x.com/search?q=%22%E6%B5%A6%E9%87%8E%E3%80%80%E6%B2%BB%E5%85%89%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+浦野　治光,direct_search,high,浦野治光 プロフィール 市議,https://x.com/search?q=%E6%B5%A6%E9%87%8E%E6%B2%BB%E5%85%89%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+浦野　治光,party_search,medium,自由民主党志清会 あきる野市 浦野,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E6%B5%A6%E9%87%8E&f=user
+浦野　治光,party_search,medium,"""自由民主党志清会"" メンバー 浦野　治光",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B5%A6%E9%87%8E%E3%80%80%E6%B2%BB%E5%85%89&f=user
+浦野　治光,election_search,low,浦野　治光 当選 あきる野市,https://x.com/search?q=%E6%B5%A6%E9%87%8E%E3%80%80%E6%B2%BB%E5%85%89%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+浦野　治光,election_search,low,#あきる野市選挙 浦野　治光,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B5%A6%E9%87%8E%E3%80%80%E6%B2%BB%E5%85%89&f=user
+浦野　治光,election_search,low,浦野　治光 選挙ポスター,https://x.com/search?q=%E6%B5%A6%E9%87%8E%E3%80%80%E6%B2%BB%E5%85%89%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+ひはら　省吾,direct_search,high,"""ひはら　省吾"" 市議 -RT",https://x.com/search?q=%22%E3%81%B2%E3%81%AF%E3%82%89%E3%80%80%E7%9C%81%E5%90%BE%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+ひはら　省吾,direct_search,high,"""ひはら　省吾"" あきる野市 議員",https://x.com/search?q=%22%E3%81%B2%E3%81%AF%E3%82%89%E3%80%80%E7%9C%81%E5%90%BE%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+ひはら　省吾,direct_search,high,ひはら省吾 プロフィール 市議,https://x.com/search?q=%E3%81%B2%E3%81%AF%E3%82%89%E7%9C%81%E5%90%BE%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+ひはら　省吾,party_search,medium,自由民主党志清会 あきる野市 ひはら,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E3%81%B2%E3%81%AF%E3%82%89&f=user
+ひはら　省吾,party_search,medium,"""自由民主党志清会"" メンバー ひはら　省吾",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E3%81%B2%E3%81%AF%E3%82%89%E3%80%80%E7%9C%81%E5%90%BE&f=user
+ひはら　省吾,election_search,low,ひはら　省吾 当選 あきる野市,https://x.com/search?q=%E3%81%B2%E3%81%AF%E3%82%89%E3%80%80%E7%9C%81%E5%90%BE%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+ひはら　省吾,election_search,low,#あきる野市選挙 ひはら　省吾,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E3%81%B2%E3%81%AF%E3%82%89%E3%80%80%E7%9C%81%E5%90%BE&f=user
+ひはら　省吾,election_search,low,ひはら　省吾 選挙ポスター,https://x.com/search?q=%E3%81%B2%E3%81%AF%E3%82%89%E3%80%80%E7%9C%81%E5%90%BE%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+窪島　成一,direct_search,high,"""窪島　成一"" 市議 -RT",https://x.com/search?q=%22%E7%AA%AA%E5%B3%B6%E3%80%80%E6%88%90%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+窪島　成一,direct_search,high,"""窪島　成一"" あきる野市 議員",https://x.com/search?q=%22%E7%AA%AA%E5%B3%B6%E3%80%80%E6%88%90%E4%B8%80%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+窪島　成一,direct_search,high,窪島成一 プロフィール 市議,https://x.com/search?q=%E7%AA%AA%E5%B3%B6%E6%88%90%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+窪島　成一,party_search,medium,自由民主党志清会 あきる野市 窪島,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E7%AA%AA%E5%B3%B6&f=user
+窪島　成一,party_search,medium,"""自由民主党志清会"" メンバー 窪島　成一",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E7%AA%AA%E5%B3%B6%E3%80%80%E6%88%90%E4%B8%80&f=user
+窪島　成一,election_search,low,窪島　成一 当選 あきる野市,https://x.com/search?q=%E7%AA%AA%E5%B3%B6%E3%80%80%E6%88%90%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+窪島　成一,election_search,low,#あきる野市選挙 窪島　成一,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E7%AA%AA%E5%B3%B6%E3%80%80%E6%88%90%E4%B8%80&f=user
+窪島　成一,election_search,low,窪島　成一 選挙ポスター,https://x.com/search?q=%E7%AA%AA%E5%B3%B6%E3%80%80%E6%88%90%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+清水　晃,direct_search,high,"""清水　晃"" 市議 -RT",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E6%99%83%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+清水　晃,direct_search,high,"""清水　晃"" あきる野市 議員",https://x.com/search?q=%22%E6%B8%85%E6%B0%B4%E3%80%80%E6%99%83%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+清水　晃,direct_search,high,清水晃 プロフィール 市議,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E6%99%83%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+清水　晃,party_search,medium,明るい未来を創る会 あきる野市 清水,https://x.com/search?q=%E6%98%8E%E3%82%8B%E3%81%84%E6%9C%AA%E6%9D%A5%E3%82%92%E5%89%B5%E3%82%8B%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E6%B8%85%E6%B0%B4&f=user
+清水　晃,party_search,medium,"""明るい未来を創る会"" メンバー 清水　晃",https://x.com/search?q=%22%E6%98%8E%E3%82%8B%E3%81%84%E6%9C%AA%E6%9D%A5%E3%82%92%E5%89%B5%E3%82%8B%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%B8%85%E6%B0%B4%E3%80%80%E6%99%83&f=user
+清水　晃,election_search,low,清水　晃 当選 あきる野市,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E6%99%83%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+清水　晃,election_search,low,#あきる野市選挙 清水　晃,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%B8%85%E6%B0%B4%E3%80%80%E6%99%83&f=user
+清水　晃,election_search,low,清水　晃 選挙ポスター,https://x.com/search?q=%E6%B8%85%E6%B0%B4%E3%80%80%E6%99%83%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+村野　栄一,direct_search,high,"""村野　栄一"" 市議 -RT",https://x.com/search?q=%22%E6%9D%91%E9%87%8E%E3%80%80%E6%A0%84%E4%B8%80%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+村野　栄一,direct_search,high,"""村野　栄一"" あきる野市 議員",https://x.com/search?q=%22%E6%9D%91%E9%87%8E%E3%80%80%E6%A0%84%E4%B8%80%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+村野　栄一,direct_search,high,村野栄一 プロフィール 市議,https://x.com/search?q=%E6%9D%91%E9%87%8E%E6%A0%84%E4%B8%80%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+村野　栄一,party_search,medium,自由民主党志清会 あきる野市 村野,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E6%9D%91%E9%87%8E&f=user
+村野　栄一,party_search,medium,"""自由民主党志清会"" メンバー 村野　栄一",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E6%9D%91%E9%87%8E%E3%80%80%E6%A0%84%E4%B8%80&f=user
+村野　栄一,election_search,low,村野　栄一 当選 あきる野市,https://x.com/search?q=%E6%9D%91%E9%87%8E%E3%80%80%E6%A0%84%E4%B8%80%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+村野　栄一,election_search,low,#あきる野市選挙 村野　栄一,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E6%9D%91%E9%87%8E%E3%80%80%E6%A0%84%E4%B8%80&f=user
+村野　栄一,election_search,low,村野　栄一 選挙ポスター,https://x.com/search?q=%E6%9D%91%E9%87%8E%E3%80%80%E6%A0%84%E4%B8%80%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+天野　正昭,direct_search,high,"""天野　正昭"" 市議 -RT",https://x.com/search?q=%22%E5%A4%A9%E9%87%8E%E3%80%80%E6%AD%A3%E6%98%AD%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+天野　正昭,direct_search,high,"""天野　正昭"" あきる野市 議員",https://x.com/search?q=%22%E5%A4%A9%E9%87%8E%E3%80%80%E6%AD%A3%E6%98%AD%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+天野　正昭,direct_search,high,天野正昭 プロフィール 市議,https://x.com/search?q=%E5%A4%A9%E9%87%8E%E6%AD%A3%E6%98%AD%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+天野　正昭,party_search,medium,自由民主党志清会 あきる野市 天野,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E5%A4%A9%E9%87%8E&f=user
+天野　正昭,party_search,medium,"""自由民主党志清会"" メンバー 天野　正昭",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A4%A9%E9%87%8E%E3%80%80%E6%AD%A3%E6%98%AD&f=user
+天野　正昭,election_search,low,天野　正昭 当選 あきる野市,https://x.com/search?q=%E5%A4%A9%E9%87%8E%E3%80%80%E6%AD%A3%E6%98%AD%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+天野　正昭,election_search,low,#あきる野市選挙 天野　正昭,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A4%A9%E9%87%8E%E3%80%80%E6%AD%A3%E6%98%AD&f=user
+天野　正昭,election_search,low,天野　正昭 選挙ポスター,https://x.com/search?q=%E5%A4%A9%E9%87%8E%E3%80%80%E6%AD%A3%E6%98%AD%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+堀江　武史,direct_search,high,"""堀江　武史"" 市議 -RT",https://x.com/search?q=%22%E5%A0%80%E6%B1%9F%E3%80%80%E6%AD%A6%E5%8F%B2%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+堀江　武史,direct_search,high,"""堀江　武史"" あきる野市 議員",https://x.com/search?q=%22%E5%A0%80%E6%B1%9F%E3%80%80%E6%AD%A6%E5%8F%B2%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+堀江　武史,direct_search,high,堀江武史 プロフィール 市議,https://x.com/search?q=%E5%A0%80%E6%B1%9F%E6%AD%A6%E5%8F%B2%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+堀江　武史,party_search,medium,自由民主党志清会 あきる野市 堀江,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E5%A0%80%E6%B1%9F&f=user
+堀江　武史,party_search,medium,"""自由民主党志清会"" メンバー 堀江　武史",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E5%A0%80%E6%B1%9F%E3%80%80%E6%AD%A6%E5%8F%B2&f=user
+堀江　武史,election_search,low,堀江　武史 当選 あきる野市,https://x.com/search?q=%E5%A0%80%E6%B1%9F%E3%80%80%E6%AD%A6%E5%8F%B2%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+堀江　武史,election_search,low,#あきる野市選挙 堀江　武史,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E5%A0%80%E6%B1%9F%E3%80%80%E6%AD%A6%E5%8F%B2&f=user
+堀江　武史,election_search,low,堀江　武史 選挙ポスター,https://x.com/search?q=%E5%A0%80%E6%B1%9F%E3%80%80%E6%AD%A6%E5%8F%B2%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
+臼井　建,direct_search,high,"""臼井　建"" 市議 -RT",https://x.com/search?q=%22%E8%87%BC%E4%BA%95%E3%80%80%E5%BB%BA%22%20%E5%B8%82%E8%AD%B0%20-RT&f=user
+臼井　建,direct_search,high,"""臼井　建"" あきる野市 議員",https://x.com/search?q=%22%E8%87%BC%E4%BA%95%E3%80%80%E5%BB%BA%22%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%AD%B0%E5%93%A1&f=user
+臼井　建,direct_search,high,臼井建 プロフィール 市議,https://x.com/search?q=%E8%87%BC%E4%BA%95%E5%BB%BA%20%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%20%E5%B8%82%E8%AD%B0&f=user
+臼井　建,party_search,medium,自由民主党志清会 あきる野市 臼井,https://x.com/search?q=%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%20%E8%87%BC%E4%BA%95&f=user
+臼井　建,party_search,medium,"""自由民主党志清会"" メンバー 臼井　建",https://x.com/search?q=%22%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E5%BF%97%E6%B8%85%E4%BC%9A%22%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%20%E8%87%BC%E4%BA%95%E3%80%80%E5%BB%BA&f=user
+臼井　建,election_search,low,臼井　建 当選 あきる野市,https://x.com/search?q=%E8%87%BC%E4%BA%95%E3%80%80%E5%BB%BA%20%E5%BD%93%E9%81%B8%20%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82&f=user
+臼井　建,election_search,low,#あきる野市選挙 臼井　建,https://x.com/search?q=%23%E3%81%82%E3%81%8D%E3%82%8B%E9%87%8E%E5%B8%82%E9%81%B8%E6%8C%99%20%E8%87%BC%E4%BA%95%E3%80%80%E5%BB%BA&f=user
+臼井　建,election_search,low,臼井　建 選挙ポスター,https://x.com/search?q=%E8%87%BC%E4%BA%95%E3%80%80%E5%BB%BA%20%E9%81%B8%E6%8C%99%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC&f=user
