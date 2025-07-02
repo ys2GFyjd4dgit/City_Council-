@@ -31,10 +31,8 @@ def generate_viewer_data():
     # 都道府県ごとのデータを格納
     prefecture_data = {}
     
-    # 議員データのJSONファイルを検索
-    json_files = []
-    json_files.extend(glob.glob("data/processed/*.json"))
-    json_files.extend(glob.glob("data/processed/*/*.json"))
+    # 議員データのJSONファイルを検索（一度の操作で両パターンを取得）
+    json_files = glob.glob("data/processed/*.json") + glob.glob("data/processed/*/*.json")
     
     # CSVファイルなどは除外
     json_files = [f for f in json_files if f.endswith(".json") and "議員リスト_" in f]
