@@ -1,10 +1,10 @@
-// 議員データ（2025年07月02日現在）
+// 議員データ（2025年07月02日更新）
+// このファイルは scripts/update_viewer_data.py により自動生成されます
+// 手動で編集しないでください
+
 const municipalityData = {
-    // 埼玉県
     '112089': { name: '所沢市', prefecture: '11_埼玉県', count: 33, xCount: 24 },
     '112259': { name: '入間市', prefecture: '11_埼玉県', count: 22, xCount: 11 },
-
-    // 東京都
     '132012': { name: '八王子市', prefecture: '13_東京都', count: 38, xCount: 20 },
     '132021': { name: '立川市', prefecture: '13_東京都', count: 24, xCount: 8 },
     '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
@@ -44,7 +44,4 @@ const municipalityData = {
     '134015': { name: '八丈町', prefecture: '13_東京都', count: 12, xCount: 4 },
     '134023': { name: '青ヶ島村', prefecture: '13_東京都', count: 0, xCount: 0 },
     '134210': { name: '小笠原村', prefecture: '13_東京都', count: 8, xCount: 1 }
-
 };
-
-// Last updated: 2025-07-02T04:58:19.291833
