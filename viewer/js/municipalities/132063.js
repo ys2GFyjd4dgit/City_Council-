@@ -24,7 +24,7 @@ window.municipalityMembers_132063 = [
         "氏名": "坂本　けんいち",
         "よみ": "さかもと けんいち",
         "所属": "公明府中",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/Komei_Sakamoto"
     },
     {
         "氏名": "おぎの　雄太郎",
@@ -42,19 +42,19 @@ window.municipalityMembers_132063 = [
         "氏名": "宮田　よしひと",
         "よみ": "みやた よしひと",
         "所属": "府中市議会市政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/YoshihitoMiyata"
     },
     {
         "氏名": "大室　はじめ",
         "よみ": "おおむろ はじめ",
         "所属": "府中市議会市政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/HajimeOhmuro"
     },
     {
         "氏名": "西の　なおみ",
         "よみ": "にしの なおみ",
         "所属": "無所属",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/NishinoNaomi"
     },
     {
         "氏名": "山本　真実",
@@ -90,13 +90,13 @@ window.municipalityMembers_132063 = [
         "氏名": "渡辺　しょう",
         "よみ": "わたなべ しょう",
         "所属": "府中市議会市民フォーラム",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/SHO__WATANABE"
     },
     {
         "氏名": "秋山　としゆき",
         "よみ": "あきやま としゆき",
         "所属": "府中市議会市政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/akiyama_fuchu"
     },
     {
         "氏名": "松村　祐樹",
@@ -126,7 +126,7 @@ window.municipalityMembers_132063 = [
         "氏名": "稲津　憲護",
         "よみ": "いなつ けんご",
         "所属": "府中市議会市民フォーラム",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/inaken0"
     },
     {
         "氏名": "にしみや　幸一",
