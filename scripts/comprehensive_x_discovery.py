@@ -111,6 +111,9 @@ class ComprehensiveXDiscovery:
                 ],
                 'priority': 'medium'
             })
+        else:
+            family = name_no_space[:2] if len(name_no_space) >= 2 else name_no_space
+            given = name_no_space[2:] if len(name_no_space) > 2 else ""
         
         # 3. 所属政党関連
         if party and party != '無所属':
