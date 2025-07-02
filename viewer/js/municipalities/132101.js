@@ -1,4 +1,4 @@
-// 議員データ - 132101 （2025年06月06日更新）
+// 議員データ - 132101 （2025年07月02日更新）
 // このファイルは scripts/update_viewer_data.py により自動生成されます
 
 window.municipalityMembers_132101 = [
@@ -6,13 +6,13 @@ window.municipalityMembers_132101 = [
         "氏名": "太田　浩典",
         "よみ": "おおた　ひろのり",
         "所属": "小金井市政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ohta_hironori"
     },
     {
         "氏名": "中井　れい子",
         "よみ": "なかい　れいこ",
         "所属": "小金井市政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/reikonakai1966"
     },
     {
         "氏名": "天野　かな",
@@ -30,13 +30,13 @@ window.municipalityMembers_132101 = [
         "氏名": "水谷　貴子",
         "よみ": "みずたに　たかこ",
         "所属": "市民自治",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/tamitamimin"
     },
     {
         "氏名": "長取　太郎",
         "よみ": "ながとり　たろう",
         "所属": "市民自治",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/toritarosan"
     },
     {
         "氏名": "安田　桂子",
@@ -54,19 +54,19 @@ window.municipalityMembers_132101 = [
         "氏名": "小林　正樹",
         "よみ": "こばやし　まさき",
         "所属": "小金井市政会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ROKUing"
     },
     {
         "氏名": "河野　麻美",
         "よみ": "かわの　あさみ",
         "所属": "公明党",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/kawano_asami"
     },
     {
         "氏名": "沖浦　篤",
         "よみ": "おきうら　あつし",
         "所属": "人新会",
-        "X（旧Twitter）": null
+        "X（旧Twitter）": "https://x.com/ats_okiura"
     },
     {
         "氏名": "木蘭　典子",
