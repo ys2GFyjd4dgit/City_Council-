@@ -14,7 +14,7 @@ const municipalityData = {
     '132071': { name: '昭島市', prefecture: '13_東京都', count: 22, xCount: 9 },
     '132080': { name: '調布市', prefecture: '13_東京都', count: 28, xCount: 5 },
     '132098': { name: '町田市', prefecture: '13_東京都', count: 33, xCount: 16 },
-    '132101': { name: '小金井市', prefecture: '13_東京都', count: 24, xCount: 8 },
+    '132101': { name: '小金井市', prefecture: '13_東京都', count: 24, xCount: 15 },
     '132110': { name: '小平市', prefecture: '13_東京都', count: 27, xCount: 20 },
     '132128': { name: '日野市', prefecture: '13_東京都', count: 23, xCount: 8 },
     '132136': { name: '東村山市', prefecture: '13_東京都', count: 24, xCount: 5 },
