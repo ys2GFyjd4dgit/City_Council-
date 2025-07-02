@@ -10,11 +10,11 @@ const municipalityData = {
     '132039': { name: '武蔵野市', prefecture: '13_東京都', count: 25, xCount: 15 },
     '132047': { name: '三鷹市', prefecture: '13_東京都', count: 28, xCount: 17 },
     '132055': { name: '青梅市', prefecture: '13_東京都', count: 24, xCount: 2 },
-    '132063': { name: '府中市', prefecture: '13_東京都', count: 29, xCount: 4 },
+    '132063': { name: '府中市', prefecture: '13_東京都', count: 29, xCount: 11 },
     '132071': { name: '昭島市', prefecture: '13_東京都', count: 22, xCount: 9 },
     '132080': { name: '調布市', prefecture: '13_東京都', count: 28, xCount: 5 },
     '132098': { name: '町田市', prefecture: '13_東京都', count: 33, xCount: 16 },
-    '132101': { name: '小金井市', prefecture: '13_東京都', count: 24, xCount: 8 },
+    '132101': { name: '小金井市', prefecture: '13_東京都', count: 24, xCount: 15 },
     '132110': { name: '小平市', prefecture: '13_東京都', count: 27, xCount: 20 },
     '132128': { name: '日野市', prefecture: '13_東京都', count: 23, xCount: 8 },
     '132136': { name: '東村山市', prefecture: '13_東京都', count: 24, xCount: 5 },
@@ -47,4 +47,4 @@ const municipalityData = {
 
 };
 
-// Last updated: 2025-07-02T04:58:19.291833
+// Last updated: 2025-07-02T07:46:49.532129
